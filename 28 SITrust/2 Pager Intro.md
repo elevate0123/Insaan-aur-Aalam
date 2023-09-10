@@ -58,11 +58,11 @@ One of the most impactful ways to contribute is by spreading awareness. Share ou
 To join us on this journey towards a better society, connect with Shaikh Ul Islam Trust through:
 
 - **Website:** [www.shaikhulislamtrust.org](http://www.shaikhulislamtrust.org)
-- **Email:** contact@shaikhulislamtrust.org
+- **Email:** sitrustmedia@gmail.com
 - **Phone:** +91-XXXXXXXXXX
 
 Embrace the opportunity to be a part of transformative change. Let us, collectively, foster a world defined by compassion, education, and unity.
 
-_"Let there arise out of you a band of people inviting to all that is good, enjoining what is right, and forbidding what is wrong." - Quran 3:104_
+- Quran 3:104
 
 ---
