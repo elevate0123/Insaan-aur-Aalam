@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "a1226940d4413a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2bd147f3fe02ccbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86be161d3928c79f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Al-Ashraf Digital - Draft Structures.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4470b89b4b1a7492",
+    "type": "split",
+    "children": [
+      {
+        "id": "8288b4bbd8efec44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bda65790e4d5d7b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d6a0f27206bf9b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f2cc2585a2d90726",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8d3d92c7e6622587",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e42fb966b92a073",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4565275c9a98686",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Al-Ashraf Digital - Draft Structures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8db2cce213a7cc93",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Al-Ashraf Digital - Draft Structures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbf097346ef2711c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61c23188564394ef",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Al-Ashraf Digital - Draft Structures.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "86be161d3928c79f",
+  "lastOpenFiles": [
+    "Al-Ashraf Digital - Draft Structures.md"
+  ]
+}
