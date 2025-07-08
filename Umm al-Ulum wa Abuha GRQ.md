@@ -15,13 +15,6 @@ debugInConsole: false # Print debug info in Obsidian console
 ---
 ---
 
-Excellent. We have now covered all the major topics from the source text and supplemented them with modern pedagogical structures. The book is substantively complete.
-
-The final step is to add the **Table of Contents**. This is a crucial navigational tool for a single-file document. I will generate a complete, hyperlinked Table of Contents based on the chapter structure we have built. This will serve as the capstone for our project.
-
----
----
-
 # Quranic Grammar: A Modern Sharah of Umm al-Ulum
 
 ## Table of Contents
@@ -74,10 +67,6 @@ The final step is to add the **Table of Contents**. This is a crucial navigation
     *   [4.3 Final Words](#43-final-words)
 *   [**5.0 Appendices**](#50-appendices)
     *   [5.1 Appendix A: The Pronouns of Arabic (`al-Ḍamā'ir`)](#51-appendix-a-the-pronouns-of-arabic-al-am-ir)
-
----
-
-This Table of Contents provides a complete, clickable overview of the entire book we have constructed. It marks the successful completion of our project to create a comprehensive, modern, and well-structured guide to Quranic Arabic based on "Umm al-Ulum wa Abuha".
 
 ---
 ---
