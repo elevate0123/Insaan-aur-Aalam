@@ -2,7 +2,12 @@
 ## Additions - To PONDER Upon
 
 >==***WAZAIF***==
->==Explicitly mention and defineTITLE PHRASES to connect the introduction to the book's profound title==
+>
+>==Explicitly mention and defineTITLE PHRASES to connect the introduction to the book's profound title=='
+>
+>
+>Adding Chapter Diagrams (Line Arts / Sketches) at the start of every chapter (similar to the way done in Sangwan Socio)
+>
 
 #### **A. The Heart-Shaped Perforated Bookmark**
 This is a brilliant idea. It's elegant, romantic, and functional.
