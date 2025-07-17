@@ -746,7 +746,7 @@ Character is the wellspring from which our words flow. To purify our speech, we 
 
 اللَّهُمَّ اهْدِنِي لأَحْسَنِ الأَخْلاَقِ لاَ يَهْدِي لأَحْسَنِهَا إِلاَّ أَنْتَ وَاصْرِفْ عَنِّي سَيِّئَهَا لاَ يَصْرِفُ عَنِّي سَيِّئَهَا إِلاَّ أَنْتَ
 
-"O Allah, guide me to the best of characters, for none can guide to it other than You. And turn me away from bad characters, for none can turn me away from it other than You." (Sahih Muslim 771)
+"O Allah, guide me to the best of characters, for none can guide to it other than You. And turn me away from bad characters, for none can turn me away from it other than You." 5 (Sahih Muslim 771)
 
 ---
 
@@ -991,7 +991,7 @@ To navigate this challenge, we must first understand the two unbreakable covenan
 
 #### The First Covenant: The Right of Parents
 
-he duty to one's parents is second only to the worship of Allah Himself. It is absolute, unconditional, and a primary key to Paradise.
+The duty to one's parents is second only to the worship of Allah Himself. It is absolute, unconditional, and a primary key to Paradise.
 
   
 
@@ -1203,7 +1203,7 @@ When Prophet Ya'qub (AS) lost his beloved son Yusuf, and then his son Binyamin, 
 
 ...فَصَبْرٌ جَمِيلٌ ۖ وَاللَّهُ الْمُسْتَعَانُ عَلَىٰ مَا تَصِفُونَ
 
-"...So, beautiful patience (sabrun jameel). And Allah is the one sought for help against that which you describe." (Quran 12:18)
+"...So, beautiful patience (sabrun jameel). And Allah is the one sought for help against that which you describe." 3 (Quran 12:18)
 
 Sabr Jameel is not just gritting your teeth and bearing a trial. It is an acceptance so profound that it is free from complaint and panic. It is the heart's recognition that this trial, this difficulty, this frustrating quality in your spouse, is part of the Qadr (Divine Decree) of Allah. It has been permitted by Him for a wisdom you may not understand.
 
