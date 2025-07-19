@@ -1,4 +1,63 @@
+# Recommendation on Choosing
 
+*   *For a primary, overarching motto, **"Fikr-e-Nau, Noor-e-Qadeem" (فکرِ نو، نورِ قدیم)** is exceptionally strong. It's unique, poetic, and perfectly encapsulates your entire mission.*
+*   *For a more direct, corporate tagline, **"Timeless Faith for a Modern World"** or **"Authentic. Accessible. Relevant."** are excellent choices.*
+*   *The trio **"Khidmat, Hikmat, Hidayat" (خدمت، حکمت، ہدایت)** is perfect for internal branding or as a secondary motto that defines your process and values.*
+
+
+# **Scheherazade, Amiri Arabic Fonts**
+### Honorifics
+
+Allah  جل جلاله ﷻ عز وجل
+
+Prophet ﷺ صلى الله عليه وسلم
+
+Bismillah ﷽ بسم الله الرحمن الرحيم
+
+- **رضي الله عنه / عنها / عنهم** – "May Allah be pleased with him/her/them"
+    
+- **عليه السلام / عليها السلام / عليهم السلام** – "Peace be upon him/her/them"
+
+
+| **Arabic Honorific**        | **Transliteration**            | **Meaning**                                                | **Usage**                          | **Copy**                    |
+| --------------------------- | ------------------------------ | ---------------------------------------------------------- | ---------------------------------- | --------------------------- |
+| **ﷺ**                       | –                              | Peace and blessings be upon him (ligature)                 | Prophet Muhammad ﷺ                 | **ﷺ**                       |
+| **صلى الله عليه وسلم**      | Ṣallā Allāhu ʿalayhi wa sallam | Peace and blessings be upon him                            | Prophet Muhammad ﷺ                 | **صلى الله عليه وسلم**      |
+| **صلى الله عليه وآله وسلم** | ... wa ālihi wa sallam         | Peace be upon him and his family                           | Prophet & his family               | **صلى الله عليه وآله وسلم** |
+| **عليه السلام**             | ʿAlayhi al-salām               | Peace be upon him                                          | Other prophets, angels             | **عليه السلام**             |
+| **عليها السلام**            | ʿAlayhā al-salām               | Peace be upon her                                          | Female prophets (e.g., Maryam)     | **عليها السلام**            |
+| **عليهم السلام**            | ʿAlayhim al-salām              | Peace be upon them                                         | Plural of above                    | **عليهم السلام**            |
+| **رضي الله عنه**            | Raḍiya Allāhu ʿanhu            | May Allah be pleased with him                              | Male companions                    | **رضي الله عنه**            |
+| **رضي الله عنها**           | Raḍiya Allāhu ʿanhā            | May Allah be pleased with her                              | Female companions                  | **رضي الله عنها**           |
+| **رضي الله عنهم**           | Raḍiya Allāhu ʿanhum           | May Allah be pleased with them                             | Group of companions                | **رضي الله عنهم**           |
+| **رحمة الله عليه**          | Raḥmatullāh ʿalayh             | May Allah have mercy on him                                | Deceased scholars                  | **رحمة الله عليه**          |
+| **رحمة الله عليها**         | ...ʿalayhā                     | May Allah have mercy on her                                | Deceased female figures            | **رحمة الله عليها**         |
+| **رحمة الله عليهم**         | ...ʿalayhim                    | May Allah have mercy on them                               | Group of deceased figures          | **رحمة الله عليهم**         |
+| **قدس الله سره**            | Qaddasa Allāhu sirrah          | May Allah sanctify his secret                              | Sufi saints                        | **قدس الله سره**            |
+| **نفعنا الله به**           | Nafaʿanā Allāhu bih            | May Allah benefit us by him                                | Scholars and authors               | **نفعنا الله به**           |
+| **دامت بركاتهم العالية**    | Dāmat barakātuhum al-ʿāliya    | May their high blessings continue                          | Living scholars / spiritual guides | **دامت بركاتهم العالية**    |
+| **مدّ ظله العالي**          | Madda ẓilluhul ʿālī            | May his lofty shadow be extended                           | Living elders / Sufi masters       | **مدّ ظله العالي**          |
+| **عز وجل**                  | ʿAzza wa Jalla                 | The Mighty and the Majestic                                | Allah                              | **عز وجل**                  |
+| **جل جلاله**                | Jalla Jalāluh                  | Glorious is His Majesty                                    | Allah                              | **جل جلاله**                |
+| **سبحانه وتعالى**           | Subḥānahu wa Taʿālā            | Glorified and Exalted is He                                | Allah                              | **سبحانه وتعالى**           |
+| **تبارك وتعالى**            | Tabāraka wa Taʿālā             | Blessed and Exalted is He                                  | Allah                              | **تبارك وتعالى**            |
+| **لا إله إلا هو**           | Lā ilāha illā Huwa             | There is no deity but Him                                  | Allah                              | **لا إله إلا هو**           |
+| **ﷻ**                       | –                              | Glorious is His Majesty (ligature)                         | Allah                              | **ﷻ**                       |
+| **﷽**                       | –                              | In the name of Allah, the Most Gracious, the Most Merciful | Basmala                            | **﷽**                       |
+
+| English Abbreviation | Arabic Honorific   | Usage                              | Copy-Paste             |
+| -------------------- | ------------------ | ---------------------------------- | ---------------------- |
+| RA or r.a.           | رضي الله عنه       | For male companions                | **رضي الله عنه**       |
+| RA (feminine)        | رضي الله عنها      | For female companions              | **رضي الله عنها**      |
+| RA (plural)          | رضي الله عنهم      | For groups                         | **رضي الله عنهم**      |
+| SAW or s.a.w.        | صلى الله عليه وسلم | For Prophet Muhammad ﷺ             | **صلى الله عليه وسلم** |
+| AS or a.s.           | عليه السلام        | For prophets or angels             | **عليه السلام**        |
+| AS (feminine)        | عليها السلام       | For female prophets (e.g., Maryam) | **عليها السلام**       |
+| AS (plural)          | عليهم السلام       | For groups of prophets/angels      | **عليهم السلام**       |
+
+
+
+---
 
 **  
 
@@ -1275,7 +1334,7 @@ When you feel overwhelmed by a situation you cannot change, and you feel your ow
 
 اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلاَ تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ وَأَصْلِحْ لِي شَأْنِي كُلَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ
 
-"O Allah, I hope for Your mercy, so do not leave me to myself for the blink of an eye, and rectify all my affairs for me. There is no god but You." (Sunan Abi Dawud 5090)
+"O Allah, I hope for Your mercy, so do not leave me to myself for the blink of an eye, and rectify all my affairs for me. There is no god but You." 8 (Sunan Abi Dawud 5090)
 
   
 

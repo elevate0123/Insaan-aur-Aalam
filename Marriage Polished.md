@@ -1,4 +1,12 @@
 
+---
+
+
+# Recommendation on Choosing
+
+*   *For a primary, overarching motto, **"Fikr-e-Nau, Noor-e-Qadeem" (فکرِ نو، نورِ قدیم)** is exceptionally strong. It's unique, poetic, and perfectly encapsulates your entire mission.*
+*   *For a more direct, corporate tagline, **"Timeless Faith for a Modern World"** or **"Authentic. Accessible. Relevant."** are excellent choices.*
+*   *The trio **"Khidmat, Hikmat, Hidayat" (خدمت، حکمت، ہدایت)** is perfect for internal branding or as a secondary motto that defines your process and values.*
 
 ---
 
@@ -961,18 +969,18 @@ A summary of the practical tools taught in each chapter.
 
 Use this table to quickly find the right tool for a specific challenge.
 
-| **When you feel...** | **Use this tool...** | **See Chapter** |
-| :--- | :--- | :--- |
-| Angry or overwhelmed in a fight | The "Sunnah Cooldown" & The "A'udhu Billah" Reset | 4: Conflict |
-| Disconnected or Like Roommates | The "Daily Five" | 2: Connection |
-| Hopeless About a Recurring Problem | The "90/10 Perspective Shift" & The "Believer's Reframe" | 6: Acceptance |
-| Caught Between Spouse and Parents | The "Justice Audit" & The "United Front" | 5: In-laws |
-| Unheard or Misunderstood | The "Prophetic Mirror" (for your spouse to use) | 3: Communication |
-| Needing to Give Difficult Feedback | The "Nasiha Sandwich" | 3: Communication |
-| Confused About a Potential Spouse | The "Character Checklist" & The "Istikhara Process" | 1: Choosing |
-| An Argument Has Just Ended Badly | The "Conflict Kaffarah" | 4: Conflict |
-| Resentful or Unappreciated | The "90/10 Perspective Shift" | 6: Acceptance |
-| Completely Overwhelmed by Life | The "Dua of Helplessness" (from Ch. 6) | 6: Acceptance |
+| **When you feel...**               | **Use this tool...**                                     | **See Chapter**  |
+| :--------------------------------- | :------------------------------------------------------- | :--------------- |
+| Angry or overwhelmed in a fight    | The "Sunnah Cooldown" & The "A'udhu Billah" Reset        | 4: Conflict      |
+| Disconnected or Like Roommates     | The "Daily Five"                                         | 2: Connection    |
+| Hopeless About a Recurring Problem | The "90/10 Perspective Shift" & The "Believer's Reframe" | 6: Acceptance    |
+| Caught Between Spouse and Parents  | The "Justice Audit" & The "United Front"                 | 5: In-laws       |
+| Unheard or Misunderstood           | The "Prophetic Mirror" (for your spouse to use)          | 3: Communication |
+| Needing to Give Difficult Feedback | The "Nasiha Sandwich"                                    | 3: Communication |
+| Confused About a Potential Spouse  | The "Character Checklist" & The "Istikhara Process"      | 1: Choosing      |
+| An Argument Has Just Ended Badly   | The "Conflict Kaffarah"                                  | 4: Conflict      |
+| Resentful or Unappreciated         | The "90/10 Perspective Shift"                            | 6: Acceptance    |
+| Completely Overwhelmed by Life     | The "Dua of Helplessness" (from Ch. 6)                   | 6: Acceptance    |
 
 ---
 ### **A3: The Duas of the Chapters**
