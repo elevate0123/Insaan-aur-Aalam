@@ -206,6 +206,7 @@ This book is designed as a practical guide, a toolkit for the heart. It is a jou
 3. **Discuss, Don't Accuse.** If reading this with your spouse, use it as a basis for gentle conversation. Instead of saying, "You need to read the chapter on anger," try saying, "I found the chapter on conflict really helpful for me. Could we perhaps look at it together?"
 4. **Use the Visuals.** The diagrams, tables, and checklists in each chapter are designed to be quick, memorable summaries of the core tools. Use them as mental anchors during your day.
 5. **Use the Appendix.** The "Believer's Toolkit" at the end of this book is your quick-reference guide. Use it in a moment of crisis to find the right tool for the right situation.
+6. **Be Patient with the Process.** The tools in this book are spiritual aids, not magic wands. They are simple to understand but require sincere and consistent effort to master, like developing a new muscle. For challenges that feel deeply rooted, overwhelming, or connected to past trauma, remember that seeking help is a sign of strength. The principles in this book can be powerfully supplemented by the support of wise spiritual mentors and qualified professional counselors.
 
 This is not just a routine simple marriage guide; it is a manual for Tazkiyat al-Nafs—the purification of the soul—through the sacred institution of marriage for entering the Jannah. Let us begin.
 
@@ -1355,25 +1356,24 @@ This is a powerful visual exercise. Draw two concentric circles.
 The spiritual practice is to consciously withdraw all of your emotional energy, your worry, and your anxiety from the outer circle and focus it entirely on the inner circle. You cannot change your spouse, but you have absolute power over your own response. And your response is the only thing Allah ﷻ will ask you about on the Day of Judgment.
 
 ```mermaid
-
 graph TD
-    subgraph Outer Circle [What I CANNOT Control]
-        B1(My spouse's habits);
-        B2(Their mood);
-        B3(Their past);
-        B4(What others think);
+    subgraph Outer_Circle [What I CANNOT Control]
+        B1(My spouse's habits)
+        B2(Their mood)
+        B3(Their past)
+        B4(What others think)
     end
 
-    subgraph Inner Circle [What I CAN Control]
-        A1(My Reactions);
-        A2(My Words);
-        A3(My Patience);
-        A4(My Dua);
+    subgraph Inner_Circle [What I CAN Control]
+        A1(My Reactions)
+        A2(My Words)
+        A3(My Patience)
+        A4(My Dua)
     end
 
-    style Inner Circle fill:#e0f2f1,stroke:#00695c
-    style Outer Circle fill:#fbe9e7,stroke:#bf360c
-    
+    style Inner_Circle fill:#e0f2f1,stroke:#00695c
+    style Outer_Circle fill:#fbe9e7,stroke:#bf360c
+
 ```
 
 ---
