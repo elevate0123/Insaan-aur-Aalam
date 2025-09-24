@@ -80,7 +80,7 @@ mindmap
 
 Before delving into the detailed analysis, it is essential to establish the core terminology. The central concept is **`Aqeedah`**[^1], a term referring to the set of beliefs tied firmly in one's heart, the non-negotiable truths of faith. Classical Islamic scholars gave this science the title **`Al-Fiqh al-Akbar`**[^2], or "The Greater Jurisprudence." They called it this to distinguish it from the rules of daily life and worship, which they termed **`Al-Fiqh al-Asghar`**[^3], or "The Lesser Jurisprudence." The principle is simple: understanding *who* you worship is fundamentally more important than the mechanics of *how* you worship.
 
-> `> [!QUOTE] The Heart of the Matter`
+> [!QUOTE] The Heart of the Matter`
 > "The servant may perform actions as numerous as the mountains, but if they are devoid of the sincerity (`Ikhlas`) that stems from a sound creed, they are but scattered dust in the sight of God. For `Aqeedah` is not merely the mind's assent to truth; it is the heart's orientation toward the True One."
 
 ***
@@ -95,7 +95,7 @@ The intellectual edifice of Islam is anchored in the science of `Aqeedah`. The t
 
 The early masters of Islamic theology established a critical hierarchy of knowledge, distinguishing between the jurisprudence of belief and the jurisprudence of action. In this framework, the science of `Aqeedah` was designated with the profound title of `Al-Fiqh al-Akbar`.
 
-> `> [!IMPORTANT] Core Principle`
+> [!IMPORTANT] Core Principle`
 > **`Al-Fiqh al-Akbar` vs. `Al-Fiqh al-Asghar`:** `Aqeedah` is the "Greater Jurisprudence" because it deals with the foundational principles of faith. All other Islamic sciences, including the rules of prayer, fasting, and transactions—classified as `Al-Fiqh al-Asghar`—are subsequent to and dependent upon it. A flaw in the `Akbar` invalidates the `Asghar`.
 
 The seminal work establishing this principle is the treatise *Al-Fiqh al-Akbar*, attributed to the great Imam Abu Hanifa (d. 150 AH). Its very title is a declaration that the core beliefs about God are of a higher order of importance than the physical acts of worship. This classical understanding posits that if the foundational belief in the One to whom worship is directed is flawed, the acts of worship themselves become a hollow, meaningless ritual.
@@ -662,7 +662,7 @@ The classical scholars of Islam developed the sciences of `Usul` for this very r
 
 The most fundamental and pervasive error of the modernist interpretive method is its failure to distinguish between the `Lughwi` and `Istilahi` meanings of a term. The Qur'an and Sunnah established a rich and precise technical vocabulary to convey specific theological and legal concepts. To ignore this specialized usage and revert to a general, often anachronistic, dictionary definition is an act of intellectual violence against the text.
 
-> `> [!IMPORTANT] Core Principle`
+> [!IMPORTANT] Core Principle`
 > **The Primacy of `Istilahi` Meaning:** When a term has been given a specific, technical meaning by the Lawgiver (Allah and His Messenger ﷺ), that `Istilahi` meaning takes precedence over all other general linguistic (`Lughwi`) meanings. To understand `Salah` as merely "supplication" and not the prescribed ritual prayer, or `Zakat` as merely "purification" and not the obligatory alms, is to fundamentally misunderstand Islam.
 
 ##### **Visual Aid: The Decision Tree of Interpretation**

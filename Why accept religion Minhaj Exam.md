@@ -277,9 +277,9 @@ Excellent. Let's proceed with the same rigorous, exam-focused approach for Lectu
 ```mermaid
 graph TD
     subgraph "Qur'anic Model (Revealed ~610-632 CE)"
-        A["Origin Point (`ratqan`)<br>Al-Anbiya 21:30"] --> B["Separation (`fataqnāhumā`)<br>Al-Anbiya 21:30"]
-        B --> C["Expansion (`mūsi‘ūn`)<br>Adh-Dhariyat 51:47"]
-        C --> D["Contraction/Return (`raj‘`)<br>At-Tariq 86:11"]
+        A[Origin Point ratqan<br>Al-Anbiya 21:30] --> B[Separation fataqnāhumā<br>Al-Anbiya 21:30]
+        B --> C[Expansion mūsiūn<br>Adh-Dhariyat 51:47]
+        C --> D[Contraction/Return raj‘<br>At-Tariq 86:11]
     end
 
     subgraph "Scientific Discovery Timeline"
