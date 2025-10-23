@@ -15,7 +15,7 @@
 
 ### **1.0 Vision & Core Mission**
 
-**1.1 Vision Statement:** To reframe the Prophet Muhammad's Last Sermon not as a historical religious text, but as a timeless, universal, and practical blueprint for solving humanity's most persistent problems: racism, economic exploitation, social injustice, and gender strife.
+**1.1 Vision Statement:** To reframe the Prophet Muhammad's Last Sermon not as a historical religious text, but as a timeless, universal, and practical blueprint for solving humanity's most persistent problems: racism, economic exploitation, social injustice, gender strife, etc.
 
 **1.2 Core Mission:** To produce a book that functions as a "Cultural Translator and Intellectual Guide." It will build a portrait of the Prophet's wisdom so compelling, rational, and morally beautiful that the common negative caricatures are rendered irrelevant by the sheer weight of the evidence. The book is not a defense; it is a demonstration.
 
@@ -30,9 +30,9 @@
 This project has two distinct targets. All materials must be crafted to speak to both simultaneously (the "Dual-Key" strategy).
 
 **2.1 Primary Audience: "The Curious Outsider" (Non-Muslim)**
-*   **Demographics:** Educated, rational, likely consumes news from mainstream Western or secular Indian sources. May be spiritual but not religious, agnostic, or from another faith tradition.
+*   **Demographics:** Educated, rational, likely consumes news from mainstream Western or secular Indian sources. May be spiritual and/or may or may not be religious, agnostic, or from another faith tradition.
 *   **Psychographics:** Intellectually curious but skeptical of organized religion. Values human rights, social justice, logic, and evidence.
-*   **Primary Barrier:** Views the Prophet Muhammad through a distorted lens of media headlines (terrorism, intolerance, misogyny). Assumes religious texts are archaic and irrelevant.
+*   **Primary Barrier:** Views the Prophet Muhammad through a distorted lens of media headlines (terrorism, intolerance, misogyny, war, etc). Assumes religious texts are archaic and irrelevant.
 *   **Hook:** The promise of a rational, historical exploration of a "visionary leader's" solutions to modern problems.
 
 **2.2 Secondary Audience: "The Secular Insider" (Secularly-Educated Muslim)**
@@ -45,27 +45,28 @@ This project has two distinct targets. All materials must be crafted to speak to
 
 ### **3.0 The Manuscript Blueprint: Writing, Tone & Structure**
 
-**3.1 Guiding Principles (The Constitution):**
+#### 3.1 Guiding Principles (The Constitution):**
 *   **The "Humble Guide" Persona:** The author is not a preacher or scholar issuing fatwas. The author is a confident, intelligent guide on a shared journey of discovery with the reader.
 *   **The "Assume Zero" Principle:** Assume the reader knows nothing about Islam, its history, or its terminology. Every concept must be explained simply and elegantly.
 *   **The "Cathedral Under Siege" Mindset:** Write with precision and intellectual rigor, anticipating bad-faith attacks but never writing defensively. The quality of the structure is its own defense.
 
-**3.2 Tone of Voice:**
-*   **Keywords:** Rational, Confident, Respectful, Intellectually Generous, Cinematic, Human.
-*   **To Avoid:** Preachy, Dogmatic, Apologetic, Defensive, Dryly Academic, Jargon-Heavy.
+#### 3.2 Tone of Voice:**
+*   **Keywords:** Rational, Confident, Respectful, Intellectually Generous, Cinematic, Human, etc.
+*   **To Avoid:** Preachy, Dogmatic, Polemic, Apologetic, Defensive, Dryly Academic, Jargon-Heavy, etc.
 
-**3.3 Structural & Length Mandates:**
+#### 3.3 Structural & Length Mandates:**
 *   **Total Word Count:** 35,000 - 45,000 words (approx. 160-220 pages).
 *   **Chapter Word Count:** 4,000 - 6,000 words.
 *   **Chapter Anatomy (Mandatory 6-Part Structure):**
-    1.  **The Hook:** A modern, relatable story/problem.
-    2.  **The "THEN":** The 7th-century historical context.
+    1.  **The Hook:** A modern, relatable story/problem. (This can be a short anecdote, or something from the contemporary issues/news, etc)
+    2.  **The "THEN":** The 7th-century historical context. (This is to be mostly Arabia based, but can have something of the world history too, not sure though)
     3.  **The "NOW":** The bridge connecting the past problem to today.
-    4.  **The Revelation:** The core quote from the sermon.
-    5.  **The "HOW":** The intellectual unpacking of the solution.
-    6.  **The Takeaway:** A powerful, resonant concluding thought.
+    4.  **The "WHY":** This section tries to address the main underlying problem, why it existed previously, why it exists now, connects the dots, and as to why it shall prevail in the future too.
+    5.  **The Revelation:** The core quote from the sermon.
+    6.  **The "HOW":** The intellectual unpacking of the solution.
+    7.  **The Takeaway:** A powerful, resonant concluding thought.
 
-### 3.4 Master Chapter Outline:
+#### 3.4 Master Chapter Outline:
 *   **Prologue: The Day at Arafat:** Cinematic scene-setting.
 *   **Introduction: A Blueprint for a Broken World:** Thesis and rules of engagement.
 *   **Ch 1: The End of Race:** On racial equality and dismantling tribalism.
@@ -176,7 +177,7 @@ This project has two distinct targets. All materials must be crafted to speak to
 
 **4.0: The Structure & Quantitative Blueprint (The "What")**
 
-- **Total Word Count:** ~30,000 words.
+- **Total Word Count:** ~40,000 words.
 - **Structure:** Three parts, comprising a Prologue, five core chapters, and an Epilogue.
 - **Chapterization Scheme (Locked):*
     - **Part I: Foundation (~5,000 words)**
@@ -190,7 +191,7 @@ This project has two distinct targets. All materials must be crafted to speak to
         - Ch 5: The Character Code (~3,500)
     - **Part III: The Verdict (~2,500 words)**
         - Epilogue: The Architect and the Caricature (~2,500)
-- **In-Chapter Structure:** No headings/subheadings. Use ornamental breaks (* * *) to separate the six acts: **Hook -> THEN -> NOW -> Revelation -> HOW -> Takeaway.*
+- **In-Chapter Structure:** No headings/subheadings (But we may use the headings and subheadings subtly in the margins, for ease of navigation and scanning, and not to break the flow). Use ornamental breaks (* * *) to separate the six acts: **Hook -> THEN -> NOW -> Revelation -> HOW -> Takeaway.*
 
 **5.0: The Content & Resource Toolkit (The "With What")**
 
@@ -214,6 +215,7 @@ This defines the unique texture of the prose.
 - **The "Long & Short" Rhythm:** Consciously vary sentence length to create a powerful, readable cadence.
 - **Human-Scale Metaphors:** All analogies must be grounded in universal human experience (e.g., "a compass for character," not "a quantum leap").
 - **The "You" Protocol:** The second-person address is a high-impact tool. Use it freely in the Prologue for immersion, but sparingly in the main chapters (primarily in the final "Takeaway" sections) to pose a direct challenge to the reader.
+- **The Human Language:** The language should never ever feel like AI LLM generated, but should look and feel like humane crafted and drafted
 
 ---
 
