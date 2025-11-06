@@ -685,19 +685,118 @@ The logical chain for Chapter 1 is now complete and unbreakable:
 
 ---
 
+
+### ~~**DRAFTING MANDATE: CHAPTER 1, SECTION 2**~~
+
+- ~~**Section Title:** The "THEN" - The Age of Blood Feuds~~
+    
+- ~~**Core Mission:** To immerse the reader in the brutal reality of the 7th-century world, establishing the problem that the sermon was designed to solve.~~
+    
+- ~~**Key Directives:**~~
+    
+    1. ~~Explain the twin pillars of the old world: asabiyyah (tribalism) and tha'r (blood revenge).~~
+        
+    2. ~~Use the **War of Basus (C1-003)** as the primary narrative example of the system's terrifying logic.~~
+        
+    3. ~~Weave in the **Martyrdom of Sumayyah (C1-001)** as the "Forged in Fire" story.~~
+        
+    4. ~~**Crucially, frame the Architect's response to this event not as powerlessness, but as a demonstration of a new form of strength: restraint and the introduction of a new moral calculus.**~~
+        
+    5. ~~Use **Abu Jahl (C1-004)** as the personification of the old world's cruel arrogance.~~
+        
+- ~~**Word Count Target:** ~1,000 words. This is a substantial section, as it has to carry a significant narrative and contextual load.~~
+
+
+### **DRAFTING MANDATE: CHAPTER 1, SECTION 2 (REVISED)**
+
+- **Section Title:** The "THEN" - The Age of Blood Feuds
+    
+- **Core Mission:** To immerse the reader in the 7th-century world, framing Arabian blood feuds not as an isolated phenomenon but as the apex expression of a universal, pre-modern human problem.
+    
+- **Key Directives:**
+    
+    1. **Zoom Out:** Begin with the global context of revenge culture (Germanic tribes, Homeric Greece) to establish the problem as universal.
+        
+    2. **Zoom In:** Transition to Arabia as the place where this logic reached its most refined form (asabiyyah and tha'r).
+        
+    3. **Core Narrative:** Tell the expanded, visceral story of the **War of Basus**.
+        
+    4. **"Forged in Fire":** Tell the expanded, heartbreaking story of the **Martyrdom of Sumayyah** at the hands of **Abu Jahl**.
+        
+    5. **Reframe:** Conclude by framing the Architect's response of restraint as a new form of strength.
+        
+- **Word Count Target:** ~1,000 words.
+    
+
+---
+
 ### **DRAFTING MANDATE: CHAPTER 1, SECTION 3**
 
 - **Section Title:** The "NOW" - The Modern Tribe
     
-- **Core Mission:** To draw a sharp, explicit, and undeniable line from the 7th-century tribe to its modern forms, proving the timeless relevance of the problem.
+- **Core Mission:** To draw a sharp, explicit line from the 7th-century tribe to its modern forms, proving the chapter's immediate relevance.
     
 - **Key Directives:**
     
-    1. Use the selected **"Killer Case Study" (Communal Riots in India - C1-005)** as the primary, detailed example.
+    1. **Primary "Killer Case Study":** Use the **1984 Anti-Sikh Riots (C1-005)** as the detailed, primary example to demonstrate the psychology of collective punishment in a modern, Indian context.
         
-    2. Briefly connect this core example to other global manifestations (e.g., online mobs) to show the universal nature of the psychology.
+    2. **Universalize the Principle:** Briefly connect this psychology to other global examples like online mobs (C1-007) to show its universal nature.
         
-    3. The core argument must be: the technology has changed, but the underlying human psychology of "us vs. them" and the dehumanization of the "other" remains the same.
+    3. **Core Argument:** The technology has changed, but the underlying human psychology of "us vs. them" and the dehumanization of the "other" remains the same.
         
-- **Word Count Target:** ~350 words.
+- **Word Count Target:** ~800 words.
 
+
+### **DRAFTING MANDATE: CHAPTER 1, SECTION 4**
+
+- **Section Title:** The Revelation - The New Social Contract
+    
+- **Core Mission:** To present the sermon's words as the dramatic climax and solution to the problem that has been built up in the previous three sections.
+    
+- **Key Directives:**
+    
+    1. Create a sharp pivot back to the scene at Arafat.
+        
+    2. The section must be clean, powerful, and uncluttered.
+        
+    3. Deliver the core quote regarding the sanctity of life, property, and honor with deliberate, impactful pacing. Let the quote land with its full weight.
+        
+- **Word Count Target:** ~150 words. Brevity and impact are the primary goals.
+    
+
+---
+
+### **DRAFTING MANDATE: CHAPTER 1, SECTION 5**
+
+- **Section Title:** The "HOW" - The Unpacking of a Revolution
+    
+- **Core Mission:** To provide the intellectual payoff of the chapter, dissecting why the declaration was so revolutionary and proving it was an implemented, real-world strategy.
+    
+- **Key Directives:**
+    
+    1. **Analytical Frameworks:** Explain the genius of the solution using the concepts of **Hurmah (C1-012)** and the psychology of **In-group/Out-group Bias (C1-008)**.
+        
+    2. **Evidence of Implementation:** Prove it was a real revolution with immediate legal force using the **Abolition of Blood-Money (C1-010)**.
+        
+    3. **Ultimate Proof of Principle:** Use the story of the **Conquest of Mecca (C1-013)** as the climactic, irrefutable proof that this was the Architect's deepest conviction.
+        
+    4. **The "I" Protocol:** Use one or two "I" statements to make the analysis feel like a personal discovery.
+        
+- **Word Count Target:** ~1,000 words. This is the analytical core and requires space to develop its multi-layered argument.
+
+
+### **DRAFTING MANDATE: CHAPTER 1, SECTION 6**
+
+- **Section Title:** The Takeaway - The Sacred Yardstick
+    
+- **Core Mission:** To leave the reader with a lasting, thought-provoking challenge that connects the chapter's theme directly to their own life.
+    
+- **Key Directives:**
+    
+    1. Conclude that the true challenge is not just to forbid killing, but to forbid the dehumanization that precedes it.
+        
+    2. End with the powerful, Socratic question that forces the reader to reflect on their own "tribes" and biases.
+        
+    3. Use the direct "you" for maximum impact.
+        
+- **Word Count Target:** ~250 words.
