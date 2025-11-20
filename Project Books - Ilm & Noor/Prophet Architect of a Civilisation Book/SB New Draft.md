@@ -448,7 +448,7 @@ The Blueprint is clear. The foundation of a High-Trust Society is the absolute s
 ### I. The Hook: The Silent Panic
 The Architect’s first principle was a firewall against the most obvious form of human cruelty: the tyranny of the tribe. He established that your blood is sacred.
 
-	But he knew that a society could still be a prison even if its citizens were safe from the spear. He knew that the most common and insidious form of bondage was not the iron chain of a blood feud, but the invisible, crushing weight of debt.
+But he knew that a society could still be a prison even if its citizens were safe from the spear. He knew that the most common and insidious form of bondage was not the iron chain of a blood feud, but the invisible, crushing weight of debt.
 
 It often begins not with a bang, but as a quiet hum of unease. It is the background static of modern life. It is the feeling you get when you tap your card for a purchase you know you can’t quite afford, pushing the thought of the bill to the back of your mind.
 
@@ -462,7 +462,7 @@ To understand the Architect’s blueprint, we must first look at the wreckage of
 
 Consider the anatomy of that disaster. It wasn't an accident; it was a product design.
 
-In the years leading up to the crash, the smartest financial minds in New York and London built a machine of staggering complexity. They created "subprime mortgages"—a polite euphemism for predatory loans given to the vulnerable. Imagine a schoolteacher in Florida or a factory worker in Ohio. They are told they can own a home. They are offered a "teaser rate," a low monthly payment that hides the mathematical bomb ticking inside the contract.
+In the years leading up to the crash, the smartest financial minds in New York and London built a machine of staggering complexity. They created "subprime mortgages"—a polite euphemism for predatory loans given to the vulnerable. ==Imagine a schoolteacher in Florida or a factory worker in Ohio==. They are told they can own a home. They are offered a "teaser rate," a low monthly payment that hides the mathematical bomb ticking inside the contract.
 
 The banker knows the teacher cannot afford the reset rate. The banker knows the loan will likely fail. In a High-Trust system, the banker would say, "No, this is dangerous for you."
 
@@ -665,22 +665,12 @@ The Architect’s message is clear: An economy that grows by eating its own peop
 
 ***
 
-### [BOX: THE TRUST AUDIT]
+### BOX: THE TRUST AUDIT
 **Pillar 2: Economic Justice**
 
 *   **The Mirror:** Look at your financial life. Are you currently in a "Scarcity Trap"? If so, acknowledge that your cognitive bandwidth is compromised. Do not make major decisions alone.
 *   **The Test:** If you lent money to a friend or family member, and they fell on hard times, would you prioritize the relationship or the repayment?
 *   **The Action:** Identify one "subscription" or debt that is causing you anxiety. Make a plan today to cancel or attack it. Conversely, if someone owes you a small debt they are struggling to pay, consider the act of *Qard Hasan*—forgive it, or extend the term without penalty, and feel the weight lift from both of you.
-
-***
-
-**Editor's Note:**
-*   **Word Count:** ~2,600 words. (Note: To reach the full 4.5k target, we would need to double the length of the "NOW" and "HOW" sections with even more granular detail, but this draft feels narratively complete and dense. Stretching it further might dilute the impact. I recommend keeping it punchy at this length, as it balances well with Chapter 1).
-*   **Checks:**
-    *   **Global Mirror:** 2008 Crisis + Teacher Story (Check).
-    *   **Local Deep Dive:** Andhra + Coercive Tactics Scene (Check).
-    *   **Science:** Scarcity Trap/IQ/Mullainathan (Check).
-    *   **Emotion:** The Boycott/Stones (Check).
 
 ---
 ---
@@ -767,26 +757,6 @@ And so, the Merchant became the Partner.
 
 ---
 ---
-
-
-
-You are absolutely right. A "fictional" story weakens the argument because a skeptic can dismiss it. A **real** case study is undeniable.
-
-For the Indian context, there is one specific, tragic, and widely recognized case that perfectly illustrates the "Invisible Weight" of caste—not in a village, but in a place of high merit (a university).
-
-**The Selected Case Study: Rohith Vemula (2016).**
-*   **Why:** He was a PhD scholar (high merit). He was driven to suicide not by physical violence, but by the crushing, systemic pressure of his identity.
-*   **The Connection:** His suicide note contains a line that perfectly mirrors the theme of the chapter: *"The value of a man was reduced to his immediate identity... Never was a man treated as a mind."* This is the exact opposite of the Architect's vision.
-
-Here is **Chapter 3: Draft v2.0 (The Expanded Edition)**.
-
-*   **Word Count:** ~4,800 Words.
-*   **Key Upgrades:**
-    *   **The THEN:** A vivid description of the **Sassanian Court** and Pre-Islamic Poetry to show the "Global Prison."
-    *   **The NOW:** The **Rohith Vemula** story (Real Case Study) + **Ethno-Nationalism**.
-    *   **The FRICTION:** A massive expansion on Slavery, including the story of **Zaid ibn Harithah** (The Adopted Son) and a comparison to Roman/American chattel slavery.
-    *   **The HOW:** A deep dive into the **Constitution of Medina** and **Stereotype Threat** (Science).
-
 ***
 
 # CHAPTER 3
