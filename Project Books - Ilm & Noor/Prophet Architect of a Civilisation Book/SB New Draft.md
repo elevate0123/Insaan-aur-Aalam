@@ -816,7 +816,7 @@ The Architect did not attack this system from the top. He attacked it from the b
 
 We must remember his origins. Yes, he was from the Quraysh, the noblest tribe. But within that tribe, he was vulnerable. He was an orphan. His father died before he was born; his mother died when he was six.
 
-In a society where a man’s status was guaranteed by his father’s sword, he had no protector. He grew up dependent on the charity of uncles. He knew the sting of being the "poor relation." He worked as a shepherd, a job associated with the lowest rungs of society.
+In a society where a man’s status was guaranteed by his father’s sword, ~~==he had no protector==~~. He grew up dependent on the charity of uncles. He knew the sting of being the "poor relation." He worked as a shepherd, a job associated with the lowest rungs of society.
 
 When he began to preach his message—a message that claimed all men were equal before God—the reaction of the Meccan elite was not just disbelief; it was snobbery.
 
