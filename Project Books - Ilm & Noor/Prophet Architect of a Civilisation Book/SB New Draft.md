@@ -1118,7 +1118,7 @@ Where did he go? He did not go to his best friend, Abu Bakr. He did not go to hi
 
 He ran to his wife, **Khadijah**.
 
-He crawled into his home, shivering, crying out, *"Zammiluni! Zammiluni!"* (Cover me! Cover me!).
+He ~~crawled~~ into his home, shivering, crying out, *"Zammiluni! Zammiluni!"* (Cover me! Cover me!).
 
 And what did Khadijah do? She did not mock his fear. She did not dismiss him. She became the foundation upon which the entire religion would be built.
 
@@ -1224,7 +1224,7 @@ We must be intellectually honest. We must understand the concept of **Life Stage
 In 7th-century Arabia (and Europe, and Asia until very recently), "Childhood" as a protected phase ending at 18 did not exist. Adulthood was defined by biology (puberty). Marriage at puberty was the universal norm for political and social alliances. To judge 620 CE by 2024 CE standards is a category error.
 
 But look at the **Nature of the Relationship**. Was Aisha a silenced victim?
-Absolutely not. She was a firebrand. She was a scholar. She was a politician. She narrated over 2,000 Hadith. She corrected the male companions when they were wrong. She led an army in the Battle of the Camel.
+Absolutely not. She was a firebrand. She was a scholar. She was a politician. She narrated over 2,000 Hadith. She corrected the male companions when they were wrong. ~~She led an army in the Battle of the Camel.~~
 
 The Prophet did not treat her as a child; he treated her as his intellectual heir. He told his community: *"Take half your religion from this woman."*
 This was a relationship of mentorship, love, and profound intellectual respect.
@@ -1308,13 +1308,6 @@ The Blueprint is not a cage. It is a ladder.
     *   **Science:** Asset vs. Agent/Nadwi Data (Check).
 
 ---
-
-
-
-Here is **Interlude II: Draft v2.0 (The Expanded Edition)**.
-
-I have integrated **"The Race"** to show the dynamic range of the partnership (Playfulness + Intimacy) and refined the opening to focus on the "Ancient Consensus" regarding taboos.
-
 ***
 
 # INTERLUDE II
@@ -1415,18 +1408,6 @@ He showed that the highest form of authority is not the power to command, but th
     *   **Tone:** Human, warm, grounded (Check).
 
 ---
-
-Here is **Chapter 5: Draft v2.0 (The Expanded Edition)**.
-
-I have executed the **Expansion Plan** to hit the **5,500-word** target.
-*   **Key Upgrades:**
-    *   **The Human Cost:** Expanded the Enron/Satyam narratives to focus on the victims (pensions, suicides), not just the math.
-    *   **The Science Deep Dive:** Added a detailed analysis of **Game Theory (The Prisoner's Dilemma)** and the **"Normalization of Deviance"** to explain *why* corruption happens.
-    *   **The Economic Argument:** Added a concrete comparison of **"The Trust Tax"** (High-Trust vs. Low-Trust economies).
-    *   **The Systemic Proof:** Expanded the section on the **Muhtasib** (Market Inspector) to show the "Hard Power" of the system.
-    *   **The Grand Synthesis:** A dedicated section explicitly connecting *Amanah* to the success or failure of every previous chapter.
-    *   **The Emotional Pacing:** Slowed down the "Final Illness" scene to let the gravity of the moment land.
-
 ***
 
 # CHAPTER 5
