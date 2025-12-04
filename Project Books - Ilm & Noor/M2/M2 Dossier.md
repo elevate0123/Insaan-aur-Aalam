@@ -218,6 +218,87 @@ The re-sequenced resources create a perfect argumentative flow: The Anchor opens
 ---
 ---
 
+### **Final Authorized Drafting Mandate: Chapter 2**
+
+**Document Version:** 2.0 (Final)
+**For Direct Copy-Pasting**
+
+---
+
+**I. The Chapter's Mission: Forging the Foundation of Justice**
+
+The singular mission of this chapter is to establish the non-negotiable principle of **العدل (*Al-Adl*)** as the foundation of the marital covenant. It will argue that Grace (*Fadl*), as described in Chapter 1, can only exist upon a floor of Justice. Where Justice is absent, the call is not for Grace, but for rectification.
+
+This chapter is an act of **boundary-setting**. It will define, with theological and jurisprudential precision, the sacred limits (*ḥudūd*) of the covenant. It will define Oppression (*Zulm*) as any act that violates these limits and will present the "Theology of Release" (*Talaq*) not as a failure, but as a divinely-sanctioned, merciful remedy for a covenant that has been irrevocably broken by injustice.
+
+**II. The Authorial Voice & Tone: The Guardian of the Sacred Limits**
+
+*   **Voice:** The "Confident Scholar-Guardian." The primary persona is that of a **Guardian of the *Hudud Allah* (the Sacred Limits of God).** The voice is not merely that of a reactive judge, but of a proactive, didactic, and cautionary guide.
+*   **Tone:** Sober, serious, and authoritative. The goal is to teach believers where the sacred boundaries are so they never transgress them, and to provide a clear, merciful path for those whose boundaries have been violated.
+*   **The Author's Heart:** The author must write from a place of profound anger at injustice (*Zulm*) and deep compassion for those who suffer from it. The prose must be a sword for the oppressed and a shield for the innocent.
+
+**III. The Final Chapter Title**
+
+*   **The Boundaries of the Covenant**
+
+**IV. The Detailed Architectural Outline & Word Count**
+
+The chapter's target length is **~2,300 words**.
+
+**1. The Anchor (Al-Asl)**
+*   **Purpose:** To establish the supreme, universal command for justice.
+*   **Content:** The four-part presentation of Qur'an 4:135 (on standing firm for justice).
+*   **Word Count:** ~75 words.
+
+**2. The Illumination (Al-Bayan)**
+*   **Purpose:** To establish the chapter's core thesis ("Justice before Generosity") and provide the reader with a mental map.
+*   **Content Flow:**
+    1.  State the chapter's preventative purpose: "This chapter is not merely a manual for ending a broken marriage. It is a guide to the sacred boundaries for the purpose of *never* having to end one..."
+    2.  Introduce **"The Three Layers of the Covenant"** analogy:
+        *   **The Core: *Ihsan* (Spiritual Excellence & Grace).** The domain of *Fadl*. The goal.
+        *   **The Middle Layer: *Ma'ruf* (Good Conduct & Fairness).** The baseline of a healthy marriage.
+        *   **The Outer Skin: *Fiqh* (The Sacred Law).** The protective boundary, engaged only in crisis.
+    3.  Define *Zulm* (Oppression) as the transgression that pushes a relationship to this outer boundary.
+*   **Word Count:** ~400 words.
+
+**3. The Heritage (Al-Turath)**
+*   **Purpose:** To prove that the mechanisms for enforcing justice and providing release are deeply rooted in the classical Sunni tradition.
+*   **Content:** Present the chosen quotes: Ibn Abidin's explanation of the legal process for separation due to harm (*tafrīq*) and Shah Waliullah's theological justification for divorce as a necessary "release" (*al-khalāṣ*).
+*   **Word Count:** ~400 words.
+
+**4. The Provocation (Al-Istifzaz)**
+*   **Purpose:** To force the reader to confront the reality of "hidden" *Zulm* and dismantle the cultural myths that demand patience with abuse.
+*   **Content:** Present the three scenarios from the repository: The Emotional Harm, The Pious Tyrant, and The Husband's Abdication regarding his family's abuse.
+*   **Word Count:** ~600 words.
+
+**5. The Jurisprudence (Al-Fiqh) (Crucial Sequence)**
+*   **Purpose:** To provide the immediate, practical, and empowering "what to do" after the painful diagnosis of "The Provocation."
+*   **Content:** A crisp, clear summary of the four legal tools from the repository: The Maxim of "No Harm," *Khul'*, Judicial Annulment, and Arbitration.
+*   **Word Count:** ~400 words.
+
+**6. The Prophetic Paradigm**
+*   **Purpose:** To provide the ultimate, authoritative model of the Lawgiver as the Just Arbiter.
+*   **Content:** Present the two chosen incidents: The *Khul'* of the wife of Thabit bin Qais and the choice of Barirah. The analysis will focus on the Prophet's ﷺ upholding of justice and female agency over personal sentiment.
+*   **Word Count:** ~400 words.
+
+**7. The Seal (Al-Khatm)**
+*   **Purpose:** To conclude the chapter with a powerful summary and a spiritual call to action.
+*   **Content:** The bulleted Paradigm Shifts and the Dual Duas.
+*   **Word Count:** ~150 words.
+
+**V. Resource Selection Rationale**
+The resources are sequenced to build an unshakeable case for justice: The Anchor sets the supreme principle. The Illumination provides the mental map. The Heritage gives the classical proof. The Provocation shows the violation. The Jurisprudence provides the remedy. The Prophetic Paradigm provides the ultimate, merciful application of that remedy.
+
+**VI. Stylometric & Anti-AI Generation Guidelines**
+*   **Sentence Cadence:** Vary sentence length dramatically for impact.
+*   **Rhetorical Structure:** Employ classical devices like parallelism and antithesis.
+*   **Active Voice:** Write in a vigorous and direct active voice.
+*   **Eliminate Crutches:** Purge empty transitional phrases. Let the logic create the flow.
+
+---
+---
+
+
 
 ### **Final Authorized Drafting Mandate: Chapter 3**
 
@@ -472,12 +553,82 @@ The resources are chosen to establish the ultimate purpose of life (Anchor), dec
 ---
 ---
 
+### **Final Authorized Drafting Mandate: Chapter 6**
 
+**Document Version:** 2.0 (Final)
+**For Direct Copy-Pasting**
 
+---
 
+**I. The Chapter's Mission: To Operationalize the Paradigm**
+
+The singular mission of this chapter is to **ensure the book does not remain a theoretical exercise.** It is the bridge from inspiration to implementation. Its purpose is to provide the couple with a sacred, structured, and repeatable ritual to prevent the decay of their covenant and to continually realign their "Embassy" with its Divine Mission.
+
+This chapter is an act of **empowerment**. It will teach the couple the art of mutual accountability (*Muhasabah*), sincere counsel (*Nasiha*), and joint rectification (*Islah*). It transforms the book from a static object to be read into a dynamic tool to be used for a lifetime, ensuring the Divine Paradigm is not just understood, but lived.
+
+**II. The Authorial Voice & Tone: The Wise Spiritual Guide (*Murshid*)**
+
+*   **Voice:** The "Confident Scholar-Guardian" now adopts their final persona: the **Wise Spiritual Guide**. The voice is no longer primarily analytical or assertive, but becomes pastoral, gentle, and deeply encouraging.
+*   **Tone:** Practical, hopeful, and action-oriented. The prose in the framework section must be exceptionally clear and simple. The overall tone is that of a wise elder providing a precious, time-honored tool to a beloved couple.
+*   **The Author's Heart:** The author must write from a place of profound hope for the reader's marriage. The prose should be infused with the sincere prayer that this tool becomes a source of immense, recurring *barakah* in their home.
+
+**III. The Final Chapter Title**
+
+*   **The Covenant Renewal**
+
+**IV. The Detailed Architectural Outline & Word Count**
+
+The chapter's target length is **~2,200 words**.
+
+**1. The Introduction: The Necessity of Renewal**
+*   **Purpose:** To make the theological case for *why* intentional, scheduled renewal is an essential Islamic practice.
+*   **Content Flow:**
+    1.  Begin with the foundational Hadith that faith itself "wears out like a garment" and requires renewal.
+    2.  Argue that if faith itself requires renewal, then the covenant that is "half our faith" must also be intentionally polished and maintained.
+    3.  Introduce the framework not as a performance review, but as a sacred ritual of *Muhasabah*, *Nasiha*, and *Islah*.
+*   **Word Count:** ~400 words.
+
+**2. The Framework: A Ritual of Renewal**
+*   **Purpose:** The practical heart of the chapter. A clear, step-by-step guide to the renewal session.
+*   **Content:** The three-stage process, with each step explained clearly and grounded in an Islamic principle.
+    *   **Stage 1: The Preparation (The Intention - *Al-Niyyah*)**
+    *   **Stage 2: The Session (The Consultation - *Al-Mushawarah*)**
+    *   **Stage 3: The Commitment (The Covenant - *Al-'Ahd*)**
+*   **Prose Style:** Exceptionally clear, direct, and practical. Use numbered lists and bullet points for maximum usability.
+*   **Word Count:** ~1000 words.
+
+**3. Guarding the Ritual: Protocol for Failure & Disagreement (Expanded Component)**
+*   **Purpose:** To provide crucial "guardrails" and a "failure protocol" for the process, acknowledging its potential difficulties.
+*   **Content:** A compassionate but direct section outlining:
+    *   **The Warning:** Acknowledge that the *nafs* and Shaytan will try to corrupt the ritual by turning reflection into blame and counsel into criticism.
+    *   **The Failure Protocol:**
+        *   **If the Session Becomes a Fight:** Instruct the couple to stop immediately, postpone, and return to the Preparation stage individually before trying again.
+        *   **If One Spouse Refuses to Participate:** Advise the willing spouse not to force the issue, but to see the refusal as critical information, to make dua, and to embody the covenant's principles unilaterally.
+        *   **If You Cannot Agree:** Instruct the couple to find the smallest possible point of spiritual agreement and commit to that, emphasizing that the *barakah* is in the shared commitment itself.
+*   **Word Count:** ~300 words.
+
+**4. The Prophetic Paradigm (Revised)**
+*   **Purpose:** To provide the ultimate aspirational model for a "Covenant Renewal" from within the Prophet's ﷺ own marital life.
+*   **Content:** The incident of **"The Choice" (*al-Takhyīr*)** (Qur'an 33:28-29).
+*   **Analysis Focus:** Frame this event as the ultimate Covenant Renewal. It involved a crisis (demand for more *dunyā*), a period of intense reflection (*muhasabah*), a clear choice between the two opposing paradigms (world vs. Hereafter), and a final, conscious recommitment to the *Akhirah*-centric mission from the Prophet's ﷺ wives. It proves that even the most sacred household required intentional realignment.
+*   **Word Count:** ~300 words.
+
+**5. The Seal (Al-Khatm)**
+*   **Purpose:** To conclude the chapter and the entire book with a powerful summary and a final, commissioning prayer.
+*   **Content:** The bulleted Paradigm Shifts and the Dual Duas. The final plain-language dua will be a comprehensive prayer for the couple's lifelong journey, commissioning them as "Ambassadors of Grace."
+*   **Word Count:** ~200 words.
+
+**V. Resource Selection Rationale**
+The resources are synthetic and principle-based. The Hadith on faith's renewal provides the theological necessity. The Framework provides the practical "how." The "Guarding the Ritual" section provides the crucial safety net. The new Prophetic Paradigm provides the ultimate, authoritative, and marital example of the renewal process in action.
+
+**VI. Stylometric & Anti-AI Generation Guidelines**
+*   **Clarity is Paramount:** In the "Framework" and "Guarding the Ritual" sections, clarity trumps literary flourish. The instructions must be impossible to misunderstand.
+*   **Tone Shift:** The shift from the scholarly tone of the rest of the book to the pastoral, guiding tone of this chapter must be intentional and clear.
+*   **Finality and Hope:** The chapter must feel like a true conclusion, leaving the reader not with more theory, but with a sense of profound hope, empowerment, and a clear first step on their renewed journey.
 
 ---
 ---
+
 
 ## Next Steps
 
