@@ -21,7 +21,7 @@
 
 ---
 
-### **Gate I: The Divine Covenant**
+## **Gate I: The Divine Covenant**
 ### **(البوابة الأولى: الميثاق)**
 
 ---
@@ -190,7 +190,7 @@ To understand this, we must view the landscape of the covenant as a topographica
 2.  **The Fertile Plains: *Ma'ruf* (Good Conduct).** This is the vast, sustainable territory where most of daily life happens. It is the land of mutual respect, decency, and fulfilling responsibilities without bitterness.
 3.  **The Canyon's Edge: *Fiqh* (The Sacred Law).** This is the sharp, clear boundary of the canyon. It is the sacred limit (*ḥudūd*). One does not live at the canyon's edge; one lives on the fertile plains while always knowing exactly where the edge is. The purpose of the Law is to be the clear, protective boundary that prevents a fall into the abyss.
 
-**الظلم (*Al-Zulm*)**—Oppression—is the act of injustice that forces one away from the sunlit peaks, off the fertile plains, and dangerously close to the canyon's edge. It is at this edge that the Guardian of the Limits raises his voice. For the Sacred Law, in its perfect wisdom and mercy, never commands silent endurance in the face of *Zulm*. It commands a halt, and it provides a remedy.
+**(*Al-Zulm*) الظلم**—Oppression—is the act of injustice that forces one away from the sunlit peaks, off the fertile plains, and dangerously close to the canyon's edge. It is at this edge that the Guardian of the Limits raises his voice. For the Sacred Law, in its perfect wisdom and mercy, never commands silent endurance in the face of *Zulm*. It commands a halt, and it provides a remedy.
 
 #### **The Heritage (Al-Turath)**
 
@@ -230,7 +230,7 @@ If Ibn Abidin provides the legal mechanism, the great reviver of the subcontinen
 
 Shah Waliullah frames divorce not as a failure, but as a necessary and merciful release valve built into the system by a wise Creator. His definition of a broken covenant—when it becomes a "torment of the soul"—is a profound theological statement. It is the state where the home, intended by Allah to be a *sakan* (tranquility), becomes a source of spiritual sickness. It is the complete inversion of the Divine Paradigm. The law exists not to trap people in this spiritual agony, but to provide a dignified exit.
 
-Thus, the vision of the tradition is complete and uncompromising. The jurist, Ibn Abidin, provides the legal "how" of intervention in the face of harm, while the theologian, Shah Waliullah, provides the merciful "why" of release from a covenant that has become a torment.
+Thus, the vision of the tradition is complete and uncompromising. The jurist, Imam Ibn Abidin, provides the legal "how" of intervention in the face of harm, while the theologian, Shah Waliullah, provides the merciful "why" of release from a covenant that has become a torment.
 
 #### **The Provocation (Al-Istifzaz)**
 
@@ -318,11 +318,11 @@ Justice is not merely a system of external laws; it is an internal battle agains
 
 ---
 
-> > > **Belvedere I**
-> > >
-> > > **Gate I: The Divine Covenant**
-> > > **(البوابة الأولى: الميثاق)**
-> > >
+> >  **Belvedere I**
+> >
+> > **Gate I: The Divine Covenant**
+> > **(البوابة الأولى: الميثاق)**
+> >
 > > > <br>
 > > > <br>
 > > > <br>
@@ -350,7 +350,7 @@ Justice is not merely a system of external laws; it is an internal battle agains
 
 ---
 
-### **Gate II: The Human Ambassadors**
+## **Gate II: The Human Ambassadors**
 ### **(البوابة الثانية: الوكلاء)**
 
 ---
@@ -402,11 +402,11 @@ Therefore, a man's *Qiwamah* over his family is not a license for authoritarian 
 Having reclaimed the pristine meaning of *Qiwamah* from the language of the Qur'an itself, we must now test this definition against the crucible of reality. The gap between the Divine Paradigm and its distorted cultural manifestations is often vast. To bridge this gap, one must first have the courage to see it. Consider the following scenarios.
 
 **Scenario 1: The Abdicated Guardian**
-A husband provides a comfortable living for his family. He believes his financial provision is the beginning and end of his *Qiwamah*. He is, however, emotionally and spiritually absent. He does not lead his family in prayer or establish a culture of learning. When his own relatives make remarks that wound his wife, he remains silent to avoid conflict. He has outsourced the moral and spiritual establishment (*tarbiyah*) of his household to his wife and external institutions. He is a provider, but not a presence; a financier, but not a pillar.
+A husband provides a comfortable living for his family. He believes his financial provision is the beginning and end of his *Qiwamah*. He is, however, emotionally and spiritually absent. ==He does not lead his family in prayer== or establish a culture of learning. When his own relatives make remarks that wound his wife, he remains silent to avoid conflict. He has outsourced the moral and spiritual establishment (*tarbiyah*) of his household to his wife and external institutions. He is a provider, but not a presence; a financier, but not a pillar.
 
 *   **The Provocation:** The Qur'an defines a *Qawwām* as one who "stands persistently firm." Does this standing refer only to the act of signing a check? Or does it refer to the active, persistent establishment of a just, safe, and spiritually sound household? Can a man who has abdicated his role as the primary guardian of his family's spiritual and emotional well-being truly be called its *Qawwām*? Or has he reduced this sacred, active responsibility to the profane, passive role of a mere sponsor?
 
-**Scenario 2: The Financial Inversion**
+==**Scenario 2: The Financial Inversion**==
 Due to an economic crisis, a husband loses his job. His wife, a skilled professional, becomes the primary breadwinner. The husband, whose entire sense of self was tied to the *bimā anfaqū* ("what they spend") clause of the verse, feels his *Qiwamah* has been nullified. He is consumed by a sense of shame and inadequacy, becoming irritable and defensive. He sees his wife's success not as a mercy from Allah for the family, but as a direct threat to his identity as a man.
 
 *   **The Provocation:** The verse on *Qiwamah* gives two reasons: a divine disposition (*bimā faḍḍalallāhu*) and financial spending (*bimā anfaqū*). If the second reason is diminished by circumstance, does the first reason cease to exist? Is *Qiwamah* a title contingent on a paycheck, or is it an inherent responsibility of the husband to be the ultimate pillar of strength, protection, and justice for his family, regardless of the form that strength must take? Is this husband's crisis a result of a flaw in the Divine Paradigm, or a failure of his own culturally-conditioned, materialistic understanding of manhood?
@@ -496,7 +496,7 @@ A wife dedicates her effort to making the home a true *sakan*. She keeps it clea
 *   **The Provocation:** If a wife's primary role is the cultivation of *Sakinah*, what is the husband's primary corresponding role? Is it merely to be a consumer of this tranquility, or is it to be the active guardian and appreciator of the artist who creates it? The Prophet ﷺ defined the best of men as "the best to his family." How does a husband's failure to see, acknowledge, and honor his wife's daily, unseen labor impact his own standing as one of the "best"?
 
 **Scenario 2: The "Having It All" Delusion**
-A Muslim woman is highly successful in her professional career, praised by her community as a role model who "has it all." In reality, she is spiritually and physically exhausted. After a demanding workday, she comes home to the "second shift": managing the household, helping with homework, and preparing for the next day. Her home is clean and organized, but it is a place of efficiency, not *Sakinah*. There is no energy left for the gentle word, the patient ear, or the spiritual cultivation of the home. The family is well-managed but poorly nourished in the soul. Her husband "supports her career" by not objecting to it, but he considers all domestic matters to be her exclusive responsibility.
+==A Muslim woman is highly successful in her professional career==, praised by her community as a role model who "has it all." In reality, she is spiritually and physically exhausted. After a demanding workday, she comes home to the "second shift": managing the household, helping with homework, and preparing for the next day. Her home is clean and organized, but it is a place of efficiency, not *Sakinah*. There is no energy left for the gentle word, the patient ear, or the spiritual cultivation of the home. The family is well-managed but poorly nourished in the soul. Her husband "supports her career" by not objecting to it, but he considers all domestic matters to be her exclusive responsibility.
 
 *   **The Provocation:** How does this family's predicament reveal the fundamental conflict between the modern world's definition of success and the Prophetic tradition's definition of value? Has the husband truly "supported" his wife, or has he merely given passive permission for her to take on two full-time jobs while he continues with one? And does this not force us to ask the ultimate, uncomfortable question: is the cultivation of *Sakinah* a mere task to be "fit in" around the margins of a career, or is it a high art that demands its own sacred space, energy, and focus?
 
@@ -588,7 +588,7 @@ The ultimate purpose of cultivating a sanctuary in this fleeting world is to bui
 
 ---
 
-### **Gate III: The Sacred Purpose**
+## Gate III: The Sacred Purpose
 ### **(البوابة الثالثة: الغاية)**
 
 ---
@@ -843,7 +843,7 @@ The frameworks and paradigms in this book are the map. But the journey itself is
 ---
 ---
 ---
-### Footnotes
+## Footnotes
 
 **Location:** Chapter 1, at the end of the analysis of the Ghazali quote in "The Heritage".
 
