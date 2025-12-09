@@ -709,9 +709,9 @@ This is a stunning spiritual diagnostic. The covenant is the garment of the soul
 
 Therefore, a "Partnership in Piety" is not a title to be claimed, but a garment to be maintained. This requires a proactive, scheduled, and sacred ritual of spiritual maintenance. This is not a corporate performance review or a forum for the litigation of grievances. It is a return to the sacred arts of our tradition, built upon three pillars:
 
-1.  **المحاسبة (*Al-Muhasabah*)**: The gentle and mutual self-accountability of two partners.
-2.  **النصيحة (*Al-Nasiha*)**: The giving of sincere, loving counsel for the sake of Allah.
-3.  **الإصلاح (*Al-Islah*)**: The joint commitment to rectify, to mend, and to set a better course together.
+1.  **(*Al-Muhasabah*) المحاسبة**: The gentle and mutual self-accountability of two partners.
+2.  **(*Al-Nasiha*) النصيحة**: The giving of sincere, loving counsel for the sake of Allah.
+3.  **(*Al-Islah*) الإصلاح**: The joint commitment to rectify, to mend, and to set a better course together.
 
 This chapter provides the framework for this "Covenant Renewal." It is a guide to the sacred act of mending the garment of our faith, ensuring it remains a source of warmth, protection, and beauty on our shared journey to Allah.
 
@@ -768,7 +768,7 @@ A session without a conclusion is just talk. This stage seals the renewal with a
 
 2.  **Make a Shared Dua:** Raise your hands together. In your own words, from your own hearts, ask Allah ﷻ to accept your repentance, to bless your gratitude, and to grant you the strength and sincerity to fulfill the new commitment you have just made.
 
-3.  **Seal with *Mawaddah*:** End the session with a physical act of affection—holding hands, an embrace, a kiss on the forehead. This is a non-verbal reaffirmation of the love that underpins the entire covenant, a seal of mercy upon a conversation of truth.
+3.  ==**Seal with *Mawaddah*:** End the session with a physical act of affection—holding hands, an embrace, a kiss on the forehead. This is a non-verbal reaffirmation of the love that underpins the entire covenant, a seal of mercy upon a conversation of truth.==
 
 #### **Guarding the Ritual: Protocol for Failure & Disagreement**
 
@@ -784,7 +784,7 @@ Postpone the session. Do not storm out. Simply end the conversation with a commi
 **2. Protocol for the Refusal to Participate**
 This can be deeply painful: one spouse is willing, and the other refuses to engage with sincerity. If this happens, the willing spouse's role is not to force, cajole, or shame their partner into participation. You cannot compel a change of heart. Your role is to recognize this refusal not as a rejection of you, but as critical information about the state of the covenant.
 
-Your duty then becomes twofold. First, you make sincere dua for your spouse's heart to be softened. Second, you embody the principles of the covenant unilaterally. You continue to strive for *Fadl*, you uphold *Adl*, and you work on your own relationship with Allah. Your consistent *Ihsan* may, by Allah's will, become the invitation that opens their heart. If the refusal persists, it is a sign of a deeper issue that may require seeking counsel from a trusted scholar or elder.
+Your duty then becomes twofold. First, you make sincere dua for your spouse's heart to be softened. Second, you embody the principles of the covenant unilaterally. You continue to strive for *Fadl*, you uphold *Adl*, and you work on your own relationship with Allah. Your consistent *Ihsan* may, by Allah's will, become the invitation that opens their heart. ==If the refusal persists, it is a sign of a deeper issue that may require seeking counsel from a trusted scholar or elder.==
 
 **3. Protocol for the Impasse**
 You may find that you are both willing but cannot agree on a shared goal in Part C. Do not let the perfect be the enemy of the good. The goal of this step is not to solve every problem in your marriage. It is to find a single point of unity to build upon.
