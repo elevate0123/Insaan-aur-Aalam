@@ -436,7 +436,134 @@ Yeh safar "Mu'ahiday" se "Misaaq" tak ka safar hai, aur yeh nafs ke khilaf elaan
 > "Aye Allah! Aye Al-Fattah (Dilon ko kholne wale), hamare dilon ko apne Ilahi Minhaj ke liye khol de. Humein 'Adalat' ki tang kothri se nikal kar 'Bagh' ki wus'at mein dakhil farma. Hamare nafs ke un waswason se hamari hifazat farma jo humein 'hisab kitab' par uksate hain, aur humein taufiq de ke hum Teri raza ke liye 'Fadl' ka rasta ikhtiyar karein. Hamari shadi ko dunyavi mu'ahiday se nikal kar us muqaddas Misaaq mein badal de jo humein Tujh tak le jaye. Ameen."
 
 ---
+---
 
+### **Baab Dom: Misaaq ki Hudood**
+**(Chapter 2: The Boundaries of the Covenant)**
+
+---
+
+#### **Al-Asaas (The Anchor)**
+
+**Maakhuz:** Al-Quran, Surah An-Nisa, 4:135
+
+**Matn (Arabic Text):**
+> يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ بِالْقِسْطِ شُهَدَاءَ لِلَّهِ وَلَوْ عَلَىٰ أَنفُسِكُمْ أَوِ الْوَالِدَيْنِ وَالْأَقْرَبِينَ
+
+**Tarjuma (Kanz-ul-Iman Style):**
+> "Aye Emaan walo! Insaaf par khoob qaim ho jao, Allah ke liye gawah bante, chahe us mein tumhara apna nuqsan ho, ya maa-baap aur rishtedaron ka..."
+
+---
+
+#### **Al-Bayan (The Illumination)**
+
+Hum is baab ka aaghaz Nikah ki kisi ayat se nahi, balkay Quran ke us azeem-us-shan hukum se kar rahe hain jo "Adl-o-Insaaf" ki bunyad hai. Yeh intekhab shaoori hai. Ilahi Minhaj is baat ka taqaza karta hai ke hum samjhein: Ghar koi niji, qanoon se azaad (lawless) jazeera nahi hai jahan Shari'ah ke aafaqi usool mu'attal (suspended) ho jate hain. Yeh ek "Muqaddas Ilaqa" hai jo barah-e-raast Allah ke qanoon-e-adl ke tehat aata hai.
+
+Is baab ka markazi paigham yeh hai: **"Fadl se pehle Adl" (Justice before Grace).**
+
+Pichle baab mein hum ne "Fadl" (Grace) ki khoobsurti bayan ki thi. Lekin yaad rakhiye, Fadl ek buland imarat hai jo sirf "Adl" ki mazboot bunyad par khari ho sakti hai. Jahan Adl na ho, wahan Fadl ka mutalba karna zulm hai.
+
+Misaaq ki zameen ko samajhne ke liye humein ise teen partton (layers) mein dekhna hoga:
+1.  **Ihsan (Ruhani Bulandi):** Yeh choti (peak) hai. Yahan "Fadl" ka raaj hai. Miyan-biwi ek dusre ke liye qurbani dete hain.
+2.  **Ma'roof (Bhalai):** Yeh wo humwar zameen hai jahan aam zindagi guzarti hai. Yahan "Huqooq-ul-Ibad" ada kiye jate hain.
+3.  **Fiqh (Qanooni Hudood):** Yeh wo khai ka kinara hai jahan "Shari'ah" ki hadd shuru hoti hai.
+
+**Zulm** (jis ka lughvi matlab hai cheez ko us ki jagah se hata dena) woh amal hai jo rishtay ko Ihsan ki choti se dhakel kar khai ke kinare (Fiqh) par le aata hai. Jab ma'amla yahan pohanch jaye, to Shari'ah "Khamosh Sabr" ka hukum nahi deti, balkay "Tadarak" (remedy) aur "Insaaf" ka hukum deti hai.
+
+---
+
+#### **Turaas (The Heritage)**
+
+Ilahi Minhaj mehaz khayali baton ka majmua nahi. Yeh ek mehfooz qila hai jis ki hifazat ke liye Shari'ah ne mazboot qawaneen banaye hain. Hamare Aslaaf koi rumanvi (romantic) log nahi thay; woh Hakeem-ul-Ummat aur Faqih thay jo jante thay ke agar Insaaf ka nifaz na ho sake to Fadl mar jata hai.
+
+Fiqh Hanafi ke azeem muhaqqiq, **Allama Ibn Abidin Shami (R.A)**, "Radd al-Muhtar" mein likhte hain ke jab biwi "Darar" (nuqsan/takleef) ki shikayat kare, to Qazi ka farz hai ke woh ma'amle ki tehqeeq ke liye "Hakam" (arbiters) muqarrar kare. Yeh is baat ka saboot hai ke Islam mein aurat ko zulm par khamosh rehne ka hukum nahi, balkay riyasat aur ma'ashray ka farz hai ke woh madakhlat karein.
+
+Isi tarah, **Shah Waliullah Dehlavi (R.A)** ne Talaq ke falsafay ko "Hujjatullah al-Baligha" mein nihayat gehrai se bayan kiya:
+
+**Matn (Arabic Text):**
+> ...فَإِذَا فَسَدَ هَذَا الْأَمْرُ، وَصَارَ الِاجْتِمَاعُ سَبَبًا لِتَعْذِيبِ الرُّوحِ... كَانَ لَا بُدَّ مِنْ طَرِيقٍ إِلَى الْخَلَاصِ مِنْهُ.
+
+**Tarjuma:**
+> "...Pas jab yeh ma'amla (Nikah) fasad-pazeer ho jaye, aur ikatha rehna **Ruhani Aziyat (Torment of the Soul)** ka sabab ban jaye... to is se **Khalasi (Release)** ki raah nikalna na-guzeer hai."
+
+**Tajziya:**
+Shah Waliullah ne Talaq ko "Naakami" nahi, balkay "Khalasi" (Nijaat) kaha hai. Unhon ne "Ruhani Aziyat" ki istilah istemal kar ke wazeh kar diya ke jab ghar "Sukoon" ke bajaye "Azaab" ban jaye, to Shari'ah insan ko us azaab mein qaid nahi rakhti, balkay use ba-izzat nikalne ka rasta deti hai.
+
+---
+
+#### **Fikri Dastak (The Provocation)**
+
+Adl ke usool kitabon mein wazeh hain, lekin hamare gharon mein dhundlay par chuke hain. Aaiye inhein teen chubhte hue sawalat ke zariye parakhte hain.
+
+**Manzar 1: Zuban ka Azaab (The Torment of the Tongue)**
+Ek shohar apni biwi ko maarta nahi, khana kapra deta hai, lekin us ki zuban khanjar hai. Woh tanz (sarcasm) karta hai, us ki aqal ka mazaq urata hai, aur hafton tak "Sard Mohri" (Silent Treatment) ko saza ke taur par istemal karta hai.
+*   **Sawal:** Quran ne biwi ko "Diraran" (Nuqsan pohanchane ki niyat se) rokne se mana kiya hai. Kya Allah ki nazar mein "Nuqsan" sirf jism ka hai, ya ruh ka bhi? Kya rozaana kisi ki izzat-e-nafs (self-esteem) ko kuchalna "Zulm" nahi?
+
+**Manzar 2: Namazi Jabir (The Pious Tyrant)**
+Ek shohar masjid ki pehli saf mein hota hai, lekin ghar mein fir'aun hai. Woh Deen ke naam par apni biwi par sakhti karta hai, use "Haq" aur "Ita'at" ke naam par dabata hai. Jab biwi kisi buzurg se shikayat karti hai, to jawab milta hai: "Woh itne deendar aadmi hain, tum thora sabr karo."
+*   **Sawal:** Nabi Kareem ﷺ ne farmaya: "Tum mein se behtareen woh hai jo apne ghar walon ke liye behtareen hai." Agar ek shakhs ka awami kirdaar (public persona) chamakdar hai lekin niji kirdaar (private character) zalimana hai, to Allah ke haan kaunsa kirdaar wazandar hai? Kya "Namaz" zulm ka kaffara ban sakti hai?
+
+**Manzar 3: Susrali Madakhlat aur Shohar ka Farar (The Joint Family Abdication)**
+Ek jora mushtarika khandan (joint family) mein rehta hai. Shohar ki walida (saas) bahu ki tazleel karti hain. Shohar sab dekhta hai magar khamosh rehta hai. Jab biwi faryad karti hai, to woh kehta hai: "Woh meri maa hai, Jannat us ke qadmon talay hai. Tumhein mere liye aur Allah ke liye **Sabr** karna hoga."
+*   **Sawal:** Quran (4:135) kehta hai ke Insaaf par qaim ho jao "chahe walidain ke khilaf hi kyun na ho." Apni biwi ko zulm se na bacha kar, kya yeh shohar "Neki" kar raha hai ya apne farz-e-hifazat se "Farar" (Abdication) ikhtiyar kar raha hai? Kya yeh "Sabr-e-Jamil" hai ya "Buzdili" jise Deen ka labada pehna diya gaya hai?
+
+---
+
+#### **Fiqh-ul-Ahkam (The Jurisprudence)**
+
+Zulm ki shanakht ke baad, ab hum Shari'ah ki rehmat ki taraf aate hain. Shari'ah ne mazloom ko be-yar-o-madadgar nahi chora.
+
+1.  **Bunyadi Usool:** *La darara wa la dirar* ("Na nuqsan do, na nuqsan uthao"). Yeh fiqhi qaida har qism ke jismani, zehni, aur maali tashaddud ko Haraam qarar deta hai.
+2.  **Khula (Wife-Initiated Release):** Agar biwi shohar ke sath rehne ko Deen ya Nafs ke liye khatra samjhe, to use haq hai ke woh Mahr wapas kar ke "Khula" talab kare.
+3.  **Tafreeq (Judicial Separation):** Agar shohar zulm kare aur talaq na de, to Qazi (ya Shari'ah Council) ko ikhtiyar hai ke woh nikah fuskh (annul) kar de. Shohar ki marzi ke baghair bhi yeh talaq naafiz ho jati hai.
+4.  **Tahkeem (Arbitration):** Khandan ke baron ko "Hakam" bana kar faisla karwana Quran ka hukum hai (4:35), yeh koi "optional" mashwara nahi.
+
+---
+
+#### **Uswa-e-Nabvi ﷺ (The Prophetic Paradigm)**
+
+Adl ka Ilahi Minhaj sirf kitabi nahi, balkay Sarwar-e-Konain ﷺ ne ise apne faislon se qaim kiya.
+
+**Misaal 1: Barirah (R.A) ka Ikhtiyar**
+Jab Hazrat Barirah (R.A) azaad huin, to Shari'ah ne unhein haq diya ke woh apne shohar (Mughith) ke sath nikah barqarar rakhein ya khatam kar dein. Unhon ne khatam karne ka faisla kiya. Mughith rote hue un ke peeche phirte thay. Nabi Kareem ﷺ ka dil Mughith ke liye narm ho gaya. Aap ﷺ ne Barirah se farmaya: "Kash tum is ki taraf ruju kar letin."
+Barirah ne ek azeem sawal kiya: "Ya Rasool Allah ﷺ! Kya yeh aap ka hukum hai?"
+Aap ﷺ ne farmaya: "Nahi, main sirf sifarish kar raha hoon."
+Barirah ne arz kiya: "To phir mujhe in ki haajat nahi."
+**Sabaq:** Nabi ﷺ ki *khwahish* bhi Shari'ah ke *qanooni haq* ko ma'attal nahi kar sakti. Jazbaat apni jagah, magar Qanoon apni jagah atal hai.
+
+**Misaal 2: Thabit bin Qais ki Biwi**
+Unhon ne aakar kaha: "Ya Rasool Allah ﷺ! Mujhe Thabit ke deen ya akhlaq par koi aitraz nahi, magar main Islam mein kufr (na-shukri) ko napasand karti hoon (yani main in ke sath dil se nahi reh sakti)." Aap ﷺ ne unhein "Sabr" ka dars nahi diya, balkay foran "Khula" ka rasta hamwar kiya aur farmaya: "Kya tum in ka baagh (Mahr) wapas karogi?" Unhon ne haan kaha, aur ma'amla hal ho gaya.
+**Sabaq:** "Ruhani Ghutan" (incompatibility) bhi Shari'ah mein alaihdgi ki ek valid wajah hai.
+
+---
+
+#### **Mohr-e-Ikhtitam (The Seal)**
+
+**Fikri Hijrat (Paradigm Shifts):**
+
+*   **Tabdeeli:** Ghar ko "Qanoon se Azaad" samajhne se...
+    *   **Taraf:** Ghar ko "Hudood-ullah" ka markaz samajhne ki taraf.
+*   **Tabdeeli:** Zulm par "Sabr" ki talqeen se...
+    *   **Taraf:** "Ruhani Aziyat" se "Khalasi" ke haq ko tasleem karne ki taraf.
+*   **Tabdeeli:** Qanoon ko "Qaid Khana" samajhne se...
+    *   **Taraf:** Qanoon ko "Mehfooz Qila" samajhne ki taraf.
+
+**Dua (The Dual Duas):**
+
+Adl qaim karna nafs par sab se bhari kaam hai. Is liye hum us dua ka sahara lete hain jo Nabi Kareem ﷺ ne sikhayi:
+
+**Masnoon Dua (Arabic Text):**
+> اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْمًا كَثِيرًا، وَلَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ، وَارْحَمْنِي، إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِيمُ
+
+**Tarjuma:**
+> "Aye Allah! Beshak main ne apni jaan par bahut zulm kiya, aur Tere siwa gunahon ko koi nahi bakhsh sakta. Pas Tu apni taraf se meri maghfirat farma aur mujh par raham kar. Beshak Tu hi Bakhshne wala, Meherban hai." (Sahih Bukhari)
+
+**Misaaq ki Dua:**
+> "Aye Allah! Aye Al-Hakam (Faisla karne wale), Aye Al-Adl (Insaaf karne wale)! Humein wo baseerat ata farma ke hum Teri qaim karda hudood ko dekh sakein. Humein himmat de ke hum Insaaf par qaim rahein, chahe wo hamare apne nafs ya khandan ke khilaf hi kyun na ho. Humein 'Zalim' banne se bhi bacha aur 'Mazloom' ban kar rehne se bhi. Jab hum par zulm ho, to humein wo raah dikha jo Tune rakhi hai; aur jab hum se zulm ho, to humein tauba ki taufiq de. Hamare Misaaq ko Adl ka wo qila bana de jis mein Fadl ke baagh khil sakein. Ameen."
+
+
+---
+---
 
 
 
