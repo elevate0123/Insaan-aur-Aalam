@@ -1036,6 +1036,81 @@ The Prologue is a work of deep, thematic *tafsīr* on a single, perfect passage 
     6.  **Prophetic Paradigm:** The three incidents: The Honey Incident, The Counsel of Umm Salamah, and The *Tasbih* of Fatima. (~400 words)
     7.  **Seal:** Paradigm Shifts and Dual Duas. (~150 words)
 
+---
+---
+
+### **Final Authorized Drafting Mandate: The New Chapter 5**
+
+**Document Version:** 1.0 (Final)
+**For Direct Copy-Pasting**
+
+---
+
+**I. The Chapter's Mission: The Art of Just Allegiance**
+
+The singular mission of this chapter is to provide a clear, theologically grounded, and practical framework for navigating the complex world of in-laws. It will dismantle the false and destructive dichotomy of "my mother vs. my wife" and replace it with a paradigm of **just and balanced allegiances.** It will teach the couple how to honor their parents without dishonoring their covenant, and how to protect their covenant without severing the sacred ties of kinship (*silat al-raḥim*).
+
+**II. The Authorial Voice & Tone: The Wise Jurist & Compassionate Counselor**
+
+*   **Voice:** A blend of the "Guardian of the Limits" and the "Wise Spiritual Guide."
+*   **Tone:** Sober, compassionate, and intensely practical. The tone must be one of profound empathy for the person caught in the middle, while being unyieldingly firm on the principles of justice and the non-negotiable sanctity of the marital bond.
+
+**III. The Final Chapter Title**
+
+*   **The Just Balance: The Covenant and the Kin**
+
+**IV. The Detailed Architectural Outline & Word Count**
+
+The chapter's target length is **~2,300 words**.
+
+**1. The Anchor (Al-Asl)**
+*   **Purpose:** To establish the two sacred, and sometimes conflicting, covenants at the heart of the issue.
+*   **Content:** A dual presentation: Qur'an 17:23 on the command of *Ihsan* to parents, immediately followed by Qur'an 4:19 on the command of *Ma'ruf* with spouses.
+*   **Word Count:** ~100 words.
+
+**2. The Illumination (Al-Bayan)**
+*   **Purpose:** To introduce the chapter's core intellectual tool for resolving the conflict.
+*   **Content Flow:**
+    1.  Frame the issue as a divine test of navigating two of the most sacred duties in Islam.
+    2.  Introduce the "Lens & Specimen Protocol" for this chapter: the crucial distinction between **البر (*Al-Birr*)** (Righteous Kindness, which is absolute and unconditional) and **الطاعة (*Al-Ṭā'ah*)** (Obedience, which is conditional and never required in sin or injustice). This is the key that unlocks the entire problem.
+*   **Word Count:** ~400 words.
+
+**3. The Heritage (Al-Turath)**
+*   **Purpose:** To provide classical scholarly weight to the principle of conditional obedience.
+*   **Content:** A powerful, direct quote from a classical master (e.g., Imam Ahmad ibn Hanbal) on the principle of "No obedience to the creation in disobedience to the Creator."
+*   **Word Count:** ~200 words.
+
+**4. The Provocation (Al-Istifzaz)**
+*   **Purpose:** To diagnose the three most common manifestations of this conflict with surgical precision.
+*   **Content:** The triad of scenarios:
+    1.  **The Transgressing Matriarch:** The classic "Tug of War."
+    2.  **The Neglected Parents:** The reverse scenario of emotional blackmail.
+    3.  **The Financial Entanglement:** The issue of control via money.
+*   **Word Count:** ~700 words.
+
+**5. The Antidote (Al-Tiryaq): The Three Pillars of Just Allegiance**
+*   **Purpose:** To provide the clear, actionable framework for navigating the conflict.
+*   **Content:**
+    1.  **The Husband's Burden: The Just Pillar.** His dual role as protector of the wife and primary caregiver for his parents.
+    2.  **The Wife's Art: The Gracious Ambassador.** Her role as the builder of bridges, fortified by her husband's protection.
+    3.  **The Couple's Shield: The United Front.** The practical strategy of private consultation and public unity ("We have decided...").
+*   **Word Count:** ~500 words.
+
+**6. The Prophetic Paradigm**
+*   **Purpose:** To provide the ultimate, Qur'anically-endorsed model of perfect, just allegiance.
+*   **Content:** The story of **Sa'd ibn Abi Waqqas (RA) and his mother**, as confirmed by the revelation in Surah Luqman (31:15).
+*   **Analysis Focus:** Frame this as the living embodiment of the *Birr* vs. *Ta'ah* distinction. He refused obedience in what was wrong but was commanded to maintain kindness in all worldly affairs. It is the perfect model of a firm boundary held with a merciful heart.
+*   **Word Count:** ~300 words.
+
+**7. The Seal (Al-Khatm)**
+*   **Purpose:** To conclude the chapter with a powerful summary and a spiritual call to action.
+*   **Content:** The bulleted Paradigm Shifts and the Dual Duas.
+*   **Word Count:** ~150 words.
+
+---
+---
+---
+
 ### **Chapter 5: The Embassy's Mission**
 
 *   **Mission:** To re-orient the marital covenant towards its ultimate purpose: the *Akhirah*.
