@@ -1,7 +1,7 @@
 
 # M2 Book 
 
-# ToC
+## ToC
 
 ```table-of-contents
 title: 
@@ -46,6 +46,7 @@ It is a universe unto itself, a deep and unfathomable sea holding worlds within 
 
 And then, by a decree of the Most Merciful, an event of awesome power occurs. Another ocean, just as vast, just as deep, just as full of its own history and its own storms, is brought to its shore. This is the moment of the covenant, the sacred meeting described by the Lord of Majesty and Honor:
 
+ > مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ ١٩
 > *He has merged the two seas, and they meet.*
 > (Qur'an, 55:19)
 
@@ -53,13 +54,15 @@ For the meeting of two great seas is never a gentle thing. It is a zone of immen
 
 For the Divine Architect, in His perfect wisdom, did not design this meeting to be one of mutual destruction. He placed within it a sacred, regulating principle:
 
-> *Between them is a barrier which they do not transgress.*
+> بَيْنَهُمَا بَرْزَخٌۭ لَّا يَبْغِيَانِ ٢٠
+*Between them is a barrier which they do not transgress.*
 > (Qur'an, 55:20)
 
 This is the **البرزخ (*Al-Barzakh*)**. It is not a wall that divides, but a permeable, miraculous membrane. It is the law of sacred boundaries, the mutual respect for each other's distinct identity, that prevents the two souls from obliterating each other in the initial storm of their union. It is the divine principle that transforms the initial, violent crash into a creative, life-giving dance.
 
 It is only from this dance—from the immense pressure of the meeting, protected by the sacred respect of the barrier—that the true purpose of the union can be realized. For the Lord of Majesty and Honor concludes:
 
+> يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ ٢٢
 > *From both of them come forth the pearl and the coral.*
 > (Qur'an, 55:22)
 
