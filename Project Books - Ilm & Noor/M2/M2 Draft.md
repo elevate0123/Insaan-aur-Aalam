@@ -112,6 +112,8 @@ What allows one to leave the bitter courtroom and enter the life-giving orchard?
 
 *Al-Fadl* is not mere politeness. It is a state of proactive, voluntary, selfless generosity. It is the spirit that operates above and beyond the baseline of mere justice. Justice (*Adl*) says, "This is your right." *Fadl* says, "I will give you more than your right, seeking nothing in return but the pleasure of Allah." Justice is the floor; *Fadl* is the sublime ceiling. A marriage that lives only by the cold floor of justice is a marriage in a state of spiritual poverty.
 
+This principle of Fadl is not a mere suggestion of good manners; it is the practical proof of a heart oriented towards true, God-conscious love (maḥabbah). The master theologian of the heart, Imam Ibn al-Qayyim, distinguished between the soul's two great loves: the lower love of base passion ('ishq), which takes, and the higher love for the sake of Allah (maḥabbah), which gives. The "Courtroom Mindset" is the inevitable result of a marriage built on 'ishq; when the passion fades, only the accounting of rights remains. But a marriage built on maḥabbah naturally blossoms into Fadl, for its purpose is not to take from the spouse, but to give for the sake of the ultimate Beloved, Allah ﷻ. To live by Fadl is to prove that the covenant is an act of divine worship, not a worldly transaction.
+
 *Fadl* is the living water one chooses to pour on the roots of the covenant, especially when the emotional landscape feels dry and barren. It is the choice to act with beauty when our lower self calls us to act with bitterness, a direct and faithful response to the reality acknowledged in our opening verse. It is the profound understanding that the covenant is not a contract to be fulfilled, but an orchard to be cultivated for the sake of God.
 
 ---
@@ -153,13 +155,13 @@ The Prophet ﷺ did not just establish the covenant; he constructed its sacred a
 
 ---
 ---
-
 #### **[Component] The Heritage (Al-Turath)**
 
-The Prophet ﷺ did not just establish the covenant; he constructed its sacred architecture. The great Imams who inherited this structure were not mere residents. They were its first and most devoted guardians, tasked with measuring its foundations and articulating the profound weight it was built to bear. Their words, therefore, are not meant for mere comfort; they are the plumb lines that reveal the true, unyielding verticality of this divine institution.
+The great Damascene scholar, Ibn al-Qayyim al-Jawziyya, for example, described the covenant not through the lens of law, but through the lens of the soul's purpose. For him, the ultimate goal of marriage was a partnership in worship, a shared journey towards Allah that beautified and completed the faith of both partners. This vision frames the covenant as a vehicle for spiritual ascent.
 
-No one articulated this shocking gravity with more intellectual force than the Proof of Islam, Imam Abu Hamid al-Ghazali. His choice of words is a deliberate shock to the system.
+If Ibn al-Qayyim described the covenant's sublime purpose, the Proof of Islam, Imam Abu Hamid al-Ghazali, articulated its shocking gravity with more intellectual force than the Proof of Islam, Imam Abu Hamid al-Ghazali. His choice of words is a deliberate shock to the system.
 
+(The great masters, in their desire to awaken the soul from its slumber, sometimes used language that is intentionally shocking to the modern ear. It must be understood not as a legal description, but as a spiritual shock treatment.)
 **Specimen:**
 
 **Source:** Al-Ghazali, Abu Hamid. *Ihya' 'Ulum al-Din*, Vol. 2, *Kitab Adab al-Nikah* (The Book on the Etiquettes of Marriage).
@@ -200,9 +202,6 @@ If Imam al-Ghazali defined the covenant's vertical gravity—its weight before A
 **Analysis:**
 
 For Shah Waliullah, the covenant is not merely a private spiritual path; it is a public good of the highest order, a foundational pillar (asās) without which society itself collapses into chaos. The vision of the classical masters is therefore complete: the covenant is at once a profound personal Amanah with consequences in the Hereafter, and the foundational pillar upon which a righteous society is built. To treat it as a mere contract is not just a mistake; it is an act of profound spiritual and civilizational blindness.
-
----
----
 
 ---
 ---
@@ -320,6 +319,7 @@ Shah Waliullah frames divorce not as a failure, but as a necessary and merciful 
 
 Thus, the vision of the tradition is complete and uncompromising. The jurist, Ibn Abidin, provides the legal "how" of intervention in the face of harm, while the theologian, Shah Waliullah, provides the merciful "why" of release from a covenant that has become a torment.
 
+This "torment of the soul" (taʿdhīb al-rūḥ) is a profound theological diagnosis. Imam Ibn al-Qayyim explains that the greatest punishment a soul can experience in this life is the constriction of the heart—a state of being veiled from Allah, trapped in the darkness of its own grievances. An oppressive covenant, therefore, is not just an emotional crisis; it is a spiritual one. It creates an environment where the remembrance of Allah withers and the heart becomes sick. The Sacred Law's provision for release is thus an act of profound spiritual mercy, a recognition that a soul cannot be commanded to journey to God when its worldly home has become a cage that prevents its flight.
 
 ---
 ---
@@ -1324,6 +1324,8 @@ Then comes the final, most merciful act of the King. He reaches into the hearts 
 
 Every wound from the "Zone of Turbulence," every scar from a harsh word, every lingering pain from a misunderstanding—all of it is washed away, leaving not even a memory of the sting. The two oceans, which once met in a storm, now merge into a single, placid sea of pure light and perfect love. The *barzakh* of identity remains, but the friction is gone, forever. The covenant is perfected.
 
+This removal of all resentment is the perfection of companionship. Imam Ibn al-Qayyim, in describing the joys of Paradise, explains that the ultimate delight is not in the rivers of honey or the beautiful gardens, but in the joy of perfected, loving companionship in the presence of Allah, culminating in the ultimate bliss of seeing the Face of God Himself. The eternal marriage in Jannah is therefore not a continuation of the worldly test, but its ultimate reward: a state of pure Mawaddah without any friction, a perfect Sakinah without any fear, a shared, unending joy in the immediate presence of The Most Loving (Al-Wadūd).
+
 This, then, is the Embassy in Jannah. It is no longer an outpost in a foreign land, but a home in the homeland. Its walls are not built of struggle and patience, but of peace and proximity to the Divine. Their companionship is now an eternal, effortless expression of joy, a perfect *Mawaddah* in the direct presence of The King. Their shared mission is complete. The reward is not a journey; it is Home.
 
 May Allah, by His infinite Grace and Mercy, make this our final end, and the final end of all who love Him.
@@ -1358,6 +1360,12 @@ Throughout the book, you will find a technique I call the **"Lens & Specimen Pro
 
 Finally, you will have encountered the two **Belvederes**. These are the book's lungs. They are intentional pauses, moments of rest and synthesis after the steep intellectual climbs of Gate I and Gate II. Their distinct, aphoristic style—the "Wisdom in White Space"—is born from a conviction that **true learning requires moments of rest and reflection (*tafakkur*).** A relentless intellectual ascent leads to exhaustion. The Belvederes are designed to intentionally slow the reader's pace and allow the heart to absorb what the mind has just understood.
 
+==~~**The book's jurisprudential and theological position**~~==
+
+==~~A note on the sources and school of thought is necessary. This book is written from within the living tradition of the **Ahlus Sunnah wal Jama'ah**, as understood and practiced by the scholars of the **Hanafi school of jurisprudence** and the **Ash'ari/Maturidi schools of theology**. The principles and paradigms presented herein are universal Qur'anic truths, but their specific legal application and interpretation are articulated from this specific, authoritative perspective. This is not an act of exclusion, but an act of intellectual honesty and an adherence to the classical principle of taqlīd (following a qualified school of thought). The goal is not to provide a comprehensive survey of all possible opinions, but to present a single, coherent, and deeply rooted paradigm with clarity and conviction.~~==
+
+
+
 I have attempted, in this small work, to build a structure that is both intellectually robust and spiritually resonant. It is an act of service (*khidmah*) offered in the hope that this vessel is worthy of the precious wisdom it contains and that it may, by the grace of its Originator, guide the reader safely to shore.
 
 And Allah knows best.
@@ -1382,20 +1390,24 @@ This is not an exhaustive list of every source consulted in the writing of this 
 *   **Full Citation:** Al-Nawawi, Yahya ibn Sharaf. *Riyad al-Salihin*. Numerous editions.
 *   **Annotation:** This is arguably the most important and beloved collection of Hadith ever compiled for the purpose of character development. It is a living portrait of the Prophetic character in action. By mastering the chapters on sincerity, justice, mercy, patience, and good character, one builds the essential foundation required to live out the Divine Paradigm in one's own home. This is the sourcebook for the *akhlaq* of a true ambassador.
 
+**3. Ibn Qayyim al-Jawziyya. Madārij al-Sālikīn (The Ranks of the Seekers).**
+- **Full Citation:** Ibn Qayyim al-Jawziyya, Shams al-Din. Madārij al-Sālikīn bayna Manāzil Iyyāka Naʿbudu wa Iyyāka Nastaʿīn. 3 vols. Numerous editions.
+- **Annotation:** Imam Ibn al-Qayyim is the undisputed master theologian of the heart's inner states. While the Ihya' maps the soul's diseases and cures, the Madārij provides the spiritual GPS for the soul's ascent to Allah. It is the ultimate source for understanding the profound spiritual psychology behind concepts like love (maḥabbah), hope (rajā'), and fear (khawf), which are the very currents that move the ocean of the covenant. Read this to understand the spiritual physics of the heart.
+
 ---
 
 **Part II: The Pillars of Deeper Study**
 *(For the dedicated student who, having mastered the Cornerstones, wishes to go deeper into the specific dimensions of law, societal wisdom, and the sublime reality of the Prophet ﷺ.)*
 
-**3. Shah Waliullah Dehlawi. *Hujjatullah al-Baligha* (The Conclusive Argument from God).**
+**4. Shah Waliullah Dehlawi. *Hujjatullah al-Baligha* (The Conclusive Argument from God).**
 *   **Full Citation:** Shah Waliullah Dehlawi. *Hujjatullah al-Baligha*. 2 vols. Numerous editions.
 *   **Annotation:** This work is the gold standard for understanding the *hikmah* (wisdom) behind the rulings of the Shari'ah. Its sections on marriage explain the divine purpose of the institution not just for the individual, but as a foundational pillar for a righteous and flourishing human civilization. Read this to understand the "Why" at a civilizational level—the grand, cosmic purpose of the covenant.
 
-**4. Al-Marghinani, Burhan al-Din. *Al-Hidayah fi Sharh Bidayat al-Mubtadi* (The Guidance).**
+**5. Al-Marghinani, Burhan al-Din. *Al-Hidayah fi Sharh Bidayat al-Mubtadi* (The Guidance).**
 *   **Full Citation:** Al-Marghinani, Burhan al-Din. *Al-Hidayah*. 4 vols. Numerous editions.
 *   **Annotation:** As one of the most important and influential compendiums of Hanafi jurisprudence, *Al-Hidayah* is the bedrock of the legal tradition this book is grounded in. It provides the detailed, authoritative rulings on marriage, divorce, maintenance, and the rights of the spouses that form the "outer skin" of the covenant. This is a dense and difficult text, but for the serious student, it is the ultimate source for understanding the legal mechanics of justice.
 
-**5. Qadi 'Iyad. *Ash-Shifa bi Ta'rif Huquq al-Mustafa* (The Healing by the Recognition of the Rights of the Chosen One).**
+**6. Qadi 'Iyad. *Ash-Shifa bi Ta'rif Huquq al-Mustafa* (The Healing by the Recognition of the Rights of the Chosen One).**
 *   **Full Citation:** Qadi 'Iyad ibn Musa al-Yahsubi. *Ash-Shifa*. 2 vols. Numerous editions.
 *   **Annotation:** While not a book on marriage, *Ash-Shifa* is the definitive classical work on the character, virtues, and sublime reality of the Prophet ﷺ. To understand the Prophetic Paradigm in marriage, one must first have a deep and reverent love and understanding of the Prophet's ﷺ perfect character (*akhlaq*). This book is the primary source for that love and understanding. Read this to know the man before you try to emulate the husband.
 
