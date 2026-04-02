@@ -162,7 +162,7 @@ The absolute prerequisite of correct belief for the acceptance of any action is 
 >
 > *[Reference: A similar narration is found in Sahih al-Bukhari where the Prophet ﷺ states, "We do not seek assistance from a polytheist."]*
 
-> `> [!NOTE] Speaker's Voice`
+> [!NOTE] Speaker's Voice`
 > *In response to the modern tendency to prioritize utility over creed, the speaker powerfully illustrates the Prophetic absolute:* "The Prophet ﷺ did not form a committee. He did not weigh the pros and cons. He delivered a divine ultimatum: your soul before your sword. This is the foundation."
 
 ##### The Thematic Core of the Qur'an
