@@ -1,15 +1,14 @@
-
-
 # بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 ---
 
 # COMPUTATIONAL SEMANTIC NETWORK OF PAIRED DIVINE NAMES IN THE QUR'AN
 
-## _Asmā' al-Ḥusnā Dyad Analysis — Project Dossier v2.0_
+## _Asmā' al-Ḥusnā Dyad Analysis — Project Dossier v2.1_
 
-> **Version:** 2.0 | **Status:** Active — Single Source of Truth  
-> **Replaces:** Dossier v1.0 (all prior documents superseded)  
+> **Version:** 2.1 | **Status:** Active — Single Source of Truth  
+> **Replaces:** Dossier v2.0 (v1.0 and all prior documents superseded)  
+> **v2.1 additions:** Network Motif Analysis (Section 5.7); Dynamic Essentialism / Relational Ontology (Sections 4.5, 8 Paper 5); Reproducible Research Pipeline & Tech Stack (Section 6)  
 > **Audience:** Academic Collaborators · Funding Bodies · Islamic Studies Scholars · Computational Researchers · Network Scientists · Philosophers of Religion · Digital Humanities Community  
 > **Maintained by:** Principal Researcher
 
@@ -26,9 +25,9 @@ This dossier is the single source of truth for the entire research programme. It
 **Quick navigation by role:**
 
 - _Islamic Studies scholar / tafsīr consultant_ → Sections 4, 6.3, 7, 10
-- _Data engineer / Python developer_ → Sections 5, 6.1, 6.2, 9
-- _Network scientist_ → Sections 5.4–5.6, 6.4, 8 (Paper 4 revised)
-- _Philosopher of religion_ → Sections 4.5, 8 (Paper 5)
+- _Data engineer / Python developer_ → Sections 5, 6.1, 6.2, 6.5 (Tech Stack), 9
+- _Network scientist_ → Sections 5.4–5.7, 6.4, 8 (Papers 1, 4)
+- _Philosopher of religion_ → Sections 4.5, 8 (Paper 5 — Dynamic Essentialism)
 - _Funding body / institutional partner_ → Sections 1, 2, 11, 12
 - _Digital humanities collaborator_ → Sections 3, 5, 6, 8 (Paper 0)
 - _Potential co-author_ → Section 13
@@ -63,21 +62,29 @@ The foundational dataset — 177 validated dyads extracted from the Tanzil corpu
 |64/71 unique pairs are hapax|Single-occurrence pairs dominate|Established|
 |Three structural refrains identified|Surah 26 (n=9), Surah 2 (n=4), Surah 3 (n=4)|Established|
 
-## 1.4 What v2.0 Changes
+## 1.4 What v2.0 and v2.1 Change
 
-Version 2.0 incorporates ten structural changes to the research design — driven by a systematic critique of the v1.0 programme. The core dataset remains valid. What changes is: the taxonomic framework (Kamāl split into two sub-classes), the statistical reporting standard (NPMI CIs, stratified null model), the network model (directed/undirected decision, Louvain consensus), the paper pipeline (Papers 2+5 merged; Paper 4 replaced), and the HITL protocol (stratified sampling). Full rationale is in Appendix A.
+Version 2.0 incorporated ten structural changes to the research design — driven by a systematic critique of the v1.0 programme. The core dataset remains valid. Changes in v2.0: the taxonomic framework (Kamāl split into two sub-classes), the statistical reporting standard (NPMI CIs, stratified null model), the network model (directed/undirected decision, Louvain consensus), the paper pipeline (Papers 2+5 merged; Paper 4 replaced), and the HITL protocol (stratified sampling).
+
+**v2.1 adds three targeted theoretical and infrastructural upgrades:**
+
+1. **Network Motif Analysis** — moving from global topology (centrality, communities) to local topology (recurring triadic sub-graphs), added to Paper 1 and Paper 3. This shifts the analytical frame from "which names appear together" to "what compositional structures the Qur'an uses to build theological arguments."
+2. **Dynamic Essentialism** — a new positive theoretical claim for Paper 5, replacing the binary essentialism-vs.-contextualism debate framing with a relational ontology in which the dyadic Edge (the pairing relation) is the primary locus of meaning.
+3. **Reproducible Research Pipeline** — a full, layer-by-layer tech stack specification replacing tool lists with a complete, version-controlled, auditable infrastructure.
+
+Full rationale for all v2.0 changes is in Appendix A.
 
 ## 1.5 Programme Outputs
 
 |Output|Timeline|Status|
 |---|---|---|
 |Master dataset (Zenodo, CC-BY 4.0)|Month 4|In preparation|
-|Paper 0: Methodology + HITL pipeline|Month 10|Drafting|
-|Paper 1: Corpus frequency + network structure|Month 12|In preparation|
+|Paper 0: Methodology + HITL pipeline + reproducibility checklist|Month 10|Drafting|
+|Paper 1: Corpus frequency + network structure + **motif architecture**|Month 12|In preparation|
 |Paper 2: Jalāl–Jamāl axis + semantic polarity|Month 16|Planned|
-|Paper 3: Dyad–theme contextual correlation|Month 20|Planned|
+|Paper 3: Dyad–theme correlation + **motif–theme structural tendencies**|Month 20|Planned|
 |Paper 4 (revised): Cross-corpus religious network comparison|Month 24|Planned|
-|Paper 5 (merged with former P2/P5): Structured pattern + contextual deployment|Month 26|Planned|
+|Paper 5 (merged): **Dynamic Essentialism** — structural regularity + contextual deployment|Month 26|Planned|
 |Scholarly monograph|Month 36|Planned|
 
 ---
@@ -218,19 +225,39 @@ This programme draws on five theoretical traditions. Each provides a distinct an
 
 **Journal homes:** _Applied Network Science_, _Journal of Complex Networks_, _Social Networks_.
 
-## 4.5 Philosophy of Religion — Divine Attribute Theory
+## 4.5 Philosophy of Religion — Dynamic Essentialism and Relational Ontology
 
-**Core principle:** The intertextual analysis (Paper 5, merged) directly engages the philosophical question of whether divine attributes are essential and immutable or contextually modulated.
+**Core principle:** This programme does not referee the essentialism/contextualism debate in philosophy of religion — it proposes a resolution by reframing the unit of analysis. The debate has proceeded by treating individual Names as the primary objects (are they essentially fixed or contextually variable?). The Qur'anic dyad data points to a third option: **the dyadic relation — the Edge — is the primary locus of meaning, not the Node**.
 
-**The positions:**
+**The three positions:**
 
 - **Essentialism** (Alston, Swinburne, Plantinga): each divine name names an intrinsic, unchanging property of the divine nature. Context cannot modulate the attribute itself.
 - **Contextual theology** (Murata, Chittick): the same name, used in different contexts, expresses different facets or intensities of the underlying reality.
-- **The Muʿtazilī position** (Ibn al-Jabbār, Zamakhsharī): divine names are different linguistic expressions of the same undivided reality — ontological distinctions between attributes are denied. This is functionally closer to contextualism than to Ashʿarī essentialism.
+- **The Muʿtazilī position** (Ibn al-Jabbār, Zamakhsharī): divine names are different linguistic expressions of the same undivided reality — ontological distinctions between attributes are denied.
 
-**The v2.0 theoretical contribution:** The programme's unified finding — dyad system is structurally patterned _and_ contextually deployed — maps onto a position that is neither pure essentialism nor pure contextualism. The structural patterning (stable JJK combinations, stable network topology across Meccan and Medinan periods) supports the essentialist claim that names carry stable semantic properties. The contextual deployment (same dyad appears across different verse themes; high-surprise dyads mark rhetorical exceptions) supports the contextualist claim that selection among available names is contextually sensitive. The Qur'an's dyad system is, on this reading, _essentialist at the attribute level and contextualist at the deployment level_ — a position not articulated in the existing philosophical literature and publishable as an original contribution to _Sophia_ or _Journal of Religion_.
+**Dynamic Essentialism — the v2.1 theoretical contribution:**
 
-**Critical addition (v2.0):** Paper 5 must now include a 300-word kalām contextualization section situating the essentialism/contextualism debate within the Ashʿarī vs. Muʿtazilī Sifāt dispute. This is not optional — reviewers at _Sophia_ and _Journal of Religion_ will expect it, and the Muʿtazilī position is theoretically important because it predicts a different network structure than the Ashʿarī position (if names are merely different expressions of one undivided reality, the co-occurrence network should show high clustering and low modularity; if names are genuinely distinct properties, the network should show identifiable community structure).
+The programme proposes a synthesis that is neither binary:
+
+- **The Nodes are Essential.** Divine Names carry stable, immutable semantic properties. This is demonstrated by the stable network topology across Meccan and Medinan periods (Spearman ρ=0.84 on degree hierarchy) and the high NPMI of canonical pairs. The Name Al-ʿAzīz is always a Jalāl name; Al-Raḥīm is always a Jamāl name. Their properties do not change.
+- **The Edges are Dynamic.** The _pairing_ of these names is where the text's active theological work occurs. The meaning of a verse's closing dyad is not located in Al-Ghafūr _or_ Al-Raḥīm — it is located in the relational vector created _between_ them in that specific verse context.
+- **The Synthesis.** The Qur'an operates a system of **Relational Attributes**: the divine essence is immutable (essentialism at the attribute level), but the _presentation_ of that essence to the human recipient is dynamically calibrated through the specific pairing chosen for each verse context (contextualism at the deployment level). The dyad system is the mechanism of that calibration.
+
+**The evidence base for this claim:**
+
+- **High-surprise dyads** are the key proof. A dyad with semantic surprise > 3.5 bits (e.g., Q42:28 Al-Walī–Al-Ḥamīd) is a "relational exception" — a moment where the text intentionally breaks the dominant motif to produce a specific, high-intensity theological signal. The surprise is not in either name alone; it is in the _relation between them in that context_. Al-Rāzī comments on exactly these moments.
+- **Structural motifs** (see Section 5.7) show that recurring triadic structures (Jalāl → Kamāl-epistemic → Jamāl) are the "molecular" units of theological argument, not individual names. The composition operates at the relational level.
+- **The Louvain community structure** provides preliminary network evidence: if names were genuinely distinct properties (Ashʿarī), we expect high modularity; if names were undifferentiated expressions of one reality (Muʿtazilī), we expect low modularity. The observed structure (subject to resolution-parameter sensitivity) can be read as evidence for the Ashʿarī position at the node level and the contextual position at the edge level — precisely what Dynamic Essentialism predicts.
+
+**The kalām mapping (required for Paper 5):**
+
+- **Ashʿarī position** (divine attributes are real, distinct, subsistent) → maps onto Node-level essentialism. Confirmed by stable topology.
+- **Muʿtazilī position** (names are linguistic expressions of one undivided reality) → predicts no community structure. Disconfirmed by observed modularity.
+- **Ibn ʿArabī's tajallī** (names as relational properties of divine self-disclosure, not intrinsic essences) → maps most closely onto Dynamic Essentialism. The Edge is the tajallī — the specific mode of divine self-presentation in a given verse context.
+
+Paper 5 will present Dynamic Essentialism as its positive theoretical claim, not as a compromise between existing positions. It will engage Alston (1989), Swinburne (1993), Murata (1992), and Chittick (1998) in the literature review, and the Ashʿarī/Muʿtazilī/Ibn ʿArabī debate in the kalām section — and then argue that the data supports a position none of these articulate.
+
+**Journal homes:** _Sophia_ (Springer, Scopus Q1); _Journal of Religion_ (Chicago); _Philosophy East and West_; _International Journal for Philosophy of Religion_.
 
 ---
 
@@ -370,11 +397,47 @@ The validated dataset is imported into Python (NetworkX) to construct a **weight
 
 **Export formats:** NetworkX GraphML (archival), Gephi GEXF (visualization), CSV edge list (interoperability).
 
-## 5.7 Step 7 — Statistical Validation (Stratified Null Model)
+## 5.7 Step 7 — Network Motif Analysis (v2.1 addition)
+
+**What motifs are and why they matter:**  
+Global network metrics (centrality, communities) reveal the _who_ and the _where_ of the divine name system — which names are hubs, which cluster together. Motif analysis reveals the _how_: the recurring local sub-graph structures that function as the "molecular" compositional units of the Qur'an's theological argument. A motif is a recurring pattern of three or four names connected by dyadic edges across different verses. If a "Balancing Triad" (Jalāl — Kamāl-epistemic — Jamāl) appears significantly more often than chance, this is evidence that the Qur'an operates not with isolated pairs but with triadic relational structures as its basic compositional grammar.
+
+**Critical procedural constraint:** Motif analysis runs _on top of_ a stable, fully validated network — it is not a standalone step. The logical sequence is: lock graph definition (Section 5.6) → confirm consensus Louvain communities → run motif enumeration. Theological naming of motifs happens _after_ the computational finding, not before. Pre-specifying which motifs to look for introduces confirmation bias.
+
+**Implementation procedure:**
+
+1. **Enumerate all 3-node and 4-node sub-graphs** in the undirected weighted network using `NetworkX`'s `enumerate_all_cliques` and `subgraph_isomorphisms_iter`. For a 50-node network, this is computationally trivial (seconds).
+    
+2. **Compute observed motif frequencies** — how many times each distinct connected sub-graph pattern appears across the network.
+    
+3. **Construct a degree-sequence-preserving null model** — randomize edge assignments 10,000 times while preserving each node's degree (number of pairing partners). This is not the same null model as Null Models A and B (Section 5.8): those permute name assignments across verses; this one permutes edges within the network graph itself. The two null models test different hypotheses.
+    
+4. **Compute motif significance** (Z-score and p-value) for each observed motif pattern against the null distribution. Only motifs with p < 0.05 are reported as significant.
+    
+5. **Classify significant motifs by JJK polarity** — once computational significance is established, examine the JJK composition of each significant motif. Example motif types that may emerge:
+    
+    |Motif type|Composition|Theological interpretation if significant|
+    |---|---|---|
+    |Balancing Triad|Jalāl — Kamāl-epistemic — Jamāl|Power mediated through wisdom producing mercy — the Qur'an's most common triadic theological complex|
+    |Epistemic Cluster|Kamāl-epistemic — Kamāl-epistemic — Jalāl|Knowledge reinforced by awareness, grounded in might — typical of legislative and judgement contexts|
+    |Ontological Bridge|Kamāl-ontological — Jalāl — Jamāl|Divine life/existence as the ground of both majesty and mercy — relatively rare, theologically dense|
+    |Refrain Chain|Same-JJK — Same-JJK — Same-JJK|Intensification without polarity modulation — typical of narrative refrains|
+    
+    These are _illustrative labels_. Actual motif types and their labels emerge from the data.
+    
+6. **Motif–Theme correlation** (feeds Paper 3): For each significant motif, compute its distribution across the 20 micro-level thematic categories. Report which motifs are statistically over-represented in which themes. This is the upgrade to Paper 3 — instead of correlating a single dyad to a theme, we correlate a triadic compositional structure to a theme. The claim becomes: "When the Qur'an addresses the theme of 'Divine Decree,' a [Jalāl+Kamāl-epistemic] structural tendency is statistically over-represented" — framed as a recurring structural tendency, not as an "algorithm."
+    
+
+**Implementation note — framing for publication:**  
+The word "algorithm" must not appear in Papers 1 or 3 in relation to motif findings. The correct framing is "statistically over-represented structural tendency" or "recurring compositional pattern." The theological claim is interpretive and follows from the statistical finding; it is not generated by the statistical finding. Reviewers at _Arabica_ and _Journal of Quranic Studies_ will correctly reject algorithmic determinism. Reviewers at _Applied Network Science_ will accept over-represented motifs as a standard finding if properly significance-tested.
+
+**Tools:** `NetworkX` (motif enumeration, degree-preserving randomization), `SciPy` (Z-scores), `Seaborn`/`Plotly` (motif frequency histograms vs. null distribution).
+
+## 5.8 Step 8 — Statistical Validation (Stratified Null Model)
 
 **v2.0 critical change from v1.0:** The v1.0 null model used corpus-wide permutation — shuffling name assignments across all verses, preserving only the number of names per verse. This proves overall co-occurrence is non-random but does not prove that the Meccan/Medinan differential is non-random, which is where the more interesting theological argument lives.
 
-**v2.0 approach:** Two null models:
+**v2.0 approach:** Two null models (distinct from the motif null model in Section 5.7, which operates at the graph level):
 
 **Null Model A (corpus-wide):** Permute name assignments across all verses 10,000 times, preserving number of names per verse. Produces p-values for overall dyad significance (Paper 1).
 
@@ -384,7 +447,7 @@ The validated dataset is imported into Python (NetworkX) to construct a **weight
 
 **Sensitivity analysis on dyad definition:** Run full extraction at word-distance thresholds of 5, 7, 10, and 15 words. Report which key findings (top dyad pairs, JJK distribution, Meccan/Medinan shift) are stable across thresholds. Publish sensitivity table in Paper 0 supplementary materials.
 
-## 5.8 Step 8 — LLM-Assisted Tagging (HITL Pipeline v2.0)
+## 5.9 Step 9 — LLM-Assisted Tagging (HITL Pipeline v2.0)
 
 ### For Computational/Data Science Audience
 
@@ -419,7 +482,7 @@ The v1.0 IRR sample was random 10% of corpus. This is methodologically insuffici
 
 This stratified design provides maximum coverage where it matters most while remaining feasible for a consultant with limited time.
 
-## 5.9 Step 9 — Tafsīr-Grounded Interpretation
+## 5.10 Step 10 — Tafsīr-Grounded Interpretation
 
 Computational findings are interpreted through classical exegetical tradition. For each significant pattern, the relevant tafsīr passages are consulted: did classical scholars notice this pattern? How did they explain it? Does the computational finding confirm, extend, or challenge the classical interpretation?
 
@@ -429,57 +492,164 @@ This step is not decorative. It is the scholarly warrant for the theological cla
 
 ---
 
-# 6. Tools, Software, and Resources
+# 6. Reproducible Research Pipeline and Tech Stack
 
-## 6.1 Primary Data Sources
+The biggest failure mode in Digital Humanities is the "black box" effect: a researcher produces a graph, but no one can trace exactly how the data moved from the raw XML to the published image. This programme is designed to be fully transparent, versioned, and auditable at every layer. The stack below is organised by function — not by tool — so collaborators can understand _why_ each component exists before they learn _how_ to use it.
+
+---
+
+## 6.1 Layer 1 — Primary Data Sources
 
 |Resource|Description|Access|
 |---|---|---|
-|Tanzil.net XML Corpus (v2.1.0)|Complete Qur'an, Unicode Arabic XML, Meccan/Medinan tags, verse numbering|Free download — tanzil.net|
+|Tanzil.net XML Corpus (v2.1.0)|Complete Qur'an, Unicode Arabic XML, Meccan/Medinan tags, verse numbering|Free — tanzil.net|
 |Al-Maktaba al-Shāmila|Complete classical tafsīr in Arabic — Al-Ṭabarī, Ibn Kathīr, Al-Qurṭubī, Al-Rāzī|Free — shamela.ws|
 |OpenITI Corpus|Machine-readable classical Arabic texts including tafsīr|Free — openiti.org|
 |Qur'anic Arabic Corpus (Leeds)|Morphologically annotated Qur'an — supplementary morphological reference|Free — corpus.quran.com|
 |Al-Qushayrī _Sharḥ Asmā'_|Primary JJK classification source|Print edition (Dār al-Kutub) / Shamela|
 
-## 6.2 Computational Tools
+---
 
-|Tool|Purpose|Notes|
+## 6.2 Layer 2 — HITL Interface (Data Entry and Validation)
+
+**Tool: Airtable**
+
+The Islamic Studies consultant is not a developer. They need a UI that feels like a spreadsheet but behaves like a database. Airtable solves this cleanly.
+
+**Why Airtable and not Excel:**
+
+- Excel has no version control, no linked records, and no audit trail. It is where data goes to die across a multi-year, multi-collaborator programme.
+- Airtable allows _Views_: a "Consultant View" can hide the statistical columns (NPMI, Z-scores, bootstrap CIs) and display only the Arabic text, the verse, and the JJK classification dropdowns. This prevents the consultant from accidentally overwriting quantitative fields while entering theological notes.
+- Airtable has a Snapshot/Revision History feature. If a collaborator changes 40 labels in a session, yesterday's state can be restored.
+- Airtable supports dropdown fields, linked records, and mandatory field completion — enforcing data integrity without requiring the consultant to know what data integrity means.
+
+**The workflow:** Airtable is the interface; it is never the source of truth. The source of truth is always the Git-versioned CSV (Layer 3). Export from Airtable → commit to GitHub is the canonical data flow, not the reverse.
+
+**Shared annotation interface:** The Airtable base is shared with the Islamic Studies consultant for stratified HITL annotation (Section 5.9). The principal researcher retains admin rights. All consultant edits are logged in Airtable's revision history before being merged into the canonical CSV.
+
+---
+
+## 6.3 Layer 3 — Version Control (The Source of Truth)
+
+**Tool: GitHub (private repository) + Git-versioned CSVs + Zenodo (public archive)**
+
+The truth of this project is not in Airtable. It is in a CSV file committed to a private GitHub repository. Every change to the 177-dyad dataset must be traceable to a commit with a descriptive message.
+
+**The non-negotiable requirement:** When Paper 1 is submitted, the methodology section must be able to state: _"This paper was based on Dataset v1.2 (GitHub commit: a1b2c3d, Zenodo DOI: 10.5281/zenodo.XXXXXXX)."_ If a homonym correction is made six months into Paper 3, that correction must be traceable — and every paper based on a prior dataset version must be re-evaluated against the change.
+
+**Repository structure:**
+
+```
+/data
+  /raw           ← Tanzil XML, unchanged
+  /processed     ← dyad_dataset_v*.csv, master_names_v*.csv
+  /outputs       ← network exports (GraphML, GEXF, CSV edge lists)
+/code
+  /extraction    ← CAMeL Tools pipeline, name matching
+  /analysis      ← null models, bootstrap CIs, motif analysis
+  /visualization ← Gephi exports, Plotly/Seaborn scripts
+/prompts         ← versioned LLM prompts (published with Paper 0)
+/docs            ← this dossier, IRR protocols, decision trees
+requirements.txt ← pinned Python dependency versions
+```
+
+**Zenodo releases:** Each major dataset version that underpins a paper submission gets a Zenodo release with its own DOI. A paper with a Zenodo DOI for the dataset is treated as reproducible science. A paper that says "data available upon request" is treated as a soft humanities document.
+
+---
+
+## 6.4 Layer 4 — Computational Engine (Arabic NLP and Analysis)
+
+**Language: Python 3.11+**
+
+Python is the only language with the specific ecosystem needed for this project's combination of Arabic NLP, graph theory, and statistical analysis. R is not used (no Arabic NLP ecosystem comparable to CAMeL Tools). MATLAB is not used (proprietary, not reproducible). Julia is not used (immature NLP tooling for Arabic).
+
+**Environment management: Conda or Poetry (mandatory)**
+
+All dependency versions must be pinned. If CAMeL Tools updates and changes its lemmatization logic, the entire dataset could shift without anyone noticing. Pin everything. The `requirements.txt` (or `pyproject.toml` if using Poetry) is committed to GitHub and never modified without a version bump and a note in the commit message explaining why.
+
+### Core Libraries
+
+|Library|Role|Critical notes|
 |---|---|---|
-|Python 3.10+|Core pipeline language|Libraries: pandas, numpy, scipy, lxml, matplotlib, seaborn|
-|CAMeL Tools (NYUAD)|Arabic morphological analysis and lemmatization|v2.0 addition; pip install camel-tools|
-|NetworkX|Graph construction, centrality, null model permutation|Standard|
-|Gephi 0.10|Network visualization and Louvain community detection|Free, cross-platform|
-|SciPy stats|Chi-square, Cramér's V, bootstrap resampling|Standard|
-|Protégé + OWL|Divine attribute ontology (background resource, not Paper 4)|Free|
-|Voyant Tools / AntConc|Concordance and collocation analysis for Paper 5|Free|
-|Git + GitHub (private)|Version control for dataset — mandatory in v2.0|Free|
-|Zenodo|Open dataset publication with versioned DOIs|Free|
-|Zotero|Reference management across 100+ sources|Free|
-|Overleaf / LaTeX|Paper typesetting|Preferred by most target journals|
+|**CAMeL Tools** (NYUAD)|Arabic morphological analysis and lemmatization|Non-negotiable. The only library capable of handling the morphological complexity of Classical Qur'anic Arabic — definite article variation, construct state forms, pronoun clitics, homonym disambiguation — with the precision required for publication-grade extraction. `pip install camel-tools`|
+|**Pandas**|Tabular data manipulation|Industry standard. All dataset transformations, merges, and exports.|
+|**NetworkX**|Graph construction, centrality, motif enumeration, degree-preserving null model|Fast enough for 50 nodes in-memory — no graph database needed. Use for all graph math: `enumerate_all_cliques`, `subgraph_isomorphisms_iter`, betweenness, weighted degree, Louvain (via `python-louvain`). Do not use Neo4j — 50 nodes does not justify a graph database.|
+|**python-louvain**|Louvain community detection|Run 100 times with different seeds; report consensus partition.|
+|**SciPy**|Chi-square, bootstrap resampling, Z-scores|All inferential statistics.|
+|**Statsmodels**|Cramér's V (bias-corrected), confidence intervals|Required for V_corr reporting in all chi-square results.|
+|**NumPy**|Numerical operations, random seeds|Pin the random seed in all permutation and bootstrap procedures. Report the seed value in Paper 0.|
 
-## 6.3 AI and LLM Tools (HITL Pipeline)
+**What is explicitly not used:**
 
-|Tool|Role|Constraint|
+- **Neo4j or any graph database:** You have 50 nodes. Neo4j is a Boeing 747 for crossing the street. NetworkX is correct at this scale.
+- **AI-only extraction pipelines:** If you use an LLM to perform name extraction without CAMeL Tools morphological normalization and HITL review, the results will contain hallucinated dyads and missed homonyms. This will be identified in peer review.
+- **Excel for any computation:** No formulas, no pivot tables, no analysis in Excel. Excel is for nothing in this pipeline.
+
+---
+
+## 6.5 Layer 5 — Visualization
+
+**Tools: Gephi (network topology) + Plotly / Seaborn (statistics)**
+
+### Network Visualization — Gephi 0.10
+
+Gephi is used exclusively for the final publication-quality network visualizations. NetworkX produces "hairballs" at 50 nodes with default layouts; Gephi produces publication figures.
+
+**Required settings:**
+
+- Layout: **ForceAtlas2** — reveals community cluster structure naturally. Do not use Fruchterman-Reingold; it does not separate communities as cleanly at this scale.
+- Node size: weighted by degree centrality (Stable and Moderate nodes only — Section 5.8).
+- Node color: JJK class (Jalāl = red/coral, Jamāl = green/teal, Kamāl-epistemic = blue, Kamāl-ontological = purple, Disputed = grey).
+- Edge weight: raw co-occurrence frequency (NPMI as edge label for canonical pairs only).
+- Export: SVG for print, PNG at 300dpi for journals that require raster figures.
+
+**Gephi workflow:** NetworkX produces the validated, analyzed network → export to GEXF → import into Gephi → apply ForceAtlas2 → run Louvain in Gephi as visual confirmation of NetworkX consensus communities → export.
+
+### Statistical Visualization — Plotly and Seaborn
+
+|Plot type|Tool|Papers|
 |---|---|---|
-|Claude Sonnet (Anthropic)|First-pass theme tagging; relationship type heuristic|First-pass only; all output HITL-validated|
-|GPT-4 (optional)|Cross-validation of theme tags on 10% sample|Not primary; shared bias risk acknowledged|
-|Python prompt templates|Versioned, stored in repository, published with Paper 0|Mandatory for reproducibility|
+|NPMI distribution with bootstrap CI bands|Seaborn|Papers 0, 1|
+|Semantic surprise histogram (by HITL priority tier)|Plotly (interactive)|Papers 0, 3|
+|Motif frequency vs. null distribution|Seaborn|Paper 1|
+|Meccan/Medinan JJK composition shift|Seaborn stacked bar|Papers 1, 3|
+|Dyad–theme chi-square heatmap|Seaborn|Paper 3|
+|Dynamic Essentialism — Edge vs. Node locus (conceptual)|Plotly|Paper 5|
 
-**What LLM does NOT do in v2.0:** JJK classification (done by researcher against Al-Qushayrī directly), homonym resolution (done by researcher against tafsīr), HITL reviewer decisions (done by researcher and Islamic Studies consultant).
+**Plotly for digital humanities outputs:** Plotly generates interactive HTML figures that can be embedded in a programme website, supplementary materials, or a Jupyter notebook. For Digital Humanities venues, interactive figures are a feature, not a distraction.
 
-## 6.4 Key Scholarly Sources
+---
+
+## 6.6 Layer 6 — AI and LLM Tools (HITL Pipeline)
+
+|Tool|Role|Hard constraint|
+|---|---|---|
+|Claude Sonnet (Anthropic)|First-pass macro and micro verse theme tagging; relationship type heuristic suggestion|First-pass only. All output HITL-validated by researcher against tafsīr.|
+|Python prompt templates|Versioned in GitHub `/prompts/` directory|Published verbatim with Paper 0 supplementary materials.|
+|GPT-4 (optional)|Cross-validation of theme tags on 10% sample|Not primary evidence. Shared-bias risk acknowledged.|
+
+**What LLM does not do:**
+
+- JJK classification (researcher directly against Al-Qushayrī).
+- Homonym resolution (researcher against tafsīr).
+- Motif classification (computational, post-hoc, and theological — researcher only).
+- HITL reviewer decisions (researcher and Islamic Studies consultant).
+
+---
+
+## 6.7 Layer 7 — Scholarly Sources
 
 ### Classical Islamic Sources
 
 |Source|Author|Direct relevance|
 |---|---|---|
-|_Sharḥ Asmā' Allāh al-Ḥusnā_|Al-Qushayrī (d. 1072)|**Primary JJK classification source** (v2.0)|
-|_Al-Maqṣad al-Asnā_|Al-Ghazālī (d. 1111)|Secondary name inclusion validator; individual name theology|
+|_Sharḥ Asmā' Allāh al-Ḥusnā_|Al-Qushayrī (d. 1072)|**Primary JJK classification source**|
+|_Al-Maqṣad al-Asnā_|Al-Ghazālī (d. 1111)|Secondary name inclusion validator|
 |_Mafātīḥ al-Ghayb_|Fakhr al-Dīn Al-Rāzī (d. 1210)|**Primary tafsīr interlocutor** — systematic pairing justifications|
 |_Jāmiʿ al-Bayān_|Al-Ṭabarī (d. 923)|Early tafsīr; linguistic analysis|
 |_Tafsīr al-Qur'ān al-ʿAẓīm_|Ibn Kathīr (d. 1373)|Standard Sunni validation source|
 |_Al-Jāmiʿ li-Aḥkām al-Qur'ān_|Al-Qurṭubī (d. 1273)|Legal/contextual tagging validation|
-|_Al-Futūḥāt al-Makkiyya_|Ibn ʿArabī (d. 1240)|Kamāl-ontological category; relational attribute ontology|
+|_Al-Futūḥāt al-Makkiyya_|Ibn ʿArabī (d. 1240)|Kamāl-ontological; tajallī framework for Dynamic Essentialism|
 |_Badāʾiʿ al-Fawāʾid_|Ibn al-Qayyim (d. 1350)|Classical pairing logic|
 
 ### Modern and Bridge Scholarship
@@ -487,12 +657,46 @@ This step is not decorative. It is the scholarly warrant for the theological cla
 |Source|Author|Relevance|
 |---|---|---|
 |_The Tao of Islam_|Sachiko Murata (1992)|Best Western-academic Jalāl/Jamāl framework|
-|_The Self-Disclosure of God_|William C. Chittick (1998)|Ibn ʿArabī's Names doctrine in English|
+|_The Self-Disclosure of God_|William C. Chittick (1998)|Ibn ʿArabī's Names doctrine — tajallī framework|
 |_The Qur'an and Its Exegesis_|Helmut Gätje (1976)|Western framework for tafsīr methodology|
 |_The Verbal Idioms of the Qur'an_|Mustansir Mir (1989)|Linguistic patterning in Qur'anic language|
 |_Scripture, Poetry and the Making..._|Angelika Neuwirth (2019)|Verse-final rhetorical weight; discourse structure|
 |_The Rhetoric of the Quran_|Michel Cuypers (2015)|Compositional and directional analysis|
 |_Corpus, Method and Case Study_|Dukes (2011)|Computational Qur'anic studies baseline|
+
+---
+
+## 6.8 Full Pipeline Summary — The Reproducible Data Flow
+
+```
+[Tanzil XML]
+     ↓
+[CAMeL Tools — morphological normalization]
+     ↓
+[Python extraction pipeline — name matching, distance calc, homonym flagging]
+     ↓
+[Airtable — HITL interface for Islamic Studies consultant annotation]
+     ↓
+[CSV export → GitHub commit (versioned, auditable)]
+     ↓
+[Python analysis — NPMI + bootstrap CIs, null models A & B, chi-square + V_corr]
+     ↓
+[NetworkX — graph construction, centrality, motif enumeration, degree-preserving null]
+     ↓
+[python-louvain — 100-run consensus communities]
+     ↓
+[Gephi — ForceAtlas2 layout, publication figures]
+     ↓
+[Plotly / Seaborn — statistical visualizations]
+     ↓
+[Zenodo — versioned dataset release with DOI]
+     ↓
+[LaTeX / Overleaf — paper typesetting]
+     ↓
+[Journal submission — Paper 0 first to Data in Brief; subsequent papers cite published DOI]
+```
+
+Every arrow in this flow is a documented, version-controlled step. No black boxes. No "data available upon request."
 
 ---
 
@@ -562,15 +766,15 @@ The programme generates six publications from a single unified dataset. Papers a
 |**Companion output**|Dataset published on Zenodo under CC-BY 4.0 with versioned DOI; all code published on GitHub|
 |**Publication rationale**|_Data in Brief_ gets the dataset into the public domain immediately, allows subsequent papers to cite a published dataset, and establishes credibility before the slow DSH review cycle|
 
-## Paper 1 — Corpus Frequency and Network Structure
+## Paper 1 — Corpus Frequency, Network Structure, and Motif Architecture
 
 |Element|Detail|
 |---|---|
-|**Working title**|Divine Name Dyads in the Qur'an: Frequency, NPMI Bonding Strength, and Semantic Network Architecture|
-|**Core contribution**|Full frequency and NPMI analysis (with bootstrap CIs); weighted undirected co-occurrence network; betweenness and degree centrality for Stable/Moderate nodes only; consensus Louvain communities (100-run ensemble); stratified null model significance; Meccan vs. Medinan network comparison (Spearman ρ on degree hierarchy)|
-|**Key finding**|Divine name pairings are statistically non-random and form an identifiable semantic topology; the degree hierarchy is stable across revelation periods (Spearman ρ=0.84) even as JJK composition shifts|
+|**Working title**|Divine Name Dyads in the Qur'an: Frequency, NPMI Bonding Strength, Semantic Network Architecture, and Theological Motif Structures|
+|**Core contribution**|Full frequency and NPMI analysis (with bootstrap CIs); weighted undirected co-occurrence network; betweenness and degree centrality for Stable/Moderate nodes only; consensus Louvain communities (100-run ensemble); stratified null model significance; Meccan vs. Medinan network comparison (Spearman ρ); **motif enumeration — all statistically over-represented 3-node and 4-node sub-graphs identified against a degree-sequence-preserving null model**|
+|**Key findings**|Divine name pairings are non-random; the degree hierarchy is stable across revelation periods (Spearman ρ=0.84); **specific triadic motif patterns are significantly over-represented, suggesting the Qur'an operates with compositional structures beyond isolated pairs**|
 |**Target journal**|_Journal of Quranic Studies_ (Edinburgh/SOAS, Scopus Q1–Q2)|
-|**Critical warning for reviewers**|All centrality claims are restricted to Stable and Moderate nodes (9/50 in v1.0); Unstable nodes explicitly flagged. All chi-square results report V_corr. NPMI comparisons restricted to pairs where 95% bootstrap CIs do not overlap|
+|**Critical constraints**|All centrality claims restricted to Stable and Moderate nodes. All chi-square results report V_corr. NPMI comparisons restricted to pairs where 95% CIs do not overlap. Motif findings reported as "statistically over-represented structural tendencies" — not as generative rules or algorithms. Theological naming of motifs is post-hoc and interpretive.|
 
 ## Paper 2 — Jalāl–Jamāl Axis and Semantic Polarity
 
@@ -582,13 +786,14 @@ The programme generates six publications from a single unified dataset. Papers a
 |**Target journal**|_Journal of Quranic Studies_; _Islam and Christian–Muslim Relations_; _Religions_ (MDPI, Scopus Q1)|
 |**Classical interlocutors**|Al-Qushayrī (primary), Al-Ghazālī (secondary), Ibn ʿArabī (Kamāl category)|
 
-## Paper 3 — Contextual Correlation
+## Paper 3 — Contextual Correlation and Motif–Theme Structural Tendencies
 
 |Element|Detail|
 |---|---|
-|**Working title**|Divine Name Dyads as Contextual Signals: Dyad–Theme Correlation in the Qur'anic Corpus|
-|**Core contribution**|Statistical correlation (χ², V_corr) between dyad types and verse themes at both macro (7) and micro (20) granularity levels; semantic surprise index identifying 32 theologically marked dyads; period-stratified null model for Meccan/Medinan differential; three structural refrain case studies|
-|**Key finding**|Dyad–theme correlation is moderate at macro granularity (V_corr ≈ 0.21) and significantly stronger at micro granularity — the granularity-sensitivity differential is a finding about the interpretive grain of the dyad system. High-surprise dyads mark exceptional rhetorical moments documented in Al-Rāzī's commentary|
+|**Working title**|Divine Name Dyads as Contextual Signals: Dyad–Theme and Motif–Theme Structural Tendencies in the Qur'anic Corpus|
+|**Core contribution**|Statistical correlation (χ², V_corr) between dyad types and verse themes at both macro (7) and micro (20) granularity levels; **second analytical layer: motif–theme correlation — which statistically over-represented triadic structures are associated with which micro-level thematic categories**; semantic surprise index (32 CRITICAL dyads); period-stratified null model for Meccan/Medinan differential; three structural refrain case studies|
+|**Key findings**|Dyad–theme correlation is moderate at macro granularity (V_corr ≈ 0.21) and stronger at micro granularity — granularity-sensitivity differential is itself a publishable finding. **Specific motif structures show differential distribution across thematic categories: e.g., a [Jalāl+Kamāl-epistemic] triadic pattern is statistically over-represented in 'Divine Decree' micro-categories.** High-surprise dyads mark rhetorical exceptions documented in Al-Rāzī.|
+|**Framing constraint**|Motif–theme findings are framed as "statistically over-represented structural tendencies," not as compositional rules or algorithms. The claim is descriptive and probabilistic, not deterministic.|
 |**Target journal**|_Arabica_ (Brill, Scopus Q1); _Journal of Arabic and Islamic Studies_; _Al-Qantara_ (CSIC)|
 
 ## Paper 4 (Revised) — Cross-Corpus Religious Network Comparison
@@ -601,15 +806,16 @@ The programme generates six publications from a single unified dataset. Papers a
 |**Target journal**|_Applied Network Science_ (Springer, Scopus Q1); _Religions_ (MDPI); _Journal of the American Oriental Society_|
 |**Feasibility note**|Hebrew Bible divine name co-occurrence can be derived from the SEFARIA digital corpus. Rigveda availability depends on digital humanities partnerships — if unavailable, paper proceeds as Qur'an–Hebrew Bible comparison only|
 
-## Paper 5 (Merged) — Structural Pattern and Contextual Deployment
+## Paper 5 (Merged) — Dynamic Essentialism: Structural Regularity and Relational Meaning in Qur'anic Divine Name Pairings
 
 |Element|Detail|
 |---|---|
-|**Working title**|Same Dyad, Different World: Structural Regularity and Contextual Deployment in Qur'anic Divine Name Pairings|
-|**Core contribution**|Tracks high-frequency canonical dyads (n≥5, surahs≥3, themes≥2) across all occurrences; tests whether verse context modulates semantic weight; engages divine attribute essentialism vs. contextualism debate; includes 300-word kalām contextualization (Ashʿarī vs. Muʿtazilī Sifāt dispute); presents the unified theoretical claim: dyad system is essentialist at the attribute level and contextualist at the deployment level|
-|**Rationale for merger of v1.0 Papers 2 and 5**|Former Paper 2 (structural pattern) and Paper 5 (contextual modulation) addressed claims in tension with each other. Merging them into a single paper that holds both findings in explicit relation produces a stronger philosophical contribution than either paper alone — the tension _is_ the argument|
-|**Target journal**|_Sophia_ (Springer, Scopus Q1); _Journal of Religion_ (Chicago); _Philosophy East and West_|
-|**Critical addition**|Kalām contextualization section: the Muʿtazilī position predicts a different network structure than the Ashʿarī position (low modularity vs. high modularity) — the observed community structure (11 communities in v1.0, subject to resolution-parameter sensitivity) can be read as evidence in this debate|
+|**Working title**|The Edge as Meaning: Dynamic Essentialism and Relational Ontology in the Qur'anic Divine Name System|
+|**Core contribution**|Proposes Dynamic Essentialism as a new theoretical position: Divine Names are essentially fixed at the node level (stable semantic properties, stable topology across periods) while the dyadic pairing relation — the Edge — is the primary locus of meaning and contextual calibration. Engages the essentialism/contextualism debate as the literature review, not the conclusion. Introduces relational ontology (grounded in the network's edge structure) as the positive claim. Deploys high-surprise dyads as the key evidence: a surprising pairing is a "relational exception" — a moment where the text intentionally breaks dominant motif patterns to produce a high-intensity theological signal located in the Edge, not in either Node alone. Includes 300-word kalām contextualization (Ashʿarī / Muʿtazilī / Ibn ʿArabī — mapping onto Node-level essentialism, low-modularity prediction disconfirmed, and tajallī as the closest classical analogue to the Edge-locus claim).|
+|**Rationale for merger**|Former Paper 2 (structural pattern) and Paper 5 (contextual modulation) addressed claims in tension. Merging them into a single paper unified by Dynamic Essentialism produces a stronger philosophical contribution. The tension between structural regularity and contextual deployment is the argument — resolved by locating regularity at the Node and deployment at the Edge.|
+|**Evidence hierarchy**|(1) Stable network topology across periods → Node-level essentialism confirmed. (2) High-surprise dyads → Edge-level contextual calibration confirmed. (3) Significant motif structures → Relational grammar confirmed at triadic level. (4) Hapax dyads as sub-analysis: which JJK combinations appear only once, and what does their singularity reveal about the outer limits of the dyad system?|
+|**Target journal**|_Sophia_ (Springer, Scopus Q1); _Journal of Religion_ (Chicago); _Philosophy East and West_; _International Journal for Philosophy of Religion_|
+|**Kalām section requirement**|The Ashʿarī/Muʿtazilī mapping must appear. The Muʿtazilī position predicts low modularity; observed community structure disconfirms it. Ibn ʿArabī's tajallī is the closest classical analogue to Dynamic Essentialism — divine self-disclosure through specific relational modes, not intrinsic static essence. This is not presented as Islamic theology but as a classical framework through which the data can be read.|
 
 ---
 
@@ -619,13 +825,15 @@ _This section addresses the specific methodological and technical questions that
 
 ## 9.1 Why This Network Is Interesting to Network Scientists
 
-The divine name co-occurrence network has three properties that make it atypical and analytically interesting:
+The divine name co-occurrence network has four properties that make it atypical and analytically interesting:
 
-1. **Extreme hub dominance with small N:** Al-ʿAzīz has weighted degree 71 in a network of 50 nodes. This is an unusually concentrated hub structure for a 50-node network and raises the question of whether it is scale-free (Barabási-Albert growth model) or reflects a designed theological hierarchy.
+1. **Extreme hub dominance with small N:** Al-ʿAzīz has weighted degree 71 in a network of 50 nodes. This is an unusually concentrated hub structure for a 50-node network and raises the question of whether it reflects a scale-free (Barabási-Albert) growth mechanism or a designed theological hierarchy.
     
-2. **Very high hapax rate (90%):** 64/71 unique pairs occur exactly once. This is not noise — it reflects the finite Qur'anic corpus and the theological diversity of contextual divine-name deployment. Network metrics on hapax edges are unreliable; the programme explicitly separates canonical (n≥5) from hapax edge analysis.
+2. **Very high hapax rate (90%):** 64/71 unique pairs occur exactly once. This is not noise — it reflects the finite Qur'anic corpus and the theological diversity of contextual divine-name deployment. Network metrics on hapax edges are unreliable; the programme explicitly separates canonical (n≥5) from hapax edge analysis, and treats hapax dyads as a primary sub-analysis in Paper 5.
     
-3. **Period-structured temporal evolution:** The corpus has a known approximate temporal ordering (Meccan before Medinan revelation). This allows the network to be split into two "time periods" and compared — a form of temporal network analysis rarely applied to religious texts.
+3. **Period-structured temporal evolution:** The corpus has a known approximate temporal ordering (Meccan before Medinan revelation). This allows the network to be split into two "time periods" and compared — a form of temporal network analysis rarely applied to religious texts. Spearman ρ=0.84 on degree hierarchy across periods is the stability finding; Jalāl+Jalāl doubling (+17.8pp) is the evolution finding.
+    
+4. **Motif over-representation as a local topology signal (v2.1):** Beyond global metrics, the network's local structure — which 3-node and 4-node sub-graphs are statistically over-represented against a degree-sequence-preserving null — reveals the "molecular" compositional grammar of the text. This is a novel application of motif analysis to a sacred-text network. The combination of small N, high hapax rate, and theologically interpretable node labels makes the motif findings interpretable in ways that purely sociological or biological networks are not.
     
 
 ## 9.2 Known Limitations Acknowledged for Reviewers
@@ -652,26 +860,50 @@ The divine name co-occurrence network has three properties that make it atypical
 
 _This section addresses the philosophical and theological arguments of the programme for readers in philosophy of religion, Islamic philosophy, and systematic theology._
 
-## 10.1 The Central Philosophical Claim
+## 10.1 The Central Philosophical Claim — Dynamic Essentialism
 
-This programme produces empirical data relevant to a debate that has proceeded entirely in the mode of analytical argument: whether divine attributes are essential and immutable (essentialism) or contextually modulated (contextualism). The data cannot resolve the metaphysical question — whether divine attributes are _really_ immutable — but it can address the textual and theological question of how the Qur'an _deploys_ divine names and whether that deployment pattern is consistent with one position more than the other.
+This programme does not merely produce data relevant to the essentialism/contextualism debate in philosophy of religion — it proposes a resolution. The debate has stalled because both sides treat individual Names (the Node) as the primary object of inquiry: is Al-Raḥīm essentially merciful in a fixed, context-independent way, or is its mercy contextually modulated? The Qur'anic dyad data reveals that this is the wrong unit of analysis.
 
-The v2.0 unified theoretical claim is: **the Qur'an's dyad system exhibits both structural regularity and contextual variation, which maps onto a position that is essentialist at the attribute level (names carry stable properties that govern their co-occurrence patterns) and contextualist at the deployment level (which specific names are selected for any given verse context is sensitive to that context).** This is not a contradiction — it is a distinction between the ontology of divine attributes and the epistemology of their textual presentation.
+**The positive claim of this programme:** The dyadic Edge — the pairing relation between two names — is the primary locus of theological meaning in the Qur'anic closing formula system. This is _Dynamic Essentialism_:
 
-## 10.2 The Kalām Dimension (Required for Paper 5)
+- **Essential at the Node level.** Divine Names carry stable, immutable semantic properties. Al-ʿAzīz is always a Jalāl name (power, transcendence). Al-Raḥīm is always a Jamāl name (mercy, intimacy). These properties do not vary with context. The network topology confirms this: Spearman ρ=0.84 on the degree hierarchy across Meccan and Medinan periods means the same names are the same hubs in both revelation contexts. The Nodes are stable.
+    
+- **Dynamic at the Edge level.** The _pairing_ of names — which two Nodes are connected in any given verse — is where the text does its active theological work. The meaning produced by Al-ʿAzīz–Al-Raḥīm is not a sum of their individual properties; it is a third meaning generated by the relational tension between power and mercy in a specific verse context. When the same dyad closes nine different verses in Surah 26, each closing activates the same relational vector in a different narrative situation. The Edge is dynamic.
+    
+- **The synthesis.** The Qur'an operates a system of Relational Attributes: the divine essence is immutable (essential Nodes), but the presentation of that essence to the human recipient is dynamically calibrated through the specific pairing selected for each verse (dynamic Edges). This is neither pure essentialism (which cannot account for the contextual variation in high-surprise dyads) nor pure contextualism (which cannot account for the stable topology and dominant canonical pairs). It is a position not articulated in the existing literature on divine attribute theory.
+    
 
-The essentialism/contextualism debate in Western analytic philosophy of religion (Alston 1989, Swinburne 1993) runs parallel to the Ashʿarī/Muʿtazilī dispute in Islamic kalām:
+**What the data cannot claim.** Dynamic Essentialism is a claim about the Qur'anic _text's_ compositional structure, not about the nature of the divine essence itself. The data resolves the _textual_ question, not the _metaphysical_ one. Whether divine attributes are _really_ immutable remains a theological and metaphysical question beyond the reach of corpus analysis.
 
-- **Ashʿarī position:** Divine attributes are real, distinct, and ontologically subsistent in the divine essence. Al-Bāqillānī, Al-Juwaynī, Al-Ghazālī. This is structurally analogous to essentialism.
-- **Muʿtazilī position:** Divine attributes are not ontologically distinct from the divine essence — names are different linguistic expressions of one undivided reality. Al-Naẓẓām, Abū ʿAlī al-Jubbāʾī. This is structurally closer to contextualism.
+## 10.2 The Three Evidence Layers
 
-**The empirical relevance:** If the Ashʿarī position is correct — that Al-Raḥīm and Al-ʿAzīz are genuinely distinct attributes — then we would expect the co-occurrence network to show high modularity (distinct attribute clusters with relatively few inter-cluster edges). If the Muʿtazilī position is correct — that all names express the same undivided reality — then we would expect low modularity, high integration, and no stable community structure. The observed community structure (subject to Louvain resolution-parameter sensitivity, addressed in Paper 4) can be read as preliminary evidence in this debate. Paper 5 will present this argument carefully, with appropriate epistemic hedging.
+Paper 5 argues Dynamic Essentialism through three independent evidence layers, each necessary and none sufficient alone:
 
-## 10.3 Ibn ʿArabī's Position and the Kamāl-Ontological Sub-Category
+**Layer 1 — Network stability (Node-level essentialism confirmed).** The Spearman ρ=0.84 finding means that the degree hierarchy of names — which names are most central to the pairing system — is stable across the two revelation contexts. If contextual factors drove the choice of names completely, we would expect a different hub structure in Meccan versus Medinan revelation. We do not find this. The Nodes are stable.
 
-Ibn ʿArabī's _Al-Futūḥāt al-Makkiyya_ presents a third position that is neither Ashʿarī nor Muʿtazilī: divine names are real and distinct, but they are relational properties of divine self-disclosure (tajallī) rather than intrinsic properties of the divine essence. On this reading, names like Al-Ḥayy (the Living) and Al-Qayyūm (the Self-Subsisting) are not attributes of God-in-Himself but of God-as-related-to-creation. This is what the v2.0 taxonomy captures in the Kamāl-ontological sub-category — names that name the preconditions for divine action in relation to the created order, rather than God's internal epistemic operations.
+**Layer 2 — High-surprise dyads (Edge-level dynamics confirmed).** The 32 CRITICAL-priority dyads (semantic surprise > 3.5 bits) are the programme's most important theological evidence. A "surprising" dyad is one where the JJK combination is unexpected given the verse theme — the text is deploying a relational vector that breaks the dominant pattern. The surprise is not located in either name alone (both are familiar, essential, well-attested). The surprise is entirely in their _relation_ in that context. Al-Rāzī comments on exactly these moments, though without the statistical language to quantify them. This is where Dynamic Essentialism shows its interpretive power: it explains why a "wrong" pair would be theologically wrong — not because either name is wrong in isolation, but because the Edge it would create is contextually inappropriate.
 
-The co-occurrence of Kamāl-ontological names with Kamāl-epistemic names (e.g., Al-Ḥayy–Al-Qayyūm, Al-ʿAlīm–Al-Ḥakīm) or the relative rarity of such cross-sub-category pairings would be evidence about which of these frameworks the Qur'anic text itself supports structurally.
+**Layer 3 — Motif over-representation (relational grammar confirmed at triadic level).** If the Edge is the primary unit of meaning, we would expect the Qur'an to operate not just with isolated pairings but with recurring triadic relational structures — compositional patterns that deploy multiple Edges together. The motif analysis (Section 5.7) tests exactly this. Statistically over-represented 3-node sub-graphs are evidence that the relational grammar operates above the dyadic level, confirming that the Edge-as-meaning claim scales up from pairs to higher-order compositional units.
+
+## 10.3 The Kalām Mapping — Ashʿarī, Muʿtazilī, and Ibn ʿArabī
+
+Dynamic Essentialism engages three classical Islamic positions on divine attributes. This mapping is required in Paper 5 — reviewers at _Sophia_ and _Journal of Religion_ will expect it, and the Muʿtazilī position makes an empirically testable prediction.
+
+**Ashʿarī position** (Al-Bāqillānī, Al-Juwaynī, Al-Ghazālī): Divine attributes are real, ontologically distinct, and subsistent in the divine essence. Each name names a genuinely distinct property. This maps onto Node-level essentialism — names are distinct because they carry distinct essential properties. The observed modularity of the network (stable community clusters separating, e.g., epistemic names from Jalāl names) is consistent with the Ashʿarī prediction of genuine categorical distinctness.
+
+**Muʿtazilī position** (Al-Naẓẓām, Abū ʿAlī al-Jubbāʾī): Divine attributes are not ontologically distinct from the divine essence. Names are different linguistic expressions of the same undivided reality. This predicts a network with _low modularity_ — if all names express the same undivided reality, co-occurrence patterns should show high integration and no stable community structure. The observed community structure (subject to Louvain resolution-parameter sensitivity, documented in Section 5.6) is preliminary evidence _against_ the Muʿtazilī prediction. This is reported with appropriate epistemic hedging — the community structure is sensitive to the resolution parameter γ, and the programme does not claim to settle the kalām debate. It claims only that the data is more consistent with Ashʿarī categorical distinctness at the Node level than with Muʿtazilī undifferentiation.
+
+**Ibn ʿArabī's tajallī framework** (_Al-Futūḥāt al-Makkiyya_): Divine names are real and distinct, but they are relational properties of divine self-disclosure (tajallī) rather than intrinsic properties of the divine essence. The name is not a description of God-in-Himself but of God-as-disclosed-to-creation in a specific relational mode. This is the classical framework closest to Dynamic Essentialism — and the one the programme engages most directly in Paper 5. The Kamāl-ontological sub-category in the v2.1 JJK taxonomy (Al-Ḥayy, Al-Qayyūm, Al-Wāḥid, Al-Ḥaqq) names precisely those attributes that are preconditions for divine relational action — God's life, self-subsistence, unity, and reality as the ground from which tajallī proceeds. The co-occurrence of Kamāl-ontological names with both Jalāl and Jamāl names in the dyad data is therefore not merely a statistical pattern; it is structurally congruent with Ibn ʿArabī's schema in which ontological names ground and make possible the relational disclosure of majesty and mercy.
+
+## 10.4 The Comparison with Western Analytic Philosophy of Religion
+
+For readers working primarily in Anglophone philosophy of religion:
+
+**Alston (1989), Swinburne (1993):** Both argue that divine attributes are essential, intrinsic, and context-independent. Dynamic Essentialism agrees at the Node level but diverges at the Edge level — the programme's contribution is to show that the _deployment_ of essentially stable names is contextually sensitive in statistically demonstrable ways that neither Alston nor Swinburne's frameworks predict or explain.
+
+**Murata (1992), Chittick (1998):** Both argue for contextual modulation of divine attributes drawing on Ibn ʿArabī. Dynamic Essentialism is closer to their position at the Edge level but provides what they lack: a formal, testable, data-grounded account of _how_ contextual modulation operates — through the specific pairing of essentially stable names, quantifiable by NPMI, semantic surprise, and motif significance.
+
+The contribution of this programme to Western analytic philosophy of religion is to move the essentialism/contextualism debate from purely analytical argument to empirically grounded structural analysis — while remaining epistemically honest about what corpus data can and cannot establish.
 
 ---
 
@@ -683,13 +915,13 @@ The programme has no artificial deadline. Quality of the dataset determines qual
 
 |Phase|Duration|Key deliverables|Dependencies|
 |---|---|---|---|
-|**Phase 1 — Setup**|Months 1–2|Tanzil XML downloaded and verified; Python environment with CAMeL Tools configured; Al-Qushayrī classification table complete; GitHub repository initialized; tafsīr PDFs acquired|None|
-|**Phase 2 — Dataset Construction**|Months 2–7|CAMeL Tools extraction pipeline validated; JJK classifications complete (researcher vs. Al-Qushayrī directly); two-level thematic tagging with HITL; stratified IRR with Islamic Studies consultant (52 CRITICAL/HIGH + 25 STANDARD); IRR κ ≥ 0.65 confirmed; sensitivity analysis at 4 distance thresholds; dataset published on Zenodo|Phase 1 complete|
-|**Phase 3 — Network Analysis**|Months 6–8 (parallel with late Phase 2)|Undirected weighted graph constructed; bootstrap CIs on centrality; 100-run Louvain consensus; two null model runs; dyadic entropy computed; Gephi visualization|Dataset v1.0 locked on Zenodo|
-|**Phase 4 — Paper 0 and Data Paper**|Months 8–11|_Data in Brief_ dataset paper submitted (fast track); _DSH_ methodology paper drafted; all code published on GitHub|Phase 2 complete|
-|**Phase 5 — Papers 1 and 2**|Months 11–16|Paper 1 (network structure) submitted; Paper 2 (JJK axis) submitted; responding to reviewer comments|Phase 3 complete|
-|**Phase 6 — Papers 3 and 4**|Months 16–22|Paper 3 (contextual correlation) submitted; Paper 4 (cross-corpus comparison, requires Hebrew Bible network preparation) submitted|Papers 1–2 accepted or in revision|
-|**Phase 7 — Paper 5**|Months 22–26|Merged Paper 5 (structural + contextual, philosophy) submitted|Papers 2–3 accepted or in revision|
+|**Phase 1 — Setup**|Months 1–2|Tanzil XML downloaded and verified; Python 3.11+ environment with CAMeL Tools configured and pinned (`requirements.txt`); Al-Qushayrī classification table complete; **private GitHub repository initialized with folder structure**; Airtable base created with Consultant View; tafsīr PDFs acquired|None|
+|**Phase 2 — Dataset Construction**|Months 2–7|CAMeL Tools extraction pipeline validated; JJK classifications complete (researcher vs. Al-Qushayrī directly); two-level thematic tagging (LLM first-pass → HITL); stratified IRR with Islamic Studies consultant (52 CRITICAL/HIGH + 25 STANDARD); IRR κ ≥ 0.65 confirmed; sensitivity analysis at 4 distance thresholds; **first Zenodo release (dataset v1.0 with DOI)**|Phase 1 complete|
+|**Phase 3 — Network Analysis**|Months 6–8 (parallel with late Phase 2)|Undirected weighted graph constructed in NetworkX; bootstrap CIs on centrality (B=5000); 100-run Louvain consensus with γ sensitivity; Null Models A and B run; dyadic entropy computed; **motif enumeration (3-node and 4-node sub-graphs, degree-preserving null, 10,000 permutations)**; Gephi ForceAtlas2 visualization; Plotly/Seaborn statistical figures|Dataset v1.0 locked on Zenodo|
+|**Phase 4 — Paper 0 and Data Paper**|Months 8–11|_Data in Brief_ dataset paper submitted (fast track); _DSH_ methodology paper drafted; **all code + versioned prompts published on GitHub (MIT license)**; reproducibility checklist completed|Phase 2 complete|
+|**Phase 5 — Papers 1 and 2**|Months 11–16|Paper 1 (network structure + motif architecture) submitted; Paper 2 (JJK axis) submitted; responding to reviewer comments|Phase 3 complete|
+|**Phase 6 — Papers 3 and 4**|Months 16–22|Paper 3 (dyad–theme + motif–theme structural tendencies) submitted; Paper 4 (cross-corpus comparison) submitted|Papers 1–2 accepted or in revision|
+|**Phase 7 — Paper 5**|Months 22–26|Paper 5 (Dynamic Essentialism — structural regularity + relational ontology) submitted|Papers 2–3 accepted or in revision|
 |**Phase 8 — Monograph**|Months 26–36|Scholarly monograph synthesizing programme for educated Muslim and non-Muslim readership|Papers 1–5 accepted|
 
 ## 11.2 Parallel Track: Consultant Annotation
@@ -852,6 +1084,9 @@ _This appendix documents every change made between v1.0 and v2.0, the precise cr
 |C-24|HITL|Annotation serialized (Phase 2 then Phase 3)|Annotation parallel with Phase 3; shared interface|**Minor — 2–3 month unnecessary delay**|A.2.24|
 |C-25|Statistics|Bootstrap CIs computed for centrality; not for NPMI|Bootstrap CIs applied consistently to all metrics|**Addressed in C-11**|A.2.11|
 |C-26|Papers|Logistic regression "theme-only model has no predictive power"|Removed (artifact of circular design)|**Addressed in C-01**|A.2.1|
+|C-27|Network (v2.1)|No local topology analysis — only global centrality and communities|Network motif enumeration added (3-node and 4-node sub-graphs, degree-preserving null, motif–theme correlation in Paper 3)|**Serious — analytical depth capped at global metrics**|A.2.27|
+|C-28|Philosophy (v2.1)|Paper 5 framed as refereeing essentialism vs. contextualism debate|Dynamic Essentialism proposed as new positive theoretical claim; Edge as locus of meaning; Section 10 fully rewritten|**Serious — "defense" framing produces a weaker paper than "proposal" framing**|A.2.28|
+|C-29|Infrastructure (v2.1)|Tool list without pipeline architecture or reproducibility workflow|Full layer-by-layer reproducible research pipeline specified (Section 6); Airtable HITL interface; pinned dependencies; Zenodo release workflow; Gephi settings; full data flow diagram|**Serious — black-box pipeline not publishable at Q1 standard**|A.2.29|
 
 ---
 
@@ -1101,25 +1336,56 @@ _This appendix documents every change made between v1.0 and v2.0, the precise cr
 
 ---
 
-## A.3 What Did NOT Change from v1.0
+### A.2.27 — C-27: Network Motif Analysis Absent (Serious — v2.1 addition)
 
-For completeness — these v1.0 decisions are retained in v2.0 without modification:
+**v1.0 and v2.0 design:** Network analysis limited to global topology — centrality, communities. No local topology analysis.
+
+**The critique:** Global metrics answer "who" and "where" (which names are hubs, which cluster together). They do not answer "how" — the recurring compositional structures that constitute the Qur'an's theological grammar above the dyadic level. With N=50 nodes and 86 edges, motif enumeration is computationally trivial (seconds in NetworkX) but analytically massive: it is the highest ROI modification available to the programme at the network analysis stage. Absence of motif analysis leaves the programme's network contribution at the level of descriptive topology rather than structural theory.
+
+**v2.1 decision:** Full motif analysis added as Section 5.7 and as a primary analytical layer in Paper 1. Procedure: enumerate all 3-node and 4-node sub-graphs using NetworkX; compute significance against a degree-sequence-preserving null model (10,000 permutations); classify significant motifs by JJK polarity post-hoc; extend to motif–theme correlation in Paper 3. Critical procedural constraint: motif analysis runs after the stable graph is constructed and consensus communities are established — not before. Theological naming of motifs is interpretive and post-hoc, not pre-specified. Framing in publications: "statistically over-represented structural tendencies," not "compositional algorithms."
+
+---
+
+### A.2.28 — C-28: Paper 5 Framing as Debate Referee (Serious — v2.1 addition)
+
+**v2.0 design:** Paper 5 framed as an engagement with the essentialism vs. contextualism debate in philosophy of religion — presenting both sides and arguing for a position "between" them.
+
+**The critique:** A mature scholarly paper does not referee an existing debate — it proposes a new position. The "between" framing (essentialist at the attribute level, contextualist at the deployment level) is a compromise rather than a theory. It tells the reader that both sides are partially right, which is less interesting and less publishable than proposing a framework that resolves the debate by reframing the unit of analysis. Furthermore, the "between" framing does not make use of the programme's most distinctive contribution — the network's Edge structure — as a theoretical resource. The Edge is the dyadic relation; locating meaning in the Edge rather than in the Node is a structural claim that goes beyond the existing debate's terms.
+
+**v2.1 decision:** Paper 5 reframed around Dynamic Essentialism as a positive theoretical claim. The existing debate (Alston, Swinburne, Murata, Chittick) becomes the literature review. The Ashʿarī/Muʿtazilī/Ibn ʿArabī kalām mapping becomes the contextual section. Dynamic Essentialism — Nodes are essential and stable; Edges are dynamic and contextually calibrated; the Edge is the primary locus of meaning — is the paper's contribution. High-surprise dyads are the evidence base: they are "relational exceptions" whose surprise is located entirely in the pairing relation, not in either name alone. Section 4.5 and Section 10 rewritten accordingly.
+
+---
+
+### A.2.29 — C-29: Tool List Without Pipeline Architecture (Serious — v2.1 addition)
+
+**v2.0 design:** Section 6 listed tools in tables without specifying the pipeline architecture — how data moves between tools, who has access to what, how versions are managed, and what the audit trail looks like.
+
+**The critique:** The biggest failure mode in Digital Humanities is the "black box" effect: a researcher produces a network graph, but the path from raw XML to published image is undocumented and irreproducible. A tool list is not a pipeline. Without specifying: (a) which tool is the source of truth (not Airtable — GitHub), (b) how the HITL consultant interface is isolated from the statistical columns, (c) how dependency versions are pinned, (d) what the Zenodo release workflow is, and (e) exactly which Gephi settings produce the publication figure — the programme cannot claim reproducibility. A paper with a Zenodo DOI for the dataset and a GitHub link for the code is treated as hard science. A paper that says "data available upon request" is treated as soft humanities.
+
+**v2.1 decision:** Section 6 fully replaced with a layer-by-layer reproducible research pipeline specification. Eight layers: (1) Primary Data Sources; (2) HITL Interface (Airtable with Consultant View and snapshot capability); (3) Version Control (GitHub private repository with specified folder structure, CSV as source of truth, Zenodo releases per paper); (4) Computational Engine (Python 3.11+, CAMeL Tools, Pandas, NetworkX, SciPy, Statsmodels — with pinned dependencies and the anti-stack explicitly named); (5) Visualization (Gephi with ForceAtlas2 and specified node/edge settings; Plotly/Seaborn for statistical figures); (6) LLM Tools (Claude Sonnet first-pass only, prompts versioned in /prompts/); (7) Scholarly Sources; (8) Full pipeline data-flow diagram. Anti-stack: no Neo4j (overkill for 50 nodes), no Excel (no version control), no AI-only extraction (no HITL = hallucinated dyads, rejected in peer review).
+
+---
+
+## A.3 What Did NOT Change from v1.0 (Retained in v2.0 and v2.1)
+
+For completeness — these decisions are retained without modification across all versions:
 
 - **Core dataset:** 177 dyads, 71 unique pairs, 50 active nodes — validated and correct.
 - **Primary Qur'anic corpus:** Tanzil XML (Ḥafṣ ʿan ʿĀṣim) — standard and defensible.
 - **Dyad definition:** Two divine names within the same verse, within ten words — retained with added sensitivity analysis.
 - **Meccan/Medinan key finding:** Jalāl+Jalāl doubles (+17.8pp) in Medinan period — finding retained; statistical support strengthened with Null Model B.
 - **Structural refrain identification:** Surahs 2, 3, and 26 — retained and promoted to case studies.
-- **NPMI as co-occurrence metric** — retained with added CIs.
-- **Semantic surprise index** — retained as primary HITL prioritization tool.
+- **NPMI as co-occurrence metric** — retained with added bootstrap CIs.
+- **Semantic surprise index** — retained as primary HITL prioritization tool and as key evidence base for Dynamic Essentialism (Paper 5).
 - **Polarity Tension Index** — retained as continuous measure of Jalāl–Jamāl tension.
 - **Al-Rāzī as primary tafsīr interlocutor at the pair level** — retained.
 - **Five-type relationship taxonomy** — retained with added decision tree and IRR standard.
 - **Scope boundaries** — retained unchanged. This programme does not make theological reform claims, iʿjāz claims, or extend to Hadith.
+- **v2.1 adds to, but does not change, the above.** Motif analysis is additive (extends global to local topology). Dynamic Essentialism is additive (gives Paper 5 a positive claim rather than a weaker compromise). The reproducible pipeline specification is additive (turns tool lists into an auditable architecture). No existing data, finding, or paper target is removed by v2.1.
 
 ---
 
-_End of Dossier v2.0_
+_End of Dossier v2.1_
 
 _Document maintained by the Principal Researcher. All changes to be committed to the project Git repository with descriptive commit messages. Next scheduled review: upon submission of Paper 1._
 
@@ -1128,3 +1394,4 @@ _وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ_
 _And He is, of all things, Knowing._
 
 _— Qur'an 2:29_
+
