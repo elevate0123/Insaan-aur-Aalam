@@ -347,6 +347,21 @@ The question of whether additional interludes are needed (one has been proposed 
 
 ### Chapter Structure Overview
 
+
+| Chapter      | Core Principle                   | Forged-in-Fire Story                             | Proof of Principle                     | Now Bridge                                      | Friction Point                                                                                    |
+| ------------ | -------------------------------- | ------------------------------------------------ | -------------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Prologue     | The Day at Arafat                | —                                                | —                                      | —                                               | —                                                                                                 |
+| Intro        | A Blueprint for a Broken World   | Trust as social infrastructure                   | Cave of Hira / Khadijah                | Al-Amin reputation                              | Global trust collapse (Edelman) / None                                                            |
+| Ch 1         | Life — The Unpayable Debt        | Sanctity as fixed metaphysical value             | Death of Sumayyah                      | Conquest of Mecca amnesty                       | 1984 Delhi riots / Rwanda / Atrocities in Muslim history — one paragraph                          |
+| Ch 2         | Wealth — The Tyranny of Zero     | Riba as structural exploitation                  | Boycott / Stones on stomach            | Abbas's riba abolished publicly                 | Andhra Pradesh microfinance crisis / Modern Islamic finance — one paragraph                       |
+| Interlude I  | Al-Amin                          | Trust as daily practice                          | —                                      | —                                               | —                                                                                                 |
+| Ch 3         | Race — The Orphan's Merit        | Meritocracy of character vs aristocracy of blood | Orphan's experience / Walid's contempt | Bilal on the Kaaba                              | Apartheid / Indian caste system / Slavery — one paragraph using Trajectory argument               |
+| Ch 4         | Gender — A Trust Not a Property  | From ownership to stewardship                    | First Revelation / Khadijah            | Umm Salama at Hudaibiyah                        | #MeToo / Missing Women / Daraba / Qiwamah / Aisha — handled with Scholarly Anchor + Ultimate Veto |
+| Interlude II | The Partner                      | Principles as lived daily reality                | —                                      | —                                               | —                                                                                                 |
+| Ch 5         | Trust — The Currency             | Character as social infrastructure               | Al-Amin / Black Stone arbitration      | Muhtasib institution / Death-bed accountability | Satyam / Enron / None needed                                                                      |
+| Epilogue     | The Architect and the Caricature | —                                                | —                                      | —                                               | The caricature — implicit foil, not engaged directly                                              |
+|              |                                  |                                                  |                                        |                                                 |                                                                                                   |
+
 ||Chapter|Core Principle|Forged-in-Fire Story|Proof of Principle|Now Bridge|Friction Point|
 |---|---|---|---|---|---|---|
 |Prologue|The Day at Arafat|—|—|—|—|—|
@@ -530,7 +545,7 @@ _Redefining the Human Partnership_
 
 **Opening:** #MeToo — not as a list of accusations but as the moment when the "unspoken contract" between men and women was exposed as fraudulent. The confusion that followed — men asking "what are the new rules" and women responding "this isn't about rules." The deeper question: what would a relationship between men and women look like if it were genuinely built on dignity rather than power? 350 words.
 
-**The World:** The brutal baseline — female infanticide (wa'd al-banat), women as inherited property, marriage as transaction between men. Shown specifically, briefly, without exploitation of the horror. The global dimension: Rome's patria potestas, Persia's seclusion. Then the Forged-in-Fire Story: the First Revelation — but told from Khadijah's perspective. The Prophet crawls home terrified. She is the one who holds, validates, strategizes. The first Muslim was a woman who chose. The Prophet's authority begins with her recognition of it.
+**The World:** The brutal baseline — female infanticide (wa'd al-banat), women as inherited property, marriage as transaction between men. Shown specifically, briefly, without exploitation of the horror. The global dimension: Rome's patria potestas, Persia's seclusion. Then the Forged-in-Fire Story: the First Revelation — but told from Khadijah's perspective. The Prophet comes home terrified. She is the one who holds, validates, strategizes. The first Muslim was a woman who chose. The Prophet's authority begins with her recognition of it.
 
 **The Sermon:** "You have taken them only as a trust (amanah) from God... they are your partners and committed helpers."
 
