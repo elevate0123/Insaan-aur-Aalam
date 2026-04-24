@@ -741,3 +741,610 @@ _This document supersedes all previous charters, dossiers, directives, and draft
 What do you want to do first?
 
 
+---
+---
+---
+
+Good. Let me do the SSOT update first, completely and properly.
+
+---
+
+# SINGLE SOURCE OF TRUTH
+
+## THE ARCHITECT
+
+### Project Constitution v2.0 — Updated & Locked
+
+_This document supersedes v1.0 and all previous charters, dossiers, and directives. All changes from v1.0 are marked with_ **[UPDATED]** _or_ **[NEW]** _or_ **[REMOVED]***
+
+---
+
+## PART ONE: THE BOOK'S IDENTITY
+
+### 1.1 Full Title
+
+**The Architect: Muhammad's Last Sermon and the Problems We're Still Failing to Solve**
+
+_Roman Urdu Edition:_ **Maahir-e-Taameer** _(subtitle to be finalized separately)_
+
+_Vernacular editions (Hindi, Gujarati, Marathi) follow English finalization — treated as transcreations, not translations._
+
+---
+
+### 1.2 The Book in One Sentence
+
+_The Last Sermon of the Prophet Muhammad ﷺ diagnosed humanity's core social failures — tribalism, economic predation, racial hierarchy, the ownership of women, and the decay of institutional character — with more structural precision than most of what we have produced since, and this book shows how and why._
+
+---
+
+### 1.3 The Book's Core Claim
+
+Two claims, inseparable:
+
+**Claim One (Descriptive):** The principles in the Last Sermon are not primarily religious obligations. They are accurate diagnoses of permanent features of human social failure — the same failures that produce atrocity, inequality, and institutional collapse in every era and every civilization.
+
+**Claim Two (Structural):** These diagnoses came with proposed mechanisms, not just moral appeals. The sermon didn't say "be kind." It redesigned the architecture of value, the structure of economic exchange, the basis of social status, the legal framework of intimate relationships, and the theory of institutional integrity. The mechanisms are what make the sermon interesting beyond its historical moment.
+
+---
+
+### 1.4 What the Book Is Not
+
+- Not a defense of Islam against its critics
+- Not a Seerah — though biographical material is essential evidence
+- Not a close academic reading of the sermon as a text
+- Not a history of Islamic civilization
+- Not a policy prescription or call to implement Islamic law
+- Not an apologetics manual
+- Not a book that requires the reader to be Muslim or become Muslim
+
+**[NEW] — Additional exclusions confirmed during drafting:**
+
+- Not a book that uses technology or Silicon Valley metaphors (operating system, code, algorithm, hack, software, reboot, upgrade — all banned)
+- Not a book that uses academic jargon where plain observation will do
+- Not a book that explains itself to the reader after having already shown them (the explanatory parenthetical problem)
+- Not a book that announces its transitions — transitions are accomplished by beginning the next thing, not by signaling that a transition is occurring
+
+---
+
+### 1.5 The Author's Stance
+
+The author is a Traditional Orthodox Sunni Muslim. This belief shows up as confidence — the material is treated with the seriousness it deserves, never hedged for secular comfort, never reduced to merely human wisdom.
+
+The author does not require the reader to share this belief. The book's argument works on secular analytical grounds. The divine dimension is acknowledged once, clearly, in the Introduction, and the book then proceeds analytically.
+
+**[NEW] — The Orthodox Framing Rule for Biographical Material:**
+
+Every biographical moment involving the Prophet ﷺ must satisfy three conditions simultaneously:
+
+1. The human experience is real and acknowledged — he felt grief, hunger, exhaustion, fear. These are in the hadith and denying them would be dishonest and unnecessary.
+    
+2. The human experience is always framed as the context for a dignified response — never as the conclusion. The response is always the point.
+    
+3. No language implying loss of composure in an undignified way, physical diminishment, helplessness as a permanent condition, or any framing that a traditional reader would find disrespectful.
+    
+
+**Specific language banned for biographical sections:**
+
+- "crawled" — replace with "came" or "went"
+- "helpless" — replace with "without military recourse" or "constrained by circumstances"
+- "terrified" as a sustained condition — permissible as a momentary experience that was immediately transcended
+- "burying his face" — too undignified; replace with "sought comfort from" or "turned to"
+- Any framing that makes his restraint look like weakness rather than the demonstration of a harder and more deliberate strength
+
+**The working sentence for every biographical scene:** _What did he do with this human experience? That response is the argument._
+
+---
+
+## PART TWO: THE AUDIENCE
+
+_(Unchanged from v1.0 — see Part Two of v1.0 for full audience profiles)_
+
+Primary: Curious non-Muslim — educated subcontinental reader, Hindu/Jain/secular, reads serious non-fiction, has some combination of genuine curiosity and media-distorted image.
+
+Secondary: Secular Muslim — intellectually serious, wants pride in tradition for reasons that survive modernity, needs translation not apologetics.
+
+Tertiary: Thoughtful traditional Muslim — wants a bridge document they can share.
+
+---
+
+## PART THREE: TONE AND VOICE
+
+### 3.1 The Author's Persona — The Informed Companion
+
+_(Unchanged from v1.0)_
+
+The "I" appears for three purposes only:
+
+1. Making an analytical judgment that belongs to the author, not presented as objective fact
+2. Acknowledging genuine difficulty or tension in the material
+3. Creating a moment of personal connection
+
+**[UPDATED] — The "I" Deployment Schedule:**
+
+Based on drafting experience, the "I" is now scheduled as follows:
+
+- Chapter 1: No "I" — establish the analytical voice first
+- Chapter 2: One "I" in the HOW section — entering the Scarcity Trap analysis
+- Chapter 3: One "I" in the HOW section — entering the Ambedkar convergence
+- Chapter 4: Two "I" moments — one in the Analysis, one in the Friction section
+- Chapter 5: One "I" in the Keystone Synthesis
+
+This schedule prevents the "I" from becoming a habit while ensuring it appears at the moments of highest analytical stakes.
+
+---
+
+### 3.2 The Emotional Register
+
+_(Unchanged from v1.0)_
+
+Primary: Humanizing warmth Secondary: Intellectual excitement Tertiary: Quiet provocation
+
+---
+
+### 3.3 How the Book Handles Unresolved Questions
+
+_(Unchanged from v1.0)_
+
+---
+
+### 3.4 The Strawman Protocol — The Preemptive Concession with Redirect
+
+**[UPDATED] — Refined based on Chapter 1 drafting:**
+
+One paragraph per friction point. Structure:
+
+- Sentence 1-2: Concede what is true in the critique, without hedging
+- Sentence 3: Name what the critique misses or conflates, in plain language
+- Sentence 4-5: Redirect to the book's actual subject
+
+**Placement rule confirmed:** The Preemptive Concession sits just before the chapter close — after all analysis is complete, as a final act of intellectual honesty. It does not appear mid-chapter where it would create a defensive crouch the rest of the chapter has to climb out of.
+
+**Exception:** Chapter 4 (Gender) where the Friction section is longer and more developed — approximately 400 words, still using the Concession structure but with more layering.
+
+---
+
+### 3.5 **[NEW] — The Stylometric Rules**
+
+These rules exist to ensure the prose does not pattern-match to LLM output. They are mandatory for every draft of every section.
+
+**Rule 1: The Paired Short Declarative — One Per Chapter Maximum**
+
+The construction "X. Y." where both sentences are short and the second reverses or completes the first — this is the most common LLM stylistic signature. It is permitted once per chapter, at the moment where it earns maximum impact. It is banned everywhere else.
+
+Each chapter's permitted instance is pre-decided:
+
+- Chapter 1: "The restraint was the argument. The patience was the blueprint."
+- Chapter 2: To be decided during drafting
+- Chapter 3: To be decided during drafting
+- Chapter 4: To be decided during drafting
+- Chapter 5: To be decided during drafting
+
+**Rule 2: The Explanatory Parenthetical — Zero Instances**
+
+The construction "This was not X. It was Y." or "This is not X. It is Y." is banned entirely. If the preceding sentence required clarification of this kind, the preceding sentence was not clear enough and should be rewritten. The clarification announces that the writer doesn't trust what they just wrote. Rewrite the original instead.
+
+**Rule 3: Parallel List Constructions — Maximum Two Per Chapter**
+
+Three or more items in grammatical parallel ("Not X, not Y, not Z") can appear at most twice per chapter and never in consecutive paragraphs.
+
+**Rule 4: Announced Transitions — Zero Instances**
+
+No sentence whose sole function is to announce that a transition is occurring. Transitions happen by beginning the next thing. The reader feels the shift without being told about it.
+
+**Rule 5: The Generalizing Coda — Zero Instances**
+
+No summary observation at the end of an analytical section that restates in abstract terms what the section just demonstrated concretely. The concrete demonstration is always stronger than the abstract summary. End on the specific, not the general.
+
+**Rule 6: Section Self-Description — Zero Instances**
+
+No sentence that tells the reader what the section is about to do or what they should take from it. ("To understand this, we must..." / "What is remarkable about this..." / "The significance of this cannot be overstated...") These are throat-clearing. Cut them and begin.
+
+**Rule 7: Sentence Length Variation — Mandatory**
+
+Every page of prose must contain at least one sentence under ten words and at least one sentence over thirty words. The rhythm between them is what makes prose feel human. Uniform sentence length — the LLM's default — reads as mechanical.
+
+**Rule 8: Technology Metaphors — Banned**
+
+The following words and phrases are banned from the entire manuscript:
+
+- Operating system, OS
+- Code, coding, encoded
+- Algorithm, algorithmic
+- Hack, hacking
+- Software, hardware
+- Reboot, upgrade, update
+- Signal, activate, trigger (in the technical sense)
+- Framework (permitted only in the analytical sense, not the technological)
+- Default setting
+- Running (in the sense of "running a program")
+- Wired, hardwired, rewired (in the neurological/technological sense)
+
+Replace with: instinct, logic, pattern, habit, inheritance, conviction, disposition, tendency, nature.
+
+---
+
+## PART FOUR: THE SERMON AND ITS RELATIONSHIP TO THE SEERAH
+
+_(Unchanged from v1.0 — composite text, fresh translations, no Arabic in main text, appendix contains full text)_
+
+---
+
+## PART FIVE: THE INTELLECTUAL FRAMEWORK
+
+### 5.1 The Two Core Scientific Frameworks
+
+**[UPDATED] — Deployment confirmed from Chapter 1 drafting:**
+
+**Framework 1: The Scarcity Trap (Mullainathan/Shafir) — Chapter 2 only**
+
+The specific study that earns the framework's credibility: the Tamil Nadu sugarcane farmer study — the same farmers, the same brains, measurably worse cognitive performance before harvest (scarcity condition) than after (flush condition). This specific study should be referenced, not the general claim.
+
+How it appears in Chapter 2: approximately 200 words in the HOW section. The mechanism — riba operates on people already cognitively tunneled by emergency — is demonstrated, not merely asserted. The framework does analytical work, not decorative work.
+
+**Framework 2: Social Capital / Trust Radius (Fukuyama) — Introduction and Chapter 5**
+
+Introduced in the Introduction as the book's analytical lens (present as concept, Fukuyama named only in Chapter 5). Developed fully in Chapter 5's HOW section. Brief reference in Chapter 1 (the Hurmah analysis — why fixing the value of a life has economic as well as moral consequences).
+
+---
+
+### 5.2 The Other Frameworks — Final Decisions
+
+**[UPDATED]:**
+
+- Deindividuation: insight kept as plain observation, academic name dropped — _confirmed in Chapter 1_
+- Broken Windows: insight kept as plain observation, academic name dropped
+- Systemic Load / Stereotype Threat: dropped entirely
+- Asset vs Agent / Political Enfranchisement: rendered as plain language
+- Game Theory / Prisoner's Dilemma: dropped
+- Dunbar's Number: dropped, replaced by Fukuyama's trust radius which is more precise
+
+---
+
+### 5.3 The "Ahead of His Time" Problem — Resolved
+
+**[UPDATED] — Confirmed from drafting:**
+
+The chronological framing is banned. The three replacement framings are:
+
+1. "Precisely right about timeless things"
+2. "Working on the same problems with a more durable framework"
+3. "The comparison that matters is not chronological but structural"
+
+No instance of "ahead of his time," "1400 years before," "centuries before modern science," or any equivalent formulation appears in the manuscript.
+
+---
+
+## PART SIX: CHAPTER ARCHITECTURE
+
+### 6.1 The Structural Principle
+
+_(Unchanged from v1.0)_
+
+Section headings exist for editorial management and are removed in the final reader-facing text. Ornamental dividers (***) mark section transitions.
+
+---
+
+### 6.2 The Core Mandatory Structure
+
+**[UPDATED] — Confirmed and refined from Chapter 1 drafting:**
+
+Every chapter contains these five elements. None is optional.
+
+**1. The Opening (200-350 words)** Present-tense human problem. One specific scene, observation, or image — never a statistic without a face. The reader should be leaning forward before they know why. No announcement of what the chapter is about. Begin in the middle of the problem.
+
+**[NEW] — Opening Rule:** The chapter's first sentence should be surprising — not in a gimmicky way but in the way that a precise, unexpected angle of entry is always surprising. If the first sentence could appear in any book about this general topic, it's not specific enough.
+
+**2. The World (550-800 words)** The 7th century context — immersive, narrative, never academic. Contains:
+
+- The Forged-in-Fire Story (one biographical moment, Orthodox framing mandatory)
+- The Antagonist of the Old World (the social structure or person embodying the problem)
+- One brief global comparison (two civilizations maximum, developed enough to breathe)
+
+**3. The Sermon (100-150 words including setup)** The relevant passage. Delivered after the historical context has given it weight, before the analysis unpacks it. The setup is minimal — one sentence placing the reader back at Arafat. The quote lands. The chapter breathes for one short paragraph. Then the analysis begins.
+
+**4. The Analysis (800-1,100 words)** Contains in this order:
+
+- The mechanism (how the principle works as social engineering)
+- The Now Bridge (one primary case study, developed narratively; one secondary reference, brief)
+- The Proof of Principle (one historical demonstration, narrative then analytical)
+- The Preemptive Concession (one paragraph, just before the close)
+- Scientific framework where applicable (Chapters 2 and 5 only)
+
+**[NEW] — Analysis Rule:** The analysis moves from conceptual to concrete to proof. Never the reverse. The reader needs to understand the principle before they can evaluate the evidence for it.
+
+**5. The Close (200-280 words)** Not a summary. Varies by chapter — image, statement, or question — never the same move twice in a row. The reader is left with something unresolved. The chapter's most important sentence belongs here, not in the opening.
+
+**[NEW] — Close Rule:** The close returns to something specific from the chapter — a person, a scene, a detail — rather than retreating to the abstract. The concrete has always more power than the general at the moment of departure.
+
+---
+
+### 6.3 The Optional Peripheral Sections
+
+**[UPDATED] — Female Voice promoted to Core Mandatory:**
+
+The Female Voice is no longer optional. Every chapter has a female perspective the analysis passes through. Schedule:
+
+- Chapter 1: Sumayyah bint Khabbat — subject of will, not passive victim _(confirmed)_
+- Chapter 2: The Andhra Pradesh woman (Sita/Aasha) — her story told with specificity, the public humiliation mechanism named
+- Chapter 3: A Dalit woman — the intersection of caste and gender as double invisible weight
+- Chapter 4: Khadijah, Umm Salama, Aisha — the analysis passes through them, not about them
+- Chapter 5: Aisha — the death-bed scene is set in her lap, her witness is the chapter's final female presence
+
+Remaining optional peripheral sections:
+
+- The Global Mirror — one non-Indian case study per chapter, used when needed to prevent the book from feeling regional
+- The Scholarly Anchor — classical Islamic scholarship grounding interpretation in the tradition's own internal debate (Chapter 4 primarily)
+- The Contrast Civilization — what the Roman, Persian, Indian world was doing contemporaneously on the same question (no "ahead of his time" framing)
+
+---
+
+### 6.4 The Interludes — Final Decisions
+
+**[UPDATED] — Two interludes confirmed. Third rejected.**
+
+**Interlude I — Al-Amin (after Chapter 2):** Demonstrates the trust economy practiced before revelation. Pure narrative, no analysis, no frameworks. 900-1,000 words.
+
+**Interlude II — The Partner (after Chapter 4):** Demonstrates gender principles as daily lived reality. Pure narrative. The menstruation scene and the footrace. 900-1,000 words.
+
+**Third interlude (Bilal) — rejected:** The Bilal scene works better inside Chapter 3 as the Proof of Principle where it carries argumentative weight. Pulling it out as a standalone narrative piece would duplicate content and disrupt the book's established rhythm.
+
+---
+
+## PART SEVEN: CHAPTER BY CHAPTER
+
+### 7.1 Narrative Arc Statement
+
+**[NEW] — This was missing from v1.0:**
+
+The book moves from outside to inside, from the most visible and external forms of social failure to the most invisible and internal.
+
+Chapter 1 addresses the body — who has the right to harm it. Chapter 2 addresses survival — who has the right to exploit desperation. Chapter 3 addresses identity — who has the right to assign worth based on birth. Chapter 4 addresses intimacy — who has the right to own another person. Chapter 5 addresses character — the internal architecture that makes all the previous four possible or impossible.
+
+Each chapter assumes the previous one. Each depends on the next. The progression is deliberate and the reader should feel it.
+
+---
+
+### 7.2 Chapter Status and Key Decisions
+
+|Section|Status|Key Decisions Locked|
+|---|---|---|
+|Prologue|Draft exists, needs Silicon Valley language fix|Voice: cinematic narrator, second person|
+|Introduction|Draft complete, refined, locked|Bridge from Prologue confirmed, Fukuyama as concept not name, "I" methodology sentence, faith position once|
+|Chapter 1|Draft complete, critique applied, Silicon Valley language fix needed|Rwanda → Delhi structure, Sumayyah as subject of will, Conquest as proof, no "I", close on "until it became true"|
+|Chapter 2|Not yet drafted|See Chapter 2 brief below|
+|Interlude I|Not yet drafted|Al-Amin, pure narrative, 900-1000 words|
+|Chapter 3|Not yet drafted|See SSOT Chapter 3 brief|
+|Chapter 4|Not yet drafted|Hardest chapter, drafted last|
+|Interlude II|Not yet drafted|The Partner, pure narrative|
+|Chapter 5|Not yet drafted|Keystone synthesis, Fukuyama fully named|
+|Epilogue|Not yet drafted|Two movements, Socratic close|
+
+---
+
+### 7.3 Chapter 1 — Final Locked Decisions
+
+**[UPDATED] — Confirmed from drafting and critique:**
+
+- Opening: Rwanda radio broadcast and the word "inyenzi" — category replacing person
+- Explicit bridge to historical section: "This psychology has a name that predates psychology. The Arabs called it asabiyyah."
+- War of Basus: compressed narrative, approximately 250 words
+- Global comparison: Germanic tribes (wergild) and the Iliad — two civilizations, no more
+- Sumayyah: centered as subject of will. Sensory grounding (burning sand, midday heat) added with restraint
+- The Prophet ﷺ framing: "The restraint was the argument. The patience was the blueprint."
+- Now Bridge: Rwanda (analytical precision, brief) → Delhi 1984 (narrative depth, primary)
+- Delhi structure: justification → lists → transformation of a face → three days — chain of four details
+- Sermon delivery: minimal framing, quote lands without announcement
+- Hurmah analysis: fixed metaphysical constant replacing tribal variable, no "cascade" language
+- Legal revolution: abolition of collective blood claims, Abbas's debt named
+- Conquest: narrative then analytical, "active refusal of a right" framing
+- Preemptive Concession: one paragraph, just before close
+- Close: returns to Sumayyah, ends on "until it became true" — no question, no generalization
+- "I": absent from Chapter 1
+- Silicon Valley language: banned, four specific fixes applied
+
+---
+
+### 7.4 Chapter 2 — Pre-Draft Brief
+
+**Title:** The Tyranny of Zero: _How Wealth Was Weaponized_
+
+**Core argument (three layers, all mandatory):**
+
+- Moral: riba exploits desperation — extracts binding commitment from people whose cognitive capacity to evaluate that commitment has been compromised by the very emergency driving them to borrow
+- Structural: riba concentrates wealth and creates systemic fragility — the economy becomes extractive rather than productive
+- Pragmatic: the three-tier alternative (zakat, qard hasan, solidarity economy) is more economically efficient because it maintains the cognitive and financial bandwidth of the productive class
+
+**The bridge from Chapter 1 confirmed:** Chapter 2 opens by bridging from Chapter 1's principle (the body made safe) to Chapter 2's territory (survival still threatened). The bridge is accomplished in the opening paragraph's first sentence — not announced, not labeled, but felt.
+
+**Forged-in-Fire Story:** The Boycott of Banu Hashim. The stones tied to the stomach. He is not theorizing about hunger — he has felt it. Orthodox framing mandatory: the endurance is the argument, not the suffering.
+
+**Proof of Principle:** Abbas's riba abolished publicly in the sermon. The significance: he started with his own clan's wealth.
+
+**Now Bridge:** Andhra Pradesh microfinance crisis (primary, narrative depth). 2008 financial crisis (secondary, one paragraph).
+
+**Scientific Framework:** The Scarcity Trap — the Tamil Nadu sugarcane farmer study specifically. Appears once in the HOW section, approximately 200 words, does analytical work not decorative work.
+
+**Female Voice:** Sita/Aasha from the Andhra Pradesh case study. Her story told with specificity. The public humiliation mechanism — weaponizing honor to extract payment — named and connected implicitly to Chapter 4's themes.
+
+**"I" placement:** One instance in the HOW section, entering the Scarcity Trap analysis.
+
+**Preemptive Concession:** Modern Islamic finance and its critics — acknowledged in one paragraph, then done.
+
+**Close:** The borrower and the lender — the ethical lens turned on the reader's own financial life. Not prescriptive. Observational. Ends on a specific image, not an abstraction.
+
+---
+
+### 7.5 Chapters 3, 4, 5 — Pre-Draft Briefs
+
+_(Unchanged from v1.0 Chapter by Chapter section — refer to v1.0 Part Seven for full briefs)_
+
+**Key updates to Chapter 4 brief:**
+
+- Qiwamah and Daraba moved from Friction section to Analysis section — presented as positive analytical moves, not defensive responses
+- Feminist Islamic scholars (Mernissi, Wadud) removed as named authorities — replaced by classical orthodox sources plus Ultimate Veto
+- Aisha section: show her agency through her own narration, do not explain or defend her circumstances
+- "Trajectory not endpoint" framing: replaced by "principles not policies" — the sermon established fixed principles, their application to specific contexts is the work of each generation (orthodox methodology, not progressive revisionism)
+
+---
+
+## PART EIGHT: THE RESOURCE REPOSITORY — UPDATED STATUS
+
+**[UPDATED] — Resources confirmed cut after full repo audit:**
+
+The following entries have been removed from the active resource list. They remain in the archive but will not appear in the manuscript:
+
+_Cut entirely:_
+
+- C1-007: Gamergate — dated, culturally specific, requires its own explanation
+- C1-009: Gandhi "eye for an eye" quote — overused
+- C1-011: Banu Qurayza — contested event requiring more defense than it contributes
+- C2-006: Student Debt Crisis as primary case study — primarily Western, requires updating
+- C2-009: FDR quote — book doesn't need external secular validation
+- C2-014: Timur Kuran — contested, politically charged, requires a detour
+- C3-006: BLM/Systemic Racism as case study — politically divisive for primary audience
+- C4-012: Tadrij/Gradualism — response to an attack the book has decided not to engage
+- C4-014, C4-015, C4-016: Red Team Questions — moved to separate author preparation document, not in main repo
+- C4-017: Feminist Islamic scholars (Mernissi, Wadud) — replaced by classical orthodox sources
+- C5-005: Fake News/Misinformation — detour from chapter's actual argument
+- EPI-001: Satanic Verses affair — too politically charged, replaced by attribute description approach
+
+_Demoted to secondary reference (one sentence maximum):_
+
+- C1-005: Jan 6th Capitol Attack — replaced by Delhi 1984 as primary, Jan 6th dropped entirely
+- C2-005: 2008 Financial Crisis — one sentence after Andhra Pradesh deep dive
+- C3-005: Ethno-Nationalism — one sentence connecting observation
+- C5-003: Enron — one sentence after Satyam deep dive
+
+_Revised significantly:_
+
+- C1-001: Sumayyah — reframed as subject of will
+- C2-003: Meccan Financial Elite — centered on Abbas, not Abu Lahab
+- C2-012: Brotherhood of Medina — renamed "The Ansar Partnership" or "The Solidarity Economy of Medina"
+- C3-002: Global Prison of Lineage — Indian Varna system added
+- C3-010: Constitution of Medina — democracy superlative removed
+- C4-003: Khadijah — reframed as first proof of concept, not supporting character
+- C4-008: Qiwamah — reformist scholars removed, classical sources substituted
+- C4-009: Daraba — reformist scholars removed, Aisha hadith from Sahih Muslim added with specific citation
+- C4-013: Aisha — reframed around her agency, not her circumstances
+- C5-003: Satyam — promoted to primary, Enron to secondary
+
+_Missing entries added:_
+
+- Fukuyama Social Capital framework — Introduction and Chapter 5
+- Qaswa, muballighun, Rabiah ibn Umayyah — Prologue details, confirmed from Ibn Ishaq
+- Maysarah's report to Khadijah — Interlude I
+- Tamil Nadu sugarcane farmer study — C2-013 supplement
+- Specific Quranic verse for Mahr (4:4, nihlah) — Chapter 4
+- Aisha hadith on Prophet never striking a woman — Sahih Muslim, specific citation — Chapter 4
+- Jonathan A.C. Brown "Slavery and Islam" — Chapter 3 Friction section
+- Updated Edelman Trust Barometer — 2024 or 2025 report required
+
+---
+
+## PART NINE: WHAT IS NOT IN THIS BOOK
+
+**[UPDATED] — Four items added:**
+
+Original exclusions (from v1.0):
+
+- A comprehensive account of the Prophet's life
+- A history of Islamic civilization or Islamic law
+- Islamic philosophy or theology beyond what directly illuminates the sermon
+- Comparison of Islam with other world religions
+- Political analysis of Muslim-majority countries
+- Engagement with contemporary Islamist movements or political Islam
+- Hadith methodology beyond the Appendix note
+- The succession crisis after the Prophet's death
+- Sectarian differences within Islam
+- Response to any specific critic, book, or controversy
+
+**[NEW] additions:**
+
+- Comparative religion ("other faiths also believe X") — the argument stands on its own terms
+- Islamic jurisprudence (fiqh) as a legal debate — classical tradition referenced as Scholarly Anchor, not engaged as legal debate
+- The author's personal journey — the "I" appears for three specific purposes, personal journey is not one of them
+- Contemporary Muslim politics — Muslim Brotherhood, Taliban, Iranian Revolution, any specific contemporary movement
+- Silicon Valley or technology metaphors of any kind
+- The "explanatory parenthetical" construction — if the preceding sentence needed it, rewrite the preceding sentence
+
+**The test for every draft section:** Does this material illuminate a principle of the sermon? If no, it does not belong in this book.
+
+---
+
+## PART TEN: PRODUCTION NOTES
+
+### 10.1 Language Hierarchy
+
+**[NEW]:**
+
+English is finalized first. Vernacular transcreations follow. The Urdu drafts (which are in several places better written than the English) are reference material for voice calibration, not source material for translation. The direction of flow is English to vernacular.
+
+---
+
+### 10.2 Length
+
+**[UPDATED] — Realistic targets based on Chapter 1 drafting experience:**
+
+The chapter targets in v1.0 were too tight for the content they carry. Revised targets:
+
+|Section|Revised Target|
+|---|---|
+|Prologue|1,400 words|
+|Introduction|1,500 words|
+|Chapter 1|3,200 words (locked)|
+|Chapter 2|3,800-4,200 words|
+|Interlude I|950 words|
+|Chapter 3|4,000-4,500 words|
+|Chapter 4|5,500-6,000 words|
+|Interlude II|950 words|
+|Chapter 5|4,500-5,000 words|
+|Epilogue|1,500 words|
+|Appendices|3,500 words|
+|**Total**|**~36,000-38,750 words**|
+
+This puts the book firmly in the 35,000-40,000 word range — manifesto length, tight and urgent, exactly right for the genre and audience. The 55,000-word target in v1.0 was too ambitious and would have required padding. This is the honest target.
+
+---
+
+### 10.3 Drafting Sequence
+
+**[UPDATED] — Confirmed sequence:**
+
+1. Introduction _(complete)_
+2. Chapter 1 _(complete, minor Silicon Valley language fix pending)_
+3. Chapter 2 _(next)_
+4. Interlude I
+5. Chapter 3
+6. Chapter 5
+7. Interlude II
+8. Chapter 4 _(hardest — drafted last when voice and structure fully proven)_
+9. Prologue _(working draft early for voice anchor, final polish last)_
+10. Epilogue _(after everything else — closing argument requires full argument)_
+
+---
+
+### 10.4 The Four Tests for Every Draft Section
+
+**[UPDATED] — Expanded from v1.0:**
+
+1. Does it do analytical work or decorative work? (If decorative, cut or rewrite)
+2. Does it trust the reader? (If it over-explains, simplifies, or preaches, rewrite)
+3. Does it earn what it claims? (If it asserts without demonstrating, rewrite)
+4. Is the science doing structural work or name-dropping? (If name-dropping, cut the name and keep the insight in plain language)
+5. **[NEW]** Does it pass the stylometric rules? (Check against all eight rules in Part Three, Section 3.5)
+6. **[NEW]** Does it use any banned language? (Silicon Valley metaphors, explanatory parentheticals, announced transitions, generalizing codas)
+7. **[NEW]** Does any biographical reference to the Prophet ﷺ satisfy all three Orthodox Framing conditions?
+8. **[NEW]** Does the chapter's female voice appear and does it pass through a woman's experience rather than about it?
+
+---
+
+_This document supersedes all previous versions. Version 2.0. All drafting from this point proceeds from this document._
+
+---
+---
+---
+---
+
+
+
+

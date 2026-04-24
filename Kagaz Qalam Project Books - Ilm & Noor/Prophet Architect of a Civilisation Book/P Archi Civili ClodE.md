@@ -579,7 +579,7 @@ The category had replaced the person. And once a category replaces a person — 
 
 In one hundred days, eight hundred thousand people were dead.
 
-This logic is old. Older than Rwanda, older than the 20th century, older than any of the political ideologies that have dressed it in modern clothing. It is the logic of the tribe — the oldest and most durable operating system humanity has ever run. And it runs, still, in every one of us.
+This logic is old. Older than Rwanda, older than the 20th century, older than any of the political ideologies that have dressed it in modern clothing. It is the logic of the tribe — the oldest and most durable instinct humanity has ever run. And it runs, still, in every one of us.
 
 ---
 
@@ -597,7 +597,7 @@ What followed lasted forty years.
 
 Forty years of raids and counter-raids, of the best men of both tribes ground into the desert, of children born into the war and dead in it without ever knowing what started it. The original insult — a dead animal, a wounded pride — had long since dissolved into nothing. What remained was the structure: the obligation to answer, the impossibility of stopping, the logic that made peace feel like surrender and war feel like honor.
 
-This was not Arabia's peculiarity. The Germanic tribes of northern Europe ran the same operating system — a single killing could ignite a generational feud consuming entire clans, ending only when one side was exterminated or a sufficient price paid, and sometimes not even then. The Greeks built their greatest literature around it — the _Iliad_ is, beneath everything else, the story of what happens when one man's wounded pride overrides every other moral consideration, and the answer is thousands of unnecessary deaths. Everyone, everywhere, was running some version of the same code. Your group's worth is sacred. The other group's worth is negotiable.
+This was not Arabia's peculiarity. The Germanic tribes of northern Europe ran the same operating system — a single killing could ignite a generational feud consuming entire clans, ending only when one side was exterminated or a sufficient price paid, and sometimes not even then. The Greeks built their greatest literature around it — the _Iliad_ is, beneath everything else, the story of what happens when one man's wounded pride overrides every other moral consideration, and the answer is thousands of unnecessary deaths. Everyone, everywhere, was living by some version of the same logic. Your group's worth is sacred. The other group's worth is negotiable.
 
 The man who would later stand on that hillside at Arafat grew up inside this code. He knew it not from observation but from the inside. He was from the Quraysh, the tribe that controlled Mecca and considered itself the apex of the Arab world. But within the Quraysh he was from a less powerful clan, and within that clan he was an orphan — his father had died before his birth, his mother when he was six. In a world where standing was guaranteed by a father's sword and a clan's strength, he had spent his childhood understanding what it meant to exist at the mercy of systems that assigned worth based on factors no one chose.
 
@@ -627,7 +627,7 @@ Then came the lists. Electoral rolls — the civic infrastructure of a democracy
 
 Then came the transformation. Repeated across hundreds of streets, hundreds of encounters — the moment when a face that had been a neighbor's face became something else. The person who had borrowed sugar and attended weddings and whose children had played with your children was replaced, visibly, by a category. A Sikh. A representative of the group that had done the thing that required answering. The individual dissolved. The category remained.
 
-For three days, the capital burned. The same code, the same logic, the same ancient operating system — running beneath the surface of a modern city, waiting for a signal that it was permitted to activate.
+For three days, the capital burned. The same logic, the same ancient grammar of collective punishment — present beneath the surface of a modern city, requiring only permission to surface.
 
 The distance between a radio station in Kigali and a street in Delhi is thousands of miles. The distance between their operating systems is nothing at all.
 
