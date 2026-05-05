@@ -3649,18 +3649,18 @@ Find: _"Not the centuries of commentary that accumulated around it..."_
 
 This requires a targeted search and replace. Here are the highest-priority substitutions — replace these exact phrases:
 
-|Current phrase|Replace with|
-|---|---|
-|"the specific quality of silence"|"the particular silence"|
-|"the specific exhaustion"|"the exhaustion" (adjective is redundant)|
-|"the specific terror"|"the terror"|
-|"the specific quality of a held breath"|"the quality of a held breath"|
-|"the specific paralysis"|"the paralysis"|
-|"the specific and unremarkable discipline"|"the unglamorous discipline"|
-|"a specific obligation of stewardship"|"an obligation of stewardship"|
-|"the specific quality of how far..."|"how far..."|
-|"the specific weight"|"the weight"|
-|"specific human moment"|"human moment"|
+| Current phrase                             | Replace with                              |
+| ------------------------------------------ | ----------------------------------------- |
+| "the specific quality of silence"          | "the particular silence"                  |
+| "the specific exhaustion"                  | "the exhaustion" (adjective is redundant) |
+| "the specific terror"                      | "the terror"                              |
+| "the specific quality of a held breath"    | "the quality of a held breath"            |
+| "the specific paralysis"                   | "the paralysis"                           |
+| "the specific and unremarkable discipline" | "the unglamorous discipline"              |
+| "a specific obligation of stewardship"     | "an obligation of stewardship"            |
+| "the specific quality of how far..."       | "how far..."                              |
+| "the specific weight"                      | "the weight"                              |
+| "specific human moment"                    | "human moment"                            |
 
 Retain "specific" where it is doing genuine work distinguishing one thing from another (e.g., "a specific claim" in the Abbas passage, "specific categories" in the Zakat passage). Remove it wherever it is functioning as a vague intensifier.
 
