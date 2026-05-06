@@ -3448,6 +3448,7 @@ Let me start with the most urgent: **the word count deficit** and **the missing 
 ---
 
 ## ==FIX 2: Chapter 5 — Expand the Keystone Synthesis LEFT TO BE DONE==
+#left 
 
 **WHERE:** Find the four "Without it..." paragraphs in the Keystone Synthesis section. They currently end as follows:
 
@@ -3762,5 +3763,38 @@ The manuscript is now ready for those fixes to be implemented.
 
 ---
 ---
+---
+
+###  THE MISSING "TRUST AUDIT" BOXES (Chapters 1, 2, 3, and 5) LEFT
+#left 
+
+Why: Chapter 4 ends with a brilliant "Mirror, Test, Action" box. To make this a cohesive "Smart Thinking / Manifesto" book, that structural tool must exist at the end of every chapter.
+
+**ACTION:** Insert these exact blocks at the very end of their respective chapters, right before the page break.
+
+**At the end of Chapter 1 (After "...until it became true."):**
+
+> **The Mirror:** Look at the way you consume the news. When a tragedy happens to someone within your political, religious, or national "tribe," what is your emotional response? When the exact same tragedy happens to someone in a rival category, do you immediately search for context that makes it their fault?  
+> **The Test:** When someone in your circle makes a casual joke that reduces an entire demographic to a stereotype, what do you do? Silence is not neutrality; silence is the permission structure for the category to replace the person.  
+> **The Action:** Identify one group of people you have unconsciously reduced to a label. Find an autobiography written by a member of that group. Read it. Force your brain to encounter the specific, irreducible human being behind the category.
+
+**At the end of Chapter 2 (After "...The demand itself has not changed."):**
+
+> **The Mirror:** Look at your financial footprint. Are your investments, savings, or business models generating profit by extracting it from people who have fewer choices than you do? Does your return rely on someone else's desperation?  
+> **The Test:** When someone owes you something—money, a favor, a professional deliverable—and they experience a genuine crisis, is your first instinct to enforce the contract, or to absorb the delay?  
+> **The Action:** Execute one act of the "moral economy" this week. Forgive a small debt that someone owes you. Or, if you are investing capital, structure it so that you share the actual risk of failure with the person doing the work.
+
+**At the end of Chapter 3 (After "...turning inward, from the hierarchy of blood to the hierarchy of the home."):**
+
+> **The Mirror:** Look at the rooms where you hold power. Who do you naturally assume is competent before they speak? Who has to prove their competence to you three times before you believe them? Your implicit bias is your modern nasab.  
+> **The Test:** When someone with less formal education, lower social status, or the "wrong" background corrects you in public, how does your body react? Do you evaluate the truth of the correction, or the rank of the person correcting you?  
+> **The Action:** Find a person in your professional or personal network who has the character (taqwa) for leadership but lacks the pedigree, the network, or the "right" background. Use your own social capital to elevate them into a room they cannot access alone.
+
+**At the end of Chapter 5 (After "...private and when no one is watching, transmits."):**
+
+> **The Mirror:** Where are your rounding errors? In what small area of your professional or personal life have you convinced yourself that a minor dishonesty is justified because "the system is rigged," or "everyone does it," or "no one will get hurt"?  
+> **The Test:** If every private message you sent this week, and every small financial transaction you made this month, were audited and published tomorrow, what is the first thing you would scramble to delete or explain? That panic is the tiger.  
+> **The Action:** Identify one small professional or personal commitment you have been quietly evading. Do not wait for the audit. Disclose it, take the temporary hit to your pride or wallet, and clear the ledger.
+
 ---
 
