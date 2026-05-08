@@ -22,9 +22,7 @@ debugInConsole: false # Print debug info in Obsidian console
 - For my parents, who taught me that a person's word is worth more than everything else they own.
 ### Epigraph
 
->"Let him who is present tell it to him who is absent.
-For it may be that some of those to whom it is conveyed
-will understand it better than those who heard it directly."
+>"Let him who is present tell it to him who is absent. For it may be that some of those to whom it is conveyed will understand it better than those who heard it directly."
 > — The Farewell Sermon, 632 CE
 
 ## Prologue: The Stillness Before Dawn
@@ -108,7 +106,7 @@ From where he stands, the full reality of what he has brought into being is visi
 
 He raises his hand.
 
-It is a simple gesture. A small movement in the air. But it is the final signal, and the crowd receives it as such.
+It is a  simple gesture. A small movement in the air. But it is the final signal, and the crowd receives it as such.
 
 The last sounds die. The shuffling of feet stops. The murmuring at the edges of the gathering, the coughing, the crying of a child somewhere in the distance — all of it ceases, one sound at a time, until there is nothing left.
 
@@ -177,9 +175,9 @@ I should say what I brought to this text. I was raised inside this tradition. Th
 
 ---
 
-The man who delivered this address was sixty-three years old and would be departing this world within three months. Before any of what followed — the revelations, the battles, the new state, the hundred thousand people standing in silence at his word — he had been an orphan in a society where a child without a father's protection was available for exploitation. He had been a merchant who built a career in a low-trust marketplace by refusing to lie about a flaw in a piece of cloth. He had been a man who, at his most terrified, on the night everything changed, came home home shaking and turned to his wife for the steadying that only she could give.
+The man who delivered this address was sixty-three years old and would be departing this world within three months. Before any of what followed — the revelations, the battles, the new state, the hundred thousand people standing in silence at his word — he had been an orphan in a society where a child without a father's protection was available for exploitation. He had been a merchant who built a career in a low-trust marketplace by refusing to lie about a flaw in a piece of cloth. He had been a man who, ==at his most terrified==, on the night everything changed, came home home shaking and turned to his wife for the steadying that only she could give.
 
-He was not a king speaking from a high tower, not a theorist at a safe distance, but a man who lived everything he later proclaimed — who had felt what hunger does to a person's dignity, who had watched people he loved be killed for beliefs he had given them and been unable to save them, who knew from the inside what it meant to be vulnerable in a world organized around the exploitation of vulnerability.
+He was not a king speaking from a high tower, not a theorist at a safe distance, but a man who lived everything he later proclaimed — who had felt what hunger does to a person's dignity, who had ==watched/known== people he loved be killed for beliefs he had given them ==and been unable to save them==, who knew from the inside what it meant to be vulnerable in a world organized around the exploitation of vulnerability.
 
 The principles laid out in the final sermon were not theories conceived in comfort. They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him only if the people who heard them decided to live them too.
 
