@@ -698,7 +698,45 @@ Now he climbed the Kaaba. He stood at the highest point of the holiest building 
 
 The meritocracy of character had arrived. Not as an idea proclaimed on a hillside. As a voice belonging to the man whose _taqwa_ had been tested in the only conditions that test it: not in comfort, not in safety, but in the moment when renunciation was the available exit and he had refused it.
 
+<font color="#c0504d">Bilal's appointment proves what spiritual honor looked like when assigned by character rather than blood. A separate appointment, in the same period, proves what command authority looked like.</font>
+
+<font color="#c0504d">In the final weeks of his life, the Prophet ﷺ organized a military expedition to the Syrian frontier and named its commander. The appointment was Usamah ibn Zayd — a young man of approximately seventeen years. His father was Zayd ibn Haritha, whom the Prophet ﷺ had loved as a son and wept over after his death at the Battle of Mu'tah. His mother was Umm Ayman, an African woman who had cared for the Prophet ﷺ since his earliest childhood and whom he called "my mother after my mother."</font>
+
+<font color="#c0504d">In the army placed under Usamah's command were Abu Bakr al-Siddiq and Umar ibn al-Khattab — the two men who would govern the community as its first and second caliphs. Men who had been Muslims for two decades. Men who had bled at Badr and Uhud.</font>
+
+<font color="#c0504d">Some among the Companions raised concerns about the appointment. Their question was his age, not his lineage — they had heard the sermon. The Prophet ﷺ silenced them directly: _"If you question the command of Usamah, you questioned the command of his father before him. By God, he was worthy of command and was among the most beloved of people to me, and this one is among the most beloved to me after him."_</font>
+
+<font color="#c0504d">The Prophet ﷺ died before the expedition departed. The community was in acute crisis — a leader gone, succession unresolved, tribal loyalties pulling in every direction. Abu Bakr, in the first days of his caliphate, faced a hundred arguments for reorganizing the army under experienced senior leadership. He refused every one. He said he would not unravel an appointment the Prophet ﷺ had made. Usamah led the expedition. The future caliphs marched under his command.</font>
+
+<font color="#c0504d">The son of a freed slave and an African woman commanded the men who would govern the Muslim world. Abu Bakr upheld that command at the moment of greatest political cost, because the principle was not symbolic — it had to hold precisely when holding it was difficult.</font>
+
 ==A modern reader will rightfully ask: If the blueprint was so radical, why did it not abolish the institution of slavery overnight? The answer lies in the difference between moral grandstanding and structural engineering. In a 7th-century global economy running entirely on uncompensated human labor, an immediate abolition would have collapsed the society into mass starvation and war. Instead, the blueprint engineered a system to starve the institution to death. It banned the enslavement of free people. It made the freeing of slaves the highest act of religious expiation for sins. It granted slaves the right to purchase their own freedom through legally binding contracts. It did not ban the institution overnight; it dismantled its economic viability and moral legitimacy, creating the structural off-ramp for its eventual eradication.==
+
+---
+
+<font color="#c0504d">Twenty years after the Farewell Sermon, Amr ibn al-As was the conqueror of Egypt — governor of the province that fed the empire, among the most celebrated military commanders in the Islamic world. His son, in a horse race, struck an Egyptian Coptic Christian farmer who had beaten him. The farmer traveled to Medina and reported the incident directly to the Caliph Umar ibn al-Khattab.</font>
+
+<font color="#c0504d">Umar summoned Amr and his son to the capital.</font>
+
+<font color="#c0504d">He placed a whip in the farmer's hand and told him to strike the governor's son in front of his father.</font>
+
+<font color="#c0504d">The farmer struck him.</font>
+
+<font color="#c0504d">Umar then told the farmer to strike Amr ibn al-As himself — his son had struck him only by the arrogance his father's position had built into him.</font>
+
+<font color="#c0504d">The farmer chose not to. He had received what he came for.</font>
+
+<font color="#c0504d">Umar looked at Amr and spoke words that the earliest chronicles of the Islamic period record:</font>
+
+<font color="#c0504d">_"Mata ista'badtum al-nas wa qad waladathum ummahatuhum ahrarar?"_</font>
+
+<font color="#c0504d">Since when have you enslaved people, when their mothers bore them free?</font>
+
+<font color="#c0504d">The question is not addressed to one governor. It is the sermon's principle stated as an indictment — that every body carries the freedom of its birth, that no subsequent transaction of power or conquest or lineage undoes what a mother's labor established, that the person in front of you is the free human being they arrived as, not the category the powerful have since assigned them.</font>
+
+<font color="#c0504d">A Coptic Christian farmer's body had the same sanctity as the son of the conqueror of Egypt. The caliph enforced this with a whip, publicly, against his own empire's most distinguished military governor. The principle was not the Prophet's ﷺ personal gift to the people he favored. It had become the measure by which power was judged — and, when necessary, corrected by the state operating in the blueprint's name.</font>
+
+<font color="#c0504d">The muhtasib walked the souk. The caliph walked the throne room. Both carried the same question: have you taken what you had no right to take?</font>
 
 ---
 
@@ -822,6 +860,26 @@ Consent was given legal standing. A woman came to the Prophet ﷺ and told him t
 
 She understood that she was making law. She was. The requirement of her consent was not an act of individual kindness. It was a structural change — the conversion of marriage from a transaction between men into a contract that required a woman's participation to be valid.
 
+<font color="#c0504d">Khawla bint Tha'laba's husband had pronounced a form of pre-Islamic abandonment called _zihar_ — a formula by which a man told his wife "you are to me as my mother's back." The declaration simultaneously ended the marriage and denied her the right to leave it. She could not remarry. She could not resume her life as his wife. She was suspended in a legal void of his creation — unable to go forward and forbidden to go back. The practice was ancient, accepted, and designed for the husband's convenience at the wife's permanent expense.</font>
+
+<font color="#c0504d">Khawla went to the Prophet ﷺ and argued her case.</font>
+
+<font color="#c0504d">He told her, initially, that he found no ruling that applied differently from the established practice. The zihar had been pronounced. He could find no legal path.</font>
+
+<font color="#c0504d">She did not accept this.</font>
+
+<font color="#c0504d">She pressed the case. She turned her face upward and said: _O God, I complain to You of my situation._ She came back. The hadith record the exchange between them — a woman and a prophet, the woman refusing to accept the first answer, returning again, insisting that what had been done to her was wrong and that the tradition owed her a response equal to the wrong.</font>
+
+<font color="#c0504d">Then Surah Al-Mujadila was revealed. The fifty-eighth chapter of the Quran. Its name is derived from the verb _jadala_ — to argue, to dispute, to press a case. The chapter is called _She Who Argues._</font>
+
+<font color="#c0504d">It opens: _"God has heard the statement of her who argues with you concerning her husband and complains to God — and God hears the dialogue between you. God is All-Hearing, All-Seeing."_</font>
+
+<font color="#c0504d">The zihar practice was abolished. The husband was required to perform a demanding act of expiation. The legal void was closed.</font>
+
+<font color="#c0504d">The chapter is named after what Khawla did. Not after her faith. Not after her patience. After her argument — after her specific act of refusing to accept an inadequate first response from the highest available authority.</font>
+
+<font color="#c0504d">No 7th-century civilization produced anything comparable. A woman's private dispute became the occasion for divine revelation, and the revelation is named after her disputing. The Quran did not simply establish women's legal standing. It named a chapter after one woman refusing to accept the answer she was given.</font>
+
 This matters beyond the rights it established. A society in which the most intimate unit — the family — operates on the logic of ownership rather than covenant cannot build trust at any larger scale. The man who treats his wife as property he manages will manage his employees, his tenants, and his neighbors with the same underlying logic. The woman whose consent is irrelevant in her own marriage will learn that her voice is irrelevant in the marketplace and the public square. The children who grow up in a household governed by coercion rather than stewardship will carry that as their first and deepest understanding of how authority works. The sermon understood this with the accuracy of a structural engineer: a high-trust society cannot be built from units of low-trust domesticity. The home is not separate from the civilization. It is where the civilization is first learned.
 
 ---
@@ -907,6 +965,16 @@ The historical record of societies claiming to follow the sermon's principles on
 But these realities are not the application of the sermon's principles. They are their abandonment — the abandonment that occurs when pre-Islamic patriarchal norms, never fully displaced, reassert themselves under religious language. The seclusion practices imported from Persian and Byzantine imperial culture. The legal restrictions that accumulated in the centuries of empire, justified by selective citation of texts read without the Prophet's ﷺ own life as their context. The gap between what the sermon established and what was built in its name is not evidence against the sermon. It is evidence of the failure Chapter 5 describes: the form maintained while the substance is removed, the blueprint invoked while its actual demands are quietly set aside.
 
 The responsibility for what was built belongs to the builders. The design points in a different direction.
+
+<font color="#c0504d">Shifa' bint Abdullah al-Adawiyya was a woman of the Quraysh — a Companion of the Prophet ﷺ, known for her literacy at a time when literacy itself was rare, documented in the historical record as the woman who taught Hafsa bint Umar, the Prophet's ﷺ wife, to read and write. She is one of the few women of the early period whose intellectual life is preserved with any specificity.</font>
+
+<font color="#c0504d">Umar ibn al-Khattab appointed her as the market inspector of Medina.</font>
+
+<font color="#c0504d">The market inspector — the muhtasib — walked the marketplace and ensured that weights were accurate, goods matched their descriptions, and commercial contracts meant what both parties had agreed they meant. It was the regulatory authority over the daily economic life of the Muslim capital. It was, as Chapter 5 of this book will argue, the institutional expression of Amanah — character encoded into enforcement.</font>
+
+<font color="#c0504d">Umar gave this authority to a woman. A woman held the weights and the right to use them.</font>
+
+<font color="#c0504d">The covenant of trust — the woman as Amanah rather than property, as agent rather than object — was not confined to the Prophet's ﷺ household or to the sermon's declaration. Within a generation it had moved into the governance of the state itself. The design pointed in this direction. The builders, for a time, followed it.</font>
 
 ---
 
@@ -1205,6 +1273,26 @@ And finally, beneath all of it, the principle that holds the others: that societ
 Five principles. One vision: a society in which trust is not a luxury available to the powerful but the foundational condition of ordinary life — in which the stranger and the neighbor and the person across the table operate from the assumption that the other is not a threat to be managed but a soul to be honored.
 
 This is what was spoken on that hillside in the year 632 CE. It was not spoken only for the people standing there, but it was spoken for everyone who would come after them — including, fourteen centuries later, whoever is holding this book.
+
+<font color="#c0504d">The Prophet ﷺ died in Medina in the eleventh year of the Hijra. He left no unambiguous designation of a successor. The community he had built from nothing — from a handful of people meeting in secret, through exile and war and the construction of a civilization — stood without him for the first time.</font>
+
+<font color="#c0504d">Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph. He rose before the community and refused to inherit what he had been given.</font>
+
+> _O people — I have been appointed as your ruler, though I am not the best among you. If I do good, then help me. If I do wrong, then set me right._
+> 
+> _Truth is a trust. Lying is a betrayal._
+> 
+> _The weak among you is strong in my estimation until I restore to them their rights. The strong among you is weak in my estimation until I take from them what is due to others._
+> 
+> _No people abandons striving in God's path without God afflicting them with humiliation. No people becomes corrupted without God sending widespread trial upon them._
+> 
+> _Obey me as long as I obey God and His Messenger. If I disobey God and His Messenger, you have no obligation to obey me._
+
+<font color="#c0504d">In the 7th-century world — among Roman emperors deriving authority from divine appointment, Persian shahs whose kingship was cosmological necessity, Byzantine rulers whose power descended through unbreakable dynastic chain — this speech was not a convention of humility. It was the categorical refusal of a different theory of power.</font>
+
+<font color="#c0504d">The weak are strong until their rights are restored. Obedience is conditional on the leader's own obedience to something higher than himself. The man who had just inherited the governance of a civilization stated plainly that he held it in trust — that he was accountable, correctible, and by implication removable. He held the caliphate the way the muhtasib held the weights: in stewardship, knowing the ledger is real even when no one is auditing it.</font>
+
+<font color="#c0504d">The blueprint survived the Architect. At least in this moment. At least enough to know it was possible — and to understand, from everything that followed, exactly how difficult possible actually is.</font>
 
 ---
 
