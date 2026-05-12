@@ -5838,3 +5838,255 @@ The framing for Abu Dharr will center his prostration before Bilal as the story'
 ---
 ---
 
+## SELF-CRITIQUE ACROSS ALL HIGH VALUE DRAFTS
+
+**Abu Dharr:** Opened with an announced transition telling the reader what the story would demonstrate. Final paragraph over-explained. "Not: you have broken a rule. Not: you perform an act of expiation." — banned construction appearing in the same chapter as Khawla's "Not after her faith. Not after her patience."
+
+**Umayyad replacement:** "real enough to be violated consequentially" — grammatically awkward. Final sentence of the middle paragraph weak. "The Muslim world, in most of its institutional expressions" — hedged when directness is warranted.
+
+**Waqf/Abbasid:** "At one historical moment, it was built at scale" — sounds like a brief exception rather than centuries of operation. "spending a career on" — too casual for Goitein. Ending "not principles preserved in text" risks diminishing the sermon itself.
+
+**Chapter 2 Blueprint vs. Buildings replacement:** Opened with "There is an honest acknowledgment required before the chapter ends" — announced transition, banned. "$3.5 trillion" specific figure will date the book. "on precisely these grounds" — "precisely" as vague intensifier. "The tiger, in this domain, wears compliance documentation" — tiger metaphor hasn't been introduced yet in Chapter 2; it belongs to Chapter 5.
+
+**Saudi guardianship:** "The blueprint was invoked to correct the building. The building had abandoned the blueprint" — "blueprint" appears twice in consecutive sentences after the decision to reduce frequency. Grammar of the hadith reference sentence convoluted.
+
+**Four caliphs:** "Not a political instruction. Not a designation of a successor." — banned construction used twice now across the manuscript. "This is what genuine transmission looks like" — announced observation. Ali paragraph uses "precisely equal" — legalistic.
+
+**Sa'd removal:** "His standing in the faith was unquestioned. The people of Kufa brought complaints. Umar removed him." — three consecutive short declaratives, too many. "rounded up the weight of barley" — random example disconnected from muhtasib's actual function.
+
+**Non-Muslim witnesses:** Both opened with announced transitions. Chapter 3 version: "The document" — ambiguous antecedent. Chapter 5 version: "This was not invisible to those outside the community" — announced.
+
+**Chapter 1 Kafala:** Not previously drafted — drafting and critiquing simultaneously below.
+
+---
+
+## REFINED INTRODUCTION ADDITION — SERMON AS TRANSCRIPT
+
+**FIND in Introduction:**
+
+> _They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him only if the people who heard them decided to live them too._
+
+**INSERT IMMEDIATELY AFTER:**
+
+---
+
+Read the sermon from this angle and it changes. The man at Arafat was not announcing what humanity should do. He was reporting what he had already done — compressing into language a life that had already been the proof. The Conquest of Mecca had already demonstrated the principle of inviolable sanctity before the sermon named it. The boycott years had already demonstrated what predatory economics costs a human body. The Black Stone arbitration had already demonstrated that a reputation for integrity was worth more than any lineage. Khadijah had already demonstrated that a woman's recognition could be the foundation on which everything else rested. The title Al-Amin had already demonstrated that character could be built, transaction by transaction, into the fabric of a marketplace.
+
+He did not discover these principles at Arafat. He reported them, having lived each one. The sermon was a transcript before it was a manifesto.
+
+---
+
+## REFINED CHAPTER 1 — FULL KAFALA REPLACEMENT
+
+**FIND the following in Chapter 1 and DELETE IT ENTIRELY:**
+
+> _That societies claiming to follow this principle have violated it catastrophically — in communal riots, in ethnic cleansing, in the casual dehumanization of daily prejudice — belongs to the builders of those societies, not to the design._
+
+**REPLACE WITH:**
+
+---
+
+That societies claiming to follow this principle have violated it catastrophically is documented and undeniable.
+
+The kafala system — the sponsorship arrangement operating across Gulf states that govern under explicit Islamic frameworks — binds migrant workers' legal residency to a specific employer. A domestic worker from the Philippines, a construction laborer from Nepal, a service worker from Ethiopia cannot change employers, leave the country, or legally escape abusive conditions without the sponsoring employer's written permission. Passports are routinely held by employers. International labour investigators documented thousands of migrant worker deaths in the years of preparation for the 2022 World Cup in Qatar alone. The body that traveled from Kathmandu or Manila to build a stadium or clean a hotel room carries a hurmah — an inviolable sanctity, fixed as the Kaaba, belonging to the person by the logic of the sermon's own first principle — that the administrative instrument of sponsorship treats as subject to another person's administrative preference.
+
+The kafala system is a structural arrangement, operating at the level of state law, in states that invoke Islamic governance frameworks for other purposes. The sermon's first principle is not being applied imperfectly here. It is being inverted at the institutional level.
+
+These failures belong to the builders, not to the design. The design does not accommodate them. It names them, plainly, as desecration.
+
+---
+
+## REFINED CHAPTER 2 ADDITIONS
+
+---
+
+### REFINED INSERTION H: WAQF AND ABBASID ARCHITECTURE
+
+**FIND in Chapter 2:**
+
+> _The system did not abolish ambition, investment, or the generation of wealth; it demanded that capital walk onto the field and bear the actual risk of the harvest._
+
+**INSERT IMMEDIATELY AFTER. Before "In the sermon at Arafat, having declared the abolition...":**
+
+---
+
+For several centuries, the alternative system was built at scale, and what it produced is measurable.
+
+In the 9th and 10th centuries, Baghdad was the largest city in the world — home to approximately a million people at its peak, the center of a commercial network reaching from Spain to Central Asia. Its marketplace operated on instruments that embodied the sermon's economic logic in practice: the hawala, which transferred funds across thousands of miles on the basis of the reliable stewardship of an obligation; the suftaja, which functioned as a bill of exchange between partners who shared the actual risk of the transaction. Jewish, Christian, Muslim, and Zoroastrian merchants operated in the same souk under the same commercial framework, enforced by the same muhtasib. The historian S.D. Goitein, whose life's work rested on documents from the Cairo Geniza — the archive of a Jewish merchant community in Fustat, Egypt — found generation after generation of commercial partnerships between Jewish traders and Muslim counterparts, built on shared-risk instruments and a reliable reputation. The trust radius extended beyond the Muslim community because the enforcement mechanism applied beyond it.
+
+The waqf — the Islamic endowment — was the instrument by which individual wealth became permanent public infrastructure. Assets dedicated as waqf could not be inherited, sold, or repurposed; their returns served the designated community indefinitely. Hospitals treating all patients free of charge regardless of religion. Libraries surviving the political deaths of their founders because the endowment, not the person, held the ownership. Zubayda bint Ja'far financed the construction of the entire 1,400-kilometer pilgrimage route from Kufa to Mecca — the Darb Zubayda, with wells, cisterns, rest stations, and paved road — from her personal wealth. Told the cost was enormous, she responded: carry it out even if every blow of the pickaxe costs a dinar. The road served pilgrims for over a thousand years.
+
+In 859 CE, a woman named Fatima bint Muhammad al-Fihri used her inheritance to establish a centre of learning in Fez as a waqf. Her inheritance: the wealth she held in her own name, the legal right the sermon's reforms had created. The institution she built from it — al-Qarawiyyin — has operated continuously for more than eleven centuries. She has been dead for a thousand years. The waqf is still running.
+
+This is what the alternative economy looked like when it was actually built — not an argument held in aspiration only, but institutions serving communities across religious lines, outlasting their founders by centuries.
+
+---
+
+### REFINED CHAPTER 2 BLUEPRINT VS. BUILDINGS — FULL REPLACEMENT
+
+**FIND the following in Chapter 2 and DELETE IT ENTIRELY:**
+
+> _There is an honest acknowledgment required here, before the chapter ends._ _(the full existing paragraph through "The demand itself has not changed.")_
+
+**REPLACE WITH:**
+
+---
+
+Contemporary Islamic finance — a global industry worth trillions of dollars, built explicitly in the name of this prohibition — has been criticized by Islamic scholars and economists alike for reproducing the economics of riba through instruments structured to appear compliant while functioning identically. The Murabaha arrangement, in which a bank purchases an asset and immediately resells it to a client at a marked-up price payable in installments, produces cash flows mathematically indistinguishable from an interest-bearing loan. The lender's return is predetermined. The lender bears no real risk. The Accounting and Auditing Organization for Islamic Financial Institutions — the industry's own standards body — has raised formal concerns about specific instruments for this reason.
+
+A framework applied in bad faith remains a framework. The demand of the sermon — that the lender bear actual risk alongside the borrower, that wealth be generated through genuine partnership and not through the legal fiction of a sale — has not changed. The failure belongs to those who invoked the framework while quietly removing its demands from the structure.
+
+---
+
+## REFINED CHAPTER 3 ADDITIONS
+
+---
+
+### REFINED INSERTION F: ABU DHARR AND BILAL
+
+**FIND in Chapter 3:**
+
+> _A meritocracy of character is the only one genuinely available to everyone. You cannot choose your lineage. You can choose, every day, what your _taqwa_ is._
+
+**INSERT IMMEDIATELY AFTER. Before "Here is where the book's argument meets a remarkable independent confirmation":**
+
+---
+
+Abu Dharr al-Ghifari was among the first to enter Islam, among the most ascetic of the Companions, and among those the Prophet ﷺ spoke of with the deepest personal affection. He had given up comfort, security, and the ease of the tribal world without reservation. He was, by the faith's own accounting, one of its finest.
+
+In a dispute with Bilal ibn Rabah, Abu Dharr said to him: _"You son of a black woman."_
+
+The Prophet ﷺ turned to him. The words that follow are recorded in Sahih al-Bukhari: _"Did you insult him by his mother? You are a man in whom there is still some jahiliyyah."_
+
+Not a rule broken. Not a penance to be performed. Something more precise: _you still carry it._ The old code had not been abolished from Abu Dharr by his faith, his sacrifice, or his decades of devotion. It had survived inside him as instinct — a reflex available in a moment of anger, surfacing before belief could intercept it.
+
+Abu Dharr put his cheek on the ground and told Bilal to place his foot on it.
+
+Bilal did not.
+
+_Jahiliyyah_ is not a historical epoch that ended with the sermon's proclamation. It is a condition — the habit of ranking by blood, by birth, by the texture of a mother's skin — that persists inside the most committed person, available in the smallest and most unguarded moments. The declaration dismantled the hierarchy as legal fact. What it could not dismantle automatically was the instinct that had sustained it. That required something else entirely: the correction that named the failure plainly, and the particular moral courage of a man who responded by putting his face in the dust.
+
+---
+
+### REFINED INSERTION G: UMAYYAD RESTORATION — FULL REPLACEMENT
+
+**FIND the following in Chapter 3 and DELETE IT ENTIRELY:**
+
+> _That caste has re-entered Muslim communities through the back door of biradari, that Arab nationalism has reproduced the exact hierarchy the sermon dismantled, that the Muslim world is not a meritocracy of character — these failures belong to the people who built those communities, not to the blueprint they claimed to follow. The blueprint demanded the exhausting, unnatural elevation of character over blood. Most people, across most of history, have not sustained that demand. But the demand is still there, in the text, unchanged._
+
+**REPLACE WITH:**
+
+---
+
+The gap between the principle and its application opened within living memory of the sermon.
+
+The Umayyad caliphate, governing the Muslim world from 661 CE — less than thirty years after the Prophet's ﷺ death — systematically reinstated the hierarchy of blood the sermon had demolished. Non-Arab Muslims, the mawali, were in many regions required to pay taxes that Arab Muslims did not. Arab tribal identity was embedded in military and administrative structures in ways that reproduced the exact supremacy the sermon had named and nullified. The men who had heard the declaration at Arafat were still alive. Their children oversaw the erasure of what had been proclaimed there.
+
+The counter-movement that overthrew the Umayyads in 750 CE did not make its case primarily on military or economic grounds. It invoked the Farewell Sermon. The equality of Arabs and non-Arabs before God, the meritocracy of character over the aristocracy of blood — these were the arguments of the Abbasid revolution, drawn directly from the text the Umayyad state was simultaneously invoking for its own legitimacy. The sermon had sufficient political memory to generate its own correction. That correction was necessary is evidence that the blueprint was real — real enough that its violation had political consequences, and real enough that its language could mobilize the force that eventually corrected it.
+
+The failure did not stop there. Caste has re-entered Muslim communities through the back door of biradari. Arab nationalism has reproduced the exact hierarchy the sermon dismantled. The Muslim world, across most of its institutional history, has not sustained a meritocracy of character. These failures belong to the builders, not to the design. The design is only vindicated by being lived — and the distance between the sermon's declaration and the structures built in its name remains the measure of every generation that inherits both.
+
+---
+
+### REFINED INSERTION M: NON-MUSLIM WITNESS — CHAPTER 3
+
+**FIND in Chapter 3:**
+
+> _Citizenship, in this document, was contractual rather than genealogical. This is what it looks like when the meritocracy of character becomes a legal structure rather than a personal aspiration._
+
+**INSERT IMMEDIATELY AFTER. Before the Blueprint vs. Buildings paragraph:**
+
+---
+
+The non-Muslim communities who lived under the early application of this principle left records. They are not uniformly positive — conquest is conquest, and the chronicles of subjugated peoples carry that weight honestly. But specific to this principle — that legal standing before the administration was not determined by religious identity — John of Nikiu, a Coptic bishop writing in the 7th century, recorded that many among his community found a single legal standard applied across religious groups preferable to what the Byzantine administration had offered. The principle was imperfectly applied. Its application, even imperfectly, was noticed and recorded by those on the receiving end.
+
+---
+
+## REFINED CHAPTER 4 ADDITION
+
+---
+
+### REFINED INSERTION I: SAUDI GUARDIANSHIP — INTO EXISTING BLUEPRINT VS. BUILDINGS
+
+**FIND in Chapter 4:**
+
+> _The confinement of women, the systematic denial of education and legal standing, the violence conducted under religious justification, the legal structures that have made female lives smaller and more constrained than the sermon requires — these are real, documented, ongoing. They cannot be dismissed and they should not be minimized._
+
+**INSERT IMMEDIATELY AFTER. Before "But these realities are not the application of the sermon's principles":**
+
+---
+
+Until 2019, Saudi Arabia — a state governing under explicit Islamic law — prohibited women from traveling without written permission from a male guardian: father, husband, brother, or adult son. A woman could not obtain a passport independently. She required guardian approval to travel, to access certain medical procedures, to transact in many legal contexts.
+
+At Arafat, the Prophet ﷺ described a future in which a woman would travel alone from Yemen to Mecca and without fear — naming this not as a distant aspiration but as a marker of the society being built. The travel restriction had no Quranic basis. Classical jurists were divided on it. The Prophet's ﷺ own documented practice demolished it.
+
+When Saudi Arabia removed the restriction in 2019, the public argument was not that modernity required change. It was that the restriction had never had Islamic foundation — that returning to the sermon's actual position was the reform. The sermon was invoked to correct the building. The building had abandoned it, and it was still there, capable of generating the correction.
+
+---
+
+## REFINED CHAPTER 5 ADDITIONS
+
+---
+
+### REFINED INSERTION J: FOUR CALIPHS' DEATH-BED PATTERN
+
+**FIND in Chapter 5:**
+
+> _The three dirhams mattered. They mattered because they were small._
+
+**INSERT IMMEDIATELY AFTER. Before "The sermon's final command, issued at Arafat...":**
+
+---
+
+The three caliphs who immediately succeeded the Prophet ﷺ each enacted a version of the same final act.
+
+Abu Bakr al-Siddiq, dying of illness eighteen months after the Prophet ﷺ, directed that his caliphal stipend — the modest allowance he had received as the community's leader — be calculated in full and returned to the treasury. He had taken what he needed to live. The remainder was not his. He instructed his family to sell whatever was necessary to clear the account. He died having taken nothing from the community that he had not earned.
+
+Umar ibn al-Khattab, stabbed and dying over three days, sent his son Abdullah to Aisha with one request — not a political instruction, not a designation of a successor. He asked her permission to be buried beside the Prophet ﷺ and Abu Bakr. When she said yes, he wept. He said nothing in the world mattered more to him than that permission. Then he turned to the accounting. He dictated his obligations, the debts incurred in administering an empire, and told his son: count what I owe. Count everything. Pay it all.
+
+Ali ibn Abi Talib, struck by a poisoned sword, used his remaining hours to instruct those around him: give his assassin one retributive strike — no more than had been done to him, and nothing beyond it. Then settle the debts. Return what is owed.
+
+All three died trying to clear the same ledger by the same standard. The amanah principle, internalized at this depth, surfaces at the moment when all performance has ceased and only the actual person remains — which is the only moment that measures whether the transmission was genuine.
+
+The command at Arafat was to pass on the words. The caliphs passed on the practice.
+
+---
+
+### REFINED INSERTION K: SA'D IBN ABI WAQQAS
+
+**FIND in Chapter 5:**
+
+> _The presence of the standard, publicly maintained, was itself a form of transmission. It told every trader in the market, every day, that the rules were real. That the small thing mattered. That the rounding error would not pass unexamined._
+
+**INSERT IMMEDIATELY AFTER. Before "This is the institutional expression of _Amanah_":**
+
+---
+
+The principle did not stop at the souk. Umar ibn al-Khattab removed Sa'd ibn Abi Waqqas — the conqueror of Persia, one of ten Companions to whom the Prophet ﷺ gave explicit testimony of paradise — from his governorship of Kufa on the basis of complaints from ordinary citizens that he had grown inaccessible. Sa'd's military record was unimpeachable, his standing in the faith unquestioned. The people of Kufa brought complaints. Umar removed him. The accountability applied to the man who had conquered Persia on behalf of the community, not only to the merchant who had shaved the weight of his scales.
+
+---
+
+### REFINED INSERTION L: NON-MUSLIM WITNESS — CHAPTER 5
+
+**FIND in Chapter 5, in the Fukuyama/Trust Dividend section:**
+
+> _The trust radius extended beyond the Muslim community because the enforcement mechanism applied beyond it._
+
+_(This sentence now appears at the end of the Waqf/Abbasid section inserted in Chapter 2. In Chapter 5, find the Fukuyama paragraph and locate:)_
+
+> _The Trust Dividend... compounds across millions of daily interactions when people keep their word without being watched._
+
+**INSERT IMMEDIATELY AFTER. Before "The Prophet ﷺ, building a community in Medina...":**
+
+---
+
+S.D. Goitein's work on the Cairo Geniza — the archive of a Jewish merchant community in Fustat, Egypt — found generation after generation of commercial partnerships between Jewish traders and Muslim counterparts, their terms recorded on paper but their foundation in something the documents themselves make clear: a reliable reputation, and the shared understanding that the obligation would be honored. The trust radius extended across religious lines because the standard extended across them — applying to the Muslim merchant with the same force it required of others.
+
+---
+
+This completes the full High Value and Supporting Texture content. The manuscript now has all insertions for every chapter. The remaining work before human copywriting pass is the eight-pass final reading protocol — breath test, first sentence, last sentence, horizontal test, hostile reader test, source attribution test, dead word audit, sentence-opening audit — plus the title decision, which remains the one unresolved structural matter.
+
+---
+---
+---
+
