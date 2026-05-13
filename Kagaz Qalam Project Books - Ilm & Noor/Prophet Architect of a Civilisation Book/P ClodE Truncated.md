@@ -20,7 +20,22 @@ debugInConsole: false # Print debug info in Obsidian console
   And for those who refused to believe it.
 
 - ~~For my parents, who taught me that a person's word is worth more than everything else they own.~~
-### Epigraph
+
+### Acknowledgment
+xxxxxxxxxxxxxx
+xx
+xx
+xxx
+xxx
+xxxxxxxx
+xx
+xxxx
+xxx
+xxx
+xx
+
+
+## Epigraph
 
 >"Let him who is present tell it to him who is absent. For it may be that some of those to whom it is conveyed will understand it better than those who heard it directly."
 > — The Farewell Sermon, 632 CE
@@ -38,7 +53,7 @@ The stars are still out, fading at the eastern edge where the sky is beginning t
 
 You are standing on the edge of a temporary nation.
 
-It was conjured from nothing. Three days ago this valley held only stone and wind. Now it holds the world. They have come from the palm groves of Yathrib and the high plateaus of Najd, from the coastal heat of the Tihama and the distant cool of the Yemeni mountains, from places so remote that the journey here took months and cost more than some of them had. They arrived speaking different dialects, carrying different histories, belonging to tribes that have been killing each other for longer than anyone can remember.
+It was conjured from nothing. Three days ago this valley held only stone and wind. Now it holds the world. They have come from the palm groves of Medina and the high plateaus of Najd, from the coastal heat of the Tihama and the distant cool of the Yemeni mountains, from places so remote that the journey here took months and cost more than some of them had. They arrived speaking different dialects, carrying different histories, belonging to tribes that have been killing each other for longer than anyone can remember.
 
 And tonight they sleep shoulder to shoulder on the same hard earth, wrapped in the same two pieces of unstitched white cloth.
 
@@ -82,7 +97,7 @@ He is sixty-three years old. The journey has written itself on his face in the l
 
 He wears no crown. There is no silk, no armor, no retinue of guards beating back the crowd with spear hafts. He is dressed in the same two pieces of unstitched white cloth as the humblest person in the valley. If you did not know who he was — if you were a traveler from a distant land, watching the crowd part and this man ride through — you might spend a moment searching for the king before realizing that the crowd is parting for the man you already see.
 
-His authority is not announced. It is demonstrated by its effect.
+His authority is not announced. ==It is demonstrated by its effect.==
 
 As he passes, the rolling sound of the _Talbiyah_ does not stop but softens — not silenced, transformed, the roar becoming something quieter and more concentrated, a watchfulness that moves through the crowd in his wake like a wave. Hands reach out as he passes, not to grab but to be near. Faces turn toward him with an expression that has no simple name — it contains reverence, yes, and love, and the relief of people who have been waiting for something and can now see that it is here.
 
@@ -155,9 +170,9 @@ And beneath all of them, running through the foundation: character. Whether a so
 
 ---
 
-The man who stood on that hillside had something to say about all of them. Not in scattered teachings across a lifetime, but in one sustained address — his last — delivered to the largest gathering of his life, knowing he would not see another year. A final accounting. A distillation. Everything he had learned about what human societies require to function and what they do when those requirements are ignored, compressed into the language of a man who knew the hour was late.
+The man who stood on that hillside had something to say about all of them. Not in scattered teachings across a lifetime, but in one sustained address — his last — delivered to one of the largest gathering of his life, knowing he would not see another year. A final accounting. A distillation. Everything he had learned about what human societies require to function and what they do when those requirements are ignored, compressed into the language of a man who knew the hour was late.
 
-This book is built on a single premise: *that the most serious analysis of what breaks human societies apart was delivered from a hillside in Arabia in 632 CE, and we have not yet caught up to it*. That the diagnoses he offered of humanity's core social failures — tribalism, economic predation, racial hierarchy, the ownership of women, the decay of institutional character — are more structurally precise than much of what we have produced in the fourteen centuries since. And that the mechanisms he proposed were not just moral appeals but specific redesigns: of how value is assigned, how wealth moves, how status is determined, how intimate relationships are structured, how character is cultivated and then enforced when it fails.
+This book is built on a single premise: ***that the most serious analysis of what breaks human societies apart was delivered from a hillside in Arabia in 632 CE, and we have not yet caught up to it***. That the diagnoses he offered of humanity's core social failures — tribalism, economic predation, racial hierarchy, the ownership of women, the decay of institutional character — are more structurally precise than much of what we have produced in the fourteen centuries since. And that the mechanisms he proposed were not just moral appeals but specific redesigns: of how value is assigned, how wealth moves, how status is determined, how intimate relationships are structured, how character is cultivated and then enforced when it fails.
 
 You do not need to share his faith to find his thinking worth examining. If you are reading this from the Indian subcontinent — and this book was written with that reader particularly in mind — you carry a history more layered than generic skepticism. The name of the man this book examines is not a neutral name in your context. It arrives with centuries of cohabitation, conflict, and contested memory attached to it. This book does not pretend that history doesn't exist. It makes a narrower and more specific claim: that what this man actually said, on a specific afternoon in the year 632 CE, is worth your attention despite — and in some respects because of — everything that came after it. The distance between what he said and what was done in his name is one of this book's central arguments. The reader who already knows that distance is painful is perhaps better prepared than most to understand why the argument matters. The accuracy of a diagnosis is not a matter of the diagnostician's religion. It is a matter of whether the diagnosis describes something real. Whether the fractures it names are still there. Whether the mechanisms it proposes still make sense when held up against what we know about how human societies actually work.
 
@@ -169,21 +184,21 @@ I have tried, in writing this book, to follow a single discipline: go back to th
 
 A note on usage: throughout this book, the Prophet's name is followed by the symbol ﷺ, a traditional Islamic honorific, rendered in Arabic calligraphy meaning "peace and blessings be upon him." Non-Muslim readers may read past it without loss of meaning.
 
-I am not a theologian. I am not an authority to parse the finer points of classical Arabic grammar or adjudicate between the interpretive schools that have debated this material for a thousand years. Instead, what I do is read carefully, follow an argument where it leads, and ask the questions that a skeptical reader — the only kind worth writing for — will ask when they encounter a claim this large.
+==I am not a theologian.== I am not an authority to parse the finer points of classical Arabic grammar or adjudicate between the interpretive schools that have debated this material for a thousand years. Instead, what I do is read carefully, follow an argument where it leads, and ask the questions that a skeptical reader — the only kind worth writing for — will ask when they encounter a claim this large.
 
 I should say what I brought to this text. I was raised inside this tradition. The gap between its best moments and its worst ones is not, for me, an academic question. What surprised me — working through the sermon closely, following the biographical evidence with as little filtration as I could manage — was not that it contained good ideas. I expected that. What surprised me was the specific character of the good ideas: how structural they were, how unsentimental, how much they resembled the conclusions of a man who had been burned by the exact problems he was diagnosing. A man who preached the sanctity of life had known people he loved be killed for beliefs he had given them. A man who abolished riba had spent three years unable to feed his family because the economic system had been weaponized against him. A man who declared that character superseded lineage had grown up an orphan in a world that valued lineage above all else. The principles were not theories. They were conclusions extracted from personal experience of failure — specific, dated, documented failure. I found that difficult to dismiss. I think you will too.
 
 ---
 
-The man who delivered this address was sixty-three years old and would be departing this world within three months. Before any of what followed — the revelations, the battles, the new state, the hundred thousand people standing in silence at his word — he had been an orphan in a society where a child without a father's protection was available for exploitation. He had been a merchant who built a career in a low-trust marketplace by refusing to lie about a flaw in a piece of cloth. He had been a man who, ==at his most terrified==, on the night everything changed, came home home shaking and turned to his wife for the steadying that only she could give.
+The man who delivered this address was sixty-three years old and would be departing this world within three months. Before any of what followed — the revelations, the battles, the new state, the hundred thousand people standing in silence at his word — he had been an orphan in a society where a child without a father's protection was available for exploitation. He had been a merchant who built a career in a low-trust marketplace by refusing to lie about a flaw in a piece of cloth. He had been a man who, on the night everything changed, came home home ==shaking== and turned to his wife for the steadying that only she could give.
 
 He was not a king speaking from a high tower, not a theorist at a safe distance, but a man who lived everything he later proclaimed — who had felt what hunger does to a person's dignity, who had known people he loved be killed for beliefs he had given them ==and been unable to save them==, who knew from the inside what it meant to be vulnerable in a world organized around the exploitation of vulnerability.
 
-The principles laid out in the final sermon were not theories conceived in comfort. They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him only if the people who heard them decided to live them too.
+The principles laid out in the final sermon were not theories conceived in comfort. They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him ==only== if the people who heard them decided to live them too.
 
-<font color="#c0504d">Read the sermon from this angle and it changes. The man at Arafat was not only announcing what humanity should do. He was reporting what he had already done — compressing into language a life that had already been the proof. The Conquest of Mecca had already demonstrated the principle of inviolable sanctity before the sermon named it. The boycott years had already demonstrated what predatory economics costs a human body. The Black Stone arbitration had already demonstrated that a reputation for integrity was worth more than any lineage. Khadijah had already demonstrated that a woman's recognition could be the foundation on which everything else rested. The title Al-Amin had already demonstrated that character could be built, transaction by transaction, into the fabric of a marketplace.</font>
+Read the sermon from this angle and it changes. The man at Arafat was not only announcing what humanity should do. He was reporting what he had already done — compressing into language a life that had already been the proof. The Conquest of Mecca had already demonstrated the principle of inviolable sanctity before the sermon named it. The boycott years had already demonstrated what predatory economics costs a human body. The Black Stone arbitration had already demonstrated that a reputation for integrity was worth more than any lineage. Khadijah had already demonstrated that a woman's recognition could be the foundation on which everything else rested. The title Al-Amin had already demonstrated that character could be built, transaction by transaction, into the fabric of a marketplace.
 
-<font color="#c0504d">He did not discover these principles at Arafat. He reported them, having lived each one. The sermon was a transcript before it was a manifesto.</font>
+He did not discover these principles at Arafat. He reported them, having lived each one. The sermon was a transcript before it was a manifesto.
 
 ---
 
@@ -193,9 +208,9 @@ The analytical lens through which this book examines the sermon is the concept t
 
 But to pretend this was merely a secular civic project would be historically dishonest, and this book will not be dishonest with you.
 
-The man who delivered this blueprint, and the hundred thousand people who listened, were not seeking to optimize social cohesion. They were operating under a conviction that makes secular social-capital theory look polite by comparison: that they would one day stand before the Creator of the universe and answer, individually and in full, for how they had treated every soul He had placed in their path. The belief that the ledger of human conduct does not close at death is not incidental to the sermon's architecture. It is the load-bearing beam. It is what turned the Conquest of Mecca's amnesty from generosity into obligation, what made Abbas's public cancellation of riba claims something other than a political gesture, what made Bilal's appointment to the Kaaba something other than a symbolic act. The eschatological stakes made each of these choices impossible to walk back.
+The man who delivered this blueprint, and the hundred thousand people who listened, were not seeking to optimize social cohesion. They were ==operating== under a conviction that makes secular social-capital theory look polite by comparison: that they would one day stand before the Creator of the universe and answer, individually and in full, for how they had treated every soul He had placed in their path. The belief that the ledger of human conduct does not close at death is not incidental to the sermon's architecture. It is the load-bearing beam. It is what turned the Conquest of Mecca's amnesty from generosity into obligation, what made Abbas's public cancellation of riba claims something other than a political gesture, what made Bilal's appointment to the Kaaba something other than a symbolic act. The eschatological stakes made each of these choices impossible to walk back.
 
-This book makes the analytical argument that the sermon's principles hold even for a reader who shares none of that metaphysical conviction. The argument is genuine and it will be made throughout. But the reader deserves to know what they are examining: not a set of secular principles that happen to be old, but principles that functioned inside a framework of absolute divine accountability and were designed to be held by people who lived inside that framework. What you do with this knowledge — whether you find the principles worth applying in a world without that framework, whether you think the framework itself was the point — is left, as everything in this book is left, to you.
+This book makes the analytical argument that the sermon's principles hold even for a reader who shares none of that metaphysical conviction. The argument is genuine and it will be made throughout. But the reader deserves to know what they are examining: not a set of secular principles that happen to be old, but principles that functioned inside a framework of absolute divine accountability and ==were designed to be held by people who lived inside that framework==. What you do with this knowledge — whether you find the principles worth applying in a world without that framework, whether you think the framework itself was the point — is left, as everything in this book is left, to you.
 
 The Edelman Trust Barometer, which measures trust in institutions across dozens of countries annually, has consistently documented in its recent annual reports that a majority of people in most countries surveyed believe their governments, media, and major corporations are actively working against their interests rather than for them. More than half of respondents across twenty-eight countries agreed that "government leaders are purposely trying to mislead people." Trust in institutions has not declined gradually — it has collapsed, in most democracies, within a single generation. We are living through the social capital crisis the sermon diagnosed — and proposed, fourteen centuries ago, a coherent response to.
 
@@ -209,7 +224,7 @@ The third chapter is the one where the sermon says something that almost no poli
 
 The fourth chapter is the hardest. It is about ownership — specifically, about the difference between owning a person and being entrusted with one. It is the chapter where the gap between the sermon's principles and the buildings constructed from them is widest and most painful, and where looking away would be the easier choice. This book does not look away. Neither, as the evidence will show, did the man who delivered the sermon.
 
-The fifth chapter is the keystone. Without what it describes, none of the other four can hold.
+The fifth chapter is the keystone. Without what it describes, none of the other four can hold. But the dependency runs in both directions. Each of the preceding four chapters also depends on the ones before it. You cannot build the moral economy without first fixing the value of a life. You cannot build a meritocracy of character when some characters are still legally invisible. You cannot build the covenant of partnership in a household that the society outside it treats as worthless. The five principles are not five separate arguments. They are one argument, assembled in the only order that makes structural sense.
 
 ---
 
@@ -632,9 +647,7 @@ In the Sassanian Persian Empire, society was organized into four categories — 
 
 In Rome, the organizing principle was citizenship — the sharp line between those who were fully human in the legal sense and those who were not. The peoples beyond the frontier were "barbarians": whose languages sounded like noise rather than speech, whose worth as human beings was a function of how useful they could be to those who had conquered them.
 
-In the Indian subcontinent — in the world that is, for many of this book's readers, not ancient history but living inheritance — the Varna system had organized human worth into a hierarchy of ritual purity that made the Persian and Roman versions look flexible. The Brahmin at the apex, the Dalit beneath the system entirely. Not a division of labor, as its defenders have claimed. A division of worth. The Dalit child did not enter the world and then become untouchable through some failure of character or conduct. She arrived untouchable. Her mother was untouchable. Her grandmother was untouchable. The hierarchy reproduced itself through birth, which meant it reproduced itself perfectly, generation after generation, without requiring any individual act of cruelty.
-
-The structure always does the work.
+In the Indian subcontinent — in the world that is, for many of this book's readers, not ancient history but living inheritance — the Varna system had organized human worth into a hierarchy of ritual purity that made the Persian and Roman versions look flexible. The Brahmin at the apex, the Dalit beneath the system entirely. Not a division of labor, as its defenders have claimed. A division of worth. The Dalit child did not enter the world and then become untouchable through some failure of character or conduct. She arrived untouchable. Her mother was untouchable. Her grandmother was untouchable. The hierarchy reproduced itself through birth, which meant it reproduced itself perfectly, generation after generation, without requiring any individual act of cruelty. The structure always does the work.
 
 This was not a local failure. Every sophisticated civilization of the 7th century had answered the question of human hierarchy — and answered it the same way. Sassanian Persia had a theology of caste: your category was written into your soul before birth, immovable, divine. Rome distinguished citizen from barbarian with a legal clarity that turned human difference into property. Confucian social order located every person within a hierarchy of relationships — father over son, ruler over subject — and treated the maintenance of that hierarchy as the foundation of morality itself. The sermon's audience was part of this world. They had not invented tribalism or hierarchy; they had inherited a version of the universal human answer to the question of how to organize worth. What the sermon did was not reform that answer. It demolished the question.
 
@@ -994,13 +1007,15 @@ This single word has caused more harm in the name of this tradition than almost 
 
 The verse in which it appears prescribes a sequence for addressing serious marital discord: first, admonition; then, separation in the marital bed; and only if both of these fail, as a final resort, this word appears. The sequence is a de-escalation structure — each step designed to exhaust alternatives before the next is reached. This is not a permission structure. It is a restriction protocol.
 
-The word itself, in the classical Arabic jurisprudential tradition, was understood by many of the earliest scholars to carry the sense of a symbolic gesture rather than a physical blow. Al-Tabari, the great classical exegete writing in the 9th century, recorded interpretations that understood this as a light touch — sometimes specified as being with a small twig, _miswak_ — a gesture of gravity rather than an act of pain. This was not a modern revisionist reading. It was present in the earliest layers of the tradition's own interpretation.
+The word itself, in the classical Arabic jurisprudential tradition, was understood by many of the earliest scholars to carry the sense of a symbolic gesture rather than a physical blow. Al-Tabari, the great classical exegete writing in the 9th century, recorded interpretations that understood this as a light touch — sometimes specified as being with a small twig, _miswak_ — a gesture of gravity rather than an act of pain. This was not a modern revisionist reading. This reading was recorded, alongside others, in the earliest layers of the tradition's commentary — present from the beginning==, if not always dominant==.
 
 But the definitive reading is found not in any commentary. It is found in the Prophet's ﷺ own conduct — the only authority that, in Islamic methodology, stands above every exegete and every school of jurisprudence. Aisha described his practice in what Islamic scholarship considers its most authenticated record of prophetic conduct: *"The Messenger of God never struck any of his servants, nor any woman, nor anything with his hand, except when fighting in the way of God."* This narration is preserved in Sahih Muslim — Book 30, the Book of Virtues — compiled by Muslim ibn al-Hajjaj in the 9th century through chains of transmission traced back through multiple eyewitnesses. It is not a disputed narration. It is not a minority view. It is among the most widely cited hadith in discussions of prophetic character.
 
 This is the Ultimate Veto. The Prophet ﷺ delivered this verse. He never enacted its final step. In Islamic methodology, the Prophet's ﷺ own consistent practice is the authoritative interpretation of the Quranic text — not one reading among many, but the reading that his life itself provides. Any interpretation that places violence in the hands of the man who called the best of believers those who are best to their wives, who sought the spot on the cup where his wife's lips had been, who wept at graves and held the frightened and paid three dirhams in a mosque when he was dying — any such interpretation contradicts everything the sources tell us about who he was.
 
 The verse is a restriction on a pre-existing brutal practice, tapering it toward a symbolic gesture and then to nothing, with the Prophet's ﷺ own life standing as the permanent and unanswerable commentary: do not.
+
+<font color="#c0504d">I am using a method here that is internal to the tradition I am describing. A reader outside the tradition may ask why the Prophet's ﷺ practice should be authoritative over the text he delivered. My answer is that in any system of thought, the founder's own conduct is the most reliable interpreter of their own words. Whether you accept this principle of interpretation is separate from whether the conclusion it reaches — that he never enacted the verse's final step — is accurate. On the accuracy, all sources agree.</font>
 
 ---
 
@@ -1362,7 +1377,9 @@ Five principles. One vision: a society in which trust is not a luxury available 
 
 This is what was spoken on that hillside in the year 632 CE. It was not spoken only for the people standing there, but it was spoken for everyone who would come after them — including, fourteen centuries later, whoever is holding this book.
 
-<font color="#c0504d">The Prophet ﷺ died in Medina in the eleventh year of the Hijra. He left no unambiguous designation of a successor. The community he had built from nothing — from a handful of people meeting in secret, through exile and war and the construction of a civilization — stood without him for the first time.</font>
+<font color="#c0504d">The Prophet ﷺ died three months later. He left no unambiguous designation of a successor. The community he had built stood without him for the first time. Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph. He rose before the community and refused to inherit what he had been given.</font>
+
+~~The Prophet ﷺ died in Medina in the eleventh year of the Hijra. He left no unambiguous designation of a successor. The community he had built from nothing — from a handful of people meeting in secret, through exile and war and the construction of a civilization — stood without him for the first time.~~
 
 <font color="#c0504d">Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph. He rose before the community and refused to inherit what he had been given.</font>
 
@@ -1376,7 +1393,9 @@ This is what was spoken on that hillside in the year 632 CE. It was not spoken o
 > 
 > _Obey me as long as I obey God and His Messenger. If I disobey God and His Messenger, you have no obligation to obey me._
 
-<font color="#c0504d">In the 7th-century world — among Roman emperors deriving authority from divine appointment, Persian shahs whose kingship was cosmological necessity, Byzantine rulers whose power descended through unbreakable dynastic chain — this speech was not a convention of humility. It was the categorical refusal of a different theory of power.</font>
+<font color="#c0504d">In the 7th-century world, this speech was not humility. It was the categorical refusal of every other theory of power available. The blueprint survived the Architect. At least in this moment. At least enough to know what was possible — and to understand, from everything that followed, exactly how difficult possible actually is.</font>
+
+~~In the 7th-century world — among Roman emperors deriving authority from divine appointment, Persian shahs whose kingship was cosmological necessity, Byzantine rulers whose power descended through unbreakable dynastic chain — this speech was not a convention of humility. It was the categorical refusal of a different theory of power.~~
 
 <font color="#c0504d">The weak are strong until their rights are restored. Obedience is conditional on the leader's own obedience to something higher than himself. The man who had just inherited the governance of a civilization stated plainly that he held it in trust — that he was accountable, correctible, and by implication removable. He held the caliphate the way the muhtasib held the weights: in stewardship, knowing the ledger is real even when no one is auditing it.</font>
 
@@ -1412,7 +1431,9 @@ Is it more plausible that a man who named women as a sacred trust from God — w
 
 Is it more plausible that a man who died with his shield pledged to a creditor for food, who paid three dirhams publicly in a mosque because he preferred a small accountability in this world to carrying a debt into the next, was a tyrant seeking dominion?
 
-A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. Thomas Jefferson wrote that all men are created equal while enslaving over 600 people. The distance between proclamation and practice is not evidence of hypocrisy so much as evidence of the ordinary gap between what humans say and what they do. Why should this man be different?
+==A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. History is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles — who meant what they said in the moment of saying it and found that the cost of living it was higher than anticipated. The distance between proclamation and practice is not always simple hypocrisy. Sometimes it is the ordinary gap between what humans aspire to and what they manage. Why should this man be different?== 
+
+~~Thomas Jefferson wrote that all men are created equal while enslaving over 600 people. The distance between proclamation and practice is not evidence of hypocrisy so much as evidence of the ordinary gap between what humans say and what they do. Why should this man be different?~~
 
 The answer is not that he was perfect. The answer is in the ledger of the specific actions taken at the highest stakes. Jefferson did not free his enslaved people when he had the power to do so. The man on the hillside at Arafat, at the moment of maximum power and minimum accountability, freed the people who had enslaved and murdered his followers and waived his own family's financial claims. The difference is not between a flawed man and a perfect one. It is between a man whose actions ran with his principles and a man whose actions ran against them.
 
@@ -1480,6 +1501,8 @@ The text below is a scholarly composite drawn from the following authenticated s
 *   Sirat Rasul Allah — Ibn Ishaq (Guillaume translation)
 
 Section headings in brackets are editorial additions to aid navigation. The Arabic text references following each section indicate the primary source for that passage. The translation is fresh and is calibrated for clarity and precision; it does not follow any single existing published translation.
+
+==One note on the racial equality declaration: the passage beginning "All mankind is from Adam and Eve..." is transmitted primarily through Musnad Ahmad and is not in the two Sahihs in this form. Its widespread attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, but the transmission chain is less robust than some other passages. It is retained here on the basis of that majority scholarly consensus. Readers who wish to examine the transmission question in detail will find Jonathan A.C. Brown's work on hadith methodology (cited in Further Reading) a useful starting point.==
 
 ---
 
@@ -1906,7 +1929,9 @@ The trust collapse is real. The tribalism is intensifying. The debt traps are sp
 
 The blueprint for all of this was written fourteen centuries ago.
 
-We are still not building with it.
+~~We are still not building with it.~~
+
+==The most serious analysis of what breaks human societies apart was delivered from a hillside in Arabia in 632 CE, and we have not yet caught up to it.==
 
 ---
 ---
