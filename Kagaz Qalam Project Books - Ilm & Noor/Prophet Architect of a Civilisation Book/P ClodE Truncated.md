@@ -21,20 +21,6 @@ debugInConsole: false # Print debug info in Obsidian console
 
 - ~~For my parents, who taught me that a person's word is worth more than everything else they own.~~
 
-### Acknowledgment
-xxxxxxxxxxxxxx
-xx
-xx
-xxx
-xxx
-xxxxxxxx
-xx
-xxxx
-xxx
-xxx
-xx
-
-
 ## Epigraph
 
 >"Let him who is present tell it to him who is absent. For it may be that some of those to whom it is conveyed will understand it better than those who heard it directly."
@@ -170,7 +156,7 @@ And beneath all of them, running through the foundation: character. Whether a so
 
 ---
 
-The man who stood on that hillside had something to say about all of them. Not in scattered teachings across a lifetime, but in one sustained address — his last — delivered to one of the largest gathering of his life, knowing he would not see another year. A final accounting. A distillation. Everything he had learned about what human societies require to function and what they do when those requirements are ignored, compressed into the language of a man who knew the hour was late.
+The man who stood on that hillside had something to say about all of them. Not in scattered teachings across a lifetime, but in one sustained address — his last — delivered to one of the largest gathering of his life, knowing he would not see another year. A final accounting. A distillation. Everything he had learned about what human societies require to function and what they do when those requirements are ignored, distilled into the language of a man who knew the hour was late.
 
 This book is built on a single premise: ***that the most serious analysis of what breaks human societies apart was delivered from a hillside in Arabia in 632 CE, and we have not yet caught up to it***. That the diagnoses he offered of humanity's core social failures — tribalism, economic predation, racial hierarchy, the ownership of women, the decay of institutional character — are more structurally precise than much of what we have produced in the fourteen centuries since. And that the mechanisms he proposed were not just moral appeals but specific redesigns: of how value is assigned, how wealth moves, how status is determined, how intimate relationships are structured, how character is cultivated and then enforced when it fails.
 
@@ -214,7 +200,7 @@ This book makes the analytical argument that the sermon's principles hold even f
 
 The Edelman Trust Barometer, which measures trust in institutions across dozens of countries annually, has consistently documented in its recent annual reports that a majority of people in most countries surveyed believe their governments, media, and major corporations are actively working against their interests rather than for them. More than half of respondents across twenty-eight countries agreed that "government leaders are purposely trying to mislead people." Trust in institutions has not declined gradually — it has collapsed, in most democracies, within a single generation. We are living through the social capital crisis the sermon diagnosed — and proposed, fourteen centuries ago, a coherent response to.
 
-The chapters that follow move from the most public to the most private — from the question of how strangers treat each other in a world of tribes, to how merchants treat customers in a marketplace, to how a society assigns worth to the people born into it, to how two people hold each other in the most intimate arrangement human beings make. And then, finally, to the question that underlies all of them: what kind of person does it take to sustain any of this? The fifth chapter is last because without it, the other four are aspiration. With it, they are engineering.
+The chapters that follow move from the most public to the most private — from the question of how strangers treat each other in a world of tribes, to how merchants treat customers in a marketplace, to how a society assigns worth to the people born into it, to how two people hold each other in the most intimate arrangement human beings make. And then, finally, to the question that underlies all of them: what kind of person does it take to sustain any of this? The fifth chapter is last because without it, the other four are aspiration. With it, they are engineering. But the dependency runs in both directions: each of the preceding four chapters assumes the ones before it are accepted. You cannot build the moral economy without first fixing the value of a life. You cannot build a meritocracy of character when some characters are still legally invisible. You cannot build the covenant of partnership in a household that the society outside treats as property. The five principles are not five separate arguments. They are one argument, assembled in the only order that makes structural sense.
 
 The first chapter follows a single question: what does it actually take to make a human life inviolable — not theoretically protected but genuinely, practically safe from the logic that makes some lives expendable and others worth defending? The sermon's answer was structural, not sentimental. It redesigned the architecture of value itself, replacing a calculation that fluctuated with tribal power with something fixed — and then proved the principle by living its hardest consequence at the moment of greatest temptation.
 
@@ -250,6 +236,10 @@ It has not expired.
 
 ## Chapter One: The Unpayable Debt
 ### _When Blood is the Only Currency_
+---
+> *"We must learn to live together as brothers or perish together as fools."*
+> — Martin Luther King Jr., 1964
+
 ---
 
 It begins with language.
@@ -312,7 +302,7 @@ Then came the transformation. Repeated across hundreds of streets, hundreds of e
 
 For three days, the capital burned. November in Delhi is cold at night and sharp-aired in the morning — the particular dry clarity of the North Indian winter beginning to settle. Consider what three days in that cold means in human terms. A Sikh taxi driver named Harjinder Singh — a composite figure drawn from survivor testimonies — had lived in his neighborhood in West Delhi for eleven years. He knew his neighbors' children's names. He had a photograph of those children on the wall of his taxi, which is a very ordinary thing for a man who drives a taxi. He had lent his neighbors his tools, attended their weddings, bought vegetables from the same market for a decade. On the morning of November 1st, the men he had lived beside for eleven years came to his door. Not strangers. Not an invading army. His neighbors. The voter list in one hand. Kerosene in the other. The category had replaced the person. The man who had borrowed his tools was no longer his neighbor. He was a representative of the community that had killed the Prime Minister, and Harjinder Singh was a representative of that community, and that was all the logic the morning required.
 
-The same ancient grammar of collective punishment — present beneath the surface of a modern city, requiring only permission to surface. The permission was given from above. The execution was performed from below. Three thousand people died. The mechanisms of the state that should have intervened — the police, the administration, the political leadership — stood aside or participated. For decades, no one was held accountable at the scale the crime required. The blood debt, in the logic of tha'r, had been paid. The ledger, by that accounting, was balanced.
+The same ancient grammar of collective punishment — present beneath the surface of a modern city, requiring only permission to surface. The permission was given from above. The execution was performed from below. Approximately three thousand people died. The mechanisms of the state that should have intervened — the police, the administration, the political leadership — stood aside or participated. For decades, no one was held accountable at the scale the crime required. The blood debt, in the logic of tha'r, had been paid. The ledger, by that accounting, was balanced.
 
 The political calculations of the Congress leadership were not reducible to tribal psychology — the institutional failure was its own catastrophe. But the mechanism that turned the institutional failure into a massacre was as old as the War of Basus.
  
@@ -400,7 +390,11 @@ The sermon did not ask anyone to feel differently about their enemies. It asked 
 ---
 
 ## Chapter Two: The Tyranny of Zero
-### _How Wealth Was Weaponized_
+### _How Wealth Became a Weapon_
+---
+> *"The borrower is slave to the lender."*
+> — Proverbs 22:7
+
 ---
 
 It begins before the bank opens.
@@ -505,7 +499,7 @@ Where _Zakat_ had gaps, _Qard Hasan_ filled them — the interest-free loan give
 
 Beneath both — the culture that made them possible — the Ansar Partnership. When the persecuted community arrived in Medina as refugees with nothing, the Prophet ﷺ paired each arriving family with a Medinan household. The Ansar shared their homes, their businesses, their land. Not as charity but as co-ownership in an integrated economy. The precedent established was that the strongest economy circulates prosperity rather than concentrating it — that the wealth of the community and the wealth of the individual are not in competition but the same thing expressed at different scales.
 
-The alternative the sermon proposed was not the abolition of wealth or investment. It was the abolition of risk-free profit. The difference is everything. Under the partnerships the new system encouraged — the merchant who contributes capital to a trader's caravan, the landowner who shares the harvest with the farmer who works it — both parties stand to gain and both parties stand to lose. The incentive to care whether the venture succeeds is preserved because the skin of both parties is in the game. Riba breaks this structure entirely: the lender's return is guaranteed regardless of the borrower's outcome, which means the lender's incentive is not aligned with the borrower's success but indifferent to it. The sermon did not legislate against profit. It legislated against the specific structure that permits profit without risk — because that structure, wherever it takes root, will always find its way to the desk of a man in a stone house, listening with practiced sympathy to a farmer whose children are hungry.
+The alternative the sermon proposed was not the abolition of wealth or investment. It was the abolition of risk-free profit. The difference is everything. Under the partnerships the new system encouraged — the merchant who contributes capital to a trader's caravan, the landowner who shares the harvest with the farmer who works it — both parties stand to gain and both parties stand to lose. The incentive to care whether the venture succeeds is preserved because the skin of both parties is in the game. Riba breaks this structure entirely: the lender's return is guaranteed regardless of the borrower's outcome, which means the lender's incentive is not aligned with the borrower's success but indifferent to it. The sermon did not legislate against profit. It legislated against the specific structure that permits profit without risk — because that structure, wherever it takes root, will always find its way to the desk of a man in a stone house, listening with the same practiced sympathy to a farmer whose children are hungry — the same sympathy, the same stone house, the same calculation.
 
 For several centuries, the alternative system was built at scale, and what it produced is measurable.
 
@@ -544,8 +538,8 @@ A framework applied in bad faith remains a framework. The demand of the sermon �
 
 ---
 
-## Interlude I: The Architect's Workshop
-### _The Merchant_
+## Interlude I: The Merchant
+### _Al-Amin_
 ---
 
 The marketplace of Mecca did not reward honesty. It rewarded the appearance of honesty, which is a different thing entirely, and the men who had been trading there for twenty years knew the difference.
@@ -617,12 +611,17 @@ _Al-Amin._
 ## Chapter Three: The Orphan's Merit
 ### _Why Your Ancestors Don't Matter_
 ---
+> *"I have cherished the ideal of a democratic and free society in which all persons live together in harmony and with equal opportunities."*
+> — Nelson Mandela, 1964
+
+---
 
 ==Khadijah recognized something that her society's entire value system was designed to obscure. Her society said: evaluate a man by his lineage, his clan, his connections, the name his father left him. She evaluated the young agent from the minor clan of the Quraysh by what he did with the goods entrusted to him, alone, in a market far from home, when no one who mattered was watching. She found him more valuable than any man of better birth she had considered. The name for what she recognized — character — was not a recognized unit of account in the 7th-century world she lived in. The sermon the young agent would later deliver from a hillside at Arafat spent considerable time trying to make it one.==
 
-It is not a single event. It accumulates.
+==The security guard's eyes move to you when you enter. Not to the person behind you, who arrived the same way. To you. He has not spoken, has not moved from his station, may not even be aware of what his eyes did. The judgment was made before you crossed the threshold. It was made, probably, before you were born.==
 
-The security guard whose eyes track one person through the store and not another. The question asked with genuine curiosity at a dinner party — "But where are you _really_ from?" — as though the answer already given was insufficient, as though belonging requires a different kind of documentation for some people than for others. The surprise, barely concealed, when you speak with authority on a subject the room had not assigned to your category.
+==This is not a single event. It is every room you have ever entered.==
+The question asked with genuine curiosity at a dinner party — "But where are you _really_ from?" — as though the answer already given was insufficient, as though belonging requires a different kind of documentation for some people than for others. The surprise, barely concealed, when you speak with authority on a subject the room had not assigned to your category.
 
 None of these requires a weapon. The weight is invisible because it operates through assumption — through the ten thousand daily calculations that some people make without noticing and others cannot avoid, through the bandwidth consumed by managing how you are being perceived before you have had the chance to be understood. Through the simple, accumulated arithmetic of existing in a category that someone else defined before you arrived.
 
@@ -753,7 +752,7 @@ The meritocracy of character had arrived. Not as an idea proclaimed on a hillsid
 
 <font color="#c0504d">Bilal's appointment proves what spiritual honor looked like when assigned by character rather than blood. A separate appointment, in the same period, proves what command authority looked like.</font>
 
-<font color="#c0504d">In the final weeks of his life, the Prophet ﷺ organized a military expedition to the Syrian frontier and named its commander. The appointment was Usamah ibn Zayd — a young man of approximately seventeen years. His father was Zayd ibn Haritha, whom the Prophet ﷺ had loved as a son and wept over after his death at the Battle of Mu'tah. His mother was Umm Ayman, an African woman who had cared for the Prophet ﷺ since his earliest childhood and whom he called "my mother after my mother."</font>
+<font color="#c0504d">In the final weeks of his life, the Prophet ﷺ organized a military expedition to the Syrian frontier and named its commander. The appointment was Usamah ibn Zayd — a young man not yet twenty. His father was Zayd ibn Haritha, whom the Prophet ﷺ had loved as a son and wept over after his death at the Battle of Mu'tah. His mother was Umm Ayman, an African woman who had cared for the Prophet ﷺ since his earliest childhood and whom he called "my mother after my mother."</font>
 
 <font color="#c0504d">In the army placed under Usamah's command were Abu Bakr al-Siddiq and Umar ibn al-Khattab — the two men who would govern the community as its first and second caliphs. Men who had been Muslims for two decades. Men who had bled at Badr and Uhud.</font>
 
@@ -795,9 +794,11 @@ The meritocracy of character had arrived. Not as an idea proclaimed on a hillsid
 
 ---
 
-The pencil test measured hair texture. _Nasab_ measured ancestry. The Varna system measured ritual purity assigned at birth. None of these measured anything about the person being measured.
+The pencil test measured hair texture. _Nasab_ measured ancestry. The Varna system measured ritual purity assigned at birth. None of these measured anything about the person being measured — only the container, never the contents.
 
-_Taqwa_ measures what you do with what you have, when the conditions are actually hard, when no one who matters is watching.
+The security guard's eyes moved to you when you entered. They will keep moving to people like you. That instinct has a name older than any institution: _asabiyyah_, the hierarchy of blood, the conviction that the container tells you what's inside.
+
+_Taqwa_ measures differently. It measures what you do with what you have, when the conditions are hard, when no one who matters is watching.
 
 Bilal's voice rang out over Mecca.
 
@@ -815,7 +816,11 @@ The question does not only apply to the public hierarchies of race and lineage t
 ---
 
 ## Chapter Four: A Trust, Not a Property
-### _Redefining the Human Partnership_
+### _How Partnership Replaced Ownership_
+---
+> *"The best of you are those who are best to their wives."*
+> — The Prophet Muhammad ﷺ *(Sunan al-Tirmidhi)*
+
 ---
 
 In October 2017, a dam broke.
@@ -973,12 +978,14 @@ The principles have been stated. The lived example has been shown. What the read
 Three specific challenges arise from this chapter's argument. They are raised here not to pre-empt a critic but because a book that claims to read honestly cannot avoid them.
 
 ==Though I should be honest about the limit of this argument. A blueprint that has been consistently misread in the same direction, across fourteen centuries and dozens of distinct cultures, may contain something in its architecture that invites that misreading. I have not found it — and I have looked. The sermon's text on gender is not ambiguous in the way that would explain the scale of its misapplication. But I acknowledge that a historian more skeptical than I am might find the question worth pressing harder than I have here.==
+EITHER OR
+==Three claims deserve direct engagement before this chapter closes — not to pre-empt a critic, but because a book that claims to read honestly cannot avoid them. I should also be honest about the limit of what follows. A principle that has been misread in the same direction across fourteen centuries and dozens of distinct cultures may contain something in its architecture that invites the misreading. I have not found it, and I have looked. But a historian more skeptical than I am might press harder than I have here.==
 
 ---
 
-**On _Qiwamah_**
+~~**On _Qiwamah_**~~
 
-The Quran states: _"Men are the protectors and maintainers (Qawwamun) of women, because God has given the one more than the other, and because they support them from their means."_ (4:34)
+The first claim concerns the verse most often cited to assert male authority over women. The Quran states: _"Men are the protectors and maintainers (Qawwamun) of women, because God has given the one more than the other, and because they support them from their means."_ (4:34)
 
 Read with the care it deserves, this verse says something considerably more specific than an inherent male authority that admits no qualification.
 
@@ -990,9 +997,9 @@ The logic of the verse is one of corresponding responsibility: the person who be
 
 ---
 
-**On _Daraba_**
+~~**On _Daraba_**~~
 
-This single word has caused more harm in the name of this tradition than almost any other — invoked across centuries to license violence that the man who spoke it never practiced. The word is _wadribuhunna_, derived from _daraba_, and it deserves the most careful reading this chapter contains.
+The second claim is harder. This single word has caused more harm in the name of this tradition than almost any other — invoked across centuries to license violence that the man who spoke it never practiced. The word is _wadribuhunna_, derived from _daraba_, and it deserves the most careful reading this chapter contains.
 
 The verse in which it appears prescribes a sequence for addressing serious marital discord: first, admonition; then, separation in the marital bed; and only if both of these fail, as a final resort, this word appears. The sequence is a de-escalation structure — each step designed to exhaust alternatives before the next is reached. This is not a permission structure. It is a restriction protocol.
 
@@ -1008,9 +1015,9 @@ The verse is a restriction on a pre-existing brutal practice, tapering it toward
 
 ---
 
-**On Aisha**
+~~**On Aisha**~~
 
-Aisha bint Abi Bakr was married to the Prophet ﷺ at a young age by modern standards. The concept of childhood as a protected developmental phase, with a fixed legal threshold before which marriage is categorically prohibited, is a modern construction that had no equivalent in the 7th century world, where adulthood was defined by biological markers rather than chronological ones across every civilization. ~~==This context does not resolve every difficulty the modern reader feels. But it is the necessary starting point for any honest engagement with the historical fact.==~~ ==This historical context does not resolve every discomfort the modern reader feels, nor should it pretend to. We read history from where we stand, and where we stand has changed. But if we are to evaluate this relationship honestly, we must look at what it actually produced, not at what we assume it must have contained.==
+The third claim is the most personal. Aisha bint Abi Bakr was married to the Prophet ﷺ at a young age by modern standards. The concept of childhood as a protected developmental phase, with a fixed legal threshold before which marriage is categorically prohibited, is a modern construction that had no equivalent in the 7th century world, where adulthood was defined by biological markers rather than chronological ones across every civilization. ~~==This context does not resolve every difficulty the modern reader feels. But it is the necessary starting point for any honest engagement with the historical fact.==~~ ==This historical context does not resolve every discomfort the modern reader feels, nor should it pretend to. We read history from where we stand, and where we stand has changed. But if we are to evaluate this relationship honestly, we must look at what it actually produced, not at what we assume it must have contained.==
 
 What the relationship between the Prophet ﷺ and Aisha actually produced is not in any dispute, and it is here that her story must be understood.
 
@@ -1060,8 +1067,8 @@ Is the person across from you property that you manage, or a trust that you stew
 
 ---
 
-## Interlude II: The Architect's Workshop
-### _The Partner_
+## Interlude II: The Partner
+### _The Partner_ NEED AN ARABIC KEYWORD
 ---
 
 There was a wall in the ancient world that no one had built and therefore no one could name. It simply existed — present in every culture the Prophet ﷺ would have known, enforced not by law but by the deeper authority of consensus, the kind of consensus so old it felt like nature.
@@ -1127,7 +1134,11 @@ The army moved ahead in the distance. The desert was quiet around them.
 ---
 
 ## Chapter Five: The Currency of Trust
-### _The Code for a Society That Works_
+### _Why Small Things Destroy Large Systems_
+---
+> *"Every system is perfectly designed to get the results it gets."*
+> — W. Edwards Deming
+
 ---
 
 ==The desert was quiet around them. The ordinary hours, between the large things.==
@@ -1202,7 +1213,7 @@ The solution had required nothing that he did not have. No army. No office. No t
 
 Five years before the revelation. Before any claim to prophethood, before any community of believers, before any political authority. The city's trust in him was already there, built not through grand gestures but through the unglamorous discipline of keeping his word in small things when breaking it would have cost him nothing anyone would have noticed.
 
-This is the quality the sermon would later name and codify as _Amanah_.
+The sermon would later name this _Amanah_.
 
 ---
 
@@ -1327,6 +1338,10 @@ The question is what your life, quietly and in private and when no one is watchi
 ## Epilogue: The Architect and the Caricature
 
 ---
+> *"An invasion of armies can be resisted, but not an idea whose time has come."*
+> — Victor Hugo
+
+---
 
 The sermon is over.
 
@@ -1382,7 +1397,7 @@ This is what was spoken on that hillside in the year 632 CE. It was not spoken o
 > 
 > _Obey me as long as I obey God and His Messenger. If I disobey God and His Messenger, you have no obligation to obey me._
 
-<font color="#c0504d">In the 7th-century world, this speech was not humility. It was the categorical refusal of every other theory of power available. The blueprint survived the Architect. At least in this moment. At least enough to know what was possible — and to understand, from everything that followed, exactly how difficult possible actually is.</font>
+<font color="#c0504d">In the 7th-century world, this speech was not humility. It was the categorical refusal of every other theory of power available. The blueprint survived the Architect — at least in this moment, at least enough to know what was possible, and to understand from everything that followed exactly how difficult possible actually is.</font>
 
 ~~In the 7th-century world — among Roman emperors deriving authority from divine appointment, Persian shahs whose kingship was cosmological necessity, Byzantine rulers whose power descended through unbreakable dynastic chain — this speech was not a convention of humility. It was the categorical refusal of a different theory of power.~~
 
@@ -1492,6 +1507,8 @@ The text below is a scholarly composite drawn from the following authenticated s
 Section headings in brackets are editorial additions to aid navigation. The Arabic text references following each section indicate the primary source for that passage. The translation is fresh and is calibrated for clarity and precision; it does not follow any single existing published translation.
 
 ==One note on the racial equality declaration: the passage beginning "All mankind is from Adam and Eve..." is transmitted primarily through Musnad Ahmad and is not in the two Sahihs in this form. Its widespread attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, but the transmission chain is less robust than some other passages. It is retained here on the basis of that majority scholarly consensus. Readers who wish to examine the transmission question in detail will find Jonathan A.C. Brown's work on hadith methodology (cited in Further Reading) a useful starting point.==
+EITHER OR
+==One note on transmission: the racial equality declaration beginning "All mankind is from Adam and Eve. An Arab has no superiority over a non-Arab..." is transmitted primarily through Musnad Ahmad ibn Hanbal and is not found in this precise form in Sahih al-Bukhari or Sahih Muslim. Its attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, and it is retained here on that basis. Readers who wish to examine the transmission question in depth will find Jonathan A.C. Brown's work on hadith methodology (listed in Further Reading) a useful entry point.==
 
 ---
 
@@ -1906,6 +1923,20 @@ Arabic terms are transliterated throughout using a simplified system designed fo
 ---
 ---
 
+##  Acknowledgments Section
+
+Standard in literary non-fiction. Not required for a submission draft but should exist before final manuscript delivery. At minimum, the author should prepare a brief acknowledgments section (200-300 words) acknowledging:
+
+- Primary sources consulted (the scholars and translators)
+- Anyone who read drafts
+- Any institutional support
+- Personal acknowledgments
+
+This cannot be written by anyone but the author. It belongs between the appendices and the back matter, or before the Prologue depending on publisher preference.
+
+---
+---
+
 ## Back Jacket Copy
 
 In the year 632 CE, on a hillside in Arabia, a man who would not live to see another year stood before a hundred thousand people and delivered his final address. He was sixty-three years old, an orphan who had become a statesman, a refugee who had become a conqueror, a man who had buried his own children. What he said that afternoon has been recited, debated, and argued over for fourteen centuries.
@@ -1918,7 +1949,7 @@ The trust collapse is real. The tribalism is intensifying. The debt traps are sp
 
 The blueprint for all of this was written fourteen centuries ago.
 
-~~We are still not building with it.~~
+We are still not building with it.
 
 ==The most serious analysis of what breaks human societies apart was delivered from a hillside in Arabia in 632 CE, and we have not yet caught up to it.==
 
