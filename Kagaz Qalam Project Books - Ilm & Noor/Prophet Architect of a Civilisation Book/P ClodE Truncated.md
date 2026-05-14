@@ -686,19 +686,19 @@ Often translated as piety or God-consciousness, _taqwa_ is better understood as 
 
 ~~==The sermon's dismantling of racial hierarchy was the enforcement of a constitutional principle laid down in the Quranic text itself: 'O mankind, We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of God is the most righteous of you' (49:13). Notice the sociological precision of the phrasing. It does not demand the erasure of tribes or nations; it acknowledges human diversity as a mechanism for mutual discovery ('that you may know one another'). But it explicitly strips that diversity of any hierarchical value. The tribe is a coordinate on a map, not a measure of worth.==~~
 
-<font color="#c0504d">Abu Dharr al-Ghifari was among the first to enter Islam, among the most ascetic of the Companions, and among those the Prophet ﷺ spoke of with the deepest personal affection. He had given up comfort, security, and the ease of the tribal world without reservation. He was, by the faith's own accounting, one of its finest.</font>
+Abu Dharr al-Ghifari was among the first to enter Islam, among the most ascetic of the Companions, and among those the Prophet ﷺ spoke of with the deepest personal affection. He had given up comfort, security, and the ease of the tribal world without reservation. He was, by the faith's own accounting, one of its finest.
 
-<font color="#c0504d">In a dispute with Bilal ibn Rabah, Abu Dharr said to him: _"You son of a black woman."_</font>
+In a dispute with Bilal ibn Rabah, Abu Dharr said to him: _"You son of a black woman."_
 
-<font color="#c0504d">The Prophet ﷺ turned to him. The words that follow are recorded in Sahih al-Bukhari: _"Did you insult him by his mother? You are a man in whom there is still some jahiliyyah."_</font>
+The Prophet ﷺ turned to him. The words that follow are recorded in Sahih al-Bukhari: _"Did you insult him by his mother? You are a man in whom there is still some jahiliyyah."_
 
-<font color="#c0504d">Not a rule broken. Not a penance to be performed. Something more precise: _you still carry it._ The old code had not been abolished from Abu Dharr by his faith, his sacrifice, or his decades of devotion. It had survived inside him as instinct — a reflex available in a moment of anger, surfacing before belief could intercept it.</font>
+Not a rule broken. Not a penance to be performed. Something more precise: _you still carry it._ The old code had not been abolished from Abu Dharr by his faith, his sacrifice, or his decades of devotion. It had survived inside him as instinct — a reflex available in a moment of anger, surfacing before belief could intercept it.
 
-<font color="#c0504d">Abu Dharr put his cheek on the ground and told Bilal to place his foot on it.</font>
+Abu Dharr put his cheek on the ground and told Bilal to place his foot on it.
 
-<font color="#c0504d">Bilal did not.</font>
+Bilal did not.
 
-<font color="#c0504d">_Jahiliyyah_ is not a historical epoch that ended with the sermon's proclamation. It is a condition — the habit of ranking by blood, by birth, by the texture of a mother's skin — that persists inside the most committed person, available in the smallest and most unguarded moments. The declaration dismantled the hierarchy as legal fact. What it could not dismantle automatically was the instinct that had sustained it. That required something else entirely: the correction that named the failure plainly, and the particular moral courage of a man who responded by putting his face in the dust.</font>
+_Jahiliyyah_ is not a historical epoch that ended with the sermon's proclamation. It is a condition — the habit of ranking by blood, by birth, by the texture of a mother's skin — that persists inside the most committed person, available in the smallest and most unguarded moments. The declaration dismantled the hierarchy as legal fact. What it could not dismantle automatically was the instinct that had sustained it. That required something else entirely: the correction that named the failure plainly, and the particular moral courage of a man who responded by putting his face in the dust.
 
 ---
 
@@ -717,19 +717,18 @@ I find this convergence more persuasive than any single argument either traditio
 That convergence is what this book is about. Not the triumph of one tradition. The accuracy of a diagnosis.
 
 ---
+
 The proof of principle was not only personal. It became institutional. The founding document of the first Muslim polity — the Constitution of Medina, drafted in approximately 622 CE — was itself a structural enactment of the sermon's principle. It created a single community, the Ummah, from Arab tribes that had been killing each other for generations and from the Jewish clans of the city. Its definition of membership was not blood, not ancestry, not Arab descent. It was a shared covenant: mutual defense, mutual obligation, the rule of law applied without distinction of origin. A Medinan Jew and a Meccan refugee held the same standing before it. Citizenship, in this document, was contractual rather than genealogical. This is what it looks like when the meritocracy of character becomes a legal structure rather than a personal aspiration.
 
 <font color="#c0504d">The non-Muslim communities who lived under the early application of this principle left records. They are not uniformly positive — conquest is conquest, and the chronicles of subjugated peoples carry that weight honestly. But specific to this principle — that legal standing before the administration was not determined by religious identity — John of Nikiu, a Coptic bishop writing in the 7th century, recorded that many among his community found a single legal standard applied across religious groups preferable to what the Byzantine administration had offered. The principle was imperfectly applied. Its application, even imperfectly, was noticed and recorded by those on the receiving end.</font>
 
-~~That caste has re-entered Muslim communities through the back door of biradari, that Arab nationalism has reproduced the exact hierarchy the sermon dismantled, that the Muslim world is not a meritocracy of character — these failures belong to the people who built those communities, not to the blueprint they claimed to follow. The argument demanded the exhausting, unnatural elevation of character over blood. Most people, across most of history, have not sustained that demand. But the demand is still there, in the text, unchanged.~~
+The gap between the principle and its application opened within living memory of the sermon.
 
-<font color="#c0504d">The gap between the principle and its application opened within living memory of the sermon.</font>
+The Umayyad caliphate, governing the Muslim world from 661 CE — less than thirty years after the Prophet's ﷺ death — systematically reinstated the hierarchy of blood the sermon had demolished. Non-Arab Muslims, the mawali, were in many regions required to pay taxes that Arab Muslims did not. Arab tribal identity was embedded in military and administrative structures in ways that reproduced the exact supremacy the sermon had named and nullified. The men who had heard the declaration at Arafat were still alive. Their children oversaw the erasure of what had been proclaimed there.
 
-<font color="#c0504d">The Umayyad caliphate, governing the Muslim world from 661 CE — less than thirty years after the Prophet's ﷺ death — systematically reinstated the hierarchy of blood the sermon had demolished. Non-Arab Muslims, the mawali, were in many regions required to pay taxes that Arab Muslims did not. Arab tribal identity was embedded in military and administrative structures in ways that reproduced the exact supremacy the sermon had named and nullified. The men who had heard the declaration at Arafat were still alive. Their children oversaw the erasure of what had been proclaimed there.</font>
+The counter-movement that overthrew the Umayyads in 750 CE did not make its case primarily on military or economic grounds. It invoked the Farewell Sermon. The equality of Arabs and non-Arabs before God, the meritocracy of character over the aristocracy of blood — these were the arguments of the Abbasid revolution, drawn directly from the text the Umayyad state was simultaneously invoking for its own legitimacy. The sermon had sufficient political memory to generate its own correction. That correction was necessary is evidence that the blueprint was real — real enough that its violation had political consequences, and real enough that its language could mobilize the force that eventually corrected it.
 
-<font color="#c0504d">The counter-movement that overthrew the Umayyads in 750 CE did not make its case primarily on military or economic grounds. It invoked the Farewell Sermon. The equality of Arabs and non-Arabs before God, the meritocracy of character over the aristocracy of blood — these were the arguments of the Abbasid revolution, drawn directly from the text the Umayyad state was simultaneously invoking for its own legitimacy. The sermon had sufficient political memory to generate its own correction. That correction was necessary is evidence that the blueprint was real — real enough that its violation had political consequences, and real enough that its language could mobilize the force that eventually corrected it.</font>
-
-<font color="#c0504d">The failure did not stop there. Caste has re-entered Muslim communities through the back door of biradari. Arab nationalism has reproduced the exact hierarchy the sermon dismantled. The Muslim world, across most of its institutional history, has not sustained a meritocracy of character. These failures belong to the builders, not to the design. The design is only vindicated by being lived — and the distance between the sermon's declaration and the structures built in its name remains the measure of every generation that inherits both.</font>
+The failure did not stop there. Caste has re-entered Muslim communities through the back door of biradari. Arab nationalism has reproduced the exact hierarchy the sermon dismantled. The Muslim world, across most of its institutional history, has not sustained a meritocracy of character. These failures belong to the builders, not to the design. The design is only vindicated by being lived — and the distance between the sermon's declaration and the structures built in its name remains the measure of every generation that inherits both.
 
 ---
 
@@ -749,47 +748,47 @@ Now he climbed the Kaaba. He stood at the highest point of the holiest building 
 
 The meritocracy of character had arrived. Not as an idea proclaimed on a hillside. As a voice belonging to the man whose _taqwa_ had been tested in the only conditions that test it: not in comfort, not in safety, but in the moment when renunciation was the available exit and he had refused it.
 
-<font color="#c0504d">Bilal's appointment proves what spiritual honor looked like when assigned by character rather than blood. A separate appointment, in the same period, proves what command authority looked like.</font>
+Bilal's appointment proves what spiritual honor looked like when assigned by character rather than blood. A separate appointment, in the same period, proves what command authority looked like.
 
-<font color="#c0504d">In the final weeks of his life, the Prophet ﷺ organized a military expedition to the Syrian frontier and named its commander. The appointment was Usamah ibn Zayd — a young man not yet twenty. His father was Zayd ibn Haritha, whom the Prophet ﷺ had loved as a son and wept over after his death at the Battle of Mu'tah. His mother was Umm Ayman, an African woman who had cared for the Prophet ﷺ since his earliest childhood and whom he called "my mother after my mother."</font>
+In the final weeks of his life, the Prophet ﷺ organized a military expedition to the Syrian frontier and named its commander. The appointment was Usamah ibn Zayd — a young man not yet twenty. His father was Zayd ibn Haritha, whom the Prophet ﷺ had loved as a son and wept over after his death at the Battle of Mu'tah. His mother was Umm Ayman, an African woman who had cared for the Prophet ﷺ since his earliest childhood and whom he called "my mother after my mother."
 
-<font color="#c0504d">In the army placed under Usamah's command were Abu Bakr al-Siddiq and Umar ibn al-Khattab — the two men who would govern the community as its first and second caliphs. Men who had been Muslims for two decades. Men who had bled at Badr and Uhud.</font>
+In the army placed under Usamah's command were Abu Bakr al-Siddiq and Umar ibn al-Khattab — the two men who would govern the community as its first and second caliphs. Men who had been Muslims for two decades. Men who had bled at Badr and Uhud.
 
-<font color="#c0504d">Some among the Companions raised concerns about the appointment. Their question was his age, not his lineage — they had heard the sermon. The Prophet ﷺ silenced them directly: _"If you question the command of Usamah, you questioned the command of his father before him. By God, he was worthy of command and was among the most beloved of people to me, and this one is among the most beloved to me after him."_</font>
+Some among the Companions raised concerns about the appointment. Their question was his age, not his lineage — they had heard the sermon. The Prophet ﷺ silenced them directly: _"If you question the command of Usamah, you questioned the command of his father before him. By God, he was worthy of command and was among the most beloved of people to me, and this one is among the most beloved to me after him."_
 
-<font color="#c0504d">The Prophet ﷺ died before the expedition departed. The community was in acute crisis — a leader gone, succession unresolved, tribal loyalties pulling in every direction. Abu Bakr, in the first days of his caliphate, faced a hundred arguments for reorganizing the army under experienced senior leadership. He refused every one. He said he would not unravel an appointment the Prophet ﷺ had made. Usamah led the expedition. The future caliphs marched under his command.</font>
+The Prophet ﷺ departed this world before the expedition departed. The community was in acute crisis — a leader gone, succession unresolved, tribal loyalties pulling in every direction. Abu Bakr, in the first days of his caliphate, faced a hundred arguments for reorganizing the army under experienced senior leadership. He refused every one. He said he would not unravel an appointment the Prophet ﷺ had made. Usamah led the expedition. The future caliphs marched under his command.
 
-<font color="#c0504d">The son of a freed slave and an African woman commanded the men who would govern the Muslim world. Abu Bakr upheld that command at the moment of greatest political cost, because the principle was not symbolic — it had to hold precisely when holding it was difficult.</font>
+The son of a freed slave and an African woman commanded the men who would govern the Muslim world. Abu Bakr upheld that command at the moment of greatest political cost, because the principle was not symbolic — it had to hold precisely when holding it was difficult.
 
-~~A modern reader will rightfully ask: If the blueprint was so radical, why did it not abolish the institution of slavery overnight? The answer lies in the difference between moral grandstanding and structural engineering. In a 7th-century global economy running entirely on uncompensated human labor, an immediate abolition would have collapsed the society into mass starvation and war. Instead, the blueprint engineered a system to starve the institution to death. It banned the enslavement of free people. It made the freeing of slaves the highest act of religious expiation for sins. It granted slaves the right to purchase their own freedom through legally binding contracts. It did not ban the institution overnight; it dismantled its economic viability and moral legitimacy, creating the structural off-ramp for its eventual eradication.~~
+==~~A modern reader will rightfully ask: If the blueprint was so radical, why did it not abolish the institution of slavery overnight? The answer lies in the difference between moral grandstanding and structural engineering. In a 7th-century global economy running entirely on uncompensated human labor, an immediate abolition would have collapsed the society into mass starvation and war. Instead, the blueprint engineered a system to starve the institution to death. It banned the enslavement of free people. It made the freeing of slaves the highest act of religious expiation for sins. It granted slaves the right to purchase their own freedom through legally binding contracts. It did not ban the institution overnight; it dismantled its economic viability and moral legitimacy, creating the structural off-ramp for its eventual eradication.~~==
 
 ---
 
-==The principle was not confined to spiritual appointments. It entered the administration of conquest — the one moment in history when a victorious civilization's instinct is always to reassert hierarchy.==
+The principle was not confined to spiritual appointments. It entered the administration of conquest — the one moment in history when a victorious civilization's instinct is always to reassert hierarchy.
 
-<font color="#c0504d">Twenty years after the Farewell Sermon, Amr ibn al-As was the conqueror of Egypt — governor of the province that fed the empire, among the most celebrated military commanders in the Islamic world. His son, in a horse race, struck an Egyptian Coptic Christian farmer who had beaten him. The farmer traveled to Medina and reported the incident directly to the Caliph Umar ibn al-Khattab.</font>
+Twenty years after the Farewell Sermon, Amr ibn al-As was the conqueror of Egypt — governor of the province that fed the empire, among the most celebrated military commanders in the Islamic world. His son, in a horse race, struck an Egyptian Coptic Christian farmer who had beaten him. The farmer traveled to Medina and reported the incident directly to the Caliph Umar ibn al-Khattab.
 
-<font color="#c0504d">Umar summoned Amr and his son to the capital.</font>
+Umar summoned Amr and his son to the capital.
 
-<font color="#c0504d">He placed a whip in the farmer's hand and told him to strike the governor's son in front of his father.</font>
+He placed a whip in the farmer's hand and told him to strike the governor's son in front of his father.
 
-<font color="#c0504d">The farmer struck him.</font>
+The farmer struck him.
 
-<font color="#c0504d">Umar then told the farmer to strike Amr ibn al-As himself — his son had struck him only by the arrogance his father's position had built into him.</font>
+Umar then told the farmer to strike Amr ibn al-As himself — his son had struck him only by the arrogance his father's position had built into him.
 
-<font color="#c0504d">The farmer chose not to. He had received what he came for.</font>
+The farmer chose not to. He had received what he came for.
 
-<font color="#c0504d">Umar looked at Amr and spoke words that the earliest chronicles of the Islamic period record:</font>
+Umar looked at Amr and spoke words that the earliest chronicles of the Islamic period record:
 
-<font color="#c0504d">_"Mata ista'badtum al-nas wa qad waladathum ummahatuhum ahrarar?"_</font>
+_"Mata ista'badtum al-nas wa qad waladathum ummahatuhum ahrarar?"_
 
-<font color="#c0504d">Since when have you enslaved people, when their mothers bore them free?</font>
+Since when have you enslaved people, when their mothers bore them free?
 
-<font color="#c0504d">The question is not addressed to one governor. It is the sermon's principle stated as an indictment — that every body carries the freedom of its birth, that no subsequent transaction of power or conquest or lineage undoes what a mother's labor established, that the person in front of you is the free human being they arrived as, not the category the powerful have since assigned them.</font>
+The question is not addressed to one governor. It is the sermon's principle stated as an indictment — that every body carries the freedom of its birth, that no subsequent transaction of power or conquest or lineage undoes what a mother's labor established, that the person in front of you is the free human being they arrived as, not the category the powerful have since assigned them.
 
-<font color="#c0504d">A Coptic Christian farmer's body had the same sanctity as the son of the conqueror of Egypt. The caliph enforced this with a whip, publicly, against his own empire's most distinguished military governor. The principle was not the Prophet's ﷺ personal gift to the people he favored. It had become the measure by which power was judged — and, when necessary, corrected by the state operating in the blueprint's name.</font>
+A Coptic Christian farmer's body had the same sanctity as the son of the conqueror of Egypt. The caliph enforced this with a whip, publicly, against his own empire's most distinguished military governor. The principle was not the Prophet's ﷺ personal gift to the people he favored. It had become the measure by which power was judged — and, when necessary, corrected by the state operating in the blueprint's name.
 
-<font color="#c0504d">The muhtasib walked the souk. The caliph walked the throne room. Both carried the same question: have you taken what you had no right to take?</font>
+==The muhtasib walked the souk.== The caliph walked the throne room. Both carried the same question: have you taken what you had no right to take?
 
 ---
 
@@ -854,9 +853,9 @@ The world it arrived in had not ignored the question of women's status — it ha
 
 The Prophet ﷺ was forty years old. He had been retreating to the Cave of Hira above Mecca for years — seeking in the solitude of the mountain answers to questions the city's commerce and tribal politics could not provide. On one of these retreats, in the month of Ramadan, the weight of the Divine descended upon him.
 
-The experience was not gentle. He was embraced — pressed, squeezed — with a force he described as feeling close to death. A command came: _Iqra_ — Read. He responded that he did not know how to read. The embrace came again, tighter. The command again. Three times this sequence, until the first words of what would become the Quran came through him, and the presence withdrew.
+The experience was not gentle. He was embraced — pressed, squeezed — ==with a force he described as feeling close to death==. A command came: _Iqra_ — Read. He replied, “I do not read." The embrace came again, tighter. The command again. Three times this sequence, until the first words of what would become the Quran came through him, and the presence withdrew.
 
-He descended from the mountain in a state of complete human terror. Not the calm of a man who had been to a high place and seen something and returned transformed. The trembling of a man who did not know what had happened to him, who feared for his sanity, who needed — immediately and with the urgency of someone in genuine crisis — another human being.
+==He descended from the mountain in a state of complete human terror==. Not the calm of a man who had been to a high place and seen something and returned transformed. The trembling of a man who did not know what had happened to him, ==who feared for his sanity==, who needed — immediately and with the urgency of someone in genuine crisis — another human being.
 
 He went to Khadijah.
 
@@ -870,7 +869,7 @@ _"By God, God will never disgrace you. You uphold the ties of kinship. You speak
 
 She was making a logical argument from the data of his character to the conclusion that whatever had come to him could not be evil, because evil does not select vessels of this quality. ~~==She was, his first theologian==~~ — and she brought him to her cousin Waraqa ibn Nawfal, a scholar of the earlier scriptures, who confirmed what she had already understood: that what had descended on Muhammad was the same revelation that had come to Moses.
 
-The first Muslim was a woman. The first person to recognize the prophethood was not a warrior or a scholar or a chief. She was a businesswoman who had proposed marriage to a man fifteen years her junior because she had recognized what he was. In his moment of greatest vulnerability, she had been the foundation on which the entire mission was able to stand.
+The first Muslim was a woman. The first person to recognize the prophethood was not a warrior or a scholar or a chief. She was a businesswoman who had proposed marriage to a man fifteen years her junior because she had recognized what he was. ==In his moment of greatest vulnerability==, she had been the foundation on which the entire mission was able to stand.
 
 ---
 
@@ -918,25 +917,25 @@ Inheritance followed the same logic. Before Islam, a woman in Arabia could not i
 
 
 
-<font color="#c0504d">Khawla bint Tha'laba's husband had pronounced a form of pre-Islamic abandonment called _zihar_ — a formula by which a man told his wife "you are to me as my mother's back." The declaration simultaneously ended the marriage and denied her the right to leave it. She could not remarry. She could not resume her life as his wife. She was suspended in a legal void of his creation — unable to go forward and forbidden to go back. The practice was ancient, accepted, and designed for the husband's convenience at the wife's permanent expense.</font>
+Khawla bint Tha'laba's husband had pronounced a form of pre-Islamic abandonment called _zihar_ — a formula by which a man told his wife "you are to me as my mother's back." The declaration simultaneously ended the marriage and denied her the right to leave it. She could not remarry. She could not resume her life as his wife. She was suspended in a legal void of his creation — unable to go forward and forbidden to go back. The practice was ancient, accepted, and designed for the husband's convenience at the wife's permanent expense.
 
-<font color="#c0504d">Khawla went to the Prophet ﷺ and argued her case.</font>
+Khawla went to the Prophet ﷺ and argued her case.
 
-<font color="#c0504d">He told her, initially, that he found no ruling that applied differently from the established practice. The zihar had been pronounced. He could find no legal path.</font>
+He told her, initially, that he found no ruling that applied differently from the established practice. The zihar had been pronounced. He could find no legal path.
 
-<font color="#c0504d">She did not accept this.</font>
+She did not accept this.
 
-<font color="#c0504d">She pressed the case. She turned her face upward and said: _O God, I complain to You of my situation._ She came back. The hadith record the exchange between them — a woman and a prophet, the woman refusing to accept the first answer, returning again, insisting that what had been done to her was wrong and that the tradition owed her a response equal to the wrong.</font>
+She pressed the case. She turned her face upward and said: _O God, I complain to You of my situation._ She came back. The hadith record the exchange between them — a woman and a prophet, the woman refusing to accept the first answer, returning again, insisting that what had been done to her was wrong and that the tradition owed her a response equal to the wrong.
 
-<font color="#c0504d">Then Surah Al-Mujadila was revealed. The fifty-eighth chapter of the Quran. Its name is derived from the verb _jadala_ — to argue, to dispute, to press a case. The chapter is called _She Who Argues._</font>
+Then Surah Al-Mujadila was revealed. The fifty-eighth chapter of the Quran. Its name is derived from the verb _jadala_ — to argue, to dispute, to press a case. The chapter is called _She Who Argues._
 
-<font color="#c0504d">It opens: _"God has heard the statement of her who argues with you concerning her husband and complains to God — and God hears the dialogue between you. God is All-Hearing, All-Seeing."_</font>
+It opens: _"God has heard the statement of her who argues with you concerning her husband and complains to God — and God hears the dialogue between you. God is All-Hearing, All-Seeing."_
 
-<font color="#c0504d">The zihar practice was abolished. The husband was required to perform a demanding act of expiation. The legal void was closed.</font>
+The zihar practice was abolished. The husband was required to perform a demanding act of expiation. The legal void was closed.
 
-<font color="#c0504d">The chapter is named after what Khawla did. Not after her faith. Not after her patience. After her argument — after her specific act of refusing to accept an inadequate first response from the highest available authority.</font>
+The chapter is named after what Khawla did. Not after her faith. Not after her patience. After her argument — after her specific act of refusing to accept an inadequate first response from the highest available authority.
 
-<font color="#c0504d">No 7th-century civilization produced anything comparable. A woman's private dispute became the occasion for divine revelation, and the revelation is named after her disputing. The Quran did not simply establish women's legal standing. It named a chapter after one woman refusing to accept the answer she was given.</font>
+No 7th-century civilization produced anything comparable. A woman's private dispute became the occasion for divine revelation, and the revelation is named after her disputing. The Quran did not simply establish women's legal standing. It named a chapter after one woman refusing to accept the answer she was given.
 
 Consent was given legal standing. A woman came to the Prophet ﷺ and told him that her father had given her in marriage against her will. He annulled the marriage immediately — without asking whether the husband was a good man, whether the match was advantageous, whether the father had acted from good intentions. He asked what she wanted. When she indicated she would accept the marriage, he confirmed it on her choice, not her father's. The hadith records that she said afterward: "I did not come because I wished to undo the marriage. I came because I wanted women to know that fathers have no right in this matter without the consent of their daughters."
 
@@ -948,7 +947,7 @@ This matters beyond the rights it established. A society in which the most intim
 
 The moment that demonstrates all of this most completely did not happen at Arafat. It happened at a place called Hudaibiyah, six years before the sermon, in a crisis that threatened to fracture the early Muslim community — and it was resolved by the political intelligence of a woman.
 
-The Prophet ﷺ had led roughly 1,400 companions toward Mecca to perform the lesser pilgrimage. They came unarmed, in the white cloth of pilgrims, with sacrificial animals and without weapons. The Quraysh sent an emissary. A treaty emerged — the Muslims would return to Medina without performing the pilgrimage this year. Next year they could come for three days. There were other terms, and these terms felt, to the companions who had sacrificed houses and livelihoods and family relationships for this mission, deeply humiliating.
+The Prophet ﷺ had led roughly 1,400 companions toward Mecca to perform Umrah, the lesser pilgrimage. They came unarmed, in the white cloth of pilgrims, with sacrificial animals and without weapons. The Quraysh sent an emissary. A treaty emerged — the Muslims would return to Medina without performing the pilgrimage this year. Next year they could come for three days. There were other terms, and these terms felt, to the companions who had sacrificed houses and livelihoods and family relationships for this mission, deeply humiliating.
 
 The Prophet ﷺ ordered his companions to shave their heads, signaling the end of the pilgrim state, and to slaughter their sacrificial animals. The pilgrimage was over before it had begun.
 
