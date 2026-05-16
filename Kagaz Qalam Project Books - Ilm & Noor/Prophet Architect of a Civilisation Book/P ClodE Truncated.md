@@ -1524,24 +1524,22 @@ The text below is a scholarly composite drawn from the following authenticated s
 *   Sunan Abi Dawud — Kitab al-Manasik
 *   Jami' at-Tirmidhi — Kitab al-Hajj and Kitab al-Tafsir
 *   Musnad Ahmad ibn Hanbal
-*   Sirat Rasul Allah — Ibn Ishaq (Guillaume translation)
+*   Sirat Rasul Allah — Ibn Ishaq ~~(Guillaume translation)~~
 
 Section headings in brackets are editorial additions to aid navigation. The Arabic text references following each section indicate the primary source for that passage. The translation is fresh and is calibrated for clarity and precision; it does not follow any single existing published translation.
 
-==One note on the racial equality declaration: the passage beginning "All mankind is from Adam and Eve..." is transmitted primarily through Musnad Ahmad and is not in the two Sahihs in this form. Its widespread attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, but the transmission chain is less robust than some other passages. It is retained here on the basis of that majority scholarly consensus. Readers who wish to examine the transmission question in detail will find Jonathan A.C. Brown's work on hadith methodology (cited in Further Reading) a useful starting point.==
-EITHER OR
-==One note on transmission: the racial equality declaration beginning "All mankind is from Adam and Eve. An Arab has no superiority over a non-Arab..." is transmitted primarily through Musnad Ahmad ibn Hanbal and is not found in this precise form in Sahih al-Bukhari or Sahih Muslim. Its attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, and it is retained here on that basis. Readers who wish to examine the transmission question in depth will find Jonathan A.C. Brown's work on hadith methodology (listed in Further Reading) a useful entry point.==
+One note on transmission: the racial equality declaration beginning "All mankind is from Adam and Eve. An Arab has no superiority over a non-Arab..." is transmitted primarily through Musnad Ahmad ibn Hanbal and is not found in this precise form in Sahih al-Bukhari or Sahih Muslim. Its attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, and it is retained here on that basis. ~~Readers who wish to examine the transmission question in depth will find Jonathan A.C. Brown's work on hadith methodology (listed in Further Reading) a useful entry point.~~
 
 ---
 
 #### The Text
 
-##### [Opening Praise and Witness]
+##### Opening Praise and Witness
 > All praise is due to God. We praise Him, we seek His help, and we ask for His forgiveness. We seek refuge in God from the evil within ourselves and from our sinful deeds. Whoever God guides cannot be misled, and whoever He allows to stray cannot be guided. I bear witness that there is no god but God alone, without any partner. And I bear witness that Muhammad is His servant and Messenger.
 >
 > *Primary source: Sunan Abi Dawud, Kitab al-Manasik; Musnad Ahmad*
 
-##### [The Sacred Equality of This Day]
+##### The Sacred Equality of This Day
 > O People — listen to my words carefully, for I do not know whether I shall meet you in this place again after this year.
 >
 > O People — your blood, your property, and your honour are as sacred and inviolable as the sanctity of this day of yours, in this month of yours, in this city of yours.
@@ -1550,43 +1548,43 @@ EITHER OR
 >
 > *Primary source: Sahih al-Bukhari, Kitab al-Hajj; Sahih Muslim, Kitab al-Hajj*
 
-##### [The Abolition of Usury]
+##### The Abolition of Usury
 > God has forbidden you to take riba (usury). All outstanding obligations of riba from the days of Ignorance are hereby waived. Your capital is yours to keep. You will neither inflict injustice nor suffer it.
 >
 > The first riba I abolish is the riba of my uncle, Abbas ibn Abd al-Muttalib. It is all waived.
 >
 > *Primary source: Sahih Muslim, Kitab al-Hajj; Ibn Ishaq, Sirat Rasul Allah*
 
-##### [The Rights of Women]
+##### The Rights of Women
 > O People — it is true that you have certain rights over your women, but they also have rights over you. Your right over them is that they not allow into your home anyone whose presence you disapprove of. Their right over you is that you clothe them and feed them with kindness.
 >
 > Remember that you have taken them as your wives only as a trust from God, and with His permission. So be conscious of God regarding your treatment of women, and take care of them in goodness.
 >
 > *Primary source: Sunan Ibn Majah, Kitab al-Nikah; Musnad Ahmad; Ibn Ishaq*
 
-##### [The Universal Equality of Mankind]
+##### The Universal Equality of Mankind
 > O People — your Lord is one, and your father is one. All of you descend from Adam, and Adam was created from dust. There is no superiority of an Arab over a non-Arab, nor of a non-Arab over an Arab; no superiority of a white person over a black person, nor of a black person over a white person — except through taqwa (God-consciousness and righteous conduct). Have I conveyed this? The most honoured among you in the sight of God is the one with the greatest taqwa.
 >
 > *Primary source: Musnad Ahmad; Sunan al-Bayhaqi; also in various hadith compilations via Jabir ibn Abdullah*
 
-##### [On Trusts and Personal Integrity]
+##### On Trusts and Personal Integrity
 > Return the goods entrusted to you to their rightful owners. Hurt no one so that no one may hurt you.
 >
 > Know that every Muslim is a brother to every Muslim, and that the Muslims form one brotherhood. Nothing that belongs to a fellow Muslim is lawful for you unless he has given it willingly. Do not wrong yourselves.
 >
 > *Primary source: Sahih al-Bukhari, Kitab al-Hajj; Sahih Muslim, Kitab al-Hajj*
 
-##### [On Satan and Small Matters]
+##### On Satan and Small Matters
 > Beware of Satan — he has lost all hope of leading you astray in the great matters, so beware of following him in the small matters.
 >
 > *Primary source: Ibn Ishaq, Sirat Rasul Allah; referenced in multiple sermon compilations*
 
-##### [On Worship and Leadership]
+##### On Worship and Leadership
 > O People — worship your Lord. Perform your five daily prayers. Fast during the month of Ramadan. Give zakat from your wealth. Perform Hajj if you are able. Obey those in authority over you, and you will enter the Paradise of your Lord.
 >
 > *Primary source: Sunan Abi Dawud; Jami' at-Tirmidhi*
 
-##### [The Final Testimony and Charge]
+##### The Final Testimony and Charge
 > O People — there will be no prophet after me, and there will be no new community of faith after yours. So worship your Lord. Perform your five prayers. Fast your month. Give your zakat. Make the pilgrimage to the House of your Lord. Obey those in authority from among you — and you will enter the Garden of your Lord.
 >
 > Let him who is present convey this to him who is absent. For it may be that some of those to whom it is conveyed will understand it better than those who heard it directly.
@@ -1631,7 +1629,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 **Daraba / Wadribuhunna** (واضربوهن, *wāḍribūhunna*)
 *   ***Conceptual Translation:*** *The Contested Word*
-*   ***Definition:*** The Arabic word in Quran 4:34 that has been translated as "strike them" and used across centuries to license domestic violence. The word daraba has a semantic range that includes: to travel, to set an example, to separate, to tap lightly. Classical exegete al-Tabari recorded interpretations as early as the 9th century that understood the command as symbolic at most. The definitive commentary is the Prophet's ﷺ own practice, recorded by Aisha in Sahih Muslim: he never struck a woman or a servant.
+*   ***Definition:*** The Arabic word in Quran 4:34 that has been translated as "strike them" ==and used across centuries to license domestic violence==. The word daraba has a semantic range that includes: to travel, to set an example, to separate, to tap lightly. Classical exegete al-Tabari recorded interpretations as early as the 9th century that understood the command as symbolic at most. The definitive commentary is the Prophet's ﷺ own practice, recorded by Aisha in Sahih Muslim: he never struck a woman or a servant.
 
 **Fiqh** (فقه, *fiqh*)
 *   ***Conceptual Translation:*** *Islamic Jurisprudence*
@@ -1687,7 +1685,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 **Seerah** (سيرة, *sīra*)
 *   ***Conceptual Translation:*** *The Prophet's Biography*
-*   ***Definition:*** The body of historical literature documenting the life of the Prophet Muhammad ﷺ. The earliest and most influential Seerah is that of Muhammad ibn Ishaq (d. 768 CE), preserved in the recension of Ibn Hisham and translated into English by Alfred Guillaume. Later significant works include the Seerah by Ibn Sa'd and the more recent biography by Martin Lings. The Seerah, alongside the hadith collections, provides the biographical evidence for the "Forged in Fire" stories throughout this book.
+*   ***Definition:*** The body of historical literature documenting the life of the Prophet Muhammad ﷺ. The earliest and most influential Seerah is that of Muhammad ibn Ishaq (d. 768 CE), preserved in the recension of Ibn Hisham ~~and translated into English by Alfred Guillaume~~. Later significant works include the Seerah by Ibn Sa'd ~~and the more recent biography by Martin Lings~~. The Seerah, alongside the hadith collections, provides the biographical evidence for the "Forged in Fire" stories throughout this book.
 
 **Talbiyah** (تلبية, *talbiya*)
 *   ***Conceptual Translation:*** *The Pilgrim's Cry*
@@ -1718,12 +1716,12 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **The Prophet Muhammad ﷺ**
 *   **Lived:** c. 570–632 CE
 *   **Role:** Prophet, Statesman, The Architect
-*   **Biography:** Born in Mecca into the Quraysh tribe's Banu Hashim clan, orphaned at six, raised by his uncle Abu Talib. Worked as a merchant caravan manager, earning the title Al-Amin (The Trustworthy One) from the Meccan trading community. Received the first revelation in the Cave of Hira at the age of approximately forty. Led a persecuted minority community in Mecca for thirteen years before the Hijra (migration) to Medina in 622 CE, where he established the first Muslim polity. Delivered the Farewell Sermon at Arafat in March 632 CE and died in Medina three months later. He is buried in his mosque in Medina.
+*   **Biography:** Born in Mecca into the Quraysh tribe's Banu Hashim clan, orphaned at six, raised by his uncle Abu Talib. Worked as a merchant caravan manager, earning the title Al-Amin (The Trustworthy One) from the Meccan trading community. Received the first revelation in the Cave of Hira at the age of approximately forty. Led a persecuted minority community in Mecca for thirteen years before the Hijra (migration) to Medina in 622 CE, where he established the first Muslim polity. Delivered the Farewell Sermon at Arafat in March 632 CE and passed away in Medina three months later. He is buried in his mosque in Medina.
 
 **Khadijah bint Khuwaylid**
 *   **Lived:** c. 555–619 CE
 *   **Role:** First Wife of the Prophet ﷺ; First Muslim
-*   **Biography:** A successful merchant widow of Mecca who hired the young Muhammad ﷺ to manage her trading caravans, then proposed marriage to him — an act of remarkable agency in a patriarchal society. She was the first person to accept Islam, providing the Prophet ﷺ with his initial validation and support. She died three years before the Hijra. The Prophet ﷺ spoke of her with deep love throughout his life and did not take a second wife while she lived. Her role in Chapter 4 is central: she is the first proof of concept for the "trust not property" principle.
+*   **Biography:** A successful merchant widow of Mecca who hired the young Muhammad ﷺ to manage her trading caravans, then proposed marriage to him — an act of remarkable agency in a patriarchal society. She was the first person to accept Islam, providing the Prophet ﷺ with his initial validation and support. She died three years before the Hijra. The Prophet ﷺ spoke of her with deep love throughout his life ~~==and did not take a second wife while she lived==~~. Her role in Chapter 4 is central: she is the first proof of concept for the "trust not property" principle.
 
 **Aisha bint Abi Bakr**
 *   **Lived:** c. 613–678 CE
@@ -1753,7 +1751,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Abu Jahl (Amr ibn Hisham)**
 *   **Lived:** d. 624 CE
 *   **Role:** Meccan Chieftain; Antagonist of the Early Muslims
-*   **Biography:** One of the most powerful and implacable enemies of the early Muslim community in Mecca. His opposition to Islam was not primarily theological but social: the new faith threatened the lineage-based hierarchy that underwrote his prestige and authority. He organized the economic boycott of the Banu Hashim clan and personally supervised the torture of enslaved Muslim converts, including the family of Yasir. He was killed at the Battle of Badr (624 CE). The name "Abu Jahl" (Father of Ignorance) was given by the Muslim community; his birth name was Amr ibn Hisham.
+*   **Biography:** One of the most powerful and implacable enemies of the early Muslim community in Mecca. His opposition to Islam was not primarily theological but social: the new faith threatened the lineage-based hierarchy that underwrote his prestige and authority. He organized the economic boycott of the Banu Hashim clan and personally supervised the torture of enslaved Muslim converts, including the family of Yasir. He was killed at the Battle of Badr (624 CE). ==The name "Abu Jahl" (Father of Ignorance) was given by the Muslim community; his birth name was Amr ibn Hisham.==
 
 **Abbas ibn Abd al-Muttalib**
 *   **Lived:** c. 566–653 CE
@@ -1768,12 +1766,12 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Abu Bakr al-Siddiq**
 *   **Lived:** c. 573–634 CE
 *   **Role:** Closest Companion of the Prophet ﷺ; First Caliph
-*   **Biography:** The Prophet's ﷺ closest friend and father-in-law (father of Aisha). He was the first adult free male to accept Islam. He purchased and freed enslaved Muslims, including Bilal. On the day of the Prophet's ﷺ death, when Umar was declaring that the Prophet ﷺ had not died, Abu Bakr delivered the address that saved the community from collapsing into a cult of personality: "Whoever worshipped Muhammad — Muhammad is dead. Whoever worshipped God — God is alive and never dies." This is the moment that saved the community from collapsing into a cult of personality, proving that the architecture was designed to outlast the Architect.
+*   **Biography:** The Prophet's ﷺ closest friend and father-in-law (father of Aisha). He was the first adult free male to accept Islam. He purchased and freed enslaved Muslims, including Bilal. On the day of the Prophet's ﷺ death, ==when Umar was declaring that the Prophet ﷺ had not died,== Abu Bakr delivered the address that saved the community from collapsing into a cult of personality: "Whoever worshipped Muhammad — Muhammad is dead. Whoever worshipped God — God is alive and never dies." This is the moment that saved the community from collapsing into a cult of personality, proving that the architecture was designed to outlast the Architect.
 
 **Ibn Ishaq (Muhammad ibn Ishaq ibn Yasar)**
 *   **Lived:** c. 704–768 CE
 *   **Role:** Biographer of the Prophet ﷺ
-*   **Biography:** The earliest and most authoritative biographer of the Prophet Muhammad ﷺ, whose Sirat Rasul Allah (Life of the Messenger of God) is the foundation of all subsequent prophetic biography. Writing approximately a century after the Prophet's death, he collected oral accounts, poetry, and documents from across the Islamic world. His work survives primarily in the recension of Ibn Hisham and was translated into English by Alfred Guillaume. Nearly all narrative biographical details cited in this book trace their origin to Ibn Ishaq.
+*   **Biography:** The earliest and most authoritative biographer of the Prophet Muhammad ﷺ, whose Sirat Rasul Allah (Life of the Messenger of God) is the foundation of all subsequent prophetic biography. Writing approximately a century after the Prophet's death, he collected oral accounts, poetry, and documents from across the Islamic world. His work survives primarily in the recension of Ibn Hisham ~~and was translated into English by Alfred Guillaume~~. Nearly all narrative biographical details cited in this book trace their origin to Ibn Ishaq.
 
 **Al-Tabari (Muhammad ibn Jarir al-Tabari)**
 *   **Lived:** 839–923 CE
