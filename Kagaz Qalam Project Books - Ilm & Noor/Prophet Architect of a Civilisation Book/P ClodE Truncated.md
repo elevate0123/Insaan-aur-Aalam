@@ -1,3 +1,8 @@
+
+
+
+
+
 # THE ARCHITECT
 
 ## Frontmatter
@@ -1785,7 +1790,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 ### Appendix D: A Note on Sources and Methodology
 #### What This Book Is and Is Not
-This book is narrative non-fiction in the tradition of "smart thinking" popular history — it makes an analytical argument through story, biography, and evidence accessible to an educated general reader. It is not an academic text in Islamic studies. It does not engage with the full range of scholarly debate in hadith methodology, Quranic hermeneutics, or the history of Islamic legal thought. Readers who want that engagement will find suggestions in the Further Reading section below.
+This book is narrative non-fiction in the tradition of "smart thinking" popular history — it makes an analytical argument through story, biography, and evidence accessible to an educated general reader. It is not an academic text in Islamic studies. It does not engage with the full range of scholarly debate in hadith methodology, Quranic hermeneutics, or the history of Islamic legal thought. ~~==Readers who want that engagement will find suggestions in the Further Reading section below.==~~
 
 What this book does claim is to be honest — to go back to the earliest sources, to read what was actually said, to acknowledge difficulty when it exists, and not to cherry-pick the convenient while hiding the hard. Whether it has succeeded is for the reader to judge.
 
@@ -1799,12 +1804,12 @@ The two most rigorously authenticated collections — Sahih al-Bukhari (compiled
 Additional narrations are drawn from Sunan Abi Dawud, Jami' at-Tirmidhi, Sunan ibn Majah, Musnad Ahmad, and the Muwatta' of Imam Malik. Where these are cited, they are distinguished from the two Sahihs by their collection name.
 
 ##### 3. The Seerah Literature
-For biographical narrative and historical context, the primary source is the Sirat Rasul Allah of Muhammad ibn Ishaq (c. 704–768 CE), preserved in the recension of Abd al-Malik ibn Hisham and translated into English by Alfred Guillaume as *The Life of Muhammad* (Oxford University Press, 1955). This is the earliest substantial biography of the Prophet ﷺ and the foundation of all subsequent Seerah writing.
+For biographical narrative and historical context, the primary source is the Sirat Rasul Allah of Muhammad ibn Ishaq (c. 704–768 CE), preserved in the recension of Abd al-Malik ibn Hisham ~~==and translated into English by Alfred Guillaume as *The Life of Muhammad* (Oxford University Press, 1955)==~~. This is the earliest substantial biography of the Prophet ﷺ and the foundation of all subsequent Seerah writing.
 
 Martin Lings's *Muhammad: His Life Based on the Earliest Sources* (Islamic Texts Society, 1983) is used as a scholarly secondary reference that combines rigorous sourcing with narrative accessibility.
 
 ##### 4. The Quran
-Quranic verses are cited by surah (chapter) and ayah (verse) number in standard notation. Translations are the author's own renderings, consulting multiple established translations including those of Abdullah Yusuf Ali, Muhammad Asad, and Saheeh International. The aim is accuracy and clarity, and not focussing any single school of interpretation.
+Quranic verses are cited by surah (chapter) and ayah (verse) number in standard notation. Translations are the author's own renderings, consulting multiple established translations ~~including those of Abdullah Yusuf Ali, Muhammad Asad, and Saheeh International~~. The aim is accuracy and clarity, and not focussing any single school of interpretation.
 
 ##### 5. Classical Scholarship
 For the interpretation of contested verses (particularly Quran 4:34 on Qiwamah and Daraba), the primary classical reference is the Tafsir of Muhammad ibn Jarir al-Tabari (839–923 CE), which records the range of early scholarly opinion on these passages. Al-Tabari is cited not because he represents the majority classical position on every question but because his method — of recording multiple scholarly opinions with their chains of transmission — allows the reader to see that the interpretive tradition was itself contested from the beginning.
@@ -1823,7 +1828,7 @@ For the interpretation of contested verses (particularly Quran 4:34 on Qiwamah a
 * This book does not claim that the Prophet Muhammad ﷺ invented the concepts of social trust, gender equality, or racial justice. It claims that his articulation of these principles — in the specific historical context of 7th-century Arabia, against the baseline of that world — was more structurally precise and more coherent than its contemporaries, and that those articulations retain analytical power in our own time.
 * It does not claim that Islamic civilization has consistently lived up to these principles. The evidence that it has often failed to do so is present throughout the book. The argument is about the blueprint, not the buildings.
 * It does not claim that Zayd, Harjinder Singh are historical individuals. These are composite figures drawn from documented patterns in historical and journalistic accounts — assembled to give human scale to systemic mechanisms. Their composite nature is acknowledged where they appear in the text.
-* It does not claim to resolve all of the interpretive disputes in Islamic jurisprudence regarding women, leadership, or violence. Those disputes are real, ongoing, and important. What it claims is that the Prophet's ﷺ own conduct — preserved in authenticated sources and examined honestly — provides the most reliable commentary on his own words, and that commentary points consistently in the direction the book describes.
+* It does not claim to resolve all of the interpretive disputes in Islamic jurisprudence regarding women, leadership, or violence. ==Those disputes are real, ongoing, and important.== What it claims is that the Prophet's ﷺ own conduct — preserved in authenticated sources and examined honestly — provides the most reliable commentary on his own words, and that commentary points consistently in the direction the book describes.
 
 #### A Note on Transliteration
 Arabic terms are transliterated throughout using a simplified system designed for readability rather than academic precision. Diacritical marks are used only in the Glossary (Appendix B), where precision matters. In the main text, familiar terms follow common English usage (Quran, hadith, Hajj) while less familiar terms use a simplified romanization without diacritics. The Arabic script for every term appears in the Glossary.
