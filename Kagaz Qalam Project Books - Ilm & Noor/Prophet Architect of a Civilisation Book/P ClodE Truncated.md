@@ -175,7 +175,7 @@ I have tried, in writing this book, to follow a single discipline: go back to th
 
 A note on usage: throughout this book, the Prophet's name is followed by the symbol ﷺ, a traditional Islamic honorific, rendered in Arabic calligraphy meaning "peace and blessings be upon him." Non-Muslim readers may read past it without loss of meaning.
 
-==I am not a theologian.== I am not an authority to parse the finer points of classical Arabic grammar or adjudicate between the interpretive schools that have debated this material for a thousand years. Instead, what I do is read carefully, follow an argument where it leads, and ask the questions that a skeptical reader — the only kind worth writing for — will ask when they encounter a claim this large.
+I am not an acclaimed scholar of theology. I am not an authority to parse the finer points of classical Arabic grammar or adjudicate between the interpretive schools that have debated this material for a thousand years. Instead, what I do is read carefully, follow an argument where it leads, and ask the questions that a skeptical reader — the only kind worth writing for — will ask when they encounter a claim this large.
 
 I should say what I brought to this text. I was raised inside this tradition. The gap between its best moments and its worst ones is not, for me, an academic question. What surprised me — working through the sermon closely, following the biographical evidence with as little filtration as I could manage — was not that it contained good ideas. I expected that. What surprised me was the specific character of the good ideas: how structural they were, how unsentimental, how much they resembled the conclusions of a man who had been burned by the exact problems he was diagnosing. A man who preached the sanctity of life had known people he loved be killed for beliefs he had given them. A man who abolished riba had spent three years unable to feed his family because the economic system had been weaponized against him. A man who declared that character superseded lineage had grown up an orphan in a world that valued lineage above all else. The principles were not theories. They were conclusions extracted from personal experience of failure — specific, dated, documented failure. I found that difficult to dismiss. I think you will too.
 
@@ -185,7 +185,7 @@ The man who delivered this address was sixty-three years old and would be depart
 
 He was not a king speaking from a high tower, not a theorist at a safe distance, but a man who lived everything he later proclaimed — who had felt what hunger does to a person's dignity, who had known people he loved be killed for beliefs he had given them and carried the pain of their loss, who knew from the inside what it meant to be vulnerable in a world organized around the exploitation of vulnerability.
 
-The principles laid out in the final sermon were not theories conceived in comfort. They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him ==~~only~~== if the people who heard them decided to live them too.
+The principles laid out in the final sermon were not theories conceived in comfort. They were conclusions extracted from a life spent in the exact conditions the sermon describes — and delivered on a hillside with the knowledge that they would outlast him only if the people who heard them decided to live them too.
 
 Read the sermon from this angle and it changes. The man at Arafat was not only announcing what humanity should do. He was reporting what he had already done — compressing into language a life that had already been the proof. The Conquest of Mecca had already demonstrated the principle of inviolable sanctity before the sermon named it. The boycott years had already demonstrated what predatory economics costs a human body. The Black Stone arbitration had already demonstrated that a reputation for integrity was worth more than any lineage. Khadijah had already demonstrated that a woman's recognition could be the foundation on which everything else rested. The title Al-Amin had already demonstrated that character could be built, transaction by transaction, into the fabric of a marketplace.
 
@@ -621,8 +621,6 @@ _Al-Amin._
 
 ---
 
-==Khadijah recognized something that her society's entire value system was designed to obscure. Her society said: evaluate a man by his lineage, his clan, his connections, the name his father left him. She evaluated the young agent from the minor clan of the Quraysh by what he did with the goods entrusted to him, alone, in a market far from home, when no one who mattered was watching. She found him more valuable than any man of better birth she had considered. The name for what she recognized — character — was not a recognized unit of account in the 7th-century world she lived in. The sermon the young agent would later deliver from a hillside at Arafat spent considerable time trying to make it one.==
-
 The security guard's eyes move to you when you enter. Not to the person behind you, who arrived the same way. To you. He has not spoken, has not moved from his station, may not even be aware of what his eyes did. The judgment was made before you crossed the threshold. It was made, probably, before you were born.
 
 This is not a single event. It is every room you have ever entered. The question asked with genuine curiosity at a dinner party — "But where are you _really_ from?" — as though the answer already given was insufficient, as though belonging requires a different kind of documentation for some people than for others. The surprise, barely concealed, when you speak with authority on a subject the room had not assigned to your category.
@@ -639,7 +637,7 @@ In the Sassanian Persian Empire, society was organized into four categories — 
 
 In Rome, the organizing principle was citizenship — the sharp line between those who were fully human in the legal sense and those who were not. The peoples beyond the frontier were "barbarians": whose languages sounded like noise rather than speech, whose worth as human beings was a function of how useful they could be to those who had conquered them.
 
-In the Indian subcontinent — in the world that is, ~~for many of this book's readers,~~ not ancient history but living inheritance — the Varna system had organized human worth into a hierarchy of ritual purity that made the Persian and Roman versions look flexible. The Brahmin at the apex, the Dalit beneath the system entirely. Not a division of labor, as its defenders have claimed. A division of worth. The Dalit child did not enter the world and then become untouchable through some failure of character or conduct. She arrived untouchable. Her mother was untouchable. Her grandmother was untouchable. The hierarchy reproduced itself through birth, which meant it reproduced itself perfectly, generation after generation, without requiring any individual act of cruelty. The structure always does the work.
+In the Indian subcontinent — in the world that is, not ancient history but living inheritance — the Varna system had organized human worth into a hierarchy of ritual purity that made the Persian and Roman versions look flexible. The Brahmin at the apex, the Dalit beneath the system entirely. Not a division of labor, as its defenders have claimed. A division of worth. The Dalit child did not enter the world and then become untouchable through some failure of character or conduct. She arrived untouchable. Her mother was untouchable. Her grandmother was untouchable. The hierarchy reproduced itself through birth, which meant it reproduced itself perfectly, generation after generation, without requiring any individual act of cruelty. The structure always does the work.
 
 This was not a local failure. Every sophisticated civilization of the 7th century had answered the question of human hierarchy — and answered it the same way. Sassanian Persia had a theology of caste: your category was written into your soul before birth, immovable, divine. Rome distinguished citizen from barbarian with a legal clarity that turned human difference into property. Confucian social order located every person within a hierarchy of relationships — father over son, ruler over subject — and treated the maintenance of that hierarchy as the foundation of morality itself. The sermon's audience was part of this world. They had not invented tribalism or hierarchy; they had inherited a version of the universal human answer to the question of how to organize worth. What the sermon did was not reform that answer. It demolished the question.
 
@@ -689,7 +687,7 @@ And then: _except by taqwa._
 
 Often translated as piety or God-consciousness, _taqwa_ is better understood as ethical consciousness — the internal moral compass, the discipline that governs behavior when no one is watching, character in its most practical and demanding form. The declaration replaces the aristocracy of blood with a meritocracy of character. Not a meritocracy of talent or intelligence — these can still be advantages of birth disguised as personal achievement. A meritocracy of character is the only one genuinely available to everyone. You cannot choose your lineage. You can choose, every day, what your _taqwa_ is.
 
-~~==The sermon's dismantling of racial hierarchy was the enforcement of a constitutional principle laid down in the Quranic text itself: 'O mankind, We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of God is the most righteous of you' (49:13). Notice the sociological precision of the phrasing. It does not demand the erasure of tribes or nations; it acknowledges human diversity as a mechanism for mutual discovery ('that you may know one another'). But it explicitly strips that diversity of any hierarchical value. The tribe is a coordinate on a map, not a measure of worth.==~~
+==The sermon's dismantling of racial hierarchy was the enforcement of a constitutional principle laid down in the Quranic text itself: 'O mankind, We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of God is the most righteous of you' (49:13). Notice the sociological precision of the phrasing. It does not demand the erasure of tribes or nations; it acknowledges human diversity as a mechanism for mutual discovery ('that you may know one another'). But it explicitly strips that diversity of any hierarchical value. The tribe is a coordinate on a map, not a measure of worth.==
 
 Abu Dharr al-Ghifari was among the first to enter Islam, among the most ascetic of the Companions, and among those the Prophet ﷺ spoke of with the deepest personal affection. He had given up comfort, security, and the ease of the tribal world without reservation. He was, by the faith's own accounting, one of its finest.
 
@@ -725,7 +723,7 @@ That convergence is what this book is about. Not the triumph of one tradition. T
 
 The proof of principle was not only personal. It became institutional. The founding document of the first Muslim polity — the Constitution of Medina, drafted in approximately 622 CE — was itself a structural enactment of the sermon's principle. It created a single community, the Ummah, from Arab tribes that had been killing each other for generations and from the Jewish clans of the city. Its definition of membership was not blood, not ancestry, not Arab descent. It was a shared covenant: mutual defense, mutual obligation, the rule of law applied without distinction of origin. A Medinan Jew and a Meccan refugee held the same standing before it. Citizenship, in this document, was contractual rather than genealogical. This is what it looks like when the meritocracy of character becomes a legal structure rather than a personal aspiration.
 
-<font color="#c0504d">The non-Muslim communities who lived under the early application of this principle left records. They are not uniformly positive — conquest is conquest, and the chronicles of subjugated peoples carry that weight honestly. But specific to this principle — that legal standing before the administration was not determined by religious identity — John of Nikiu, a Coptic bishop writing in the 7th century, recorded that many among his community found a single legal standard applied across religious groups preferable to what the Byzantine administration had offered. The principle was imperfectly applied. Its application, even imperfectly, was noticed and recorded by those on the receiving end.</font>
+The non-Muslim communities who lived under the early application of this principle left records. They are not uniformly positive — conquest is conquest, and the chronicles of subjugated peoples can carry that weight honestly. But specific to this principle — that legal standing before the administration was not determined by religious identity — John of Nikiu, a Coptic bishop writing in the 7th century, recorded that many among his community found a single legal standard applied across religious groups preferable to what the Byzantine administration had offered. The principle was imperfectly applied. Its application, even imperfectly, was noticed and recorded by those on the receiving end.
 
 The gap between the principle and its application opened within living memory of the sermon.
 
@@ -858,9 +856,9 @@ The world it arrived in had not ignored the question of women's status — it ha
 
 The Prophet ﷺ was forty years old. He had been retreating to the Cave of Hira above Mecca for years — seeking in the solitude of the mountain answers to questions the city's commerce and tribal politics could not provide. On one of these retreats, in the month of Ramadan, the weight of the Divine descended upon him.
 
-The experience was not gentle. He was embraced — pressed, squeezed — ==with a force he described as feeling close to death==. A command came: _Iqra_ — Read. He replied, “I do not read." The embrace came again, tighter. The command again. Three times this sequence, until the first words of what would become the Quran came through him, and the presence withdrew.
+The experience was not gentle. He was embraced — pressed, squeezed — with an intensity beyond ordinary human experience. A command came: _Iqra_ — Read. He replied, “I do not read." The embrace came again, tighter. The command again. Three times this sequence, until the first words of what would become the Quran came through him, and the presence withdrew.
 
-==He descended from the mountain in a state of complete human terror==. Not the calm of a man who had been to a high place and seen something and returned transformed. The trembling of a man who did not know what had happened to him, ==who feared for his sanity==, who needed — immediately and with the urgency of someone in genuine crisis — another human being.
+He descended carrying the gravity of what he had experienced. Not the calm of a man who had been to a high place and seen something and returned transformed. The trembling of a man who did not know what had happened to him, deeply unsettled by what had just occurred, who needed — immediately and with the urgency of someone in genuine crisis — another human being.
 
 He went to Khadijah.
 
@@ -872,9 +870,9 @@ What she gave him then was not comfort. It was evidence. She had known this man 
 
 _"By God, God will never disgrace you. You uphold the ties of kinship. You speak the truth. You support the destitute. You assist those in need."_
 
-She was making a logical argument from the data of his character to the conclusion that whatever had come to him could not be evil, because evil does not select vessels of this quality. ~~==She was, his first theologian==~~ — and she brought him to her cousin Waraqa ibn Nawfal, a scholar of the earlier scriptures, who confirmed what she had already understood: that what had descended on Muhammad was the same revelation that had come to Moses.
+She was making a logical argument from the data of his character to the conclusion that whatever had come to him could not be evil, because evil does not select vessels of this quality. She was the first to affirm and reassure him with wisdom and conviction — and she brought him to her cousin Waraqa ibn Nawfal, a scholar of the earlier scriptures, who confirmed what she had already understood: that what had descended on Muhammad was the same revelation that had come to Moses.
 
-The first Muslim was a woman. The first person to recognize the prophethood was not a warrior or a scholar or a chief. She was a businesswoman who had proposed marriage to a man fifteen years her junior because she had recognized what he was. ==In his moment of greatest vulnerability==, she had been the foundation on which the entire mission was able to stand.
+The first Muslim was a woman. The first person to recognize the prophethood was not a warrior or a scholar or a chief. She was a businesswoman who had proposed marriage to a man fifteen years her junior because she had recognized what he was. In the earliest and most weighty moments of revelation, she had been the foundation on which the entire mission was able to stand.
 
 ---
 
@@ -919,8 +917,6 @@ The _Mahr_ — the gift from groom to bride — had existed before Islam as a br
 In a world without wages, without independent economic mechanisms of any kind, the _Mahr_ was the first legal instrument through which a woman could hold capital in her own name. This was not symbolic. It was the architectural foundation of female economic personhood — the beginning of a legal self that belonged to her rather than to the men around her.
 
 Inheritance followed the same logic. Before Islam, a woman in Arabia could not inherit — she was herself inheritable, passed along with other assets when her husband died. The Quranic legislation established fixed, mandatory shares for daughters, wives, and mothers. In a world where women had inherited nothing — where they were themselves the inheritance — the establishment of any fixed, legally protected, non-negotiable share was not a concession. It was a revolution. The ratios existed within a system in which men bore the full financial obligation of the family — a woman's inheritance was hers entirely, while a son's was partly obligated toward the maintenance of every female relative in his care. The logic was equity within a specific socioeconomic structure. It was not the final word on every structure that would follow. It was the first word spoken in a world that had previously said nothing.
-
-
 
 Khawla bint Tha'laba's husband had pronounced a form of pre-Islamic abandonment called _zihar_ — a formula by which a man told his wife "you are to me as my mother's back." The declaration simultaneously ended the marriage and denied her the right to leave it. She could not remarry. She could not resume her life as his wife. She was suspended in a legal void of his creation — unable to go forward and forbidden to go back. The practice was ancient, accepted, and designed for the husband's convenience at the wife's permanent expense.
 
@@ -1090,9 +1086,9 @@ The covenant of trust — the woman as Amanah rather than property, as agent rat
 
 The sermon delivered a direction, not a completed building, and the work of moving in that direction belongs to every generation that inherits it.
 
-The principles are fixed: a woman is a trust, not a property. ~~Her economic independence is a right, not a concession.~~ Her consent is structural, not optional. Her counsel is real, not decorative. Her intellectual and spiritual authority is to be celebrated, not managed.
+The principles are fixed: a woman is a trust, not a property. Her financial rights and ownership are recognized and protected within the framework of the faith. Her consent is structural, not optional. Her counsel is real, not decorative. Her intellectual and spiritual authority is to be celebrated, not managed.
 
-The specific applications of these principles — what they demand in a 21st century marriage, in an economy where women earn and own and bear economic responsibility alongside men, in a world whose socioeconomic structures bear no resemblance to 7th century Arabia — are the work of each generation. ==The sermon does not answer every question the future will ask.== It establishes the orientation from which every answer must be reached.
+The specific applications of these principles — what they demand in a 21st century marriage, in an economy where women earn and own and bear economic responsibility alongside men, in a world whose socioeconomic structures bear no resemblance to 7th century Arabia — are the work of each generation. The sermon does not answer every question the future will ask. It establishes the orientation from which every answer must be reached.
 
 The question it leaves is not historical. It is not about what was done in Arabia fourteen centuries ago or what is done in any other country today.
 
@@ -1328,7 +1324,7 @@ He chose, in that moment, to be audited.
 
 The mosque was very quiet.
 
-Not because he had reason to fear the examination — his ledger was clear and he already knew it was clear. He chose to be audited publicly, ==at the moment of his greatest earthly vulnerability,== because _Amanah_ — the conviction that you hold everything in trust and are accountable for how you hold it — did not create an exemption for the person who had proclaimed it. The principle applied to him first. It always had. From the stalls of Busra where he had disclosed a defect in a bolt of cloth, to the ground before the Kaaba where he had spread a cloak and invited every clan to share the honor, to the gates of Mecca where he had cancelled the blood debt of his own family, to this mosque in Medina where he paid three dirhams to a man who had stood in a crowd of the devoted to make a small claim — the quality had been the same, practiced without exception across the full range of what a human life contains.
+Not because he had reason to fear the examination — his ledger was clear and he already knew it was clear. He chose to be audited publicly, in the final and most delicate period of his earthly life & mission, because _Amanah_ — the conviction that you hold everything in trust and are accountable for how you hold it — did not create an exemption for the person who had proclaimed it. The principle applied to him first. It always had. From the stalls of Busra where he had disclosed a defect in a bolt of cloth, to the ground before the Kaaba where he had spread a cloak and invited every clan to share the honor, to the gates of Mecca where he had cancelled the blood debt of his own family, to this mosque in Medina where he paid three dirhams to a man who had stood in a crowd of the devoted to make a small claim — the quality had been the same, practiced without exception across the full range of what a human life contains.
 
 He cleared the ledger publicly so that no one who witnessed it could ever say that the standard was preached from above and practiced below. So that no one could say that _Amanah_ was a principle for ordinary people in ordinary circumstances, not for the person at the center of the entire enterprise.
 
@@ -1370,7 +1366,7 @@ The question it leaves is not whether you find the blueprint compelling.
 
 The question is what your life, quietly and in private and when no one is watching, transmits.
 
-> *==The architecture is only as strong as the person standing inside it. The audit begins here==*
+> **The architecture is only as strong as the person standing inside it. The audit begins here**
 > 
 > **The Mirror:** Where are your rounding errors? In what small area of your professional or personal life have you convinced yourself that a minor dishonesty is justified because "the system is rigged," or "everyone does it," or "no one will get hurt"?  
 > **The Test:** If every private message you sent this week, and every small financial transaction you made this month, were audited and published tomorrow, what is the first thing you would scramble to delete or explain? That panic is the tiger.  
@@ -1398,19 +1394,17 @@ They are moving outward through the human chain of the _muballighun_, passed fro
 
 What was said in that valley was not a prayer. It was a transcript — a man reporting, in the last year of his life, conclusions he had spent sixty-three years earning.
 
-He had ==watched== a woman die in a public square because no one of consequence would intervene, and he had understood, through twenty years of building in the aftermath of that morning, that a life only becomes inviolable when its worth is fixed beyond the reach of any tribe's calculation. Not some lives. Every life. The principle does not degrade at the edges.
+He had witnessed a woman die in a public square because no one of consequence would intervene, and he had understood, through twenty years of building in the aftermath of that morning, that a life only becomes inviolable when its worth is fixed beyond the reach of any tribe's calculation. Not some lives. Every life. The principle does not degrade at the edges.
 
 He had tied stones to an empty stomach in a siege valley, and had understood from the inside what predatory economics does to the mind before it does anything to the body. The prohibition of riba was not a moral preference. It was the conclusion of a man who had felt what it extracts from human dignity before it extracts anything from a bank account.
 
 He had grown up an orphan in a lineage-obsessed society, had watched lesser men with nobler connections be treated as greater men, and had built a civilization expressly designed to make the one thing you cannot choose — your birth — the one thing that determines nothing about your worth.
 
-He had been held, ==shaking==, by the first person who recognized him, and had understood for the rest of his life what it meant that a relationship could be built on recognition rather than transaction. The covenant of partnership was not an aspiration. It was a description of what he had already lived.
+He had been held, profoundly affected by the revelation, by the first person who recognized him, and had understood for the rest of his life what it meant that a relationship could be built on recognition rather than transaction. The covenant of partnership was not an aspiration. It was a description of what he had already lived.
 
 And beneath all of it, the discipline that made every other principle sustainable: the conviction that the small things are the only things that matter, because the large failures always begin there.
 
-==Five arguments. One vision: a world in which the radius of trust extends to the stranger, the debtor, the outsider, the person across the table whose worth you have not yet decided. This is what was spoken on that hillside in the year 632 CE.==
-
-==Five principles. One vision: a society in which trust is not a luxury available to the powerful but the foundational condition of ordinary life — in which the stranger and the neighbor and the person across the table operate from the assumption that the other is not a threat to be managed but a soul to be honored.==
+Five principles. One vision: a society in which trust is not a luxury available to the powerful but the foundational condition of ordinary life — in which the stranger and the neighbor and the person across the table operate from the assumption that the other is not a threat to be managed but a soul to be honored.
 
 This is what was spoken on that hillside in the year 632 CE. It was not spoken only for the people standing there, but it was spoken for everyone who would come after them — including, fourteen centuries later, whoever is holding this book.
 
@@ -1446,7 +1440,7 @@ It is the image of a Misogynist — a man who locked women away, who wrote their
 
 It is the image of an Intolerant Zealot — a man whose followers will not permit a word of criticism, who responds to questions with rage, who demands submission rather than inviting understanding.
 
-This shadow falls across the portrait the preceding chapters have assembled, and the contrast is so absolute that one of these two images must be wrong. They cannot both be the same man. The Warlord and the man who said "Go, you are free" to the people who had murdered his companions cannot occupy the same body. The Misogynist and the man who cradled the terrified, who sought the spot on the cup where her lips had been, who followed Umm Salama's counsel ==without qualification== — these are not two portraits of the same person with different emphasis. They are irreconcilable.
+This shadow falls across the portrait the preceding chapters have assembled, and the contrast is so absolute that one of these two images must be wrong. They cannot both be the same man. The Warlord and the man who said "Go, you are free" to the people who had murdered his companions cannot occupy the same body. The Misogynist and the man who cradled the terrified, who sought the spot on the cup where her lips had been, who followed Umm Salama's counsel with complete trust and regard for her judgement — these are not two portraits of the same person with different emphasis. They are irreconcilable.
 
 The calm observer, looking at both portraits, notes a strange thing: the shadow is always simple. It has no texture, no contradiction, no cost. It does not grapple with the fact that the man it depicts also said things the Warlord would never say, did things the Misogynist would never do, chose things the Intolerant Zealot would never choose. The shadow does not explain the Conquest of Mecca. It does not explain Bilal on the Kaaba. It does not explain the three dirhams paid in a mosque three months before death. The shadow is not a portrait. It is a projection — the shape of a fear cast on a wall, mistaken for the thing that made it.
 
@@ -1464,13 +1458,13 @@ Is it more plausible that a man who named women as a sacred trust from God — w
 
 Is it more plausible that a man who died with his shield pledged to a creditor for food, who paid three dirhams publicly in a mosque because he preferred a small accountability in this world to carrying a debt into the next, was a tyrant seeking dominion?
 
-A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. History is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles ==~~(Thomas Jefferson wrote that all men are created equal while enslaving over 600 people!)~~== — who meant what they said in the moment of saying it and found that the cost of living it was higher than anticipated. The distance between proclamation and practice is not always simple hypocrisy. Sometimes it is the ordinary gap between what humans aspire to and what they manage. Why should this man be different? 
+A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. History is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles, Thomas Jefferson espoused liberty while personally maintaining a system of enslavement — who meant what they said in the moment of saying it and found that the cost of living it was higher than anticipated. The distance between proclamation and practice is not always simple hypocrisy. Sometimes it is the ordinary gap between what humans aspire to and what they manage. Why should this man be different? 
 
 The answer is not that he was perfect. The answer is in the ledger of the specific actions taken at the highest stakes. Thomas Jefferson did not free his enslaved people when he had the power to do so. The man on the hillside at Arafat, at the moment of maximum power and minimum accountability, freed the people who had enslaved and murdered his followers and waived his own family's financial claims. The difference is not between a flawed man and a perfect one. It is between a man whose actions ran with his principles and a man whose actions ran against them.
 
 The Caricature is not merely morally ugly. It is logically incoherent. It requires us to believe that the man's final, most solemn, most public statement of everything he had learned and built and stood for was a performance — that the hundred thousand witnesses were deceived, that the principles were invented for the occasion, that the life which produced the sermon was disconnected from the sermon it produced. It requires us to ignore not one or two inconvenient facts but the entire weight of the evidence, and to replace that evidence with a shadow that has never had to answer for itself.
 
-==A skeptic will rightly point out that human history is filled with men who wrote beautiful declarations of equality while living brutal, contradictory lives. The Founding Fathers of America wrote that all men are created equal while holding hundreds of enslaved people in bondage. Why should this man be any different? The difference lies in the ledger of his actual conduct. The proof is not the beauty of the sermon; the proof is the payment of the three dirhams. The proof is the emancipation of Bilal. The proof is the amnesty at Mecca. He did not merely proclaim the architecture from the safety of a high tower. He lived inside the daily friction of its enforcement.==
+A skeptic will rightly point out that human history is filled with men who wrote beautiful declarations of equality while living brutal, contradictory lives. The Founding Fathers of America wrote that all men are created equal while holding hundreds of enslaved people in bondage. Why should this man be any different? The difference lies in the ledger of his actual conduct. The proof is not the beauty of the sermon; the proof is the payment of the three dirhams. The proof is the emancipation of Bilal. The proof is the amnesty at Mecca. He did not merely proclaim the architecture from the safety of a high tower. He lived inside the daily friction of its enforcement.
 
 This book has not sought to convert anyone to a faith. It has sought to do something more modest and more urgent: to present the blueprint as it actually exists, cleared of the centuries of distortion that have accumulated over it, and to ask whether the evidence supports the portrait or the caricature.
 
@@ -1498,8 +1492,7 @@ A high-trust society — a world in which the sanctity of every life is real rat
 
 The Architect drew the plan. He demonstrated it in his own life before he proclaimed it on a hillside. He left it in the hands of everyone who heard it, and everyone who would hear it afterward.
 
-~~==The hill stands empty in the declining light. The words are still traveling.~~==
-==~~The blueprint is unrolled. The question it leaves is not simply what you will do in the privacy of your own life, but what kind of world you will demand, what kind of systems you will tolerate, and what kind of architecture you are willing to build. The hill stands empty in the declining light. The words are still traveling. The tools are in your hands.==~~
+The hill stands empty in the declining light. The words are still traveling.
 
 ---
 ---
@@ -1634,7 +1627,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 **Daraba / Wadribuhunna** (واضربوهن, *wāḍribūhunna*)
 *   ***Conceptual Translation:*** *The Contested Word*
-*   ***Definition:*** The Arabic word in Quran 4:34 that has been translated as "strike them" ==and used across centuries to license domestic violence==. The word daraba has a semantic range that includes: to travel, to set an example, to separate, to tap lightly. Classical exegete al-Tabari recorded interpretations as early as the 9th century that understood the command as symbolic at most. The definitive commentary is the Prophet's ﷺ own practice, recorded by Aisha in Sahih Muslim: he never struck a woman or a servant.
+*   ***Definition:*** The Arabic word in Quran 4:34 that has been translated as "strike them." The word daraba has a semantic range that includes: to travel, to set an example, to separate, to tap lightly. Classical exegete al-Tabari recorded interpretations as early as the 9th century that understood the command as symbolic at most. The definitive commentary is the Prophet's ﷺ own practice, recorded by Aisha in Sahih Muslim: he never struck a woman or a servant.
 
 **Fiqh** (فقه, *fiqh*)
 *   ***Conceptual Translation:*** *Islamic Jurisprudence*
@@ -1726,7 +1719,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Khadijah bint Khuwaylid**
 *   **Lived:** c. 555–619 CE
 *   **Role:** First Wife of the Prophet ﷺ; First Muslim
-*   **Biography:** A successful merchant widow of Mecca who hired the young Muhammad ﷺ to manage her trading caravans, then proposed marriage to him — an act of remarkable agency in a patriarchal society. She was the first person to accept Islam, providing the Prophet ﷺ with his initial validation and support. She died three years before the Hijra. The Prophet ﷺ spoke of her with deep love throughout his life ~~==and did not take a second wife while she lived==~~. Her role in Chapter 4 is central: she is the first proof of concept for the "trust not property" principle.
+*   **Biography:** A successful merchant widow of Mecca who hired the young Muhammad ﷺ to manage her trading caravans, then proposed marriage to him — an act of remarkable agency in a patriarchal society. She was the first person to accept Islam, providing the Prophet ﷺ with his initial validation and support. She died three years before the Hijra. The Prophet ﷺ spoke of her with deep love throughout his life. Her role in Chapter 4 is central: she is the first proof of concept for the "trust not property" principle.
 
 **Aisha bint Abi Bakr**
 *   **Lived:** c. 613–678 CE
@@ -1756,7 +1749,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Abu Jahl (Amr ibn Hisham)**
 *   **Lived:** d. 624 CE
 *   **Role:** Meccan Chieftain; Antagonist of the Early Muslims
-*   **Biography:** One of the most powerful and implacable enemies of the early Muslim community in Mecca. His opposition to Islam was not primarily theological but social: the new faith threatened the lineage-based hierarchy that underwrote his prestige and authority. He organized the economic boycott of the Banu Hashim clan and personally supervised the torture of enslaved Muslim converts, including the family of Yasir. He was killed at the Battle of Badr (624 CE). ==The name "Abu Jahl" (Father of Ignorance) was given by the Muslim community; his birth name was Amr ibn Hisham.==
+*   **Biography:** One of the most powerful and implacable enemies of the early Muslim community in Mecca. His opposition to Islam was not primarily theological but social: the new faith threatened the lineage-based hierarchy that underwrote his prestige and authority. He organized the economic boycott of the Banu Hashim clan and personally supervised the torture of enslaved Muslim converts, including the family of Yasir. He was killed at the Battle of Badr (624 CE).
 
 **Abbas ibn Abd al-Muttalib**
 *   **Lived:** c. 566–653 CE
@@ -1771,7 +1764,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Abu Bakr al-Siddiq**
 *   **Lived:** c. 573–634 CE
 *   **Role:** Closest Companion of the Prophet ﷺ; First Caliph
-*   **Biography:** The Prophet's ﷺ closest friend and father-in-law (father of Aisha). He was the first adult free male to accept Islam. He purchased and freed enslaved Muslims, including Bilal. On the day of the Prophet's ﷺ death, ==when Umar was declaring that the Prophet ﷺ had not died,== Abu Bakr delivered the address that saved the community from collapsing into a cult of personality: "Whoever worshipped Muhammad — Muhammad is dead. Whoever worshipped God — God is alive and never dies." This is the moment that saved the community from collapsing into a cult of personality, proving that the architecture was designed to outlast the Architect.
+*   **Biography:** The Prophet's ﷺ closest friend and father-in-law (father of Aisha). He was the first adult free male to accept Islam. He purchased and freed enslaved Muslims, including Bilal. On the day of the Prophet's ﷺ death, when ʿUmar ibn al-Khaṭṭāb was overcome by grief and initially expressed disbelief at the Prophet’s ﷺ passing, Abu Bakr delivered the address that saved the community from collapsing into a cult of personality: "Whoever worshipped Muhammad — Muhammad is dead. Whoever worshipped God — God is alive and never dies." This is the moment that saved the community from collapsing into a cult of personality, proving that the architecture was designed to outlast the Architect.
 
 **Ibn Ishaq (Muhammad ibn Ishaq ibn Yasar)**
 *   **Lived:** c. 704–768 CE
@@ -1790,7 +1783,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 ### Appendix D: A Note on Sources and Methodology
 #### What This Book Is and Is Not
-This book is narrative non-fiction in the tradition of "smart thinking" popular history — it makes an analytical argument through story, biography, and evidence accessible to an educated general reader. It is not an academic text in Islamic studies. It does not engage with the full range of scholarly debate in hadith methodology, Quranic hermeneutics, or the history of Islamic legal thought. ~~==Readers who want that engagement will find suggestions in the Further Reading section below.==~~
+This book is narrative non-fiction in the tradition of "smart thinking" popular history — it makes an analytical argument through story, biography, and evidence accessible to an educated general reader. It is not an academic text in Islamic studies. It does not engage with the full range of scholarly debate in hadith methodology, Quranic hermeneutics, or the history of Islamic legal thought.
 
 What this book does claim is to be honest — to go back to the earliest sources, to read what was actually said, to acknowledge difficulty when it exists, and not to cherry-pick the convenient while hiding the hard. Whether it has succeeded is for the reader to judge.
 
@@ -1804,7 +1797,7 @@ The two most rigorously authenticated collections — Sahih al-Bukhari (compiled
 Additional narrations are drawn from Sunan Abi Dawud, Jami' at-Tirmidhi, Sunan ibn Majah, Musnad Ahmad, and the Muwatta' of Imam Malik. Where these are cited, they are distinguished from the two Sahihs by their collection name.
 
 ##### 3. The Seerah Literature
-For biographical narrative and historical context, the primary source is the Sirat Rasul Allah of Muhammad ibn Ishaq (c. 704–768 CE), preserved in the recension of Abd al-Malik ibn Hisham ~~==and translated into English by Alfred Guillaume as *The Life of Muhammad* (Oxford University Press, 1955)==~~. This is the earliest substantial biography of the Prophet ﷺ and the foundation of all subsequent Seerah writing.
+For biographical narrative and historical context, the primary source is the Sirat Rasul Allah of Muhammad ibn Ishaq (c. 704–768 CE), preserved in the recension of Abd al-Malik ibn Hisham. This is the earliest substantial biography of the Prophet ﷺ and the foundation of all subsequent Seerah writing.
 
 Martin Lings's *Muhammad: His Life Based on the Earliest Sources* (Islamic Texts Society, 1983) is used as a scholarly secondary reference that combines rigorous sourcing with narrative accessibility.
 
@@ -1828,7 +1821,7 @@ For the interpretation of contested verses (particularly Quran 4:34 on Qiwamah a
 * This book does not claim that the Prophet Muhammad ﷺ invented the concepts of social trust, gender equality, or racial justice. It claims that his articulation of these principles — in the specific historical context of 7th-century Arabia, against the baseline of that world — was more structurally precise and more coherent than its contemporaries, and that those articulations retain analytical power in our own time.
 * It does not claim that Islamic civilization has consistently lived up to these principles. The evidence that it has often failed to do so is present throughout the book. The argument is about the blueprint, not the buildings.
 * It does not claim that Zayd, Harjinder Singh are historical individuals. These are composite figures drawn from documented patterns in historical and journalistic accounts — assembled to give human scale to systemic mechanisms. Their composite nature is acknowledged where they appear in the text.
-* It does not claim to resolve all of the interpretive disputes in Islamic jurisprudence regarding women, leadership, or violence. ==Those disputes are real, ongoing, and important.== What it claims is that the Prophet's ﷺ own conduct — preserved in authenticated sources and examined honestly — provides the most reliable commentary on his own words, and that commentary points consistently in the direction the book describes.
+* It does not claim to resolve all of the interpretive disputes in Islamic jurisprudence regarding women, leadership, or violence. What it claims is that the Prophet's ﷺ own conduct — preserved in authenticated sources and examined honestly — provides the most reliable commentary on his own words, and that commentary points consistently in the direction the book describes.
 
 #### A Note on Transliteration
 Arabic terms are transliterated throughout using a simplified system designed for readability rather than academic precision. Diacritical marks are used only in the Glossary (Appendix B), where precision matters. In the main text, familiar terms follow common English usage (Quran, hadith, Hajj) while less familiar terms use a simplified romanization without diacritics. The Arabic script for every term appears in the Glossary.
