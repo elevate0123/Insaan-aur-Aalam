@@ -205,6 +205,8 @@ This book makes the analytical argument that the sermon's principles hold even f
 
 The Edelman Trust Barometer, which measures trust in institutions across dozens of countries annually, has consistently documented in its recent annual reports that a majority of people in most countries surveyed believe their governments, media, and major corporations are actively working against their interests rather than for them. More than half of respondents (61%) across twenty-eight countries agreed that "government leaders are purposely trying to mislead people." Trust in institutions has not declined gradually — it has collapsed, in most democracies, within a single generation. We are living through the social capital crisis the sermon diagnosed — and proposed, fourteen centuries ago, a coherent response to.
 
+---
+
 The chapters that follow move from the most public to the most private — from the question of how strangers treat each other in a world of tribes, to how merchants treat customers in a marketplace, to how a society assigns worth to the people born into it, to how two people hold each other in the most intimate arrangement human beings make. And then, finally, to the question that underlies all of them: what kind of person does it take to sustain any of this? The fifth chapter is last because without it, the other four are aspiration. With it, they are engineering. But the dependency runs in both directions: each of the preceding four chapters assumes the ones before it are accepted. You cannot build the moral economy without first fixing the value of a life. You cannot build a meritocracy of character when some characters are still legally invisible. You cannot build the covenant of partnership in a household that the society outside treats as property. The five principles are not five separate arguments. They are one argument, assembled in the only order that makes structural sense.
 
 The first chapter follows a single question: what does it actually take to make a human life inviolable — not theoretically protected but genuinely, practically safe from the logic that makes some lives expendable and others worth defending? The sermon's answer was structural, not sentimental. It redesigned the architecture of value itself, replacing a calculation that fluctuated with tribal power with something fixed — and then proved the principle by living its hardest consequence at the moment of greatest temptation.
@@ -504,6 +506,8 @@ Where _Zakat_ had gaps, _Qard Hasan_ filled them — the interest-free loan give
 
 Beneath both — the culture that made them possible — the Ansar Partnership. When the persecuted community arrived in Medina as refugees with nothing, the Prophet ﷺ paired each arriving family with a Medinan household. The Ansar shared their homes, their businesses, their land. Not as charity but as co-ownership in an integrated economy. The precedent established was that the strongest economy circulates prosperity rather than concentrating it — that the wealth of the community and the wealth of the individual are not in competition but the same thing expressed at different scales.
 
+---
+
 The alternative the sermon proposed was not the abolition of wealth or investment. It was the abolition of risk-free profit. The difference is everything. Under the partnerships the new system encouraged — the merchant who contributes capital to a trader's caravan, the landowner who shares the harvest with the farmer who works it — both parties stand to gain and both parties stand to lose. The incentive to care whether the venture succeeds is preserved because the skin of both parties is in the game. Riba breaks this structure entirely: the lender's return is guaranteed regardless of the borrower's outcome, which means the lender's incentive is not aligned with the borrower's success but indifferent to it. The sermon did not legislate against profit. It legislated against the specific structure that permits profit without risk — because that structure, wherever it takes root, will always find its way to the desk of a man in a stone house, listening with the same practiced sympathy to a farmer whose children are hungry — the same sympathy, the same stone house, the same calculation.
 
 For several centuries, the alternative system was built at scale, and what it produced is measurable.
@@ -750,6 +754,8 @@ One. One God.
 Now he climbed the Kaaba. He stood at the highest point of the holiest building in Arabia and opened his mouth. His voice went out over Mecca — over the men who had owned him, over the sand where they had pressed the stone against his chest, over everything the old world had built on the certainty that he was worth nothing.
 
 The meritocracy of character had arrived. Not as an idea proclaimed on a hillside. As a voice belonging to the man whose _taqwa_ had been tested in the only conditions that test it: not in comfort, not in safety, but in the moment when renunciation was the available exit and he had refused it.
+
+---
 
 Bilal's appointment proves what spiritual honor looked like when assigned by character rather than blood. A separate appointment, in the same period, proves what command authority looked like.
 
@@ -1430,6 +1436,9 @@ The blueprint survived the Architect. At least in this moment. At least enough t
 
 ---
 
+***the shadow***
+***the shadow***
+
 There is another image of this man.
 
 You know it. It is everywhere — on screens and in newspapers, in political speeches and internet comment sections, in the ambient noise of a world that has decided it already knows who he was and what he stood for.
@@ -1445,6 +1454,9 @@ This shadow falls across the portrait the preceding chapters have assembled, and
 The calm observer, looking at both portraits, notes a strange thing: the shadow is always simple. It has no texture, no contradiction, no cost. It does not grapple with the fact that the man it depicts also said things the Warlord would never say, did things the Misogynist would never do, chose things the Intolerant Zealot would never choose. The shadow does not explain the Conquest of Mecca. It does not explain Bilal on the Kaaba. It does not explain the three dirhams paid in a mosque three months before death. The shadow is not a portrait. It is a projection — the shape of a fear cast on a wall, mistaken for the thing that made it.
 
 ---
+
+***the verdict***
+***the verdict***
 
 Reason demands a verdict.
 
@@ -1479,6 +1491,9 @@ The verdict belongs to you. It always did.
 There is one more thing to say, and it requires honesty. This book has argued that the sermon's principles are analytically valuable regardless of whether you share the faith of the man who delivered them. That is true, and this book stands by it. But it is not the whole truth. The sermon worked — where it worked — not only because the principles were structurally sound, but also because the people who received them believed, with absolute conviction, that they would one day answer for how they had lived them. The eschatological engine is not incidental. It is what turned a set of principles into a practice, across fourteen centuries and a thousand cultural contexts. A reader who does not share that conviction is not therefore excluded from the argument. But they should know what they are inheriting — a blueprint designed to be held by people who understood themselves as accountable to something beyond any human audit. What you do with that knowledge is, like everything else in this book, left to you.
 
 ---
+
+***the warning***
+***the warning***
 
 The hill is empty now.
 

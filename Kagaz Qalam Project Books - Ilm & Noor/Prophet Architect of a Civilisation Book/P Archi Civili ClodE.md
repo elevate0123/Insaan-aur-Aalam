@@ -6762,3 +6762,242 @@ Close the gap. Then submit.
 ---
 
 
+### PART TWO: THE MARGINALIA SYSTEM
+
+#### Design Specification
+
+**What these are:** Two-to-three word thematic anchors appearing in the outer page margin alongside the first line of each section (following each --- break). They are not subheadings. They do not appear centered on the page. They appear in the margin.
+
+**Visual specification for the typesetter:**
+
+- Position: Outer margin, aligned with first line of section
+- Font: Same typeface as body, or a paired condensed face, italic
+- Size: 7-8pt if body is 11pt (approximately 65-70% of body size)
+- Weight: Light weight if available, or regular italic — significantly visually subordinate to the body text
+- Capitalization: Lowercase throughout (clinical register — no caps signals annotation rather than heading)
+- Colour: If the book uses a second colour, these could appear in that colour at 60-70% opacity; otherwise, they should be in the same colour as the body text but at lower weight
+- They do NOT appear alongside the first section of each chapter (there is no break before section 1 — the chapter title serves that function)
+
+**What they must NOT be:**
+
+- Summaries ("The Prophet receives the first revelation")
+- Narrative labels ("Sumayyah's martyrdom")
+- Conventional section headers
+
+**What they ARE:** The kind of notation a doctor makes in a chart margin — spare, diagnostic, oblique. The word "oblique" is key: the marginalia should require a half-second of active interpretation. They name the function of the section, not its content.
+
+**The test for any marginalia candidate:** Could it serve as a section title in a conventional book? If yes, it's too descriptive. Good marginalia fails this test — it is too oblique to serve as a conventional title but too precise to be accidental.
+
+---
+
+#### Complete Marginalia Map
+
+Every marginalia entry follows the notation: **[break position] → _marginalia text_**
+
+---
+
+##### PROLOGUE
+
+_Section 1 (before any break — the opening section):_ No marginalia. The Prologue's first section is the book's entry point; marginalia here would break the cinematic immersion.
+
+**[Break 1] →** _the summons_
+
+**[Break 2] →** _the man_
+
+**[Break 3] →** _the ascent_
+
+**[Break 4] →** _the voice_
+
+---
+
+##### INTRODUCTION
+
+_Section 1 (opening — no marginalia):_ None. Let the question stand without annotation.
+
+**[Break 1] →** _the claim_
+
+**[Break 2] →** _the method_
+
+_(Break 3 is being removed — no marginalia needed here)_
+
+**[Break 3 (renumbered from Break 4 after removal of old Break 3)] →** _the credential_
+
+**[Break 4 (renumbered from Break 5)] →** _the engine_
+
+**[Break 5 (if added before roadmap)] →** _the structure_
+
+---
+
+##### CHAPTER ONE: _When Blood is the Only Currency_
+
+_Section 1 (Rwanda / inyenzi):_ No marginalia. Chapter opens.
+
+**[Break 1] →** _the mechanism_
+
+**[Break 2] →** _the repetition_
+
+**[Break 3] →** _the equation_
+
+**[Break 4] →** _the proof_
+
+**[Break 5] →** _the betrayal_
+
+**[Missing break before close — after kafala section] →** _the refusal_
+
+---
+
+##### CHAPTER TWO: _How Wealth Was Weaponized_
+
+_Section 1 (3am / the quiet form):_ No marginalia. Chapter opens.
+
+**[Break 1] →** _the door_
+
+**[Break 2] →** _the credential_
+
+**[Break 3] →** _the spiral_
+
+**[Break 4] →** _the repetition_
+
+_(Break 5 being removed — the "it now turns to the ledger" sentence connects directly to the sermon quote)_
+
+**[Break 5 (renumbered from old Break 6 — after Andhra Pradesh)] →** _the abolition_
+
+**[Break 6 — new, before Waqf section] →** _the building_
+
+**[Break 7 — new, after Waqf section, before Abbas] →** _the demonstration_
+
+**[Break 8 (after Abbas)] →** _the concession_
+
+---
+
+##### INTERLUDE I: _Al-Amin_
+
+_Section 1 (souk / Khadijah):_ No marginalia. Interlude opens.
+
+**[Break 1] →** _the commission_
+
+**[Break 2] →** _the journey_
+
+**[Break 3] →** _the recognition_
+
+---
+
+##### CHAPTER THREE: _Why Your Ancestors Don't Matter_
+
+_Section 1 (Khadijah bridge / "it is not a single event"):_ No marginalia. Chapter opens.
+
+**[Break 1] →** _the inheritance_
+
+**[Break 2] →** _the instrument_
+
+**[Break 3] →** _the declaration_
+
+**[Break 4] →** _the residue_
+
+**[Break 5] →** _the convergence_
+
+**[Break 6] →** _the institution_
+
+**[Break 7] →** _the correction_
+
+**[Break 8 — new, before Usamah] →** _the enforcement_
+
+**[Break 9 — new, before Umar/Copt] →** _the measure_
+
+---
+
+##### INTERLUDE II: _The Partner_
+
+_Section 1 (the wall / the cup):_ No marginalia. Interlude opens.
+
+**[Break 1] →** _the score_
+
+**[Break 2] →** _the equal_
+
+---
+
+##### CHAPTER FOUR: _Redefining the Human Partnership_
+
+_Section 1 (#MeToo opening):_ No marginalia. Chapter opens.
+
+**[Break 1] →** _the baseline_
+
+**[Break 2] →** _the accounting_
+
+**[Break 3] →** _the reframing_
+
+**[Break 4] →** _the architecture_
+
+**[Break 5] →** _the infrastructure_
+
+**[Break 6] →** _the counsel_
+
+**[Break 7] →** _the text_
+
+_(Three internal Friction breaks being removed — so no marginalia for those)_
+
+**[Break 8 (after compressed Friction section)] →** _the gap_
+
+**[Break 9 — confirm present before close] →** _the direction_
+
+---
+
+##### CHAPTER FIVE: _The Code for a Society That Works_
+
+_Section 1 (bridge / Satyam / Enron):_ No marginalia. Chapter opens.
+
+**[Break 1] →** _the reputation_
+
+**[Break 2] →** _the stewardship_
+
+**[Break 3] →** _the load-bearing wall_
+
+**[Break 4] →** _the audit_
+
+**[Break 5] →** _the transmission_
+
+---
+
+##### EPILOGUE: _The Architect and the Caricature_
+
+_Section 1 (sermon over / five principles / Abu Bakr):_ No marginalia. Epilogue opens.
+
+**[Break 1] →** _the shadow_
+
+**[Break 2] →** _the verdict_
+
+**[Break 3] →** _the warning_
+
+**[Break 4] →** _the responsibility_
+
+---
+
+#### Secondary Marginalia Function: The Diagnostic Spine
+
+When the marginalia are read in sequence, they should form a coherent diagnostic narrative. Here is the complete spine:
+
+**Prologue:** _the summons / the man / the ascent / the voice_
+
+**Introduction:** _the claim / the method / the credential / the engine / the structure_
+
+**Chapter 1:** _the mechanism / the repetition / the equation / the proof / the betrayal / the refusal_
+
+**Chapter 2:** _the door / the credential / the spiral / the repetition / the abolition / the building / the demonstration / the concession_
+
+**Interlude I:** _the commission / the journey / the recognition_
+
+**Chapter 3:** _the inheritance / the instrument / the declaration / the residue / the convergence / the institution / the correction / the enforcement / the measure_
+
+**Interlude II:** _the score / the equal_
+
+**Chapter 4:** _the baseline / the accounting / the reframing / the architecture / the infrastructure / the counsel / the text / the gap / the direction_
+
+**Chapter 5:** _the reputation / the stewardship / the load-bearing wall / the audit / the transmission_
+
+**Epilogue:** _the shadow / the verdict / the warning / the responsibility_
+
+The spine reads as a complete argument: the mechanism produces the repetition, which demands the equation, which requires the proof, which is betrayed, but the refusal persists. The door opens onto the spiral, which the abolition and the building answer. Recognition produces the enforcement and the measure. The counsel challenges the text, and the audit transmits. The shadow misreads the verdict. The warning is ignored. The responsibility remains.
+
+---
+---
+
