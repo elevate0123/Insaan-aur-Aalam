@@ -30,6 +30,8 @@ The lone hill at the center of the valley — _Jabal al-Rahmah_, the Mount of Me
 
 ---
 
+***the summons***
+
 Then the sun breaches the horizon and the world catches fire.
 
 Not gently. The light does not ease in — it arrives all at once, a fierce gold that consumes the grey and turns the white tents into blazing panels of brightness, the dust into something almost luminous. The Mount of Mercy catches the light on its granite face and for a moment seems to hold it there, a burning point above the valley.
@@ -56,6 +58,8 @@ They are, right now, indistinguishable.
 
 ---
 
+***the man***
+
 Then the rhythm of the crowd changes.
 
 A ripple begins near the edge of the encampment and moves inward — not a disturbance, not alarm, but the particular parting of a crowd that makes way for something it recognizes. The path opens not because anyone commands it but because the people on either side take a step back, and then the people behind them, until a clear lane runs through the sea of white.
@@ -80,6 +84,8 @@ Then they reach the base of _Jabal al-Rahmah_.
 
 ---
 
+***the ascent***
+
 He dismounts. His feet settle onto the warm stone of the hillside. For a moment he is simply a man standing at the bottom of a hill, and then he begins to climb.
 
 Every eye in the valley follows him.
@@ -103,6 +109,10 @@ He looks out over his people.
 Stationed throughout the crowd, at intervals carefully chosen, stand the _muballighun_ — the repeaters, the human chain of amplification. Their function is to receive his words and carry them outward to the edges of the gathering where no unaided voice could reach, passing them from man to man until the last person standing at the valley's rim hears what the man on the hill has said. They are leaning forward already, their whole bodies in the attitude of listening.
 
 The sun climbs. The heat settles over the valley like a hand. A hundred thousand people stand without moving, their breath the only sound, the stillness so complete it seems to have weight and texture.
+
+---
+
+***the voice***
 
 Then he speaks.
 
