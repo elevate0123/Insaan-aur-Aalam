@@ -7564,3 +7564,284 @@ The glossary in Appendix B is the single best piece of writing in either version
 ### The One Thing That Would Most Elevate Both Documents
 
 Fix Non-Negotiable 1 first — in both languages simultaneously. The Epilogue is where readers finish. It is what they quote, what they remember, what they tell others about. The current parallel-numbered structure turns the book's emotional culmination into a table of contents. The replacement text provided above turns it into something the reader feels rather than processes. Every other fix is important. This one is the difference between a good book and a memorable one.
+
+---
+---
+
+# Comprehensive Clinical Marginalia Audit: _The Architect_
+
+---
+
+## PART I: CRITICAL ASSESSMENT OF THE CURRENT SPINE
+
+Reading every marginalia word sequentially across the manuscript produces the diagnostic spine the book uses as its sub-visible argument. Before the table, the structural failures visible in the current draft:
+
+**Fatal Problem 1 — Direct Duplication:** `***the credential***` appears in both the Introduction (the Prophet's biographical authority) and Chapter 2 (the Boycott as his earned right to abolish riba). These are related concepts but distinct arguments. The duplication collapses the spine at precisely the moment Chapter 2 needs its own diagnostic weight.
+
+**Fatal Problem 2 — Direct Duplication:** `***the repetition***` appears in both Chapter 1 (Delhi 1984 as echo of Rwanda) and Chapter 2 (riba's persistence across centuries). Same word, different chapters, different arguments. Breaks the reader's subliminal tracking of the spine entirely.
+
+**Fatal Problem 3 — Missing Marginalia Confirmed:** The Prologue's four section breaks, the Introduction's sixth section, and the Epilogue's four section breaks are either absent from the draft or inconsistently present. These are the book's opening and closing registers — the most visible positions.
+
+**Problem 4 — Spine Incoherence at Chapter 2:** Chapter 2 is the book's most technically dense chapter and has the most section breaks. Several of those breaks likely lack marginalia, leaving the chapter's internal argument unanchored in the diagnostic system.
+
+**Problem 5 — Weak Closer in Chapter 4:** `***the direction***` is accurate but is the weakest close in the book. It names the sermon's function rather than performing it. This is the last word a reader encounters before the Interlude II footrace — it should land harder.
+
+**What works:** `***the refusal***` (Ch1), `***the spiral***` (Ch2), `***the convergence***` (Ch3), `***the counsel***` (Ch4), `***the load-bearing wall***` (Ch5), `***the verdict***` (Epilogue) — all function correctly as oblique diagnostic labels that require interpretation. The Prologue's four-word arc (summons / man / ascent / voice) is architecturally sound.
+
+**The spine rule being violated:** No word may appear twice across the entire manuscript. The marginalia form a closed vocabulary. Each word is used once, permanently, for one section only.
+
+---
+
+#left #todo #marginalia 
+## PART II: MASTER TABLE — ALL SECTION BREAKS AND CLINICAL MARGINALIA
+
+Format: The table gives you the exact ctrl+F search string for the first sentence of the section, the current marginalia (or MISSING), and the recommended marginalia with rationale.
+
+**How to use:** ctrl+F the "FIND ANCHOR" text. Immediately above it (after the `---` break line) you will either find existing marginalia to replace, or a blank to fill. Insert `***word***` on its own line between the `---` and the first sentence.
+
+---
+
+### PROLOGUE: _The Stillness Before Dawn_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|P1|`Then the sun breaches the horizon`|Missing / Unverified|`***the summons***`|The dawn and the Talbiyah summon the community into being|
+|P2|`Then the rhythm of the crowd changes.`|Missing / Unverified|`***the man***`|The crowd's parting reveals who he is by what the crowd does|
+|P3|`He dismounts.`|Missing / Unverified|`***the ascent***`|Physical and metaphysical movement — the hill, the deliberate climb|
+|P4|`Then he speaks.`|Missing / Unverified|`***the voice***`|The instrument — not the content yet, the fact of the human voice|
+
+**Spine contribution:** _the summons / the man / the ascent / the voice_ — arrival sequence. Cinematic, chronological, builds to the voice as the final instrument. Works.
+
+---
+
+### INTRODUCTION: _A Blueprint for a Broken World_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|I1|`The man who stood on that hillside had something to say about all of them.`|`***the claim***`|`***the claim***` ✓ KEEP|The book's premise stated as claim, not discovered|
+|I2|`I have tried, in writing this book, to follow a single discipline:`|`***the method***`|`***the method***` ✓ KEEP|What the author does, not what they believe|
+|I3|`The man who delivered this address was sixty-three years old`|`***the credential***`|`***the credential***` ✓ KEEP|Biographical authority established — this is the ONLY use of this word|
+|I4|`The analytical lens through which this book examines the sermon`|`***the engine***`|`***the engine***` ✓ KEEP|The eschatological fuel — what made the principles hold|
+|I5|`The chapters that follow move from the most public to the most private`|`***the structure***`|`***the structure***` ✓ KEEP|Chapter roadmap — the book's own architecture disclosed|
+|I6|`One thing should be said before the chapters begin`|MISSING|`***the clearing***`|NEW — Blueprint vs. Buildings preemptive concession clears ground before argument begins|
+
+**Spine contribution:** _the claim / the method / the credential / the engine / the structure / the clearing_ — epistemological setup sequence. The clearing closes the Introduction by removing the reader's anticipated objection. Works.
+
+---
+
+### CHAPTER ONE: _The Unpayable Debt_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|1.1|`This psychology has a name that predates psychology.`|`***the mechanism***`|`***the mechanism***` ✓ KEEP|asabiyyah/tha'r named as a system, not a moral failure|
+|1.2|`New Delhi. October 31, 1984.`|`***the repetition***`|**`***the mirror***`** ← CHANGE|Delhi is not repetition — it is the mirror that shows the same face in modern dress. "The repetition" is taken by Ch2.|
+|1.3|`It is against this backdrop — against the War of Basus and the streets of Delhi`|`***the equation***`|`***the equation***` ✓ KEEP|The sermon establishes the mathematical equivalence — hurmah as fixed constant|
+|1.4|`A principle without a proof is a proposal.`|`***the proof***`|`***the proof***` ✓ KEEP|Conquest of Mecca as empirical demonstration|
+|1.5|`That societies claiming to follow this principle have violated it catastrophically`|`***the betrayal***`|`***the betrayal***` ✓ KEEP|Kafala — the inversion of the principle by those who invoke it|
+|1.6|`Sumayyah bint Khabbat refused.`|`***the refusal***`|`***the refusal***` ✓ KEEP|The chapter's closing act — personhood asserted in refusal|
+
+**Spine contribution:** _the mechanism / the mirror / the equation / the proof / the betrayal / the refusal_ — diagnosis → recognition → principle → proof → violation → individual response. The arc is complete. The mirror replaces the repetition and is more precise.
+
+---
+
+### CHAPTER TWO: _The Tyranny of Zero_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|2.1|`His name, for our purposes, is Zayd.`|`***the door***`|`***the door***` ✓ KEEP|The lender's door as the only available option — not a choice|
+|2.2|`Before the story of Zayd completes itself, we must go to a valley outside Mecca`|`***the credential***`|**`***the ordeal***`** ← CHANGE|"The credential" is taken by Introduction. The Boycott is an ordeal — three years, stones on the stomach, the specific cost that gives the Prophet standing to speak|
+|2.3|`Now Zayd's story completes itself.`|`***the spiral***`|`***the spiral***` ✓ KEEP|The doubling logic — the trap completing itself|
+|2.4|`_Riba_ did not remain in the 7th century.`|`***the repetition***`|**`***the persistence***`** ← CHANGE|"The repetition" is taken by Ch1. Riba's persistence across centuries is a different concept — it adapted, it learned new languages, it persisted|
+|2.5|`It is to this world — Zayd's world and the world of Andhra Pradesh`|MISSING|`***the address***`|NEW — The sermon directly addresses the world just demonstrated. A pivot section before the quote. Oblique: the address is both the sermon's address to the problem AND the address where the lender sits|
+|2.6|`The prohibition of _riba_ is often understood as a moral rule`|MISSING|`***the distinction***`|NEW — Productive vs. extractive economics named as a structural distinction, not a moral one|
+|2.7|`For several centuries, the alternative system was built at scale`|`***the building***`|`***the building***` ✓ KEEP|Baghdad, waqf, Fatima al-Fihri — the blueprint becoming brick|
+|2.8|`In the sermon at Arafat, having declared the abolition, the Prophet ﷺ did what he had done`|`***the demonstration***`|`***the demonstration***` ✓ KEEP|Abbas — the law applied first to one's own|
+|2.9|`Contemporary Islamic finance — a global industry worth trillions`|`***the concession***`|`***the concession***` ✓ KEEP|The honest acknowledgment before closing|
+
+**Spine contribution:** _the door / the ordeal / the spiral / the persistence / the address / the distinction / the building / the demonstration / the concession_ — entrapment → cost → tightening → time-crossing → sermon's reply → principle → institution → proof → honesty. Longest chapter, most complex arc, but now without the duplicates that broke it.
+
+---
+
+### INTERLUDE I: _The Merchant / Al-Amin_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|A1|`The young man she summoned that spring was twenty-five years old`|`***the commission***`|`***the commission***` ✓ KEEP|The delegation of trust — she sends him north|
+|A2|`The journey north was measured in weeks and in the rolling patience of camel travel`|`***the journey***`|`***the journey***` ✓ KEEP|The road — and Maysarah watching|
+|A3|`The caravan returned to Mecca in the early autumn.`|`***the recognition***`|`***the recognition***` ✓ KEEP|Khadijah's act of seeing what Maysarah describes|
+
+**Spine contribution:** _the commission / the journey / the recognition_ — the triangle that produces Al-Amin. Clean and right.
+
+---
+
+### CHAPTER THREE: _The Orphan's Merit_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|3.1|`The hierarchy of birth was not an Arabian peculiarity.`|`***the inheritance***`|`***the inheritance***` ✓ KEEP|Lineage hierarchy as inherited system, not individual cruelty|
+|3.2|`The pencil test was introduced in South Africa as a method of racial classification.`|`***the instrument***`|`***the instrument***` ✓ KEEP|The pencil, the surname, the skin tone — the measuring tool changes, the logic doesn't|
+|3.3|`It is into this world — the world of the Sassanian caste, the Roman frontier`|`***the declaration***`|`***the declaration***` ✓ KEEP|The sermon's surgical demolition of every hierarchy — one by one|
+|3.4|`Abu Dharr al-Ghifari was among the first to enter Islam`|`***the residue***`|`***the residue***` ✓ KEEP|Jahiliyyah surviving inside the most devoted — the old instinct as residue|
+|3.5|`B.R. Ambedkar arrived at a similar conclusion from a completely different direction.`|`***the convergence***`|`***the convergence***` ✓ KEEP|Two thinkers, opposite traditions, same diagnosis — the convergence IS the argument|
+|3.6|`These were not isolated acts of individual generosity. They became institutional.`|`***the institution***`|`***the institution***` ✓ KEEP|Constitution of Medina + non-Muslim witness — the principle becoming law|
+|3.7|`The gap between the principle and its application opened within living memory of the sermon.`|`***the correction***`|`***the correction***` ✓ KEEP|The Umayyad breach and the Abbasid correction — the principle generating its own repair|
+|3.8|`Bilal's appointment proves what spiritual honor looked like when assigned by character`|`***the enforcement***`|`***the enforcement***` ✓ KEEP|Bilal → Usamah — enforcement meaning the principle held under pressure|
+|3.9|`Twenty years after the Farewell Sermon, Amr ibn al-As was the conqueror of Egypt`|`***the measure***`|`***the measure***` ✓ KEEP|Umar applies the measure to the most powerful man in the empire|
+
+**Spine contribution:** _the inheritance / the instrument / the declaration / the residue / the convergence / the institution / the correction / the enforcement / the measure_ — system → tool → demolition → survival → confirmation → legalization → breach-and-repair → application → standard. The fullest diagnostic arc in the book. Correct.
+
+---
+
+### INTERLUDE II: _The Partner_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|B1|`Time passed. The Battle of the Trench came`|`***the score***`|`***the score***` ✓ KEEP|Keeping score — the first race, the loss accepted|
+|B2|`More years. What years bring to bodies they brought to both of them.`|`***the equal***`|`***the equal***` ✓ KEEP|You can only race an equal. The conclusion earned|
+
+**Spine contribution:** _the score / the equal_ — the two-word argument for Chapter 4's entire principle. Perfect.
+
+---
+
+### CHAPTER FOUR: _A Trust, Not a Property_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|4.1|`The world the sermon addressed had, in every civilization the Prophet ﷺ would have known`|`***the baseline***`|`***the baseline***` ✓ KEEP|The global consensus on women's status as a baseline, not an aberration|
+|4.2|`The Prophet ﷺ was forty years old.`|`***the accounting***`|`***the accounting***` ✓ KEEP|The First Revelation as testimony and reckoning — Khadijah's accounting of his character|
+|4.3|`In 1990, the economist Amartya Sen published a paper`|`***the reframing***`|`***the reframing***` ✓ KEEP|The missing women — same logic, modern instrument; the problem reframed to now|
+|4.4|`It is against this baseline — _wa'd al-banat_, the weeping father`|`***the architecture***`|`***the architecture***` ✓ KEEP|The sermon's structural redesign — from property to Amanah. The architectural metaphor earns its place here as the book's key metaphor applied|
+|4.5|`The principles the sermon named were not left as aspirations.`|`***the infrastructure***`|`***the infrastructure***` ✓ KEEP|Mahr, inheritance, consent — legal infrastructure built from the principle|
+|4.6|`Khawla bint Tha'laba's husband had pronounced a form of pre-Islamic abandonment`|`***the counsel***`|`***the counsel***` ✓ KEEP|Khawla argues; Umm Salama counsels at Hudaibiyah — women's active intelligence|
+|4.7|`Three claims deserve direct engagement before this chapter closes`|`***the text***`|`***the text***` ✓ KEEP|The difficult texts engaged directly — Qiwamah, Daraba, Aisha|
+|4.8|`The historical record of societies claiming to follow the sermon's principles on gender`|`***the gap***`|`***the gap***` ✓ KEEP|The acknowledged gap — followed by Shifa's counter-evidence within the same section|
+|4.9|`The sermon delivered a direction, not a completed building`|`***the direction***`|**`***the covenant***`** ← CHANGE|"The direction" is accurate but weak as a closer. "The covenant" names what the sermon actually established: a binding obligation between holders of the trust. Stronger and more theologically resonant without being exclusive|
+
+**Spine contribution:** _the baseline / the accounting / the reframing / the architecture / the infrastructure / the counsel / the text / the gap / the covenant_ — world → revelation → now → redesign → law → agency → difficulty → failure → obligation. The covenant as a closer is the principle named at its most demanding.
+
+---
+
+### CHAPTER FIVE: _The Currency of Trust_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|5.1|`Before the revelation came the reputation.`|`***the reputation***`|`***the reputation***` ✓ KEEP|The Black Stone — Al-Amin before any revelation, reputation as pre-institutional trust|
+|5.2|`The word is usually translated as "trust" and the translation is accurate as far as it goes.`|`***the stewardship***`|`***the stewardship***` ✓ KEEP|Amanah defined, Fukuyama deployed, Muhtasib established, Sa'd removed — the whole stewardship apparatus|
+|5.3|`The previous four chapters made four separate arguments.`|`***the load-bearing wall***`|`***the load-bearing wall***` ✓ KEEP|The keystone synthesis — three words, the only three-word entry, earns it|
+|5.4|`In the final months of his life, the Prophet ﷺ was ill.`|`***the audit***`|`***the audit***` ✓ KEEP|Death-bed scene + four caliphs — the ledger cleared publicly|
+|5.5|`The sermon's final command, issued at Arafat to the hundred thousand gathered before him`|`***the transmission***`|`***the transmission***` ✓ KEEP|Pass on the words — but only what you have embodied. The close|
+
+**Spine contribution:** _the reputation / the stewardship / the load-bearing wall / the audit / the transmission_ — character before revelation → the framework for holding it → its structural necessity → its proof → its method of continuation. The five-word arc for the fifth pillar.
+
+---
+
+### EPILOGUE: _The Architect and the Caricature_
+
+|#|FIND ANCHOR (first sentence of section)|CURRENT|RECOMMENDED|RATIONALE|
+|---|---|---|---|---|
+|E1|`Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph.`|MISSING|`***the warning***`|Abu Bakr's speech IS a warning: "No people abandons striving in God's path without God afflicting them with humiliation." The blueprint's first inheritor immediately warns how to lose it|
+|E2|`There is another image of this man.`|MISSING|`***the shadow***`|The caricature named — the shadow version of the portrait|
+|E3|`Reason demands a verdict.`|MISSING|`***the verdict***`|The logical conclusion required by evidence — not faith, not sentiment|
+|E4|`The hill is empty now.`|MISSING|`***the responsibility***`|The final word — and whose hands the blueprint is in now|
+
+**Spine contribution:** _the warning / the shadow / the verdict / the responsibility_ — consequence → distortion → logic → obligation. The Epilogue closes on the reader's obligation, not the book's argument. Correct.
+
+---
+
+## PART III: THE COMPLETE SPINE — SEQUENTIAL READING
+
+When all marginalia are read in order, this is the diagnostic argument running beneath the manuscript:
+
+> _the summons / the man / the ascent / the voice_
+> 
+> _the claim / the method / the credential / the engine / the structure / the clearing_
+> 
+> _the mechanism / the mirror / the equation / the proof / the betrayal / the refusal_
+> 
+> _the door / the ordeal / the spiral / the persistence / the address / the distinction / the building / the demonstration / the concession_
+> 
+> _the commission / the journey / the recognition_
+> 
+> _the inheritance / the instrument / the declaration / the residue / the convergence / the institution / the correction / the enforcement / the measure_
+> 
+> _the score / the equal_
+> 
+> _the baseline / the accounting / the reframing / the architecture / the infrastructure / the counsel / the text / the gap / the covenant_
+> 
+> _the reputation / the stewardship / the load-bearing wall / the audit / the transmission_
+> 
+> _the warning / the shadow / the verdict / the responsibility_
+
+**The spine tells this story in compressed form:** Arrival → Frame → Life violated → Wealth weaponized → Trust earned → Hierarchy inherited → Partnership and its perversions → Character and its architecture → Consequence. No word repeated. Every word used once, permanently.
+
+---
+
+## PART IV: CONSOLIDATED CHANGES REQUIRED
+
+Exact find-and-replace operations, cleanest to most complex:
+
+---
+
+**CHANGE 1 — Chapter 1, Delhi section:**
+
+- FIND: `***the repetition***` _(above "New Delhi. October 31, 1984.")_
+- REPLACE WITH: `***the mirror***`
+
+---
+
+**CHANGE 2 — Chapter 2, Boycott section:**
+
+- FIND: `***the credential***` _(above "Before the story of Zayd completes itself, we must go to a valley outside Mecca")_
+- REPLACE WITH: `***the ordeal***`
+
+---
+
+**CHANGE 3 — Chapter 2, riba-across-time section:**
+
+- FIND: `***the repetition***` _(above "_Riba_ did not remain in the 7th century.")_
+- REPLACE WITH: `***the persistence***`
+
+---
+
+**CHANGE 4 — Chapter 4, closing section:**
+
+- FIND: `***the direction***` _(above "The sermon delivered a direction, not a completed building")_
+- REPLACE WITH: `***the covenant***`
+
+---
+
+**INSERTIONS — Missing marginalia to add after `---` breaks:**
+
+|INSERT `***word***` IMMEDIATELY AFTER THE `---` ABOVE:|SECTION ANCHOR|
+|---|---|
+|`***the summons***`|`Then the sun breaches the horizon and the world catches fire.`|
+|`***the man***`|`Then the rhythm of the crowd changes.`|
+|`***the ascent***`|`He dismounts. His feet settle onto the warm stone of the hillside.`|
+|`***the voice***`|`Then he speaks.`|
+|`***the clearing***`|`One thing should be said before the chapters begin`|
+|`***the address***`|`It is to this world — Zayd's world and the world of Andhra Pradesh`|
+|`***the distinction***`|`The prohibition of _riba_ is often understood as a moral rule`|
+|`***the warning***`|`Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph.`|
+|`***the shadow***`|`There is another image of this man.`|
+|`***the verdict***`|`Reason demands a verdict.`|
+|`***the responsibility***`|`The hill is empty now.`|
+
+---
+
+## PART V: FINAL VERIFICATION CHECKLIST
+
+After executing all changes, run this sequential check. Read every `***word***` in the document in order and confirm:
+
+1. **No word appears twice** — the vocabulary is closed and unique
+2. **The Prologue spine** (_summons / man / ascent / voice_) reads as arrival
+3. **The Chapter 2 spine** contains no word duplicated from any other chapter
+4. **"the credential"** appears once only — in the Introduction
+5. **"the repetition"** appears zero times — both uses have been replaced
+6. **The Epilogue spine** (_warning / shadow / verdict / responsibility_) reads as reckoning
+7. **The full spine** (54 words) contains no duplicates across the entire manuscript
+
+The chapter opening sections (before the first `---` break in each unit) have **no marginalia** — this is intentional and consistent throughout.
+
+---
+---
+
