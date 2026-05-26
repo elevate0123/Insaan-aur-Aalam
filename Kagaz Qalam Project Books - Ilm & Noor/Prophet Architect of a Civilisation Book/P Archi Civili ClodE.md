@@ -7011,3 +7011,556 @@ The spine reads as a complete argument: the mechanism produces the repetition, w
 ---
 ---
 
+# COMPLETE SURGICAL AUDIT: BOTH DOCUMENTS
+
+## Based on Actual Document Content — No Assumptions
+
+---
+
+## PART I: ENGLISH DOCUMENT (P ClodE Truncated.md) — CONFIRMED FINDINGS
+
+### What Is Confirmed Present ✅
+
+- Dedication, epigraph
+- All six chapter epigraphs
+- All five Trust Audit boxes (آئینہ/Mirror format)
+- Chapter 1 marginalia — all six present
+- Chapter 5 marginalia — all five present
+- Chapter 3 some marginalia present
+- Spine sentence in Introduction
+- Indian reader paragraph
+- Abu Bakr speech in Epilogue
+- All six appendices
+- Waqf/Abbasid section in Chapter 2
+- Abbas demonstration in Chapter 2
+- Abu Dharr in Chapter 3
+- Usamah in Chapter 3
+- Umar/Copt in Chapter 3
+- Kafala in Chapter 1
+- Ambedkar convergence
+- Jefferson comparison — **STILL PRESENT (problem)**
+
+### What Is Confirmed Absent/Broken ❌
+
+- All five Non-Negotiables unexecuted
+- Prologue marginalia — all four absent
+- Introduction marginalia — all five absent
+- Epilogue marginalia — all four absent
+- Chapter 2 marginalia — partially missing (uncertain which)
+- Chapter 4 marginalia — entirely uncertain
+- Duplicate Daraba citation — PRESENT (must be deleted)
+
+---
+
+## TABLE E1 — NON-NEGOTIABLES (5 Critical Fixes)
+
+---
+
+### E1-A: Non-Negotiable 1 — Epilogue Five-Principles Parallel Structure
+
+||Content|
+|---|---|
+|**FIND (exact — entire block)**|`What was said in that valley was not a set of rules. It was a diagnosis — the most comprehensive diagnosis of human social failure ever delivered in a single address. Five principles, each one aimed at a permanent fracture in the architecture of how human beings live together.`|
+|**Continue finding through:**|`This is what was spoken on that hillside. This is the blueprint the Architect left.`|
+|**DELETE everything between those two anchors (inclusive)**|The entire "The first: that every human life..." through "...souls to be honored." block|
+|**REPLACE the whole deleted block with:**|See full replacement text below|
+
+**EXACT REPLACEMENT TEXT:**
+
+```
+What was said in that valley was not a prayer. It was a transcript — a man reporting, in the last year of his life, conclusions he had spent sixty-three years earning.
+
+He had witnessed a woman die in a public square because no one with power would intervene, and he had understood, through twenty years of building in the aftermath of that morning, that a life only becomes inviolable when its worth is fixed beyond the reach of any tribe's arithmetic. Not some lives. Every life. The principle does not degrade at the edges.
+
+He had tied stones against an empty stomach in a siege valley, and had understood from the inside what predatory economics does to the mind before it does anything to the body. The prohibition of riba was not a moral preference. It was the conclusion of a man who had felt what it extracts from human dignity before it extracts anything from a balance sheet.
+
+He had grown up an orphan in a lineage-obsessed world, had watched men of lesser character with greater connections be treated as greater men, and had built a civilization expressly designed to make the one thing you cannot choose — your birth — the one thing that determines nothing about your worth.
+
+He had been held, shaking, by the first person who recognized him, and had understood for the rest of his life what it meant that a relationship could rest on recognition rather than transaction. The covenant of partnership was not an aspiration. It was a description of what he had already lived.
+
+And beneath all of it, the discipline that made every other principle sustainable: the conviction that the small things are where everything begins, because every large collapse did.
+
+This is what was spoken on that hillside in the year 632 CE. It was not spoken for the people standing there alone.
+```
+
+---
+
+### E1-B: Non-Negotiable 2 — Chapter 4 Friction Headers to Continuous Prose
+
+**Three separate find/replace operations:**
+
+|Op|FIND|REPLACE WITH|
+|---|---|---|
+|1|`**On _Qiwamah_**`|`The first claim concerns the verse most often cited to assert male authority over women.`|
+|2|`**On _Daraba_**`|`The second claim is harder.`|
+|3|`**On Aisha**`|`The third claim is the most personal.`|
+
+**Then delete the two `---` section breaks** that were between the subsections (find `---` immediately before where `**On _Daraba_**` was, and immediately before where `**On Aisha**` was — delete those two break lines only).
+
+---
+
+### E1-C: Non-Negotiable 3 — Chapter 3 Opening
+
+||Content|
+|---|---|
+|**FIND**|`It is not a single event. It accumulates.`|
+|**REPLACE WITH**|`The security guard's eyes move to you when you enter. Not to the person behind you, who arrived the same way. To you. He has not spoken, has not moved from his station, may not even be aware of what his eyes did. The judgment was made before you crossed the threshold. It was made, probably, before you were born.`|
+
+**Additionally FIND:**
+
+|FIND|REPLACE WITH|
+|---|---|
+|`The security guard whose eyes move to you when you enter.`|`This is not a single event. It is every room you have ever entered.`|
+
+_(This converts the old second sentence into the new structural closer, maintaining both ideas.)_
+
+---
+
+### E1-D: Non-Negotiable 4 — Title Propagation
+
+|FIND|REPLACE WITH|Note|
+|---|---|---|
+|`# THE ARCHITECT`|`# THE LAST SERMON`|Document-level title|
+|`## THE ARCHITECT`|`## THE LAST SERMON`|Any chapter-level header usage|
+|`_The Architect_` (where book title)|`_The Last Sermon_`|Italicised title references|
+|`*The Architect*` (where book title)|`*The Last Sermon*`|Italicised title references|
+
+**DO NOT replace:** "the Architect" (lowercase a, preceded by "the") — these are metaphorical references to the Prophet ﷺ and must be preserved.
+
+---
+
+### E1-E: Non-Negotiable 5 — Jefferson Comparison
+
+||Content|
+|---|---|
+|**FIND**|`A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. Thomas Jefferson wrote that all men are created equal while enslaving over 600 people.`|
+|**REPLACE WITH**|`A skeptic will note — correctly — that history is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles entirely. The distance between what people proclaim and what they practice is not always simple hypocrisy — sometimes it is the ordinary human gap between what we aspire to and what we manage.`|
+
+---
+
+## TABLE E2 — DUPLICATE DARABA CITATION (Delete Immediately)
+
+||Content|
+|---|---|
+|**FIND AND DELETE THIS ENTIRE BLOCK**|`Aisha described his practice in Sahih Muslim — one of the two most rigorously authenticated collections of prophetic traditions in Islamic scholarship, compiled in the 9th century from chains of transmission traced back to eyewitnesses with the clarity of direct observation: _"The Messenger of God never struck any of his servants, nor any woman."_`|
+|**Keep:**|The version beginning `Aisha described his practice in what Islamic scholarship considers its most authenticated record...` — that is the correct version|
+|**Why**|Two versions of the same citation stacked — the second is the duplicate, delete it|
+
+---
+
+## TABLE E3 — PROLOGUE MARGINALIA INSERTIONS (All Four Missing)
+
+For each, insert the marginalia text as the **first line after the `---` break**, followed by a blank line before the section text.
+
+|#|FIND (first distinctive sentence of section)|INSERT BEFORE IT|
+|---|---|---|
+|1|`Then the sun breaches the horizon and the world catches fire.`|`***the summons***`|
+|2|`Then the rhythm of the crowd changes.`|`***the man***`|
+|3|`He dismounts.`|`***the ascent***`|
+|4|`Then he speaks.`|`***the voice***`|
+
+**Format for each insertion — example for #1:**
+
+```
+---
+
+***the summons***
+
+Then the sun breaches the horizon and the world catches fire.
+```
+
+---
+
+## TABLE E4 — INTRODUCTION MARGINALIA INSERTIONS (All Five Missing)
+
+|#|FIND (first distinctive sentence of section)|INSERT BEFORE IT|
+|---|---|---|
+|1|`The man who stood on that hillside had something to say about all of them.`|`***the claim***`|
+|2|`I have tried, in writing this book, to follow a single discipline:`|`***the method***`|
+|3|`The man who delivered this address was sixty-three years old`|`***the credential***`|
+|4|`The analytical lens through which this book examines the sermon`|`***the engine***`|
+|5|`The chapters that follow move from the most public to the most private`|`***the structure***`|
+
+---
+
+## TABLE E5 — EPILOGUE MARGINALIA INSERTIONS (All Four Missing)
+
+|#|FIND (first sentence of section)|INSERT BEFORE IT|
+|---|---|---|
+|1|`There is another image of this man.`|`***the shadow***`|
+|2|`Reason demands a verdict.`|`***the verdict***`|
+|3|`The Prophet ﷺ died in Medina` (Abu Bakr speech section)|`***the warning***`|
+|4|`The hill is empty now.`|`***the responsibility***`|
+
+---
+
+## TABLE E6 — CHAPTER 2 MARGINALIA VERIFICATION & INSERTIONS
+
+Chapters 1 and 5 are confirmed complete. Chapter 2 sections were added in later rounds and marginalia may be missing for those additions. Verify each: if the marginalia is already present, skip. If absent, insert.
+
+|#|FIND (first sentence — verify if marginalia exists above it)|Marginalia to insert if missing|
+|---|---|---|
+|1|`His name, for our purposes, is Zayd.`|`***the door***`|
+|2|`Before the story of Zayd completes itself, we must go to a valley outside Mecca`|`***the credential***`|
+|3|`Now Zayd's story completes itself.`|`***the spiral***`|
+|4|`_Riba_ did not remain in the 7th century.`|`***the repetition***`|
+|5|`For several centuries, the alternative system was built at scale`|`***the building***`|
+|6|`In the sermon at Arafat, having declared the abolition`|`***the demonstration***`|
+|7|`Contemporary Islamic finance — a global industry`|`***the concession***`|
+
+---
+
+## TABLE E7 — CHAPTER 3 MARGINALIA VERIFICATION & INSERTIONS
+
+Some Chapter 3 marginalia are confirmed present; later-added sections may be missing theirs. Verify each.
+
+|#|FIND (first sentence)|Marginalia to insert if missing|
+|---|---|---|
+|1|`The hierarchy of birth was not an Arabian peculiarity.`|`***the inheritance***`|
+|2|`The pencil test was introduced in South Africa`|`***the instrument***`|
+|3|`It is into this world — the world of the Sassanian caste`|`***the declaration***`|
+|4|`Abu Dharr al-Ghifari was among the first to enter Islam`|`***the residue***`|
+|5|`B.R. Ambedkar arrived at a similar conclusion`|`***the convergence***`|
+|6|`These were not isolated acts of individual generosity.` (Constitution of Medina)|`***the institution***`|
+|7|`The gap between the principle and its application opened within living memory` (Umayyad)|`***the correction***`|
+|8|`Bilal's appointment proves what spiritual honor looked like` (Usamah section)|`***the enforcement***`|
+|9|`Twenty years after the Farewell Sermon, Amr ibn al-As` (Umar/Copt)|`***the measure***`|
+
+---
+
+## TABLE E8 — CHAPTER 4 MARGINALIA INSERTIONS
+
+|#|FIND (first sentence of section)|Marginalia|
+|---|---|---|
+|1|`The world the sermon addressed had, in every civilization`|`***the baseline***`|
+|2|`The Prophet ﷺ was forty years old.`|`***the accounting***`|
+|3|`In 1990, the economist Amartya Sen published`|`***the reframing***`|
+|4|`It is against this baseline — _wa'd al-banat_` (sermon quote section)|`***the architecture***`|
+|5|`The principles the sermon named were not left as aspirations.`|`***the infrastructure***`|
+|6|`Khawla bint Tha'laba's husband`|`***the counsel***`|
+|7|`The moment that demonstrates all of this most completely` (Hudaibiyah)|_(this belongs inside the counsel section — no new break)_|
+|8|`Three claims deserve direct engagement` (friction section)|`***the text***`|
+|9|`The historical record of societies claiming to follow the sermon's principles on gender`|`***the gap***`|
+|10|`The sermon delivered a direction, not a completed building`|`***the direction***`|
+
+---
+
+## TABLE E9 — PROSE FIXES (Remaining Issues)
+
+|#|FIND|REPLACE WITH|Reason|
+|---|---|---|---|
+|1|`the profound exhaustion of a body that has been moving`|`the exhaustion of a body that has been moving`|"profound" banned|
+|2|`This is the quality the sermon would later name and codify as _Amanah_.`|`The sermon would later name this _Amanah_.`|"quality" repeated from Ch5|
+|3|`At least in this moment. At least enough to know it was possible`|`at least in this moment, at least enough to know it was possible`|Consecutive "At least" — fragment problem|
+|4|`The blueprint survived the Architect. At least in this moment.`|`The blueprint survived the Architect —` _(then continue with the comma splice version from fix #3 above)_|Paired declaratives|
+|5|`the most remarkable single act of political leadership in the historical record of the early Islamic period` _(if present)_|`one of the most consequential acts of political leadership in the early Islamic period`|Over-claim|
+|6|`This is what the sermon's final chapter is about.` _(if present in Ch5)_|DELETE this sentence|Announced transition — banned|
+|7|`with the practiced sympathy of a man whose sympathy costs him nothing.` (first Ch2 instance)|Keep as is|✅ First use is fine|
+|8|`listening with practiced sympathy to a farmer whose children are hungry.` (second Ch2 instance)|`listening with the same practiced sympathy to a farmer whose children are hungry — the same sympathy, the same stone house, the same calculation.`|Echo must be deliberate|
+|9|`This is Al-Amin. We are content. We will accept his judgment."`|Keep as is|✅ Perfect — do not touch|
+|10|`Thomas Jefferson`|Already handled by E1-E|—|
+
+---
+
+## TABLE E10 — BACK MATTER CHECKS
+
+|Item|Status|Action|
+|---|---|---|
+|Back jacket spine sentence placement|Present but buried|Verify it opens a paragraph, not buried mid-sentence|
+|Author bio short version|Present|Verify consistent with title decision|
+|Appendix E Five Pillars table|Present|Verify friction column reflects compressed Chapter 4, not old bulleted version|
+|Appendix C Al-Tabari entry|Present|No action needed|
+|ﷺ footnote for non-Muslim readers|Should be in Introduction|Verify present: `A note on usage: throughout this book, the Prophet's name is followed by the symbol ﷺ`|
+
+---
+
+---
+
+## PART II: URDU DOCUMENT (P ClodE UR.md) — CONFIRMED FINDINGS
+
+### What Is Confirmed Present ✅ in Urdu
+
+- Complete structure (all 9 sections + 6 appendices)
+- All chapter epigraphs translated
+- Trust Audit boxes (آئینہ/پرکھ/عمل) — all five present
+- Kafala section in Chapter 1
+- Abu Dharr in Chapter 3
+- Usamah ibn Zayd in Chapter 3
+- Umar/Copt in Chapter 3
+- Ambedkar convergence
+- Abu Bakr speech in Epilogue
+- Appendix B glossary (19 terms, excellent quality)
+- Constitution of Medina in Chapter 3
+- Four caliphs death-bed pattern in Chapter 5
+- Sa'd ibn Abi Waqqas in Chapter 5
+- Khawla bint Tha'laba in Chapter 4
+- Shifa' bint Abdullah in Chapter 4
+
+### What Is Confirmed Broken/Absent ❌ in Urdu
+
+- Epilogue parallel numbered structure — PRESENT (NN1 equivalent problem)
+- Chapter 4 bold subheadings — PRESENT (NN2 equivalent problem)
+- Chapter 3 old opening — PRESENT (NN3 equivalent problem)
+- Clinical marginalia system — ENTIRELY ABSENT
+- Mixed numeral system — CONFIRMED PRESENT
+- Jefferson absent ✅ (Urdu version avoided it correctly)
+
+---
+#Urdu #left #todo #u1 
+## TABLE U1 — URDU NON-NEGOTIABLE 1: Replace Epilogue Parallel Structure
+
+||Content|
+|---|---|
+|**FIND (anchor start)**|`پہلی: کہ ہر انسانی جان میں ایک ناقابلِ تنسیخ تقدس ہے`|
+|**FIND (anchor end — find this as the close of the block)**|`پانچویں: کہ ان چاروں کو وہی شخص جی سکتا ہے جس نے چھوٹی باتوں کی امانت بھی نبھائی ہو`|
+|**DELETE everything from anchor start through anchor end (inclusive of their full sentences)**|The entire پہلی/دوسری/تیسری/چوتھی/پانچویں block|
+|**REPLACE WITH:**|See full Urdu replacement text below|
+
+**EXACT URDU REPLACEMENT TEXT:**
+
+```
+جو بات اس وادی میں کہی گئی وہ دعا نہیں تھی۔ یہ ایک گزارش تھی — ایک آدمی اپنی زندگی کے آخری سال میں وہ نتائج بیان کر رہا تھا جو اس نے تریسٹھ سال میں کمائے تھے۔
+
+وہ ایک عوامی چوک میں ایک عورت کو مرتے دیکھ چکے تھے کیونکہ طاقت رکھنے والوں میں سے کوئی مداخلت نہیں کرتا تھا — اور انہوں نے بیس سال کی تعمیر کے بعد سمجھ لیا تھا کہ ایک زندگی اسی وقت واقعی ناقابلِ تنسیخ ہوتی ہے جب اس کی قدر کسی قبیلے کے حساب کتاب سے ماورا ہو۔ کچھ زندگیاں نہیں۔ ہر زندگی۔ یہ اصول کناروں پر کمزور نہیں پڑتا۔
+
+وہ ایک محاصرے کی وادی میں پیٹ پر پتھر باندھ چکے تھے — اور انہوں نے اندر سے جانا تھا کہ شکاری معیشت ذہن کو پہلے اور جسم کو بعد میں کیا کرتی ہے۔ ربا کی ممانعت اخلاقی پسند نہیں تھی۔ یہ اس آدمی کا نتیجہ تھا جس نے خود محسوس کیا تھا کہ یہ بیلنس شیٹ سے پہلے انسانی وقار سے کیا چھین لیتا ہے۔
+
+وہ ایک ایسی دنیا میں یتیم پل کر بڑے ہوئے تھے جہاں نسب سب کچھ تھا — اور انہوں نے ایک ایسی تہذیب کھڑی کی جو اس واحد چیز کو، جو کوئی نہیں چن سکتا — اپنی پیدائش — اس چیز میں تبدیل کرنے کے لیے بنائی گئی تھی جو کسی کی قدر کا تعین نہیں کرتی۔
+
+وہ کانپتے ہوئے اس پہلی پہچاننے والی کے پاس گئے تھے — اور زندگی بھر سمجھتے رہے کہ ایک رشتہ پہچان پر قائم ہو سکتا ہے نہ کہ لین دین پر۔ شراکت کا عہد آرزو نہیں تھا۔ یہ اس بات کی تفصیل تھی جو وہ پہلے ہی جی چکے تھے۔
+
+اور ان سب کے نیچے وہ نظم جس نے ہر دوسرے اصول کو قائم رکھا: یہ یقین کہ چھوٹی باتیں ہی وہ جگہ ہیں جہاں سب کچھ شروع ہوتا ہے، کیونکہ ہر بڑا انہدام وہیں سے شروع ہوا۔
+
+یہ وہ باتیں ہیں جو ۶۳۲ عیسوی میں اس پہاڑی سے کہی گئی تھیں۔ یہ صرف وہاں کھڑے لوگوں کے لیے نہیں کہی گئی تھیں۔
+```
+
+---
+
+## TABLE U2 — URDU NON-NEGOTIABLE 2: Remove Chapter 4 Section Headings
+
+Three simple deletion operations — the text after each heading is already in the correct form:
+
+|Op|FIND (exact heading line)|ACTION|
+|---|---|---|
+|1|`قوامیت پر (Qiwamah)`|**DELETE this line entirely**|
+|2|`ضرب پر (Daraba)`|**DELETE this line entirely**|
+|3|`عائشہ (رض) پر`|**DELETE this line entirely**|
+
+The prose after each heading already begins with "پہلا دعویٰ...", "دوسرا دعویٰ...", "تیسرا دعویٰ..." — these are correct and remain.
+
+Also **delete the `---` section breaks** that appear immediately before each of these headings (the breaks between the three subsections — not the break before the whole friction section).
+
+---
+
+## TABLE U3 — URDU NON-NEGOTIABLE 3: Replace Chapter 3 Opening
+
+||Content|
+|---|---|
+|**FIND**|`یہ ایک واقعہ نہیں ہوتا۔ یہ جمع ہوتا ہے۔`|
+|**REPLACE WITH**|See below|
+
+**REPLACEMENT TEXT:**
+
+```
+سیکیورٹی گارڈ کی نظریں آپ پر ٹکتی ہیں جب آپ داخل ہوتے ہیں۔ آپ کے پیچھے آنے والے پر نہیں — آپ پر۔ اس نے بات نہیں کی، اپنی جگہ سے نہیں ہلا، شاید اسے خود اندازہ نہیں کہ اس کی نظریں کیا کر رہی ہیں۔ فیصلہ چوکھٹ پار کرنے سے پہلے ہو چکا تھا۔ غالباً آپ کی پیدائش سے پہلے۔
+```
+
+**Then FIND the next sentence** (which is the old second sentence of the opening):
+
+|FIND|REPLACE WITH|
+|---|---|
+|`وہ سیکیورٹی گارڈ جس کی نظریں دکان میں داخل ہوتے ہی آپ پر ٹک جاتی ہیں`|`یہ کوئی ایک واقعہ نہیں۔ یہ ہر وہ کمرہ ہے جس میں آپ کبھی داخل ہوئے ہیں۔`|
+
+_(Note: The exact Urdu wording of the old second sentence may vary slightly from above — search for the security guard sentence that follows the opening and replace it with the new structural closer)_
+
+---
+
+## TABLE U4 — NUMERAL STANDARDIZATION (Eastern Arabic Throughout)
+
+All historical and modern dates must use Eastern Arabic numerals. The following Western numeral instances must be replaced:
+
+|FIND|REPLACE WITH|
+|---|---|
+|`2009-2010` (Andhra Pradesh dates)|`۲۰۰۹-۲۰۱۰`|
+|`2010`|`۲۰۱۰`|
+|`2022`|`۲۰۲۲`|
+|`2009`|`۲۰۰۹`|
+|`1990`|`۱۹۹۰`|
+|`2001`|`۲۰۰۱`|
+|`2008`|`۲۰۰۸`|
+|`2016`|`۲۰۱۶`|
+|`2024`|`۲۰۲۴`|
+|`1964`|`۱۹۶۴`|
+|`622 CE` or `622` (when in Western format)|`۶۲۲ عیسوی`|
+
+**Rule for verification:** Run a search for any digit 0-9 in Latin script. Every such instance in running Urdu text should be replaced with the Eastern Arabic equivalent. Exception: Appendix F (Further Reading) — publication years and page numbers in that list may remain in Western format since they refer to English publications.
+
+---
+
+## TABLE U5 — EXPLANATORY PARENTHETICALS ADDED BY TRANSCREATOR
+
+These are constructions not in the English source that the transcreator added. They follow the banned "یہ X نہیں تھا، یہ Y تھا" pattern. Find and remove each:
+
+|#|FIND|ACTION|
+|---|---|---|
+|1|Any sentence matching pattern: `یہ [noun] نہیں تھا۔ یہ [noun] تھا۔` that does NOT appear in the English|Delete the first sentence; the second usually stands alone|
+|2|`یہ کوئی الہیاتی بحث نہیں تھی — یہ ساختیاتی تھی` (if present)|Delete — not in English source|
+|3|`یہ محض تاریخی سوال نہیں ہے` appearing as a standalone added sentence|Verify against English; delete if added|
+|4|Any occurrence of `محض` (merely) added to soften an English absolute statement|Audit: if English has no equivalent hedge, remove `محض`|
+
+**Systematic check method:** Take any paragraph in the Urdu that contains a "یہ X نہیں، یہ Y ہے" construction. Find the equivalent English paragraph. If the English does NOT have this construction, delete it from Urdu.
+
+---
+
+## TABLE U6 — URDU MARGINALIA SYSTEM (Full Insertion Table)
+
+The Urdu marginalia should be culturally adapted, not literally translated. Insert after each `---` break in the same format as English: `***word***` on its own line.
+
+### Prologue Marginalia
+
+|FIND (first sentence of section)|INSERT BEFORE IT|
+|---|---|
+|`پھر سورج نے افق پھاڑا`|`***ندا***`|
+|`پھر ہجوم کا سانس بدل جاتا ہے۔`|`***آدمی***`|
+|`اترتے ہیں۔`|`***چڑھائی***`|
+|`پھر بولتے ہیں۔`|`***آواز***`|
+
+### Introduction Marginalia
+
+|FIND|INSERT BEFORE IT|
+|---|---|
+|`جنہوں نے یہ خطاب دیا وہ تریسٹھ سال کے تھے`|`***دعویٰ***`|
+|`یہ کتاب لکھتے ہوئے ایک ہی اصول پر چلنے کی کوشش رہی`|`***طریقہ***`|
+|`جنہوں نے یہ خطاب دیا وہ تریسٹھ سال کے تھے اور تین مہینوں میں`|`***سند***`|
+|`جس تجزیاتی عدسے سے یہ کتاب خطبے کا مطالعہ کرتی ہے`|`***انجن***`|
+|`آگے آنے والے ابواب سب سے ظاہر سے سب سے پوشیدہ کی طرف جاتے ہیں`|`***ساخت***`|
+
+### Chapter 1 Marginalia (verify each — some may already be present)
+
+|FIND|Marginalia|
+|---|---|
+|`اس نفسیات کا ایک نام ہے جو نفسیات سے پرانا ہے۔`|`***طریقہ کار***`|
+|`نئی دہلی۔ ۳۱ اکتوبر ۱۹۸۴۔`|`***تکرار***`|
+|`یہی وہ پسِ منظر ہے` (before sermon quote)|`***مساوات***`|
+|`اصول بغیر ثبوت کے ایک تجویز ہے۔`|`***ثبوت***`|
+|`اس اصول کی پیروی کا دعویٰ کرنے والے معاشروں کا تاریخی ریکارڈ`|`***خیانت***`|
+|`سمیہ بنتِ خیاط نے انکار کیا تھا۔` (closing section)|`***انکار***`|
+
+### Chapter 2 Marginalia
+
+|FIND|Marginalia|
+|---|---|
+|`ہماری اس بحث کے لیے، فرض کریں اس کا نام زید ہے۔`|`***دروازہ***`|
+|`مگر زید کی کہانی مکمل ہونے سے پہلے مکے کے باہر ایک گھاٹی کی طرف جانا ضروری ہے`|`***اہلیت***`|
+|`اب زید کی کہانی مکمل ہوتی ہے۔`|`***چکر***`|
+|`ربا ساتویں صدی تک محدود نہیں رہا۔`|`***تکرار***`|
+|`کئی صدیوں تک یہ متبادل نظام بڑے پیمانے پر بنایا گیا۔`|`***تعمیر***`|
+|`خطبے میں اعلان کے بعد آپ ﷺ نے وہی کیا` (Abbas section)|`***ثبوت***`|
+|`عصرِ حاضر کی اسلامی فنانس`|`***اعتراف***`|
+
+### Chapter 3 Marginalia (verify each)
+
+|FIND|Marginalia|
+|---|---|
+|`ذات پات کا نظام کوئی عربوں کی خاصیت نہیں تھی۔` OR `اس سوال کا جواب دینے سے پہلے`|`***وراثت***`|
+|`پنسل ٹیسٹ جنوبی افریقہ میں`|`***آلہ***`|
+|`یہی وہ پسِ منظر ہے — فارس کی ذات، روم کی سرحد` (before sermon quote)|`***اعلان***`|
+|`ابو ذر الغفاری (رض) مسلمانوں کے ابتدائی لوگوں میں سے تھے`|`***بقیہ***`|
+|`یہاں ایک قابلِ غور ملاقات ہے` (Ambedkar)|`***یکجائی***`|
+|`یہ اعلان عرب کے چند طاقتور ترین سرمایہ کاروں کے سامنے` OR `اصول بیان کر دیے گئے ہیں` (Constitution of Medina)|`***ادارہ***`|
+|`اصول کی پیروی کا دعویٰ کرنے والے معاشروں نے` (Umayyad/failure)|`***اصلاح***`|
+|`بلال (رض) کی تقرری یہ ثابت کرتی ہے` (Usamah section)|`***نفاذ***`|
+|`اپنی زندگی کے آخری ہفتوں میں، آپ ﷺ نے شامی سرحد` (Umar/Copt area — verify position)|`***پیمانہ***`|
+
+### Chapter 4 Marginalia
+
+|FIND|Marginalia|
+|---|---|
+|`دنیا جس میں خطبہ مخاطب ہوا` OR `روم میں patria potestas`|`***بنیاد***`|
+|`آپ ﷺ کی عمر چالیس سال تھی۔`|`***حساب***`|
+|`۱۹۹۰ میں، ماہرِ اقتصادیات امرتیہ سین`|`***نئی تعریف***`|
+|`یہی وہ پسِ منظر ہے — وأدِ بنات` (before sermon quote)|`***ساخت***`|
+|`جو اصول خطبے نے نام دیے وہ محض آرزوئیں`|`***بنیادی ڈھانچہ***`|
+|`خولہ بنتِ ثعلبہ کے شوہر نے`|`***مشورہ***`|
+|`تین دعوے اس باب کے بند ہونے سے پہلے` (friction section)|`***متن***`|
+|`اس باب کے اصولوں کی پیروی کا دعویٰ کرنے والے`|`***فاصلہ***`|
+|`خطبے نے ایک مکمل عمارت نہیں دی`|`***سمت***`|
+
+### Chapter 5 Marginalia (verify each)
+
+|FIND|Marginalia|
+|---|---|
+|`۶۰۵ عیسوی میں، پہلی وحی سے پانچ سال قبل` (Black Stone)|`***ساکھ***`|
+|`اس لفظ کا ترجمہ اکثر "اعتماد" کیا جاتا ہے`|`***امانت داری***`|
+|`پچھلے چار ابواب نے چار الگ الگ دلائل دیے۔`|`***بوجھ اٹھانے والی دیوار***`|
+|`ان کی زندگی کے آخری مہینوں میں` (death-bed)|`***احتساب***`|
+|`خطبے کا آخری حکم، جو عرفات میں دیا گیا`|`***انتقال***`|
+
+### Epilogue Marginalia
+
+|FIND|Marginalia|
+|---|---|
+|`اس آدمی کی ایک اور تصویر بھی ہے۔`|`***سایہ***`|
+|`عقل فیصلہ مانگتی ہے۔`|`***فیصلہ***`|
+|`نبی کریم ﷺ مدینہ میں وفات پا گئے` (Abu Bakr section)|`***تنبیہ***`|
+|`پہاڑی اب خالی ہے۔`|`***ذمہ داری***`|
+
+---
+
+## TABLE U7 — URDU-SPECIFIC PROSE FIXES
+
+|#|FIND|REPLACE WITH|Reason|
+|---|---|---|---|
+|1|`وہ محض تسلی نہیں دے رہی تھیں۔ وہ ثبوت دے رہی تھیں۔`|`وہ تسلی نہیں دے رہی تھیں۔ وہ ثبوت دے رہی تھیں۔`|Remove محض — softens the English absolute|
+|2|`ٹرسٹ ڈیویڈنڈ` (if in Latin script anywhere)|`ٹرسٹ ڈیویڈنڈ` (ensure Nastaliq script, not Latin)|Consistency|
+|3|`Social Capital` (Latin script in Urdu text)|`سماجی سرمایہ`|Full Urduization|
+|4|`CDO` (if present in Latin)|`ضمانتی قرض ذمہ داری`|Full Urduization|
+|5|`microfinance` (Latin in Urdu)|`مائیکروفنانس` (Nastaliq) OR `ضمنی مالیات`|Consistency|
+|6|`cash flow` (Latin in Urdu)|`نقد بہاؤ`|Full Urduization|
+|7|Any sentence where `پہلا/دوسرا/تیسرا دعویٰ` still appears with heading before it (after U2 fix)|Verify heading is deleted; sentence itself is correct|Clean up|
+|8|`آپ صرف ایک برابر والے سے دوڑ لگا سکتے ہیں۔` (Interlude II)|`آپ صرف برابر والے سے دوڑ لگا سکتے ہیں۔`|Remove redundant `ایک` — tightens the sentence|
+|9|Appendix D — verify length matches English Appendix D|Expand if abbreviated|Scholarly credibility|
+|10|`یہ اُس کے لیے۔` (Interlude II — the footrace)|Keep exactly as is|✅ Perfect — do not touch|
+
+---
+
+## TABLE U8 — URDU TITLE CHAIN DECISION
+
+Once the English title is decided, the Urdu title chain follows:
+
+|English|Urdu|Note|
+|---|---|---|
+|_The Last Sermon_ (recommended)|_آخری خطبہ_|But this conflicts with Prologue title|
+|Prologue (if book = _آخری خطبہ_)|Change Prologue title to: _دیباچہ: عرفات کی صبح_|Avoids conflict|
+|Subtitle|_محمد ﷺ کی آخری وصیت اور وہ مسائل جنہیں ہم ابھی تک حل نہیں کر سکے_|Urdu subtitle|
+|Roman Urdu subtitle|_Maahir-e-Taameer_|Already in SSOT — keep|
+
+**FIND in Urdu document:** `آخری خطبہ` (as Prologue title/heading)
+
+**REPLACE WITH:** `دیباچہ: عرفات کی صبح` (if book title becomes آخری خطبہ)
+
+---
+
+## PART III: QUALITY VERDICT — UNFILTERED
+
+### English
+
+The manuscript's architecture is complete. The argument is original and structurally sound. In its best passages — the death-bed scene, Sumayyah, the Conquest of Mecca dialogue, the footrace — it is genuinely exceptional prose by any standard. None of that is in question.
+
+What is in question: five structural failures that any editor will find in the first pass. These are not polish problems. They are load-bearing failures: the Epilogue announces its argument instead of earning it; Chapter 4's defensive headers signal apologetics before the reader has decided to be hostile; Chapter 3's flat opening wastes the book's most commercially important chapter. These three alone will cost reviews. The Jefferson comparison is a gift to hostile readers who want to deflect from the argument into a simpler controversy. The title remains unresolved and every day it remains unresolved is a day the book's discoverability is not being built.
+
+None of this takes more than a day to fix. That is the frustrating thing. The manuscript is sitting six hours from submission-readiness while those six hours are not being taken.
+
+### Urdu
+
+The Urdu transcreation is better than it has any right to be. Several narrative sections are superior to the English source — the Arafat Prologue, the Busra market scene, the Sumayyah passage, the death-bed scene. This is not flattery; it is the accurate observation that Urdu prose is built for exactly the register this book requires. The transcreator understood the project and executed it with intelligence.
+
+However: the Urdu carries the same structural failures as the English because it was finalized before those failures were fixed. The numbered Epilogue list, the bold Chapter 4 headers, the old Chapter 3 opening — all three must be fixed in English first, then mirrored in Urdu.
+
+The Urdu has one additional problem the English does not: the transcreator added approximately six to eight explanatory parentheticals ("یہ X نہیں تھا، یہ Y تھا") that don't exist in the English source. These are the ghost of the LLM's habit, re-introduced by a human transcreator working too close to the original. They need to be audited out.
+
+The glossary in Appendix B is the single best piece of writing in either version. The Arabic terms settle into Urdu prose without the awkward italicization the English requires. This section alone justifies the transcreation. The Trust Audit boxes in آئینہ/پرکھ/عمل are better than their English equivalents for the subcontinental reader.
+
+### The One Thing That Would Most Elevate Both Documents
+
+Fix Non-Negotiable 1 first — in both languages simultaneously. The Epilogue is where readers finish. It is what they quote, what they remember, what they tell others about. The current parallel-numbered structure turns the book's emotional culmination into a table of contents. The replacement text provided above turns it into something the reader feels rather than processes. Every other fix is important. This one is the difference between a good book and a memorable one.
