@@ -24,8 +24,6 @@ debugInConsole: false # Print debug info in Obsidian console
 - For those who were told their lives were worth less.
   And for those who refused to believe it.
 
-- ~~For my parents, who taught me that a person's word is worth more than everything else they own.~~
-
 ## Epigraph
 
 >"Let him who is present tell it to him who is absent. For it may be that some of those to whom it is conveyed will understand it better than those who heard it directly."
@@ -359,7 +357,7 @@ Then the equation: your blood, your property, your honor — as sacred as these.
 
 He does not say: a human life is sacred. He asks them first what day it is. A sacred day. What month? A sacred month. What city? The inviolable sanctuary. He builds the architecture of their most instinctive conviction — hurmah, the Arabic word for sanctity, they already feel in their bones — and then, when the structure is complete, he places a human being inside it. The human being is now inviolable by the same logic. Not some human beings. Every human being, by virtue of being one. He has not told them anything new. He has moved the door.
 
-~~==The sermon’s declaration did not emerge in a vacuum; it was the final, public reiteration of the blueprint’s foundational legal statute. Years earlier, the Quran had established the exact mathematical weight of a human life: 'Whoever kills a soul... it is as if he had slain mankind entirely. And whoever saves one, it is as if he had saved mankind entirely.' (5:32). This is not poetry. It is a structural equation. It destroys the logic of the tribal blood-feud by making the arithmetic of revenge impossible. You cannot balance a ledger if a single unauthorized death bankrupts the entire species.==~~
+==The sermon’s declaration did not emerge in a vacuum; it was the final, public reiteration of the blueprint’s foundational legal statute. Years earlier, the Quran had established the exact mathematical weight of a human life: 'Whoever kills a soul... it is as if he had slain mankind entirely. And whoever saves one, it is as if he had saved mankind entirely.' (5:32). This is not poetry. It is a structural equation. It destroys the logic of the tribal blood-feud by making the arithmetic of revenge impossible. You cannot balance a ledger if a single unauthorized death bankrupts the entire species.==
 
 Which means the life of the person from the rival tribe carries it. The life of the person with no powerful clan carries it. The life of the person whose blood, by the old system's calculation, was free — carries it. The fluctuating tribal value is replaced by a fixed metaphysical constant. And once the value is fixed, the entire architecture of collective debt loses its foundation. You cannot demand the blood of a group to pay for the crime of an individual if every individual's blood is inviolable. _Hurmah_ does not modify _tha'r_. It makes _tha'r_ structurally impossible.
 
@@ -855,7 +853,7 @@ The Prophet ﷺ departed this world before the expedition departed. The communit
 
 The son of a freed slave and an African woman commanded the men who would govern the Muslim world. Abu Bakr upheld that command at the moment of greatest political cost, because the principle was not symbolic — it had to hold precisely when holding it was difficult.
 
-==~~A modern reader will rightfully ask: If the blueprint was so radical, why did it not abolish the institution of slavery overnight? The answer lies in the difference between moral grandstanding and structural engineering. In a 7th-century global economy running entirely on uncompensated human labor, an immediate abolition would have collapsed the society into mass starvation and war. Instead, the blueprint engineered a system to starve the institution to death. It banned the enslavement of free people. It made the freeing of slaves the highest act of religious expiation for sins. It granted slaves the right to purchase their own freedom through legally binding contracts. It did not ban the institution overnight; it dismantled its economic viability and moral legitimacy, creating the structural off-ramp for its eventual eradication.~~==
+The same principle appeared in the civilization’s approach to slavery itself. In a world whose economies rested upon uncompensated human labor, the institution was too deeply woven into the social order to vanish through proclamation alone. The framework therefore moved against it at every structural level: it prohibited the enslavement of free people, transformed the freeing of slaves into one of the highest forms of religious expiation, and granted slaves the legal right to secure their own freedom through binding contracts. What had long been treated as a permanent feature of civilization was recast as a condition to be restricted, reduced, and steadily dismantled. The objective was not rhetorical condemnation but civilizational transformation — to deprive the institution of the moral legitimacy, legal permanence, and economic foundations that allowed it to survive.
 
 ---
 
@@ -1122,9 +1120,7 @@ What the relationship between the Prophet ﷺ and Aisha bint Abi Bakr produced i
 
 She corrected senior companions when she believed they were mistaken, including figures such as Umar ibn al-Khattab, and her scholarly judgments were preserved within the legal and hadith tradition with immense respect. She issued legal opinions consulted by later jurists and became one of the foremost teachers of the early Muslim community. Her role in public and political events, including the Battle of the Camel, further demonstrates that she understood herself — and was understood by others — as an active and consequential figure within the intellectual and political life of the community.
 
-==~~She was not a victim who survived her circumstances. She was a scholar and a jurist and a politician who built one of the most significant intellectual legacies in the tradition's history. The Prophet ﷺ told his community: _"Take half your religion from this woman."_ He was not speaking of someone he had diminished. He was speaking of someone he had recognized and invested and trusted with the transmission of his example to every generation that followed.~~==
-
-She was not remembered within the Islamic tradition as someone diminished or erased by her marriage, but as one of the greatest scholars, jurists, and transmitters of knowledge in Sunni Islam. The Prophet ﷺ repeatedly expressed love, trust, and esteem for her, and the Sunni scholarly tradition regarded her as among the most learned and influential women in Islamic history. Her legacy became inseparable from the preservation and transmission of the Prophetic Sunnah itself.
+She was not remembered within the Islamic tradition as someone diminished or erased by her marriage, but as one of the greatest scholars, jurists, and transmitters of knowledge in Sunni Islam who built one of the most significant intellectual legacies in the tradition's history. The Prophet ﷺ repeatedly expressed love, trust, and esteem for her, and the Sunni scholarly tradition regarded her as among the most learned and influential women in Islamic history. He was not speaking of someone he had diminished. He was speaking of someone he had recognized and invested and trusted with the transmission of his example to every generation that followed. Her legacy became inseparable from the preservation and transmission of the Prophetic Sunnah itself.
 
 ---
 
@@ -1162,13 +1158,13 @@ It is about the relationship closest to you. The one conducted in the privacy of
 
 Is the person across from you property that you manage, or a trust that you steward?
 
-> *The most intimate relationship you hold is a trust. The audit begins here.*
+>*The most intimate relationship you hold is a trust. The audit begins here.*
 > 
-**The Mirror:** Look at the closest relationship in your life — spouse, partner, parent, child. What is the operative logic of that relationship? When decisions are made, whose voice carries weight and whose is managed? The answer is not in what you say about the relationship but in what happens in the ordinary moments when nothing is at stake and no one is watching.
+>**The Mirror:** Look at the closest relationship in your life — spouse, partner, parent, child. What is the operative logic of that relationship? When decisions are made, whose voice carries weight and whose is managed? The answer is not in what you say about the relationship but in what happens in the ordinary moments when nothing is at stake and no one is watching.
 >
-> **The Test:** If the person across from you came to you tomorrow with a decision you disagreed with — about their career, their money, their time, their body — what would your first instinct be? To convince them, or to prevent them? Convincing is the instinct of a partner. Preventing is the instinct of an owner.
+>**The Test:** If the person across from you came to you tomorrow with a decision you disagreed with — about their career, their money, their time, their body — what would your first instinct be? To convince them, or to prevent them? Convincing is the instinct of a partner. Preventing is the instinct of an owner.
 >
- >**The Action:** Identify one area of your closest relationship where your logic has been ownership rather than stewardship — where you have managed rather than respected, controlled rather than trusted. Name it, without justification. Then consider what it would look like, specifically and practically, to hold that area as _Amanah_ — as something entrusted to you, for which you are accountable to something larger than your own preference.
+>**The Action:** Identify one area of your closest relationship where your logic has been ownership rather than stewardship — where you have managed rather than respected, controlled rather than trusted. Name it, without justification. Then consider what it would look like, specifically and practically, to hold that area as _Amanah_ — as something entrusted to you, for which you are accountable to something larger than your own preference.
 
 ---
 
@@ -1416,7 +1412,7 @@ Abu Bakr al-Siddiq, dying of illness eighteen months after the Prophet ﷺ, dire
 
 Umar ibn al-Khattab, stabbed and dying over three days, sent his son Abdullah to Aisha with one request — not a political instruction, not a designation of a successor. He asked her permission to be buried beside the Prophet ﷺ and Abu Bakr. When she said yes, he wept. He said nothing in the world mattered more to him than that permission. Then he turned to the accounting. He dictated his obligations, the debts incurred in administering an empire, and told his son: count what I owe. Count everything. Pay it all.
 
-==Uthman ibn Affan, besieged in his own home by men from the very community he had helped govern, was repeatedly offered armed protection by companions and supporters prepared to fight and die for him. He refused them all. He would not permit Muslim blood to be spilled for his safety. The man who had once financed armies from his own wealth and purchased the well of Rumah so the people of Medina could drink freely spent his final days under siege with the Qur'an before him while the walls of his own city closed around him. When the men finally entered his house, he still forbade retaliation. He died unwilling to preserve his own life at the cost of Muslim blood.==
+Uthman ibn Affan, besieged in his own home by men from the very community he had helped govern, was repeatedly offered armed protection by companions and supporters prepared to fight and die for him. He refused them all. He would not permit Muslim blood to be spilled for his safety. The man who had once financed armies from his own wealth and purchased the well of Rumah so the people of Medina could drink freely spent his final days under siege with the Qur'an before him while the walls of his own city closed around him. When the men finally entered his house, he still forbade retaliation. He died unwilling to preserve his own life at the cost of Muslim blood.
 
 Ali ibn Abi Talib, struck by a poisoned sword, used his remaining hours to instruct those around him: give his assassin one retributive strike — no more than had been done to him, and nothing beyond it. Then settle the debts. Return what is owed.
 
@@ -1548,9 +1544,9 @@ Is it more plausible that a man who named women as a sacred trust from God — w
 
 Is it more plausible that a man who died with his shield pledged to a creditor for food, who paid three dirhams publicly in a mosque because he preferred a small accountability in this world to carrying a debt into the next, was a tyrant seeking dominion?
 
-A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. History is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles, ==~~Thomas Jefferson espoused liberty while personally maintaining a system of enslavement — who meant what they said in the moment of saying it and found that the cost of living it was higher than anticipated~~==. The distance between proclamation and practice is not always simple hypocrisy. Sometimes it is the ordinary gap between what humans aspire to and what they manage. Why should this man be different? 
+A skeptic will note — correctly — that human history is full of men who wrote beautiful declarations while living brutal contradictions. History is full of men who wrote beautiful declarations of equality while conducting their lives according to different principles. Thomas Jefferson, an American founding father, espoused liberty while personally maintaining a system of enslavement — who meant what they said in the moment of saying it and found that the cost of living it was higher than anticipated. The distance between proclamation and practice is not always simple hypocrisy. Sometimes it is the ordinary gap between what humans aspire to and what they manage. Why should this man be different? 
 
-The answer is not that he was perfect. The answer is in the ledger of the specific actions taken at the highest stakes. Thomas Jefferson did not free his enslaved people when he had the power to do so. The man on the hillside at Arafat, at the moment of maximum power and minimum accountability, freed the people who had enslaved and murdered his followers and waived his own family's financial claims. The difference is not between a flawed man and a perfect one. It is between a man whose actions ran with his principles and a man whose actions ran against them.
+The answer is in the ledger of the specific actions taken at the highest stakes. Thomas Jefferson did not free his enslaved people when he had the power to do so. The man on the hillside at Arafat, at the moment of maximum power and minimum accountability, freed the people who had enslaved and murdered his followers and waived his own family's financial claims. The difference is not between a flawed man and a perfect one. It is between a man whose actions ran with his principles and a man whose actions ran against them.
 
 The Caricature is not merely morally ugly. It is logically incoherent. It requires us to believe that the man's final, most solemn, most public statement of everything he had learned and built and stood for was a performance — that the hundred thousand witnesses were deceived, that the principles were invented for the occasion, that the life which produced the sermon was disconnected from the sermon it produced. It requires us to ignore not one or two inconvenient facts but the entire weight of the evidence, and to replace that evidence with a shadow that has never had to answer for itself.
 
@@ -1614,11 +1610,11 @@ The text below is a scholarly composite drawn from the following authenticated s
 *   Sunan Abi Dawud — Kitab al-Manasik
 *   Jami' at-Tirmidhi — Kitab al-Hajj and Kitab al-Tafsir
 *   Musnad Ahmad ibn Hanbal
-*   Sirat Rasul Allah — Ibn Ishaq ~~(Guillaume translation)~~
+*   Sirat Rasul Allah — Ibn Ishaq
 
 Section headings in brackets are editorial additions to aid navigation. The Arabic text references following each section indicate the primary source for that passage. The translation is fresh and is calibrated for clarity and precision; it does not follow any single existing published translation.
 
-One note on transmission: the racial equality declaration beginning "All mankind is from Adam and Eve. An Arab has no superiority over a non-Arab..." is transmitted primarily through Musnad Ahmad ibn Hanbal and is not found in this precise form in Sahih al-Bukhari or Sahih Muslim. Its attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, and it is retained here on that basis. ~~Readers who wish to examine the transmission question in depth will find Jonathan A.C. Brown's work on hadith methodology (listed in Further Reading) a useful entry point.~~
+One note on transmission: the racial equality declaration beginning "All mankind is from Adam and Eve. An Arab has no superiority over a non-Arab..." is transmitted primarily through Musnad Ahmad ibn Hanbal and is not found in this precise form in Sahih al-Bukhari or Sahih Muslim. Its attribution to the Farewell Sermon is accepted by the majority of classical and modern Islamic scholars, and it is retained here on that basis.
 
 ---
 
@@ -1775,7 +1771,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 
 **Seerah** (سيرة, *sīra*)
 *   ***Conceptual Translation:*** *The Prophet's Biography*
-*   ***Definition:*** The body of historical literature documenting the life of the Prophet Muhammad ﷺ. The earliest and most influential Seerah is that of Muhammad ibn Ishaq (d. 768 CE), preserved in the recension of Ibn Hisham ~~and translated into English by Alfred Guillaume~~. Later significant works include the Seerah by Ibn Sa'd ~~and the more recent biography by Martin Lings~~. The Seerah, alongside the hadith collections, provides the biographical evidence for the "Forged in Fire" stories throughout this book.
+*   ***Definition:*** The body of historical literature documenting the life of the Prophet Muhammad ﷺ. The earliest and most influential Seerah is that of Muhammad ibn Ishaq (d. 768 CE), preserved in the recension of Ibn Hisham. Later significant works include the Seerah by Ibn Sa'd. The Seerah, alongside the hadith collections, provides the biographical evidence for the "Forged in Fire" stories throughout this book.
 
 **Talbiyah** (تلبية, *talbiya*)
 *   ***Conceptual Translation:*** *The Pilgrim's Cry*
@@ -1861,7 +1857,7 @@ Additional passages are transmitted by Abu Umama al-Bahili, Sulayman ibn Amr al-
 **Ibn Ishaq (Muhammad ibn Ishaq ibn Yasar)**
 *   **Lived:** c. 704–768 CE
 *   **Role:** Biographer of the Prophet ﷺ
-*   **Biography:** The earliest and most authoritative biographer of the Prophet Muhammad ﷺ, whose Sirat Rasul Allah (Life of the Messenger of God) is the foundation of all subsequent prophetic biography. Writing approximately a century after the Prophet's death, he collected oral accounts, poetry, and documents from across the Islamic world. His work survives primarily in the recension of Ibn Hisham ~~and was translated into English by Alfred Guillaume~~. Nearly all narrative biographical details cited in this book trace their origin to Ibn Ishaq.
+*   **Biography:** The earliest and most authoritative biographer of the Prophet Muhammad ﷺ, whose Sirat Rasul Allah (Life of the Messenger of God) is the foundation of all subsequent prophetic biography. Writing approximately a century after the Prophet's death, he collected oral accounts, poetry, and documents from across the Islamic world. His work survives primarily in the recension of Ibn Hisham. Nearly all narrative biographical details cited in this book trace their origin to Ibn Ishaq.
 
 **Al-Tabari (Muhammad ibn Jarir al-Tabari)**
 *   **Lived:** 839–923 CE
@@ -1894,7 +1890,7 @@ For biographical narrative and historical context, the primary source is the Sir
 Martin Lings's *Muhammad: His Life Based on the Earliest Sources* (Islamic Texts Society, 1983) is used as a scholarly secondary reference that combines rigorous sourcing with narrative accessibility.
 
 ##### 4. The Quran
-Quranic verses are cited by surah (chapter) and ayah (verse) number in standard notation. Translations are the author's own renderings, consulting multiple established translations ~~including those of Abdullah Yusuf Ali, Muhammad Asad, and Saheeh International~~. The aim is accuracy and clarity, and not focussing any single school of interpretation.
+Quranic verses are cited by surah (chapter) and ayah (verse) number in standard notation. Translations are the author's own renderings, consulting multiple established translations including those of Muhaddith al-Azam Syed Mohammad Ashrafi Jilani, Ala Hadrat Ahmed Raza Khan. The aim is accuracy and clarity, and not focussing any single school of interpretation.
 
 ##### 5. Classical Scholarship
 For the interpretation of contested verses (particularly Quran 4:34 on Qiwamah and Daraba), the primary classical reference is the Tafsir of Muhammad ibn Jarir al-Tabari (839–923 CE), which records the range of early scholarly opinion on these passages. Al-Tabari is cited not because he represents the majority classical position on every question but because his method — of recording multiple scholarly opinions with their chains of transmission — allows the reader to see that the interpretive tradition was itself contested from the beginning.
