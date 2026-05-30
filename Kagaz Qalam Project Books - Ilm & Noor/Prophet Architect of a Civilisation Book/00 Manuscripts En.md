@@ -70,7 +70,7 @@ The human sea begins to stir. The tents open and they emerge — and now you can
 
 But do not mistake this for a pilgrimage of ease. Feel what is actually here.
 
-The dust has been working its way into every throat for days. The water skins went warm by midmorning and stayed warm. The skin of every person in this valley carries the evidence of how far they traveled to get here — cracked lips, calloused feet, the exhaustion of a body that has been moving toward something for so long it has forgotten what stillness feels like. They are not here because it was comfortable. They are here because they could not have stayed away. In that shared difficulty — the same blisters, the same thirst, the same grit between the teeth — the walls that the world built between them have come down.
+The dust has been working its way into every throat for days. Water skins went warm by midmorning and stayed warm. The skin of every person in this valley carries the evidence of how far they traveled to get here — cracked lips, calloused feet, the exhaustion of a body that has been moving toward something for so long it has forgotten what stillness feels like. They are not here because it was comfortable. They are here because they could not have stayed away. In that shared difficulty — the same blisters, the same thirst, the same grit between the teeth — the walls that the world built between them have come down.
 
 The proud chieftain stands in the same white cloth as the man who was, three weeks ago, his slave.
 
@@ -448,7 +448,7 @@ The sermon's first pillar made the body safe. This one addresses what happens to
 
 His name, for our purposes, is Zayd. He is not one man but many — the distillation of what the historical record tells us happened to people who entered the financial arrangements that governed 7th-century Mecca. A farmer on the arid outskirts of the city. The land is his father's and his grandfather's before that. In good years it produces enough dates and barley to feed his family and sell a small surplus. In bad years it produces anxiety.
 
-This is a bad year. The rains have not come. The well has turned brackish. The date palms are not dying but they are not producing, and the barley that should be standing at knee height by now is a field of brown stalks. Zayd's reserves are gone. His children are hungry.
+This is a bad year. The rains have not come. The well has turned brackish. Date palms are not dying but they are not producing, and the barley that should be standing at knee height by now is a field of brown stalks. Zayd's reserves are gone. His children are hungry.
 
 One door is available. He walks through the heat of the city to a stone house belonging to a man known for his business acumen. The lender listens with the practiced sympathy of a man whose sympathy costs him nothing. Zayd does not think about compound interest. He thinks about his children's hunger, which is the only calculation his mind has room for right now. He offers a solution: ten silver dirhams, enough for grain to last six months. The terms are the standard practice of the time — _riba al-jahiliyyah_, the interest of the age of ignorance. If Zayd cannot repay in six months, the principal doubles. Not interest compounding at a percentage. The amount itself doubles. Twenty dirhams. Then forty. Then eighty.
 
@@ -572,7 +572,7 @@ This is what the alternative economy looked like when it was actually built — 
 
 In the sermon at Arafat, having declared the abolition, the Prophet ﷺ did what he had done with the blood-money claim in the previous declaration. He named a specific claim, and it was his own.
 
-His uncle Abbas ibn Abd al-Muttalib was among the wealthiest men in Mecca, his wealth built significantly on the interest-bearing instruments the sermon was now abolishing. Standing before a hundred thousand people, the Prophet ﷺ declared that the first _riba_ he was cancelling was his uncle's outstanding claims.
+His uncle Abbas ibn Abd al-Muttalib was among the wealthiest men in Mecca, his wealth built majorly on the interest-bearing instruments the sermon was now abolishing. Standing before a hundred thousand people, the Prophet ﷺ declared that the first _riba_ he was cancelling was his uncle's outstanding claims.
 
 Not a stranger's debt. Not someone with no connection to him. His own family's claims, waived publicly, before the assembly that would carry the ruling to every corner of the peninsula.
 
@@ -633,7 +633,7 @@ The market at Busra stood at the northern end of the great trade routes — good
 
 Maysarah positioned himself where he could observe without being observed.
 
-A merchant from the city came to examine a consignment of Yemeni leather. The quality was good throughout — except for one section near the bottom of a bundle where the tanning had been slightly uneven, leaving the hide less supple than the rest. A defect not significant enough to matter once the leather was worked. Not visible without handling. The kind of thing that stayed at the bottom of the bundle, in every transaction Maysarah had witnessed, until the buyer had paid and left.
+A merchant from the city came to examine a consignment of Yemeni leather. The quality was good throughout — except for one section near the bottom of a bundle where the tanning had been slightly uneven, leaving the hide less supple than the rest. A defect not large enough to matter once the leather was worked. Not visible without handling. The kind of thing that stayed at the bottom of the bundle, in every transaction Maysarah had witnessed, until the buyer had paid and left.
 
 The young man reached into the bundle and brought the section out.
 
@@ -967,7 +967,7 @@ The ultrasound technician in the nearest town will tell them the sex for a fee t
 
 What happens next is not the product of cruelty. It is the product of a system that has made female lives appear more expensive than male lives, that has distributed the costs of daughters across the families who receive them rather than across the society that benefits from them, that has made the calculation feel rational because the system has made it rational.
 
-The girl in the ultrasound picture is not buried alive. The 7th century was in that sense more visible in its brutality. She is simply not brought into the world. The burial has been moved inside the womb, made invisible, given a medical vocabulary that renders it manageable. Sen counted more than 100 million of these invisibilities — a number that subsequent demographers have revised upward significantly as cheap ultrasound spread further — and called them missing women.
+The girl in the ultrasound picture is not buried alive. The 7th century was in that sense more visible in its brutality. She is just not brought into the world. The burial has been moved inside the womb, made invisible, given a medical vocabulary that renders it manageable. Sen counted more than 100 million of these invisibilities — a number that subsequent demographers have revised upward significantly as cheap ultrasound spread further — and called them missing women.
 
 The sermon's revolution was addressed to this — not to the specific instrument, but to the underlying valuation. To the system that made the calculation rational. To the belief that a female life is a liability that the people who hold it are entitled to reduce.
 
@@ -977,7 +977,7 @@ The sermon's revolution was addressed to this — not to the specific instrument
 
 It is against this baseline — _wa'd al-banat_, the weeping father who hides his face, the daughter who arrives into a world that has already decided what she costs — that the voice from the hillside at Arafat speaks.
 
-The crowd of a hundred thousand contains men who grew up in this world. Men who understood, from the inside, what it meant to value a son differently from a daughter and to feel that this was simply the nature of things.
+The crowd of a hundred thousand contains men who grew up in this world. Men who understood, from the inside, what it meant to value a son differently from a daughter and to feel that this was the nature of things.
 
 Into this understanding the sermon delivers a reframing so fundamental that it changes the accountability structure of every intimate relationship:
 
@@ -1101,7 +1101,7 @@ What the relationship between the Prophet ﷺ and Aisha bint Abi Bakr produced i
 
 She corrected senior companions when she believed they were mistaken, including figures such as Umar ibn al-Khattab, and her scholarly judgments were preserved within the legal and hadith tradition with great respect. She issued legal opinions consulted by later jurists and became one of the foremost teachers of the early Muslim community. Her role in public and political events, including the Battle of the Camel, further demonstrates that she understood herself — and was understood by others — as an active and consequential figure within the intellectual and political life of the community.
 
-She was not remembered within the Islamic tradition as someone diminished or erased by her marriage, but as one of the greatest scholars, jurists, and transmitters of knowledge in Sunni Islam who built one of the most significant intellectual legacies in the tradition's history. The Prophet ﷺ repeatedly expressed love, trust, and esteem for her, and the Sunni scholarly tradition regarded her as among the most learned and influential women in Islamic history. He was not speaking of someone he had diminished. He was speaking of someone he had recognized and invested and trusted with the transmission of his example to every generation that followed. Her legacy became inseparable from the preservation and transmission of the Prophetic Sunnah itself.
+She was not remembered within the Islamic tradition as someone diminished or erased by her marriage, but as one of the greatest scholars, jurists, and transmitters of knowledge in Sunni Islam who built one of the greatest intellectual legacies in the tradition's history. The Prophet ﷺ repeatedly expressed love, trust, and esteem for her, and the Sunni scholarly tradition regarded her as among the most learned and influential women in Islamic history. He was not speaking of someone he had diminished. He was speaking of someone he had recognized and invested and trusted with the transmission of his example to every generation that followed. Her legacy became inseparable from the preservation and transmission of the Prophetic Sunnah itself.
 
 ---
 
@@ -1169,7 +1169,7 @@ Later, there was a bone with some meat remaining on it. She had eaten from one s
 
 He was eating with his wife in the way he preferred to eat with her — seeking out the trace of her presence rather than avoiding it, treating her physical reality not as something to be managed at a careful distance but as something to be drawn close.
 
-Aisha reported these moments. She reported them because she understood what they meant — because she had grown up in a world that had an entirely different understanding of what a woman in her condition was, and she had watched this man spend years quietly demonstrating something else. No decree had abolished the ancient wall. He had simply declined to observe it, day after day, in the unhurried language of a cup turned in the hands.
+Aisha reported these moments. She reported them because she understood what they meant — because she had grown up in a world that had an entirely different understanding of what a woman in her condition was, and she had watched this man spend years quietly demonstrating something else. No decree had abolished the ancient wall. He had declined to observe it, day after day, in the unhurried language of a cup turned in the hands.
 
 ---
 
@@ -1247,7 +1247,7 @@ The image is precise in a way that Raju may not have fully intended. The tiger i
 
 This is what a small thing becomes, given sufficient time and sufficient silence.
 
-When the letter arrived, the stock lost almost 78% of its value in a single day. The 53,000 people who had worked honestly — who had met their deadlines, delivered their projects, built their reputations on the assumption that they were part of something real — learned on January 7th that they had been riding the same tiger without knowing it, without having chosen it, without any of the small adjustments being theirs. The pension funds. The ordinary investors who had bought shares in a company with "truth" in its name. The accumulated labor and trust of thousands of people, used as the substrate on which a fiction was maintained until maintaining it became impossible.
+When the letter arrived, the stock lost almost 78% of its value in a single day. The 53,000 people who had worked honestly — who had met their deadlines, delivered their projects, built their reputations on the assumption that they were part of something real — learned on January 7th that they had been riding the same tiger without knowing it, without having chosen it, without any of the small adjustments being theirs. Pension funds. Ordinary investors who had bought shares in a company with "truth" in its name. The accumulated labor and trust of thousands of people, used as the substrate on which a fiction was maintained until maintaining it became impossible.
 
 The gap between what Satyam proclaimed and what it practiced was not concealed in fine print or legal obscurity. It was written into the company's name. _Satyam. Truth._ And beneath it, for years, a parallel ledger bearing no relationship to reality, maintained through the daily labour of pretending that the original small thing had never happened.
 
@@ -1265,9 +1265,9 @@ Two companies. Two continents. Two decades. One mechanism. These institutions di
 
 Before the revelation came the reputation.
 
-In the year 605 CE, five years before the first word of the Quran descended on a man meditating in a cave above Mecca, a crisis had paralyzed the city. The Kaaba — the sacred house at the center of Mecca, the axis around which the entire religious and commercial life of Arabia organized itself — had been damaged by flooding and was being rebuilt by the clans of the Quraysh. The reconstruction had proceeded without significant incident through the laying of the foundation, the raising of the walls, the placement of the roof. It stalled, finally, at the eastern corner.
+In the year 605 CE, five years before the first word of the Quran descended on a man meditating in a cave above Mecca, a crisis had paralyzed the city. The Kaaba — the sacred house at the center of Mecca, the axis around which the entire religious and commercial life of Arabia organized itself — had been damaged by flooding and was being rebuilt by the clans of the Quraysh. The reconstruction had proceeded without incident through the laying of the foundation, the raising of the walls, the placement of the roof. It stalled, finally, at the eastern corner.
 
-The Black Stone — ancient, venerated, the object of pilgrimage from across the peninsula — needed to be restored to its position. The act of placing it was an honor, and the honor, in a world organized entirely around the relative standing of clans, was not divisible. Every significant clan of the Quraysh wanted the right to carry the stone to its place. None would accept that right going to a rival. The dispute had moved, with the compressed velocity of a world where insult and violence were never far apart, from argument to oath to the drawing of weapons.
+The Black Stone — ancient, venerated, the object of pilgrimage from across the peninsula — needed to be restored to its position. The act of placing it was an honor, and the honor, in a world organized entirely around the relative standing of clans, was not divisible. Every major clan of the Quraysh wanted the right to carry the stone to its place. None would accept that right going to a rival. The dispute had moved, with the compressed velocity of a world where insult and violence were never far apart, from argument to oath to the drawing of weapons.
 
 A bowl of blood had been brought to the gathering — the ceremony that preceded a binding commitment to fight to the death. The men present dipped their hands. They were prepared to kill each other over who would place one stone. They were prepared to destroy the city they were in the process of rebuilding.
 
@@ -1277,7 +1277,7 @@ An elder among the Quraysh, a man named Abu Umayyah, proposed a resolution: let 
 
 They waited. They watched the gate.
 
-The next man through was thirty-five years old. He came from a respected but not particularly powerful branch of the Quraysh. He had no army behind him, no political office, no formal authority of any kind that would give his judgment the force of law. He had been a merchant, a caravan manager, a man who spent his working days in the most cynical marketplace in Arabia and had built, through those days, a reputation that the city's most skeptical traders had given him freely and entirely unbidden.
+The next man through was thirty-five years old. He came from a respected but not particularly powerful branch of the Quraysh. Behind him was no army, no political office, no formal authority of any kind that would give his judgment the force of law. He had been a merchant, a caravan manager, a man who spent his working days in the most cynical marketplace in Arabia and had built, through those days, a reputation that the city's most skeptical traders had given him freely and entirely unbidden.
 
 They called him _Al-Amin_. The Trustworthy One.
 
@@ -1369,7 +1369,7 @@ He then added: _"Whoever has a right over me, let him claim it. I do not want to
 
 Consider what this moment contains.
 
-He had received, across twenty-three years, a revelation that his community believed to be the word of God. He had built, from the unpromising material of a fractured, tribal, largely illiterate society, a community that would become one of the most significant civilizations in human history. He had united the Arabian peninsula. He stood in a mosque surrounded by people who would have given their lives for him without a moment's hesitation — people to whom he was not merely a leader or a statesman but the organizing center of their entire understanding of what life was for.
+He had received, across twenty-three years, a revelation that his community believed to be the word of God. He had built, from the unpromising material of a fractured, tribal, largely illiterate society, a community that would become one of the most significant and greatest civilizations in human history. He had united the Arabian peninsula. He stood in a mosque surrounded by people who would have given their lives for him without a moment's hesitation — people to whom he was not merely a leader or a statesman but the organizing center of their entire understanding of what life was for.
 
 He chose, in that moment, to be audited.
 
@@ -1401,7 +1401,7 @@ The command at Arafat was to pass on the words. The caliphs passed on the practi
 
 The sermon's final command, issued at Arafat to the hundred thousand gathered before him, was to pass his words to those who were absent. For centuries this has been understood primarily as an instruction to propagate — to carry the message outward through speech and teaching, to tell it to those who had not heard it.
 
-But read alongside everything that preceded it in his life — the sanctity of life demonstrated at the gates of Mecca by releasing men who had murdered his friends, the economic principle enacted by cancelling his own uncle's outstanding interest before cancelling anyone else's, the declaration of equality made real by placing Bilal on the Kaaba when the Quraysh chieftains stood waiting, the partnership of the home lived in the daily intimacies of shared cups and footraces in the desert, the accountability offered in a mosque three months before his death for a debt of three dirhams — the command is asking for something more fundamental than speech.
+But read alongside everything that preceded it in his life — the sanctity of life demonstrated at the gates of Mecca by releasing men who had murdered his friends, the economic principle enacted by cancelling his own uncle's outstanding interest before cancelling anyone else's, the declaration of equality made real by placing Bilal on the Kaaba when the Quraysh chieftains stood waiting, the partnership of the home lived in the daily intimacies of shared cups and footraces in the desert, the accountability offered in a mosque three months before his death for a debt of three dirhams — the command is asking for something deeper than speech.
 
 You cannot pass on what you have not become. The most powerful form of transmission is not the word but the life that the word describes — the texture of how you handle what is entrusted to you, how you treat the person in front of you when treating them well costs something, how you behave in the small things when no one who could reward or punish you is watching.
 
