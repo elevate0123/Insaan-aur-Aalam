@@ -1461,8 +1461,6 @@ This is what was spoken on that hillside in the year 632 CE. It was not spoken o
 
 The Prophet ﷺ died three months later. He left no unambiguous designation of a successor. The community he had built stood without him for the first time. Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph. He rose before the community and refused to inherit what he had been given.
 
-Abu Bakr al-Siddiq, his closest companion, was chosen as the first caliph. He rose before the community and refused to inherit what he had been given.
-
 > _O people — I have been appointed as your ruler, though I am not the best among you. If I do good, then help me. If I do wrong, then set me right._
 > 
 > _Truth is a trust. Lying is a betrayal._
