@@ -320,5 +320,98 @@ Every single one of the 40 Stations will strictly follow this 3-part layout:
 ---
 ---
 
+# Draft 01
+
+## STAGE 1: AL-BIDAYAH (The Inner Foundation)
+*The purification of the heart before the feet touch the field.*
+
+### Station 1: The Purity of Intention (Al-Ikhlas)
+
+**The Crown (Al-Taj):**
+*"And they were not commanded except that they should worship Allah, making their religion purely for Him, turning away from all falsehood..."* 
+*(Surah Al-Bayyinah, 98:5)*
+
+**The Pillar (Al-Amud):**
+The Messenger of Allah (ﷺ) said: *"The first of people against whom judgment will be pronounced on the Day of Resurrection will be... a man whom Allah had made wealthy... Allah will say: 'What did you do?' He will say: 'I left no path in which You like money to be spent without spending in it for Your sake.' Allah will say: 'You lie. You spent so that it might be said: He is generous. And it has been said.' Then he will be dragged on his face and thrown into the Fire."* 
+*(Sahih Muslim)*
+
+**The Admonition (Tafakkur):**
+O Khadim, pause at the threshold of your service and tremble before this reality. The first fuel of the Hellfire is not the idolater or the thief; it is the philanthropist whose heart was corrupt. The Nafs (ego) is a master of deception. It will make you sweat in the midday sun and exhaust your youth in the Trust, all while quietly stealing your reward by making you crave the applause of men. 
+
+Before you step into the field, interrogate your soul. Are you serving the creation so your name is praised in the branch meetings? If the banners of the Trust were torn down and your name was erased from the tongues of men, would your feet still stand firm in this service? But beware the trap of Satan: do not abandon the work out of fear of showing off. To leave a good deed because of the people is also a disease. Stay in the field, but fight your ego. A mountain of charity done for the Dunya is reduced to ashes, but an atom's weight of service done purely for the Countenance of Allah is eternal.
+
+***
+
+### Station 2: The Terror of the Trust (Al-Amanah)
+
+**The Crown (Al-Taj):**
+*"O you who believe! Do not betray Allah and the Messenger, nor betray your trusts knowingly."* 
+*(Surah Al-Anfal, 8:27)*
+
+**The Pillar (Al-Amud):**
+The Messenger of Allah (ﷺ) said: *"There is no faith in him who is not trustworthy (has no Amanah), and there is no religion in him who does not keep his promise."* 
+*(Musnad Ahmad)*
+
+**The Admonition (Tafakkur):**
+O Khadim, know that the wealth and resources of the Trust are not a privilege; they are a terrifying burden. You are handling the *Bait-ul-Mal* (Public Treasury) of the Ummah. Every rupee of Zakat, Sadaqah, and Lillah placed in your hands is a blazing coal from the Fire if mishandled. 
+
+Do not let familiarity breed arrogance. If you use the Trust’s vehicle for a personal errand, if you divert funds to a project out of personal favoritism, or even if you waste hours scrolling on your phone when you pledged your time to a relief drive, you have breached the covenant of Allah. Time stolen from the Trust is wealth stolen from the poor. Treat the resources of the Trust with more fear than you would treat the wealth of a fierce king, for you will be audited for every coin, every drop of fuel, and every minute by the King of Kings.
+
+***
+
+### Station 3: The Disease of Ostentation (Riya)
+
+**The Crown (Al-Taj):**
+*"O you who believe! Do not invalidate your charities by boasting of favors and by causing hurt, like him who spends his wealth only to be seen by people..."* 
+*(Surah Al-Baqarah, 2:264)*
+
+**The Pillar (Al-Amud):**
+The Messenger of Allah (ﷺ) said: *"What I fear for you the most is the minor polytheism (Shirk al-Asghar)."* The companions asked, *"What is it, O Messenger of Allah?"* He replied, *"Riya (showing off)."* 
+*(Musnad Ahmad)*
+
+**The Admonition (Tafakkur):**
+O Khadim, beware the hidden idolatry of the modern age. Today, the lens of the smartphone is quicker to capture the deed than the pen of the recording angel. When you stand among the broken and the needy, the Nafs will whisper to you to capture a selfie, to update your personal status, and to broadcast your virtue so the screens of men may validate your piety. 
+
+Listen to the warning of the Beloved (ﷺ). He called this *Shirk*—associating partners with Allah. When you perform a deed for Allah, but hope your contacts see it, you have divided your Lord's absolute right. A deed infected with *Riya* is like a beautiful palace built on a swamp; it will inevitably sink. Bury your personal good deeds in the earth of obscurity, just as you bury your sins.
+
+***
+
+### Station 4: The Paradox of the Audit (Tawazun)
+
+**The Crown (Al-Taj):**
+*"If you give charity openly, what an excellent thing it is; and if you hide it and give it to the poor, it is the best for you; and He will remove some of your sins..."* 
+*(Surah Al-Baqarah, 2:271)*
+
+**The Pillar (Al-Amud):**
+The Messenger of Allah (ﷺ) said: *"The one who recites the Quran loudly is like the one who gives charity openly, and the one who recites the Quran silently is like the one who gives charity secretly."* 
+*(Sunan Abu Dawud)*
+
+**The Admonition (Tafakkur):**
+O Khadim, here you walk a razor’s edge between the demands of the Dunya and the safety of the Akhirah. The law of the land and the trust of the donor demand the official photograph, the receipt, and the public register. This is the Fiqh of transparency. But the law of the heart demands absolute concealment. How do you survive this paradox?
+
+Learn from the one who recites the Quran loudly to teach others, yet his heart remains bowed in private awe. When you must raise the camera to document the relief work for the Trust's records, you must split your reality. Let your hand take the picture to fulfill the right of the donor, but let your heart detach entirely from the image. When the camera flashes, let your heart make *Istighfar* (seek forgiveness). Tell your Nafs: *"This record is for the audit of men, but my soul is terrified of the Audit of Allah."* Be public in your organizational administration, but strictly hidden in your personal devotion.
+
+***
+
+### Station 5: Seeking No Reward (La Nuriidu Minkum Jaza'an)
+
+**The Crown (Al-Taj):**
+*"[Saying], 'We feed you only for the sake of Allah. We do not seek from you any reward or any gratitude.'"* 
+*(Surah Al-Insan, 76:9)*
+
+**The Pillar (Al-Amud):**
+Sayyidah Ayesha (Radi Allahu Anha) would send charity to families in need and ask her servant to memorize the exact Duas the receiving family made for them. She would then make the exact same Duas for the family, saying: *"We return their supplications to them, so that our charity remains purely for Allah."* 
+*(Al-Musannaf)*
+
+**The Admonition (Tafakkur):**
+O Khadim, gaze upon the majestic standard of the *Ahle al-Bayt* (the Household of the Prophet ﷺ). They did not just refuse worldly payment for their service; they refused even the spiritual payment of a Du'a, lest their deed lose its absolute purity. 
+
+When you hand provision to the poor, what do you expect in return? If you expect them to smile, to thank you, or to praise the Trust, your deed is fractured. And if you become angry when the beneficiary is ungrateful or harsh, it is proof that you were serving them for your own ego, not for the Countenance of Allah. The true Khadim is deaf to the praise of the creation and blind to their ingratitude. You are merely a postman delivering the provision of Ar-Razzaq (The Provider). Does the postman demand gratitude for delivering a letter that was never his to begin with?
+
+***
+---
+
+
+
 
 
