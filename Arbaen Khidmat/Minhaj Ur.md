@@ -402,7 +402,7 @@ Rasool-Allah ﷺ ne farmaya: *"Qayamat ke din sabse pehle jin shakhs ka faisla h
 **Tafakkur:**
 Ay Khadim! Apni khidmat ki dehleez par thahro aur is haqiqat se kanpo. Jahannum ka pehla eendhan koi but-parast ya chor nahi, balki woh sakhawat karne wala shakhs hai jis ka dil na-pakeezah tha. *Nafs* fareb dene mein mahir hai. Yeh tumhein dopahar ki kadi dhoop mein paseena bahane par majboor karega, Trust ki khatir tumhari jawani ko thaka dega, magar khamoshi se tumhara sawab chura lega—sirf is liye ke tumhare dil mein logon ki wah-wah ki talab hogi.
 
-Maidan mein utarne se pehle, apni rooh se sawal karo. Kya tum makhlooq ki khidmat is liye kar rahe ho taake shakhon (branches) ki majalis mein tumhara naam sar-aankhon par rakha jaye? Agar Trust ke jhande gira diye jayein aur logon ki zabanon se tumhara naam mita diya jaye, toh kya tumhare qadam is khidmat par tab bhi jame rahenge? Magar Shaitan ke is jaal se bacho: numayish ke darr se neki chhorna bhi ek bimari hai. Maidan mein raho, magar apne *Nafs* se laro. Dunya ke liye ki gayi pahar bhar khairat raakh ho jati hai, magar sirf Allah ki raza ke liye ki gayi ek zarre barabar khidmat hamesha zinda rehti hai.
+Maidan mein utarne se pehle, apni rooh se sawal karo. Kya tum makhlooq ki khidmat is liye kar rahe ho taake Ulema wa Mashaikh ki majalis mein tumhara naam sar-aankhon par rakha jaye? Agar Trust ke jhande gira diye jayein aur logon ki zabanon se tumhara naam mita diya jaye, toh kya tumhare qadam is khidmat par tab bhi jame rahenge? Magar Shaitan ke is jaal se bacho: numayish ke darr se neki chhorna bhi ek bimari hai. Maidan mein raho, magar apne *Nafs* se laro. Dunya ke liye ki gayi pahaad bhar khairat raakh ho jati hai, magar sirf Allah ki raza ke liye ki gayi ek zarre barabar khidmat hamesha zinda rehti hai.
 
 ***
 
@@ -419,7 +419,7 @@ Rasool-Allah ﷺ ne farmaya: *"Us shakhs mein koi iman nahi jis mein amanat-dari
 **Tafakkur:**
 Ay Khadim! Jaan lo ke Trust ka sarmaya aur wasail tumhare liye koi saulat nahi, balki ek khaufnaak bojh hain. Tum Ummat ke *Bait-ul-Mal* (Awami Khazana) ke zimmedar ho. Zakat, Sadqa aur Lillah ka har woh rupaya jo tumhare hathon mein hai, agar usme khayanat hui toh woh Jahannum ka sulagta hua angara ban jayega.
 
-Apni dosti aur itminan ko takabbur na banne dena. Agar tum Trust ki gaadi ko kisi zaati kaam ke liye istemal karte ho, agar tum zaati pasand-na-pasand ki bina par sarmaye ko kisi project ki taraf modte ho, ya yahan tak ke jab tumne relief drive ke liye apna waqt waqf kiya tha aur tum usey phone par zaya karte ho, toh tumne Allah ke ahad (covenant) ko tora hai. Trust se churaya hua waqt, ghareebon se churaya hua maal hai. Trust ke wasail se us khauf ke sath pesh ao jaise kisi sakht badshah ke khazane se pesh aate ho, kyunke tumhein har ek sikke, har ek qatre tel aur har ek minute ka hisab-kitab "Badshahon ke Badshah" ko dena hai.
+Apni dosti aur itminan ko takabbur na banne dena. Agar tum Trust ki Amaanat ko, ya Trust ki kisi Ashya ko kisi zaati kaam ke liye istemal karte ho, agar tum zaati pasand-na-pasand ki bina par sarmaye ko kisi ese kaam ki taraf modte ho, ya yahan tak ke jab tumne Trust ke kaam ke liye apna waqt waqf kiya tha aur tum usey phone par zaya karte ho, toh tumne Allah ke ahad (covenant) ko tora hai. Trust se churaya hua waqt, ghareebon se churaya hua maal hai. Trust ke wasail se us khauf ke sath pesh ao jaise kisi sakht badshah ke khazane se pesh aate ho, kyunke tumhein har ek sikke, har ek qatre tel aur har ek minute ka hisab-kitab "Badshahon ke Badshah" ko dena hai.
 
 ***
 
@@ -434,7 +434,7 @@ Rasool-Allah ﷺ ne farmaya: *"Mujhe tumhare liye sabse zyada darr 'shirk-e-asgh
 *(Musnad Ahmad)*
 
 **Tafakkur:**
-Ay Khadim! Is jadeed dour ki chhupi hui but-parasti se bacho. Aaj kal jadeed aalaon (modern devices) ka lens amal ko qaid karne mein farishton ki qalam se zyada tez ho gaya hai. Jab tum toote hue aur mohtaj logon ke darmiyan khade hote ho, toh *Nafs* tumhare kaan mein phusphusata hai ke ek numayishi tasveer le lo, apne status par laga do, aur apni nekiyon ka ishtihar karo taake logon ki screens tumhari parhezgari ki gawahi dein.
+Ay Khadim! Is jadeed dour ki chhupi hui but-parasti se bacho. Jab tum toote hue aur mohtaj logon ke darmiyan khade hote ho, toh *Nafs* tumhare kaan mein phusphusata hai ke ek numayishi tasveer le lo, apne status par laga do, aur apni nekiyon ka ishtihar karo taake logon ke mobile ki screens tumhari parhezgari ki gawahi dein.
 
 Mehboob-e-Kainaat ﷺ ki tanbeeh suno. Unhone isay *Shirk* kaha—Allah ke sath shareek karna. Jab tum amal toh Allah ke liye karte ho, magar umeed rakhte ho ke tumhare jaan-pehchan wale usey dekhein, toh tumne apne Rab ke mutlaq haq ko taqseem kar diya. *Riya* se aalooda amal us khoobsurat mahal ki tarah hai jo daldal par banaya gaya ho; woh lazmi doob jayega. Apni zaati nekiyon ko khamoshi ki zameen mein is tarah dafan kar do, jaise tum apne gunahon ko chhupate ho.
 
@@ -451,7 +451,7 @@ Rasool-Allah ﷺ ne farmaya: *"Jisne Quran ko buland awaaz se padha woh uski tar
 *(Sunan Abu Dawud)*
 
 **Tafakkur:**
-Ay Khadim! Yahan tum dunya ki zarooraton aur Aakhirat ki salamti ke darmiyan ek talwar ki dhaar par chal rahe ho. Mulki qanoon aur sarmaya-daanon (donors) ka haq yeh hai ke rasmi tasveer, raseed aur sijilat (records) maujood hon. Yeh shfafiyat (transparency) ka Fiqh hai. Magar dil ka qanoon mukammal poshidgi (concealment) ka taqaza karta hai. Tum is kashmakash se kaise bachoge?
+Ay Khadim! Yahan tum dunya ki zarooraton aur Aakhirat ki salamti ke darmiyan ek talwar ki dhaar par chal rahe ho. Mulki qanoon aur sarmaya-daanon (donors) ka haq yeh hai ke rasmi tasveer, raseed aur records maujood hon. Yeh shfafiyat (transparency) ke liye zaruri hai. Magar dil ka qanoon mukammal poshidgi ka taqaza karta hai. Tum is kashmakash se kaise bachoge?
 
 Us shakhs se seekho jo doosron ko sikhane ke liye Quran buland awaaz se padhta hai, magar uska dil tanhayi mein khauf se jhuka rehta hai. Jab Trust ke dastavezat (records) ke liye tumhe tasveer leni pade, toh apni haqiqat ko do hisson mein baant lo. Apne hath ko tasveer lene do taake sarmaya-daan ka haq pura ho, magar apne dil ko us tasveer se mukammal taur par alag kar lo. Jab camera ki flash chamke, toh tumhara dil *Istighfar* kare. Apne *Nafs* se kaho: *"Yeh record insanon ke hisab-kitab ke liye hai, magar meri rooh Allah ke Hisab se kanpti hai."* Idare ki intizamia (administration) mein zahir raho, magar apni zaati ibadat mein sakhti se poshida raho.
 
@@ -468,7 +468,7 @@ Sayyidah Ayesha (Radi Allahu Anha) jab mohtaj khandanon ko sadqa bhejti toh apne
 *(Al-Musannaf)*
 
 **Tafakkur:**
-Ay Khadim! *Ahle al-Bayt* ke is aala meyar par nazar dalo. Unhone apni khidmat ke badle sirf dunyawi ujrat (payment) ko nahi thukraya, balki unhone ek dua ki rohani ujrat ko bhi thukra diya, taake unke amal ki pakeezgi mein koi sharak na aaye.
+Ay Khadim! *Ahle al-Bayt* ke is aala meyar par nazar dalo. Unhone apni khidmat ke badle sirf dunyawi ujrat ko nahi thukraya, balki unhone ek dua ki rohani ujrat ko bhi thukra diya, taake unke amal ki pakeezgi mein koi sharak na aaye.
 
 Jab tum kisi ghareeb ko rizq dete ho, toh badle mein kya umeed rakhte ho? Agar tum umeed karte ho ke woh muskuraye, tumhara shukriya ada kare, ya Trust ki tareef kare, toh tumhara amal toot gaya. Aur agar tum is baat par gussa hote ho ke *Sa'il* na-shukra hai ya sakht lehje mein baat kar raha hai, toh yeh is baat ki daleel hai ke tum unki khidmat Allah ke liye nahi, balki apne *Nafs* ki tasalli ke liye kar rahe the. Sacha Khadim makhlooq ki tareefon se behra aur unki na-shukri se andha hota hai. Tum toh sirf ek dakiya (postman) ho jo *Ar-Razzaq* ka bheja hua rizq pahuncha raha hai. Kya dakiya us khat ki delivery par shukriya mangta hai jo uska apna tha hi nahi?
 
@@ -504,9 +504,9 @@ Rasool-Allah ﷺ ne farmaya: *"Teen cheezein tabah kar dene wali hain: nafs ki k
 *(Al-Tabarani)*
 
 **Tafakkur:**
-Ay Ameer! Ay shakh (branch) ke sarbarah! *Ujb* (khud-pasandi) ke is khamosh qatil se bacho. Jab tum salana majlis mein baith kar sijilat (records) ko dekhte ho—150 se zyada shakhon, lakhon rupayon ki imdad, gaadiyon ke qafle aur hazaron khadimon ko—toh kya tumhara dil fakhr se phool jata hai? Kya tum khamoshi se is kamyabi ko apni hikmat-e-amli, apni qayadat ya apne sarmaya jama karne ki salahiyat ka natija samajhte ho?
+Ay Ameer! Ay branch ke sarbarah / Pramukh! *Ujb* (khud-pasandi) ke is khamosh qatil se bacho. Jab tum Trust ke beshumaar kaamo ko dekhte ho—toh kya tumhara dil fakhr se phool jata hai? Kya tum khamoshi se is kamyabi ko apni hikmat-e-amli, apni qayadat ya apne sarmaya jama karne ki salahiyat ka natija samajhte ho?
 
-Din-e-Hunayn ko yaad karo. Nabi ﷺ ke sahaba apni tadad dekh kar hairan hue, aur ek lamhe ke liye unhone Allah ke bajaye apni tadad par bharosa kiya. Natija fauri shikast tha. Ek aisi shakh jo tooti hui chhat ke neeche ho magar mukammal *Ikhlas* ke sath kaam kare, woh asmanon mein un sau shakhon se zyada bhari hai jo khud-pasandi ki bimari mein mubtala hon. Jis lamhe tum apni idarati kamyabi par naaz karne lage, usi lamhe *Nusrah* (Ilahi madad) utha li jati hai. Tum toh sirf ek qalam ho; Likhne wala toh Allah hai.
+Din-e-Hunayn ko yaad karo. Nabi ﷺ ke sahaba apni tadad dekh kar hairan hue, a lekin fir bhi Natija shikast tha. Ek aisi shakh jo tooti hui chhat ke neeche ho magar mukammal *Ikhlas* ke sath kaam kare, woh asmanon mein un sau shakhon se zyada bhari hai jo khud-pasandi ki bimari mein mubtala hon. Jis lamhe tum apni idarati kamyabi par naaz karne lage, usi lamhe *Nusrah* (Ilahi madad) utha li jati hai. Tum toh sirf ek qalam ho; Likhne wali zaat to sirf Allah ki hai.
 
 ***
 
@@ -538,9 +538,9 @@ Rasool-Allah ﷺ ne ek aise shakhs ka zikr kiya jo lambe safar se aaya, uske baa
 *(Sahih Muslim)*
 
 **Tafakkur:**
-Ay Khadim! Trust sirf gaadiyon ke tel ya checkbooks ki syahi se nahi chalta; yeh apne khadimon ki adhi-raaton ki duayon par chalta hai. Magar kya hota hai jab dua karne wala shakhs bazaar mein apni rooh ko bech chuka ho?
+Ay Khadim! Trust sirf paison, ya badi imaarato, ya dher sare sarmayadaron, se nahi chalta; yeh apne khadimon ki adhi-raaton ki duayon par chalta hai. Magar kya hota hai jab dua karne wala shakhs bazaar mein apni rooh ko bech chuka ho?
 
-Yeh na samjho ke tumhari karobari zindagi aur tumhari idarati khidmat alag-alag hain. Agar tum Gujarat ke bazaron mein dhoke-baazi, naap-tol mein kami, ya sood (Riba) ki gandagi se apni rozana ki roti kamate ho, aur phir shaam ko Trust mein aakar relief work karte ho, toh tumne is khaym-e-khidmat mein ek rohani zeher ghola hai. Haram ghiza se parwarish pane wala jism un hathon ko nahi utha sakta jo asmanon ko cheer den. Ummat lahu-luhan hai, aur usey tumhari qabool hone wali duayon ki sakht zaroorat hai. Apne karobar ko pakiza karo, taake jab tum kisi musibat-zada ilaqe mein khade ho kar pukarona, *'Ay Mere Rab!'*, toh asman ke darwaze tumhare liye khul jayen.
+Yeh na samjho ke tumhari karobari zindagi aur tumhari idarati khidmat alag-alag hain. Agar tum bazaron mein dhoke-baazi, naap-tol mein kami, ya sood (Riba) ki gandagi se apni rozana ki roti kamate ho, aur phir shaam ko Trust mein aakar deeni wa samaji wa falahi khidmat anjam dete ho, toh tumne is khaym-e-khidmat mein ek rohani zeher ghola hai. Haram ghiza se parwarish pane wala jism un hathon ko nahi utha sakta jo asmanon ko cheer den. Ummat lahu-luhan hai, aur usey tumhari qabool hone wali duayon ki sakht zaroorat hai. Apne karobar ko pakiza karo, taake jab tum kisi musibat-zada ilaqe mein khade ho kar pukarona, *'Ay Mere Rab!'*, toh asman ke darwaze tumhare liye khul jayen.
 
 ***
 
@@ -555,7 +555,7 @@ Rasool-Allah ﷺ ne farmaya: *"Yaqeenan, Allah us bande se mohabbat karta hai jo
 *(Sahih Muslim)*
 
 **Tafakkur:**
-Ay Khadim-e-Pichli-Saf! Yeh aakhri station tumhare liye hai. Tum woh ho jo mehfil khatam hone ke baad farsh saaf karte ho. Tum woh ho jo godam (warehouse) mein dabbo’n ko pack karte ho, jabke sarbarah stage par hote hain. *Intizamia* tumhara naam tak nahi janti, tumhein kabhi sar-meze laane ki dawat nahi milti, aur tumhari tasveer salana sijil (annual record) mein kabhi nahi chapti.
+Ay Khadim-e-Pichli-Saf! Yeh aakhri maqam tumhare liye hai. Tum woh ho jo mehfil khatam hone ke baad farsh saaf karte ho. Tum woh ho jo godam (warehouse) mein ration kit ke dabbo’n ko pack karte ho, jabke sarbarah stage par hote hain. Ho sakta hai ki *Intizamia* tumhara naam tak nahi janti, tumhein kabhi sar-meze laane ki dawat nahi milti, aur tumhari tasveer bhi social media mein kabhi nahi chapti.
 
 Khush raho, kyunke tum Allah ke mehboob ho. Nabi ﷺ ko khud Allah ne hukm diya ke apni nazrein un logon par jame rakho jo tumhari tarah poshida hain—woh khamosh ibadat-guzaar jinhein samaj ki ameeri-aur-shohrat wale log nazar-andaz kar dete hain. Dunyawi pehchan ki kami se apne dil ko na torna. Is Hadith mein zikr ki gayi "be-niyazi" (Ghinah) bataue (wallet) ki amiri nahi hai; yeh us rooh ki amiri hai jo *Intizamia* se kisi bhi tawajjo ki umeed nahi rakhti. Arsh ke farishte tumhara naam mukammal taur par jante hain. Poshida raho, mukhlis raho, aur jaan lo ke Qayamat ke din, yeh khamosh khadim wohi rohani shohrat payega jo zameen ke badshahon ko bhi naseeb nahi hui.
 
@@ -597,7 +597,7 @@ Rasool-Allah ﷺ ne farmaya: *"Teen log aise hain jinse Allah Qayamat ke din kal
 **Tafakkur:**
 Ay Khadim! Zaban ke is khauf se kanpo. Tum das saal tak ek khandan ki kafil raho, unke qarz utaro aur unke bachon ko khilao, magar ek takabbur bhara jumla tumhari das saal ki nekiyon ko ek pal mein raakh kar sakta hai.
 
-Agar tumne kabhi kisi *Sa'il* se yeh kaha, *"Yaad hai pichle saal hamare Trust ne tumhari madad ki thi?"* ya tum yeh umeed rakhte ho ke woh tumhare aage jhuke kyunke tumne unhein imdad di hai, toh tumne *Al-Mann* (ehsan jatana) ka gunah kiya. Allah ne elaan farmaya hai ke woh Qayamat ke din aise shakhs ki taraf dekhega tak nahi. Woh sarmaya tumhara tha hi nahi; woh Allah ka tha, aur tum sirf ek dakiya the. Ek dakiya us tohfe par fakhr kaise kar sakta hai jo uska apna nahi tha? Apne honton ko seal kar lo, ehsan ko usi lamhe bhool jao jab woh tumhare hath se nikle, aur Ummat ko kabhi apni khairat ka bhari aur dum ghutne wala bojh mehsoos na hone do.
+Agar tumne kabhi kisi *Sa'il* se yeh kaha, *"Yaad hai pichle saal hamare Trust ne tumhari madad ki thi?"* ya tum yeh umeed rakhte ho ke woh tumhare aage jhuke kyunke tumne unhein imdad di hai, toh tumne *Al-Mann* (ehsan jatana) ka gunah kiya. Allah ne elaan farmaya hai ke woh Qayamat ke din aise shakhs ki taraf dekhega tak nahi. Woh sarmaya tumhara tha hi nahi; woh Allah ka tha, aur tum sirf ek dakiya the. Ek dakiya us tohfe par fakhr kaise kar sakta hai jo uska apna nahi tha? Apne honton ko band kar lo, ehsan ko usi lamhe bhool jao jab woh tumhare hath se nikle, aur Ummat ko kabhi apni khairat ka bhari aur dum ghutne wala bojh mehsoos na hone do.
 
 ***
 
@@ -631,7 +631,7 @@ Rasool-Allah ﷺ ne farmaya: *"Allah Qayamat ke din farmayega: 'Ay bete Adam! Ma
 **Tafakkur:**
 Ay muft shifakhano, aspatalon aur khoon ki imdad ke Khadim! Is Hadith ko padho aur roo lo. Tum sirf dawaen nahi baant rahe ya bistar ka intezam nahi kar rahe; tum dar-asal Allah ki hazuri mein dakhil ho rahe ho. Ilahi Rahmat beemaron aur toote hue logon ke bistaron par nihayat shiddat se nazil hoti hai.
 
-Jab tum ek muft shifakhane mein barah ghante apne paon par khade raho, jab tumhari kamar dukh rahi ho aur tumhara zehen mukammal thak chuka ho, toh *Nafs* tumhein hukm dega ke tum tewrao aur is shore-o-gul wale hujoom se sakhti se baat karo. Iska muqabla karo. Beemaron ke liye ek pur-noor aur garam muskurahat paida karo. Tumhari dawa unke jism ko theek karti hai, magar tumhari narm muskurahat unke khauf ka ilaaj karti hai. Jismani thakan ke bawajood mukammal *Adab* barkarar rakhna hi asal rohani jawari (*Futuwwa*) hai. Tum Ilahi Hazuri mein ho; yeh na hone dena ke farishte tumhein Allah ke mehmanon par tewraate hue likhein.
+Jab tum ek muft shifakhane mein barah ghante apne paon par khade raho, jab tumhari kamar dukh rahi ho aur tumhara zehen mukammal thak chuka ho, toh *Nafs* tumhein hukm dega ke tum tewrao aur is shore-o-gul wale hujoom se sakhti se baat karo. Iska muqabla karo. Beemaron ke liye ek pur-noor aur narm-garm muskurahat paida karo. Tumhari dawa unke jism ko theek karti hai, magar tumhari narm muskurahat unke khauf ka bhi ilaaj karti hai. Jismani thakan ke bawajood mukammal *Adab* barkarar rakhna hi asal rohani jawari (*Futuwwa*) hai. Tum Ilahi Hazuri mein ho; yeh na hone dena ke farishte tumhein Allah ke mehmanon par tewraate hue likhein.
 
 ***
 
@@ -646,7 +646,7 @@ Rasool-Allah ﷺ ne farmaya: *"Yaqeenan, Allah, Uske farishte, asman aur zameen 
 *(Sunan at-Tirmidhi)*
 
 **Tafakkur:**
-Ay Taleem ke Khadim—chahe tum Madrasay mein chawk (chalk) pakde hue ho, ya Trust ke daftar mein baith kar wazaif ke kaghazat aur taleemi akhrajat ka hisab kar rahe ho—yeh na samjho ke tumhari khidmat kamtar hai kyunke tum khana nahi baant rahe. Pait bharna ek sharif sadqa hai, magar zehen ko Noor-e-Ilahi se bharna ek aisi virasat hai jo asmanon ko hila deti hai.
+Ay Taleem ke Khadim—chahe tum Madrasay mein chawk (chalk) pakde hue ho, ya Trust ke daftar mein baith kar wazaif / Scholarship ke kaghazat aur taleemi akhrajat ka hisab kar rahe ho—yeh na samjho ke tumhari khidmat kamtar hai kyunke tum khana nahi baant rahe. Pait bharna ek abehtareen sadqa hai, magar zehen ko Noor-e-Ilahi se bharna ek aisi virasat hai jo asmanon ko hila deti hai.
 
 Jab tum kisi naujawan ko jahalat ki tareeki se bachane ke liye wazifa ka intezam karte ho, toh tum ek aisa azeem amal kar rahe hote ho ke samandar ki gehraiyon ki machhliyan aur zameen ki chiyuntiyan Allah se tumhari maghfirat ki dua karti hain. Ilm ka zariya banne wala shakhs wahi sawab pata hai jo ilm sikhane wale ko milta hai. Ek zehen ki tameer Mizan (scales) par deewar khadi karne se kahin zyada bhari hai. Woh har ek harf jo woh bacha padhega, aur har ek halal rupaya jo woh mustaqbil mein kamayega, tumhari qabr mein ek kabhi na khatam hone wali sawab ki nadi ban kar bahega.
 
@@ -684,7 +684,7 @@ Rasool-Allah ﷺ ne farmaya: *"Kisi ne us khane se behtar khana nahi khaya jo us
 **Tafakkur:**
 Ay Rozgar ke Khadim! Tumhara farz hai ke tum "sirf zinda rakhne wali khairat" se nikal kar "izzat-e-nafs wali khairat" ki taraf jao. Jab tum ek bewa ko silai machine dete ho ya kisi majboor baap ko karobar ke liye chota sarmaya dete ho, toh tum unhein azadi aur khud-kifayati (*Tamkeen*) ka aala tohfa de rahe hote ho.
 
-Magar "masiha hone ke waham" se bacho. Yeh umeed na rakho ke jis shakhs ko tumne qabil banaya, woh zindagi bhar Trust ka "numayishi chehra" bana rahega. Yeh umeed na rakho ke woh salana majlis mein stage par khada ho kar tumhare sarmaya-daanon ke liye shukrane ke aansu bahayega. Jab tum unhein apne paon par khada kar do, toh unhein mukammal azad kar do. Unka tum par koi ehsan nahi; unki kamyabi sirf Allah ki hai. Trust ki asal jeet isme nahi hai ke hamari khairat lene walon ki tadad badhe, balki isme hai ke hum unhein is muqam tak le jayein ke woh hamari zaroorat se azad ho kar chale jayein.
+Magar "masiha hone ke waham" se bacho. Yeh umeed na rakho ke jis shakhs ko tumne qabil banaya, woh zindagi bhar Trust ka "numayishi chehra" bana rahega. Yeh umeed na rakho ke woh hamesha muashre mai khada ho kar tumhara aur sarmaya-daanon ke liye shukrane ke aansu bahayega. Jab tum unhein apne paon par khada kar do, toh unhein mukammal azad kar do. Unka tum par koi ehsan nahi; unki kamyabi sirf Allah ki hai. Trust ki asal jeet isme nahi hai ke hamari khairat lene walon ki tadad badhe, balki isme hai ke hum unhein is muqam tak le jayein ke woh hamari zaroorat se azad ho kar chale jayein.
 
 ***
 
@@ -701,7 +701,7 @@ Rasool-Allah ﷺ ne farmaya: *"Jisne kisi Musalman ke aib (faults) ko chhupaya, 
 **Tafakkur:**
 Ay maidani tehqiq (survey) ke Khadim! Tumhare kandhon par ek khaufnaak dohra bojh hai. Tumhein khandanon ki chhan-bin ke liye bheja jata hai taake Trust ki Zakat haq-daron tak pahunche. Magar kya hota hai jab tum kisi darwaze par dastak dete ho aur wahan koi chhupa hua aib ya sharam-naak raaz khul jata hai? Kya ho agar tumhein maloom ho ke baap jua-baz hai, nasha-parast hai, ya usne darkhwast (application) mein jhoot bola hai?
 
-Yahan tumhein *Sitr* (parda-poshi) ke sakht Fiqh par amal karna hoga. Tumhein Trust ke sarmaye ko us nasha-parast baap se bachana hai, magar tumhein un masoom bachon ko nahi chhorna. Hikmat se kaam lo: baap ko bypass karo, rashan seedha maa ke hath mein do taake khandan bhookha na rahe, aur us baap ke raaz ko apne dil mein hamesha ke liye dafan kar do. Agar tum Trust ke daftar wapas aakar us khandan ke gunahon ki ghibat karte ho, toh tumne apne upar Allah ki laanat ko dawat di hai. Ummat ke aibon ko mukammal andhere mein lapet do. Sarmaye ki hifazat karo, masoomon ko khilao, aur kisi khandan ki izzat ko kabhi nanga na karo.
+Yahan tumhein *Sitr* (parda-poshi) ke sakht Fiqh par amal karna hoga. Tumhein Trust ke sarmaye ko us nasha-parast baap se bachana hai, magar tumhein un masoom bachon ko nahi chhorna. Hikmat se kaam lo: baap ko bypass karo, rashan seedha maa ke hath mein do taake khandan bhookha na rahe, aur us baap ke raaz ko apne dil mein hamesha ke liye dafan kar do. Agar tum apne dosto ya rishtedaaro mai us khandan ke gunahon ki ghibat karte ho, toh tumne apne upar Allah ki laanat ko dawat di hai. Ummat ke aibon ko mukammal andhere mein lapet do. Sarmaye ki hifazat karo, bhoonko ko khilao, aur kisi khandan ki izzat ko kabhi nanga na karo.
 
 ***
 
@@ -716,7 +716,7 @@ Ek shakhs ne kuen se apne jootay mein pani bhar kar ek pyase kutte ko pilaya. *"
 *(Sahih al-Bukhari)*
 
 **Tafakkur:**
-Ay Khadim! Tum Gujarat ke ek aise muashray mein kaam kar rahe ho jahan mukhtalif aqidat ke log rehte hain. Agar tumhari raham-dili sirf un logon tak mahdood hai jo tumhare deen par hain, toh tumne apne Nabi ﷺ ki azmat ko nahi samjha. Aap ﷺ sirf Musalmanon ke liye nahi, balki *Al-Alameen* (tamam jahanon) ke liye rahmat bana kar bheje gaye the.
+Ay Khadim! Tum ek aise muashray mein kaam kar rahe ho jahan mukhtalif aqidat ke log rehte hain. Agar tumhari raham-dili sirf un logon tak mahdood hai jo tumhare deen par hain, toh tumne apne Nabi ﷺ ki azmat ko nahi samjha. Aap ﷺ sirf Musalmanon ke liye nahi, balki *Al-Alameen* (tamam jahanon) ke liye rahmat bana kar bheje gaye the.
 
 Tumhara insani farz ek azeem ibadat hai. Jab tum raste se koi takleef-deh cheez hatate ho, jab tum kisi awara janwar ko pani pilate ho, ya jab tum apni imdadi koshishon ko kisi gair-muslim padosi tak pahunchate ho, toh tumhari raham-dili **be-shart** honi chahiye. Unki khidmat kisi len-den ki niyat se na karo. Hum bhooke padosi ko is umeed mein nahi khilate ke woh badle mein kuch karega; hum usey sirf is liye khilate hain kyunke Rab-ul-Alameen ne humein insaniyat ki izzat karne ka hukm diya hai. Tumhara be-daagh kirdar *Ar-Rahman* ka aaina hona chahiye, bina kisi shart aur bina kisi lalach ke.
 
@@ -735,7 +735,7 @@ Rasool-Allah ﷺ ne farmaya: *"Raham karne walon par Rahm karne wala (Allah) rah
 **Tafakkur:**
 Ay Khadim! Jab tum maidan-e-khidmat ke aakhir mein khade ho, aur tumhara jism khidmat ki dhool se lipta ho, toh apne hathon ko dekho. Tum dar-asal kar kya rahe ho?
 
-Rohani jawari (*Futuwwa*) ka aala muqam yeh ehsas hai ke makhlooq ke sath har ek muamla dar-asal Khaliq ke sath ek len-den hai. Jab tum ek yateem ke aansu ponchte ho, toh tum dar-asal Allah se iltija kar rahe hote ho ke Qayamat ke din Woh tumhare aansu ponch de. Jab tum bewa ko khilate ho, toh tum *Ar-Razzaq* se bheek mang rahe hote ho ke Woh tumhein Jannat ke phalon se khilaye. Tum makhlooq ki khidmat makhlooq ke liye nahi kar rahe; tum makhlooq ki khidmat apne Rab-e-Ali ki raza ke liye kar rahe ho. Dunya ko phika parne do. Makhlooq ki khidmat mein apne Khaliq ko talash karo, aur jald hi, jaisa ke Allah ne wada kiya hai, tumhara dil mukammal taur par mutmain aur razi ho jayega.
+Rohani jawari (*Futuwwa*) ka aala muqam yeh ehsas hai ke makhlooq ke sath har ek muamla dar-asal Khaliq ke sath ek len-den hai. Jab tum ek yateem ke aansu ponchte ho, toh tum dar-asal Allah se iltija kar rahe hote ho ke Qayamat ke din Woh tumhare aansu ponch de. Jab tum bewa ko khilate ho, toh tum *Ar-Razzaq* se bheek mang rahe hote ho ke Woh tumhein Jannat ke phalon se khilaye. Tum makhlooq ki khidmat makhlooq ke liye nahi kar rahe; tum makhlooq ki khidmat apne Rab-e-Aali ki raza ke liye kar rahe ho. Dunya ko phika parne do. Makhlooq ki khidmat mein apne Khaliq ko talash karo, aur jald hi, jaisa ke Allah ne wada kiya hai, tumhara dil mukammal taur par mutmain aur razi ho jayega.
 
 ---
 ---
@@ -912,7 +912,7 @@ Rasool-Allah ﷺ ne farmaya: *"Woh hum mein se nahi jo hamare choton par raham n
 **Tafakkur:**
 Ay nai nasal ke Khadim! Tum apne sath jadeed technology, naye tariqe aur tezi lekar aaye ho. Magar apni is jadeed taleem ko is idare ke bunyadi founders aur Ulema ke khilaf takabbur na banne dena.
 
-Tum shayad buzurgon ko dekh kar socho ke unke tariqe "purane" hain ya "sust" hain. Tum shayad hisabi kaghazat (sijilat) ko unse zyada tezi se chala lete ho, magar unhone is Trust ko apne paseene, apne aansuon aur apni adhi-raaton ki duayon se tameer kiya hai, jab tum paida bhi nahi hue the. Sijilat mein tezi ho sakti hai, magar *Barakah* sirf buzurgon ke taqwa se aata hai. Baghair *Barakah* ke tezi sirf ek be-jaan machine hai. Un ulema ke riwayati *Ahle Sunnah* tariqe ko kabhi mat chhorna jinone is Trust ko mazboot kiya. Woh darakht jo apni jaron (roots) ko kaat deta hai, woh kabhi phal nahi deta, chahe uski shakhain kitni hi buland kyun na ho jayein. Buzurgon ki izzat karo, unki duayein lo, aur is rohani virse ki amanat ko mukammal wafa-dari ke sath aage le jao.
+Tum shayad buzurgon ko dekh kar socho ke unke tariqe "purane" hain ya "sust" hain. Tum shayad hisabi kaghazat (sijilat) ko unse zyada tezi se chala lete ho, magar unhone is Trust ko apne paseene, apne aansuon aur apni adhi-raaton ki duayon se tameer kiya hai, jab tum paida bhi nahi hue the. Tumahre Kaamon mein tezi ho sakti hai, magar *Barakah* sirf buzurgon ke taqwa se aati hai. Baghair *Barakah* ke tezi sirf ek be-jaan machine hai. Un ulema ke riwayati *Ahle Sunnah* tariqe ko kabhi mat chhorna jinone is Trust ko mazboot kiya. Woh darakht jo apni jadon (roots) ko kaat deta hai, woh kabhi phal nahi deta, chahe uski shakhain kitni hi buland kyun na ho jayein. Buzurgon ki izzat karo, unki duayein lo, aur is rohani virse ki amanat ko mukammal wafa-dari ke sath aage le jao.
 
 ---
 ---
@@ -929,7 +929,7 @@ Rasool-Allah ﷺ ne farmaya: *"Allah ke nazdeek sabse pasandida amal woh hai jo 
 *(Sahih al-Bukhari)*
 
 **Tafakkur:**
-Ay Khadim! "Ramadan ki bhag-daur" se bacho. Jab poori community dekh rahi hoti hai, sarmaya-daan be-tahasha imdad bhej rahe hote hain, aur muqaddas mahine ka numayishi josh jazbat ko bharkata hai, toh khidmat karna asan hota hai. Magar sardi ki sakht raaton mein kya hota hai?
+Ay Khadim! "Ramadan ki bhag-daur" se bacho. Jab poori Qaum dekh rahi hoti hai, sarmaya-daan be-tahasha imdad bhej rahe hote hain, aur muqaddas mahine ka numayishi josh jazbat ko bharkata hai, toh khidmat karna asan hota hai. Magar sardi ki sakht raaton mein kya hota hai?
 
 Asal khidmat woh nahi jo kisi bade, tasveeron se bhare salana program mein dikhayi jaye. Asal khidmat woh khamosh, be-rang aur thaka dene wali mehnat hai jisme koi shohrat nahi. Yeh us jamane ki baat hai jab tum thithurti subah mein utho aur kisi be-ghar shakhs ko ek kambal pahunchao, jab social media ka shor khatam ho chuka ho aur tumhein dekhne wala koi na ho. *Nafs* is musalsal mehnat se nafrat karta hai kyunke isme fori tareef nahi milti. Magar Allah un chhote, poshida aur na-tootne wale amaal se mohabbat karta hai. "Mausami" Khadim na bano. Trust ki woh khamosh dharkan bano jo andheron mein musalsal dharakti rahe, jab tak tum apne Rab se na mil lo.
 
@@ -963,7 +963,7 @@ Rasool-Allah ﷺ ne farmaya: *"Duniya ka sabse bad-naseeb shakhs laya jayega aur
 *(Sahih Muslim)*
 
 **Tafakkur:**
-Ay aafat-zada ilaqon ke Khadim! Jab tum sailaab se kisi be-jaan jism ko nikalte ho, ya jab tum kisi bhooke bachay ko pakadte ho jo dard se thar-thara raha ho, toh tumhara dil phat jayega. Us khaufnaak lamhe mein tum rooge. In aansuon ko behne do, kyunke raham ki wajah se rona Nabi ﷺ ki sunnat hai.
+Ay aafat-zada ilaqon ke Khadim! Jab tum sailaab se kisi be-jaan jism ko nikalte ho, ya jab tum kisi bhooke bachay ko pakadte ho jo dard se thar-thara raha ho, toh tumhara dil phat jayega. Us khaufnaak lamhe mein tum ro doge. In aansuon ko behne do, kyunke raham ki wajah se rona Nabi ﷺ ki sunnat hai.
 
 Magar apni is gham-zadgi ko mayusi mein na badalne dena. Dunya ke in sadmon ko Allah ke insaf par shakk karne ka zariya na banao. Is dunya ki takleef aarzi hai, magar *Ar-Rahman* ki rahamat hamesha rehne wali hai. Nabi ﷺ ne gawahi di hai ke jis shakhs ne is dunya mein sabse zyada aziyat, sadme aur ghareebi jheli, jab usey ek baar Jannat ki nehron mein duboya jayega, toh us ek lamhe ka suroor uski puri zindagi ki takleefon ko mita degi. Rona insani fitrat hai, magar mayusi Haram hai. Apna farz ada karo, unke zakhamon par patti bandho, aur Ilahi Hikmat par bharosa rakho, yeh jaante hue ke asal shifa us saltanat mein hai jahan dard ka koi wajood nahi.
 
@@ -980,9 +980,9 @@ Rasool-Allah ﷺ ne farmaya: *"Ek dirham ne ek lakh dirham ko piche chhor diya."
 *(Sunan an-Nasa'i)*
 
 **Tafakkur:**
-Ay Ameer! "Sarmaye ke gharoor" se nijat pao. Aaj kal ke idaron mein kamyabi ko salana sijil (annual report) ke numbers se naapa jata hai: Kitne lakh jama hue? Kitne hazaron ko khilaya gaya? Ek ameer shehar ki shakh shayad pachas lakh rupaye jama kare, jabke ek chote gaon ki majboor shakh sirf panch hazar jama kar paye. Shehar wali shakh khud ko behtar samajh sakti hai, magar Allah ke Mizan (scales) ki riyazi (mathematics) alag hai.
+Ay Ameer! "Sarmaye ke gharoor" se nijat pao. Aaj kal ke idaron mein kamyabi ko sirf salana sijil (annual report) ke numbers se naapa jata hai: Kitne lakh jama hue? Kitne hazaron ko khilaya gaya? Ek ameer shehar ki Branch shayad pachas lakh rupaye jama kare, jabke ek chote gaon ki majboor Branch sirf panch hazar jama kar paye. Shehar wali shakh khud ko behtar samajh sakti hai, magar Allah ke Mizan (scales) ki riyazi (mathematics) alag hai.
 
-Allah sarmaye ke sifar (zeroes) nahi dekhta; Woh uske piche maujood khoon, paseena aur ikhlas dekhta hai. Us Khadim ki ek choti si sachi koshish, jisne apne maal ka aadha hissa de diya, Allah ke nazdeek un azeem-ush-shaan projects se zyada bhari hai jo sirf bache hue paison se banaye gaye hon. Dusre idaron ke bade budget dekh kar kabhi mat daro, aur kisi choti shakh ko kabhi kamtar na samjho. Ek bewa ki ek aansu-bhari dua asmanon mein un sau truckon se zyada bhari hai jo baghair dil ke baante gaye hon.
+Allah sarmaye ke sifar (zeroes) nahi dekhta; Woh uske piche maujood khoon, paseena aur ikhlas aur Niyyat dekhta hai. Us Khadim ki ek choti si sachi koshish, jisne apne maal ka aadha hissa de diya, Allah ke nazdeek un azeem-ush-shaan kaamo se zyada bhari hai jo sirf bache hue paison se banaye gaye hon. Dusre idaron ke bade budget dekh kar kabhi mat daro, aur kisi choti Branch ko kabhi kamtar na samjho. Ek bewa ki ek aansu-bhari dua asmanon mein un sau truckon se zyada bhari hai jo baghair dil ke baante gaye hon.
 
 ***
 
@@ -999,7 +999,7 @@ Rasool-Allah ﷺ ne farmaya: *"Do aankhon ko Jahannum ki aag nahi chuyegi: ek wo
 **Tafakkur:**
 Ay Khadim! Tum ek rohani idare ko dunya-wi mashghalon aur idarati majalis ke eendhan (fuel) par nahi chala sakte. Shaikh Ul Islam Trust ki asal quwwat raat ke aakhri hisse mein chhupi hai.
 
-Agar tum ek aise shakhs ho jiska jism apne khandan ke liye halal rizq kamane aur din bhar Ummat ki khidmat karne se toot chuka hai, toh jaan lo ke tumhari thaki hui neend bhi ibadat mein likhi jati hai. Magar agar tumhare andar quwwat hai, toh apni raaton ko murda na hone do. Tum yeh dawa kaise kar sakte ho ke tumhein ghareebon se mohabbat hai, jabke tum unke liye Rab-ul-Ghareeb se mangne ke liye andhere mein nahi uthte? Sacha Khadim din mein pehra deta hai, aur raat ko Tahajjud mein khada hota hai. Andhere mein apne hath uthao aur un bewaon ke liye roo lo jinse tum mile, aur un yateemon ke liye jo tumhare hath se khana na kha sake. Raat ki khamoshi mein bahaye gaye yeh aansu wohi pani hain jo Qayamat ke din Jahannum ki aag ko thanda karenge.
+Agar tum ek aise shakhs ho jiska jism apne khandan ke liye halal rizq kamane aur din bhar Ummat ki khidmat karne se toot chuka hai, toh jaan lo ke tumhari thaki hui neend bhi ibadat mein likhi jati hai. Magar agar tumhare andar quwwat hai, toh apni raaton ko murda na hone do. Tum yeh dawa kaise kar sakte ho ke tumhein ghareebon se mohabbat hai, jabke tum unke liye Rab-ul-Ghareeb se mangne ke liye andhere mein nahi uthte? Sacha Khadim din mein pehra deta hai, aur raat ko Tahajjud mein khada hota hai. Andhere mein apne hath uthao aur un bewaon ke liye ro lo jinse tum mile, aur un yateemon ke liye jo tumhare hath se khana na kha sake. Raat ki khamoshi mein bahaye gaye yeh aansu wohi pani hain jo Qayamat ke din Jahannum ki aag ko thanda karenge.
 
 ---
 ---
@@ -1016,9 +1016,9 @@ Rasool-Allah ﷺ ne farmaya: *"Apne aap ko aag se bachao, chahe ek khajoor ke tu
 *(Sahih al-Bukhari)*
 
 **Tafakkur:**
-Ay Khadim! Trust ke croron rupayon ke azeem-ush-shaan projects ko dekh kar "zarre barabar neki" ki azmat ko na bhoolna. Aakhirat ka Mizan (scales) nihayat hassas hai; woh sirf aspatalon ki concrete nahi, balki nekiyon ke zarron mein chupe hue *Ikhlas* ko tolta hai.
+Ay Khadim! Trust ke croron rupayon ke azeem-ush-shaan projects ko dekh kar "zarre barabar neki" ki azmat ko na bhoolna. Aakhirat ka Mizan (scales) nihayat hassas hai; woh sirf aspatalon ki imaaraton se nahi, balki nekiyon ke zarron mein chupe hue *Ikhlas* ko tolta hai.
 
-Magar susti ke fareb se bacho. Is Hadith ko kam-se-kam kaam karne ka bahana na banao. Tumhare andar Hazrat Uthman (R.A) jaisa jazba hona chahiye ke puri ki puri imdadi faujon ka kharch uthao. Magar agar tumhari quwwat toot chuki hai, aur tumhare paas sirf ek thaki hui muskurahat ya Gujarat ki galiyon mein rote hue yateem ke liye biscuit ka ek sasta packet hai, toh usey chota na samjho. Qayamat ke din, jab aag ka khauf roohon ko jakar lega, toh shayad woh bada project nahi, balki wahi "aadhi khajoor" jaisi poshida neki tumhare Mizan ko jhuka degi. Azeem asar ki talab rakho, magar zarre barabar neki ko kabhi kamtar na samjho.
+Magar susti ke fareb se bacho. Is Hadith ko kam-se-kam kaam karne ka bahana na banao. Tumhare andar Hazrat Uthman (R.A) jaisa jazba hona chahiye ke puri ki puri imdadi faujon ka kharch uthao. Magar agar tumhari quwwat toot chuki hai, aur tumhare paas sirf ek thaki hui muskurahat ya galiyon mein rote hue yateem ke liye biscuit ka ek sasta packet hai, toh usey chota na samjho. Qayamat ke din, jab aag ka khauf roohon ko jakar lega, toh shayad woh bada project nahi, balki wahi "aadhi khajoor" jaisi poshida neki tumhare Mizan ko jhuka degi. Azeem asar ki talab rakho, magar zarre barabar neki ko kabhi kamtar na samjho.
 
 ***
 
@@ -1033,9 +1033,9 @@ Sayyidah Aisha ne is ayat ke bare mein pucha: *"Kya woh sharabi aur chor hain?"*
 *(Sunan at-Tirmidhi)*
 
 **Tafakkur:**
-Ay Khadim! "Rohani gharoor" ki bimari se bacho, khususan us waham se jo purane khadimon mein paida ho jata hai. Kya tum apni farz namazon mein takheer (delay) karte ho kyunke tum "bohot masroof" ho rashan baantne mein? Kya tumne apne aap ko yeh yaqeen dila liya hai ke makhlooq ki khidmat tumhein Khaliq ke samne sajda karne se azadi deti hai?
+Ay Khadim! "Rohani gharoor" ki bimari se bacho, khususan us waham se jo purane khadimon mein paida ho jata hai. Kya tum apni farz namazon mein takheer (delay) karte ho kyunke tum "bohot masroof" ho Trust ke kaamon mein? Kya tumne apne aap ko yeh yaqeen dila liya hai ke makhlooq ki khidmat tumhein Khaliq ke samne sajda karne se azadi deti hai?
 
-Khuda ki kasam, lakhon ration kits ek bhi chuta hua farz sajda replace nahi kar sakte. Nabi ﷺ ke azeem sahaba ne daulat ki nadiyan baha dein, magar phir bhi is khauf se roye ke kahin ek qatra *Riya* (dikhawa) unki khairat ko aalooda na kar chuka ho. Ek ghulaam ki tarah paseena bahao, magar kabhi badshahon ki ujrat ki umeed na rakho. Jo kuch hai sab louta do, koi farz na chhoro, aur phir nihayat aajzi se apna sar jhukao—is khauf ke sath ke shayad tumhari zindagi bhar ki mehnat radd kar di jaye, aur is umeed ke sath ke *Ar-Rahman* ki rahamat be-had hai.
+Khuda ki kasam, lakhon ration kits, hazaron kitaabe, sooun kambal wa kapde, ek bhi chuta hua farz sajda ada nahi kar sakte. Nabi ﷺ ke azeem sahaba ne daulat ki nadiyan baha dein, magar phir bhi is khauf se roye ke kahin ek qatra *Riya* (dikhawa) unki khairat ko aalooda na kar chuka ho. Ek ghulaam ki tarah paseena bahao, magar kabhi badshahon ki ujrat ki umeed na rakho. Jo kuch hai sab louta do, koi farz na chhoro, aur phir nihayat aajzi se apna sar jhukao—is khauf ke sath ke shayad tumhari zindagi bhar ki mehnat radd kar di jaye, aur is umeed ke sath ke *Ar-Rahman* ki rahamat be-had hai.
 
 ***
 
@@ -1050,9 +1050,9 @@ Nabi ﷺ ne pucha, *"Kya tum jante ho ke Muflis (bankrupt) kaun hai?"* Sahaba ne
 *(Sahih Muslim)*
 
 **Tafakkur:**
-Ay Ameer! Ay Khazanchi! Ay Khadim! Tum salana majlis-e-hisab ki sakhti se tayyari karte ho. Tum sijilat (ledgers) ko darust karte ho taake sarmaya-daan razi rahein. Magar us "Aakhri Hisab" ka kya?
+Ay Ameer! Ay Khazanchi! Ay Khadim! Tum hisab ki sakhti se achi tayyari karte ho. Tum sijilat (ledgers) ko darust karte ho taake sarmaya-daan razi rahein. Magar us "Aakhri Hisab" ka kya?
 
-Tasawwur karo ke tum Qayamat ke din pahunche ho, tumhare sath khairat ke pahar hain, imdadi kaam hain, aur madrason ki funding hai. Magar kyunke tumne WhatsApp group mein kisi sathi khadim ki ghibat ki thi, ya tumne kisi yateem par chillaya tha, ya kisi bewa ki izzat ko thais pahunchayi thi—Allah tumhari un tamam idarati nekiyon ko utha kar tumhare mazloomon ko de dega. Tumhare kaghazat toh saaf the, magar tumhara kirdar muflis tha. Insanon ke audit se pehle Asmanon ke audit ki tayyari karo. Apni zaban aur apne gusse ki hifazat karo, warna aisa na ho ke tumne apni khairat se Jannat mein mahal toh khada kar liya, magar apne takabbur ki wajah se woh mahal kisi aur ke naam kar diya.
+Tasawwur karo ke tum Qayamat ke din pahunche ho, tumhare sath khairat ke pahad hain, imdadi kaam hain, aur madrason ki funding hai. Magar kyunke tumne WhatsApp group mein kisi sathi khadim ki ghibat ki thi, ya tumne kisi yateem par chillaya tha, ya kisi bewa ki izzat ko thais pahunchayi thi—Allah tumhari un tamam idarati nekiyon ko utha kar tumhare mazloomon ko de dega. Tumhare kaghazat toh saaf the, magar tumhara kirdar muflis tha. Insanon ke hisab o kitaab se pehle Asmanon ke hisab kitab ki tayyari karo. Apni zaban aur apne gusse ki hifazat karo, warna aisa na ho ke tumne apni khairat se Jannat mein mahal toh khada kar liya, magar apne takabbur ki wajah se woh mahal kisi aur ke naam kar diya.
 
 ***
 
@@ -1067,7 +1067,7 @@ Rasool-Allah ﷺ ne farmaya: *"Allah ke nazdeek sabse mehboob insan woh hai jo l
 *(Al-Mu'jam al-Awsat)*
 
 **Tafakkur:**
-Ay Khadim! Yeh na samjho ke *Wilayat* (Sainthood) ka rasta sirf unke liye hai jo ghaaron mein tanhai ikhtiyar karte hain ya puri zindagi masjid ke ek kone mein guzarte hain. *Ahle Sunnah* ki azeem riwayaton mein, sabse bade Awliya—Khwaja Moinuddin Chishti se lekar Data Ganj Bakhsh tak—sirf namaz nahi padhte the; unhone bhookon ko khilaya, yateemon ko panah di, aur toote hue dilon ke aansu ponche.
+Ay Khadim! Yeh na samjho ke *Wilayat* ka rasta sirf unke liye hai jo ghaaron mein tanhai ikhtiyar karte hain ya puri zindagi masjid ke ek kone mein guzarte hain. *Ahle Sunnah* ki azeem riwayaton mein, sabse bade Awliya—Khwaja Moinuddin Chishti se lekar Data Ganj Bakhsh tak—sirf namaz nahi padhte the; unhone bhookon ko khilaya, yateemon ko panah di, aur toote hue dilon ke aansu ponche.
 
 Trust mein tumhari khidmat rohani raste se koi hat-kar kaam nahi hai; balki yeh khud ek *Tariqah* (Suluk) hai. Jab tum kisi *Sa'il* ki galiyon ko bardasht karte ho, toh yeh ek rohani mashq hai. Jab tum muft shifakhane ka farsh saaf karte ho, toh yeh rooh ki pakeezgi hai. Apne dil ko un nek salaf ki rohani *Nisbat* se jodo. Tum un Buzurgon ke qadmon ke nishanon par chal rahe ho. Makhlooq ki khidmat nihayat *Adab* ke sath karo, aur Khaliq tumhein apne mehboob Awliya ke darjaat tak pahunchayega.
 
@@ -1084,7 +1084,7 @@ Rasool-Allah ﷺ ne farmaya: *"Jab Jannati Jannat mein dakhil ho jayenge, toh Al
 *(Sahih Muslim)*
 
 **Tafakkur:**
-Ay Khadim! Yahan yeh safar khatam hota hai. In 150 shakhon se aage dekho. In ration kits, ambulances aur sijilat se aage dekho. Is puri dunya se aage dekho. Tumne woh raaton ki jagran kyun sahi? Jab *Intizamia* ne tumhein ohde se hataya, toh tumne apna gharoor kyun nigla? Jab tumhara apna jism toot raha tha, tab tumne beemaron ke liye muskurahat kyun paida ki?
+Ay Khadim! Yahan yeh safar khatam hota hai. Shaikh Ul Islam Trust se aage dekho. In Khidmati wa Falahi wa Samaaji kaamoon se aage dekho. Is puri dunya se aage dekho. Tumne woh raaton ka jaagna kyun saha? Jab *Intizamia* ne tumhein ohde se hataya, toh tumne apna gharoor kyun nigla? Jab tumhara apna jism toot raha tha, tab tumne beemaron ke liye muskurahat kyun paida ki?
 
 Yeh kabhi kisi idare (NGO) ke liye nahi tha. Yeh kabhi sirf Ummat ke liye bhi nahi tha. Yeh hamesha, sirf aur sirf, *Us* (Allah) ke liye tha.
 
