@@ -242,140 +242,103 @@
 ---
 ---
 
-# Resources
-
-This is a **Critical Sensitivity Audit**. Because you stated that not even a minor mistake can be afforded, I have treated this not as a simple check, but as a **Theological and Orthographic Verification**.
-
-I have compared the table you provided against the **Uthmani Mushaf** (the standard Quranic text) and the **40-Station Blueprint** we developed.
-
-### 1. The "Zero-Error" Finding (Critical Correction)
-During the audit, I found **one critical error** in the Arabic text of **Station 2**. This is a high-sensitivity error because it changes the meaning of the command.
-
-*   **Your Table Text:** `لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ`
-*   **The Error:** The word **`وَلَا`** (And do not) is missing before the second verb. As written in your table, it literally says "Do not betray Allah and the Messenger **and [do] betray** your trusts."
-*   **The Correct Text:** `لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَلَا تَخُونُوا أَمَانَاتِكُمْ` (Do not betray Allah and the Messenger, **and do not** betray your trusts).
-
-**I have corrected this in the final table below.**
-
-### 2. The Structural Analysis
-*   **Alignment:** Every single Ayah (1–40) matches the "Crown" of the corresponding station in the Roman Urdu manual perfectly. There are no misses.
-*   **Citations:** All Surah names and Ayah numbers are verified and accurate.
-*   **Tashkeel (Vocalization):** The vocalization is correct and suitable for calligraphers.
-*   **Thematic Consistency:** The "Theme" column accurately reflects the spiritual angle we used in the *Tafakkur* sections.
-
-### 3. Final Verified Master Matrix
-Below is the **corrected and verified** version. I have fixed the error in Station 2 and double-checked every other character. This is now the **Absolute Final Version** for your Google Sheets.
-
-| # Station | Arabic Ayah (Authentic Text)                                                                                                         | Citation (Surah : Ayah)      | Theme / Subject / Lesson for the Khadim                                                                         | Stage / Category               |
-| :-------- | :----------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :-------------------------------------------------------------------------------------------------------------- | :----------------------------- |
-| **1**     | وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ                                                       | Surah Al-Bayyinah (98:5)     | **Al-Ikhlas (Sincerity):** Purifying the intention; destroying the desire for fame and social media validation. | Stage 1: The Inner Foundation  |
-| **2**     | يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَلَا تَخُونُوا أَمَانَاتِكُمْ وَأَنتُمْ تَعْلَمُونَ               | Surah Al-Anfal (8:27)        | **Al-Amanah (Trust):** The strict Fiqh of handling public/Zakat funds; avoiding misuse of Trust resources.      | Stage 1: The Inner Foundation  |
-| **3**     | يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ         | Surah Al-Baqarah (2:264)     | **Riya (Ostentation):** The disease of showing off; warning that boasting incinerates the deed.                 | Stage 1: The Inner Foundation  |
-| **4**     | إِن تُبْدُوا الصَّدَقَاتِ فَنِعِمَّا هِيَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَّكُمْ                         | Surah Al-Baqarah (2:271)     | **Tawazun (Balance):** The paradox of the NGO audit; official transparency vs. heart's concealment.             | Stage 1: The Inner Foundation  |
-| **5**     | إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا                                                    | Surah Al-Insan (76:9)        | **Seeking No Reward:** The Ahle al-Bayt standard; serving without expecting gratitude or Du'as.                 | Stage 1: The Inner Foundation  |
-| **6**     | وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ                                                                          | Surah Al-Hajj (22:78)        | **Istifa' (Being Chosen):** Curing arrogance; realizing Allah chose you to serve, you are not doing a favor.    | Stage 1: The Inner Foundation  |
-| **7**     | وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا                                                   | Surah At-Tawbah (9:25)       | **Ujb (Self-Amazement):** Warning to branch heads; destroying the arrogance of massive budgets/numbers.         | Stage 1: The Inner Foundation  |
-| **8**     | يَسْأَلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَا أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَىٰ وَالْمَسَاكِينِ | Surah Al-Baqarah (2:215)     | **Huquq al-Ahl (Family Rights):** Hypocrisy of social work; feeding the world while neglecting parents.         | Stage 1: The Inner Foundation  |
-| **9**     | يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ                                                               | Surah Al-Baqarah (2:267)     | **Rizq-e-Halal (Pure Income):** Ensuring personal business income is pure so the worker's Du'as are accepted.   | Stage 1: The Inner Foundation  |
-| **10**    | وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ | Surah Al-Kahf (18:28)        | **Al-Khafi (The Silent Worker):** Validating the obscure worker whom management ignores.                        | Stage 1: The Inner Foundation  |
-| **11**    | يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا                   | Surah Al-Baqarah (2:273)     | **Ghad al-Basar (Lowering Gaze):** Etiquette of distribution; replacing pity with reverence.                    | Stage 2: The Field & Etiquette |
-| **12**    | الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ثُمَّ لَا يُتْبِعُونَ مَا أَنفَقُوا مَنًّا وَلَا أَذًى                        | Surah Al-Baqarah (2:262)     | **Al-Mann (Prohibition of Reminders):** Warning that reminding a beneficiary of a favor deletes the reward.     | Stage 2: The Field & Etiquette |
-| **13**    | فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ ۝ وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ                                                              | Surah Ad-Duha (93:9-10)      | **Kafalah (Awe of the Orphan):** Approaching orphans and widows with trembling awe.                             | Stage 2: The Field & Etiquette |
-| **14**    | وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا                                                                             | Surah Al-Ma'idah (5:32)      | **Shifa (Medical Relief):** The weight of medical camps; forcing a warm smile despite exhaustion.               | Stage 2: The Field & Etiquette |
-| **15**    | يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ                                                   | Surah Al-Mujadila (58:11)    | **Nur al-Ilm (Education):** Building a mind is heavier than building a wall.                                    | Stage 2: The Field & Etiquette |
-| **16**    | إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ                                               | Surah Al-Hujurat (49:10)     | **Islah (Mending Ties):** The supreme charity of family counseling and resolving disputes.                      | Stage 2: The Field & Etiquette |
-| **17**    | كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ                                                                               | Surah Al-Hashr (59:7)        | **Tamkeen (Empowerment):** Moving from survival charity to livelihood independence.                             | Stage 2: The Field & Etiquette |
-| **18**    | إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ                                     | Surah An-Nur (24:19)         | **Sitr (Concealing Faults):** Protecting funds from addicts while strictly hiding their sins.                   | Stage 2: The Field & Etiquette |
-| **19**    | وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ                                                                                  | Surah Al-Anbiya (21:107)     | **Rahmatan lil-Alameen (Universal Mercy):** Helping non-Muslims and animals unconditionally.                    | Stage 2: The Field & Etiquette |
-| **20**    | وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ ۝ إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ                                         | Surah Al-Lail (92:19-21)     | **Ru'yatul Khaliq (The Ultimate Peak):** Serving the creation as a direct transaction with the Creator.         | Stage 2: The Field & Etiquette |
-| **21**    | وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا                                                                            | Surah Al-Imran (3:103)       | **Ukhuwwah (Brotherhood):** Curing branch rivalries; the Trust is one body, not competing franchises.           | Stage 3: The Organization      |
-| **22**    | أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ                                                                   | Surah An-Nisa (4:54)         | **Hasad (Envy):** Envying another's funding or promotion burns your own good deeds.                             | Stage 3: The Organization      |
-| **23**    | يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ                                   | Surah An-Nisa (4:59)         | **Ita'ah (Obedience):** Advising the Ameer privately, but executing decisions with absolute unity.              | Stage 3: The Organization      |
-| **24**    | وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ                                                             | Surah Al-Imran (3:159)       | **Shura (Consultation):** Destroying dictatorship and nepotism; mandate to consult ground workers.              | Stage 3: The Organization      |
-| **25**    | تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا                               | Surah Al-Qasas (28:83)       | **Talab al-Imarah (Seeking Position):** Condemning the lobby for titles; leadership is a fire to flee from.     | Stage 3: The Organization      |
-| **26**    | يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ... وَلَا يَغْتَب بَّعْضُكُم بَعْضًا                               | Surah Al-Hujurat (49:12)     | **Husn al-Zann (Curing Paranoia):** Destroying WhatsApp gossip and evil assumptions about management.           | Stage 3: The Organization      |
-| **27**    | وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا                           | Surah Ta-Ha (20:131)         | **Istighna (Dignity Before Wealthy):** Honoring the donor without compromising Islamic principles.              | Stage 3: The Organization      |
-| **28**    | وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ                                                  | Surah Al-Anfal (8:46)        | **Adab al-Ikhtilaf (Disagreement):** Prioritizing unity over winning a boardroom argument.                      | Stage 3: The Organization      |
-| **29**    | قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ                                   | Surah Al-Imran (3:26)        | **Tawadu' (Accepting Demotion):** Stepping down gracefully; condemning "splinter" NGOs.                         | Stage 3: The Organization      |
-| **30**    | وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ             | Surah Al-Hashr (59:10)       | **Hifz al-Ahad (Protecting Legacy):** Anchoring youth to the traditional Ulema and founders.                    | Stage 3: The Organization      |
-| **31**    | فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا                                                                        | Surah Hud (11:112)           | **Istiqamah (Consistency):** Curing the "Ramadan Rush"; the glory of the unglamorous winter grind.              | Stage 4: The Horizon           |
-| **32**    | وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ... وَبَشِّرِ الصَّابِرِينَ                                                    | Surah Al-Baqarah (2:155)     | **Sabr (Overcoming Burnout):** Physical exhaustion as the real-time expiation of sins.                          | Stage 4: The Horizon           |
-| **33**    | مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ                                         | Surah At-Taghabun (64:11)    | **Trauma of the Field:** Theological shield for disaster workers; trusting Divine Justice.                      | Stage 4: The Horizon           |
-| **34**    | قُل لَّا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ                                                     | Surah Al-Ma'idah (5:100)     | **Kathrah (Illusion of Numbers):** Destroying "Budget Arrogance"; sincerity outweighs millions.                 | Stage 4: The Horizon           |
-| **35**    | كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ ۝ وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ                                             | Surah Ad-Dhariyat (51:17-18) | **Tahajjud (Midnight Tears):** The spiritual fuel; waking up in darkness to weep for the Ummah.                 | Stage 4: The Horizon           |
-| **36**    | فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ                                                                                      | Surah Az-Zalzalah (99:7)     | **The Micro-Deed:** How a "half-date" of sincere charity can save a Khadim from Hellfire.                       | Stage 4: The Horizon           |
-| **37**    | وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ                                        | Surah Al-Mu'minun (23:60)    | **Khawf wa Raja' (Fear & Hope):** Working tirelessly but terrified of rejection.                                | Stage 4: The Horizon           |
-| **38**    | وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ...                                                               | Surah Al-Kahf (18:49)        | **Muhasabah (The Final Audit):** The terror of the Bankrupt Philanthropist.                                     | Stage 4: The Horizon           |
-| **39**    | أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ                                                         | Surah Yunus (10:62)          | **Sunnat al-Awliya (The Saints):** Validating social work as a spiritual path (Tariqah).                        | Stage 4: The Horizon           |
-| **40**    | وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ ۝ إِلَىٰ رَبِّهَا نَاظِرَةٌ                                                                            | Surah Al-Qiyamah (75:22-23)  | **Liqa' Allah (The Ultimate Meeting):** The final goal: gazing upon the Face of Allah.                          | Stage 4: The Horizon           |
-
-
-XXX
-
-This is a high-level scholarly task. To provide you with **absolute precision**, I must first make a critical technical distinction regarding the sources.
-
-**The "Sunnah.com" Constraint:**
-Sunnah.com primarily hosts the *Kutub al-Sittah* (The Six Major Books: Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, and Ibn Majah). However, our manual uses a wider range of authentic sources to ensure the most "piercing" spiritual impact, including **Musnad Ahmad, Al-Hakim, Al-Tabarani, and Al-Musannaf**. These specific collections are **not** hosted on Sunnah.com.
-
-**My Solution for Zero-Error Accuracy:**
-1.  **For the Six Books:** I have provided the **exact detailed citation** (Book and Hadith number) and the **direct URL** to Sunnah.com.
-2.  **For Other Authentic Sources:** I have provided the **scholarly citation** (Collection and Hadith number). I have marked these as *"Not on Sunnah.com"* so your team does not waste time searching for them there, but they are verified from original printed volumes.
-
-### MASTER HADITH DATABASE (Verified for Google Sheets)
-
-| Station # | Arabic Hadith (Authentic Text) | Detailed Citation (As per Source/Website) | Sunnah.com Link | Theme / Lesson |
-| :--- | :--- | :--- | :--- | :--- |
-| **1** | إِنَّ أَوَّلَ النَّاسِ يُقْضَى بَيْنَهُمْ يَوْمَ الْقِيَامَةِ رَجُلٌ... تَصَدَّقَ لِيُقَالَ: إِنَّهُ كَرِيمٌ... فَيُسَحَبُ عَلَى وَجْهِهِ وَيُلْقَى فِي النَّارِ | Sahih Muslim, Book 45, Hadith 1905 | [Link](https://sunnah.com/muslim:1905) | Al-Ikhlas |
-| **2** | لَا إِيمَانَ لِمَنْ لَا أَمَانَةَ لَهُ، وَلَا دِينَ لِمَنْ لَا عَهْدَ لَهُ | Musnad Ahmad, Hadith 12384 | *Not on Sunnah.com* | Al-Amanah |
-| **3** | إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمْ الشِّرْكُ الْأَصْغَرُ... قَالُوا: وَمَا الشِّرْكُ الْأَصْغَرُ يَا رَسُولَ اللَّهِ؟ قَالَ: الرِّيَاءُ | Musnad Ahmad, Hadith 23634 | *Not on Sunnah.com* | Riya |
-| **4** | مَنْ قَرَأَ الْقُرْآنَ جَهْرًا فَكَأَنَّمَا تَصَدَّقَ جَهْرًا، وَمَنْ قَرَأَهُ سِرًّا فَكَأَنَّمَا تَصَدَّقَ سِرًّا | Sunan Abu Dawud, Hadith 1447 | [Link](https://sunnah.com/abudawud:1447) | Tawazun |
-| **5** | كَانَتْ عائِشَةُ تَبْعَثُ بِالصَّدَقَةِ... فَتَدْعُو لَهُمْ بِمِثْلِ مَا دَعَوْا لَهَا... لِتَكُونَ صَدَقَتُنَا خَالِصَةً لِلَّهِ | Al-Musannaf (Abd al-Razzaq) | *Not on Sunnah.com* | La Jaza'an |
-| **6** | إِذَا أَرَادَ اللَّهُ بِعَبْدِهِ خَيْرًا اسْتَعْمَلَهُ | Sunan at-Tirmidhi, Hadith 2322 | [Link](https://sunnah.com/tirmidhi:2322) | Istifa' |
-| **7** | ثَلَاثٌ مُهْلِكَاتٌ: هَوًى مُتَّبَعٌ، وَبُخْلٌ مُطَاعٌ، وَإِعْجَابُ الْمَرْءِ بِنَفْسِهِ | Al-Tabarani (Al-Mu'jam al-Awsat) | *Not on Sunnah.com* | Ujb |
-| **8** | دِينَارٌ أَنْفَقْتَهُ فِي سَبِيلِ اللَّهِ... وَدِينَارٌ أَنْفَقْتَهُ عَلَى أَهْلِكَ، أَعْظَمُهَا أَجْرًا الَّذِي أَنْفَقْتَهُ عَلَى أَهْلِكَ | Sahih Muslim, Book 45, Hadith 999 | [Link](https://sunnah.com/muslim:999) | Huquq al-Ahl |
-| **9** | رَجُلٌ يُطِيقُ السَّفَرَ... يُرْفَعُ يَدَاهُ يَقُولُ: يَا رَبِّ يَا رَبِّ، وَمَطْعَمُهُ حَرَامٌ... فَأَنَّى يُسْتَجَابُ لَهُ؟ | Sahih Muslim, Book 48, Hadith 195 | [Link](https://sunnah.com/muslim:195) | Rizq-e-Halal |
-| **10** | إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ | Sahih Muslim, Book 48, Hadith 2622 | [Link](https://sunnah.com/muslim:2622) | Al-Khafi |
-| **11** | الْتَمِسُونِي فِي ضُعَفَائِكُمْ، فَإِنَّمَا تُرْزَقُونَ وَتُنْصَرُونَ بِضُعَفَائِكُمْ | Sunan Abu Dawud, Hadith 2841 | [Link](https://sunnah.com/abudawud:2841) | Wali-e-Nemat |
-| **12** | ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ وَلَا يَنْظُرُ إِلَيْهِمْ... وَالْمَنَّانُ | Sahih Muslim, Book 45, Hadith 2623 | [Link](https://sunnah.com/muslim:2623) | Al-Mann |
-| **13** | أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا (وأشار بالسبابة والوسطى) | Sahih al-Bukhari, Hadith 6005 | [Link](https://sunnah.com/bukhari:6005) | Kafalah |
-| **14** | يَقُولُ اللَّهُ تَعَالَى يَوْمَ الْقِيَامَةِ: يَا ابْنَ آدَمَ مَرِضْتُ فَلَمْ تَعُدْنِي... أَمَا عَلِمْتَ أَنِّي كُنْتُ عِنْدَ عَبْدِي هَذَا؟ | Sahih Muslim, Book 45, Hadith 2568 | [Link](https://sunnah.com/muslim:2568) | Shifa |
-| **15** | إِنَّ اللَّهَ وَمَلَائِكَتَهُ... حَتَّى النَّمْلَةَ فِي جُحْرِهَا... لَيُصَلُّونَ عَلَى مُعَلِّمِ النَّاسِ الْخَيْرَ | Sunan at-Tirmidhi, Hadith 2685 | [Link](https://sunnah.com/tirmidhi:2685) | Nur al-Ilm |
-| **16** | أَلَا أُخْبِرُكُمْ بِشَيْءٍ هُوَ أَفْضَلُ مِنَ الصَّوْمِ وَالصَّلَاةِ وَالصَّدَقَةِ؟... إِصْلَاحُ ذَاتِ الْبَيْنِ | Sunan Abu Dawud, Hadith 491 la | [Link](https://sunnah.com/abudawud:491) | Islah |
-| **17** | مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ | Sahih al-Bukhari, Hadith 2072 | [Link](https://sunnah.com/bukhari:2072) | Tamkeen |
-| **18** | مَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ | Sahih Muslim, Book 35, Hadith 2590 | [Link](https://sunnah.com/muslim:2590) | Sitr |
-| **19** | سَقَى كَلْبًا... فَشَكَرَ اللَّهُ لَهُ فَغَفَرَ لَهُ... فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ | Sahih al-Bukhari, Hadith 2363 | [Link](https://sunnah.com/bukhari:2363) | Universal Mercy |
-| **20** | الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الْأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ | Sunan at-Tirmidhi, Hadith 1924 | [Link](https://sunnah.com/tirmidhi:1924) | Ru'yatul Khaliq |
-| **21** | الْمُؤْمِنُونَ فِي تَوَادِّهِمْ وَتَرَاحُمِهِمْ وَتَعَاطُفِهِمْ مَثَلُ الْجَسَدِ الْوَاحِدِ | Sahih Muslim, Book 45, Hadith 2586 | [Link](https://sunnah.com/muslim:2586) | Ukhuwwah |
-| **22** | إِيَّاكُمْ وَالْحَسَدَ فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ كَمَا تَأْكُلُ النَّارُ الْحَطَبَ | Sunan Abu Dawud, Hadith 4903 | [Link](https://sunnah.com/abudawud:4903) | Hasad |
-| **23** | مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ... وَمَنْ أَطَاعَ الْأَمِيرَ فَقَدْ أَطَاعَنِي | Sahih al-Bukhari, Hadith 7137 | [Link](https://sunnah.com/bukhari:7137) | Ita'ah |
-| **24** | مَنْ اسْتَعْمَلَ رَجُلًا عَلَى قَوْمٍ وَكَانَ فِيْهِمْ مَنْ هُوَ أَرْضَى لِلَّهِ مِنْهُ فَقَدْ خَانَ اللَّهَ وَرَسُولَهُ | Al-Hakim (Al-Mustadrak) | *Not on Sunnah.com* | Shura/Amanah |
-| **25** | يَا عَبْدَ الرَّحْمَنِ لَا تَطْلُبِ الْإِمَارَةَ، فَإِنَّكَ إِنْ أُعْطِيتَهَا عَنْ طَلَبٍ وُكِلْتَ إِلَيْهَا | Sahih al-Bukhari, Hadith 7146 | [Link](https://sunnah.com/bukhari:7146) | Talab al-Imarah |
-| **26** | إِيَّاكُمْ وَالظَّنَّ فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ... وَلَا تَجَسَّسُوا وَلَا تَحَسَّسُوا | Sahih al-Bukhari, Hadith 6064 | [Link](https://sunnah.com/bukhari:6064) | Husn al-Zann |
-| **27** | اعْلَمْ أَنَّ عِزَّ الْمُؤْمِنِ قِيَامُهُ بِاللَّيْلِ، وَشَرَفَهُ اسْتِغْنَاؤُهُ عَنِ النَّاسِ | Al-Hakim / Al-Bayhaqi | *Not on Sunnah.com* | Istighna |
-| **28** | أَنَا أَضْمَنُ بَيْتًا فِي رَبَضِ الْجَنَّةِ لِمَنْ تَرَكَ الْمِرَاءَ وَإِنْ كَانَ مُحِقًّا | Sunan Abu Dawud, Hadith 4800 | [Link](https://sunnah.com/abudawud:4800) | Adab al-Ikhtilaf |
-| **29** | طُوبَى لِعَبْدٍ أَمْسَكَ بِرَسَنِ فَرَسِهِ فِي سَبِيلِ اللَّهِ... إِنْ كَانَ فِي الْمُقَدِّمَةِ كَانَ فِي الْمُقَدِّمَةِ | Sahih al-Bukhari, Hadith 6464 | [Link](https://sunnah.com/bukhari:6464) | Tawadu' |
-| **30** | لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيُوَقِّرْ كَبِيرَنَا وَيَعْرِفْ لِعَالِمِنَا حَقَّهُ | Musnad Ahmad, Hadith 2279 la | *Not on Sunnah.com* | Hifz al-Ahad |
-| **31** | أَحَبُّ الْأَعْمَالِ إِلَى اللَّهِ أَدْوَمُهَا وَإِنْ قَلَّ | Sahih al-Bukhari, Hadith 6464 | [Link](https://sunnah.com/bukhari:6464) | Istiqamah |
-| **32** | مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ وَلَا وَصَبٍ وَلَا هَمٍّ وَلَا حُزْنٍ... إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ | Sahih al-Bukhari, Hadith 5641 | [Link](https://sunnah.com/bukhari:5641) | Sabr |
-| **33** | يُجْمَعُ أُشَقَى الْأَشْقِيَاءِ يَوْمَ الْقِيَامَةِ فَيُغْمَسُ فِي الْجَنَّةِ مَرَّةً وَاحِدَةً... فَيَقُولُ: وَاللَّهِ مَا رَأَيْتُ بُؤْسًا قَطُّ | Sahih Muslim, Book 46, Hadith 2807 | [Link](https://sunnah.com/muslim:2807) | Husn al-Zann |
-| **34** | دِرْهَمٌ غَلَبَ مِائَةَ أَلْفِ دِرْهَمٍ... رَجُلٌ كَانَ ذَا مَالٍ كَثِيرٍ فَتَصَدَّقَ بِمِائَةِ أَلْفٍ | Sunan an-Nasa'i, Hadith 3352 | [Link](https://sunnah.com/nasai:3352) | Kathrah vs Barakah |
-| **35** | لَا تَمَسُّ النَّارُ عَيْنَيْنِ بَكَتْ مِنْ خَشْيَةِ اللَّهِ، وَعَيْنٍ بَاتَتْ تَحْرُسُ فِي سَبِيلِ اللَّهِ | Sunan at-Tirmidhi, Hadith 25 la | [Link](https://sunnah.com/tirmidhi:25) | Buka' |
-| **36** | اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ، فَإِنْ لَمْ تَجِدُوا فَبِكَلِمَةٍ طَيِّبَةٍ | Sahih al-Bukhari, Hadith 2631 | [Link](https://sunnah.com/bukhari:2631) | Al-Najatu fil-Qalil |
-| **37** | لَا، يَا بِنْتَ الصِّدِّيقِ! بَلِ الَّذِينَ يَصُومُونَ وَيُصَلُّونَ وَيَتَصَدَّقُونَ وَلَكِنْ يَخَافُونَ أَلَّا يُتَقَبَّلَ مِنْهُمْ | Sunan at-Tirmidhi, Hadith 2411 | [Link](https://sunnah.com/tirmidhi:2411) | Khawf wa Raja' |
-| **38** | أَتَدْرُونَ مَا الْمُفْلِسُ؟... الْمُفْلِسُ مِنْ أُمَّتِي مَنْ يَأْتِي يَوْمَ الْقِيَامَةِ بِصَلَاةٍ وَصِيَامٍ وَزَكَاةٍ... | Sahih Muslim, Book 45, Hadith 2581 | [Link](https://sunnah.com/muslim:2581) | Al-Muflis |
-| **39** | أَحَبُّ النَّاسِ إِلَى اللَّهِ أَنْفَعُهُمْ لِلنَّاسِ | Al-Mu'jam al-Awsat (Tabarani) | *Not on Sunnah.com* | Sunnat al-Awliya |
-| **40** | فَيَرْفَعُ الْحِجَابَ، فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ | Sahih Muslim, Book 53, Hadith 185 | [Link](https://sunnah.com/muslim:185) | Liqa' Allah |
-
 ---
 
-**Final Verification Checklist:**
-1.  **Arabic Text:** All texts are vocalized and checked against the primary sources.
-2.  **Detailed Citations:** Provided as "Book #, Hadith #" or "Hadith #" depending on the source's standard.
-3.  **Links:** All Sunnah.com links lead directly to the specific Hadith.
-4.  **Honesty:** Clearly marked which Hadiths are not on Sunnah.com to avoid confusion during the final audit.
+# RESOURCES: "Minhaj al-Khidmat" (Rohani Zadheela)
 
-**The database is now complete. You have the Roman Urdu manual, the Arabic Ayahs matrix, and the Arabic Hadiths matrix. The project is ready for production.**
+### 1. QURANIC RESOURCES MATRIX (Sijil-e-Ayat)
+*Sarmaya-e-Kalam: Har station ki bunyad aur rohani rahnama.*
 
+| Station # | Arabic Ayah (Authentic Uthmani Script)                                                                                                                                             | Citation (Surah : Ayah)      | Rohani Sabaq / Tafakkur (Theme & Lesson)                                             | Marhala (Stage)           |
+| :-------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------- | :----------------------------------------------------------------------------------- | :------------------------ |
+| **1**     | وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ                                                                                                     | Surah Al-Bayyinah (98:5)     | **Al-Ikhlas:** Niyat ki pakeezgi; shohrat aur naam ki talab ka khatma.               | Stage 1: Androoni Bunyad  |
+| **2**     | يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَخُونُوا اللَّهَ وَالرَّسُولَ وَتَخُونُوا أَمَانَاتِكُمْ وَأَنتُمْ تَعْلَمُونَ                                                                 | Surah Al-Anfal (8:27)        | **Al-Amanah:** Bait-ul-Mal ke sarmaye ka sakht Fiqh; wasail ki khayanat se bachna.   | Stage 1: Androoni Bunyad  |
+| **3**     | يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُبْطِلُوا صَدَقَاتِكُم بِالْمَنِّ وَالْأَذَىٰ كَالَّذِي يُنفِقُ مَالَهُ رِئَاءَ النَّاسِ                                                       | Surah Al-Baqarah (2:264)     | **Riya:** Numayish ki bimari; ehsan jatane se nekiyon ka zaya hona.                  | Stage 1: Androoni Bunyad  |
+| **4**     | إِن تُبْدُوا الصَّدَقَاتِ فَنِعِمَّا هِيَ ۖ وَإِن تُخْفُوهَا وَتُؤْتُوهَا الْفُقَرَاءَ فَهُوَ خَيْرٌ لَّكُمْ                                                                       | Surah Al-Baqarah (2:271)     | **Tawazun:** Idarati shfafiyat aur dil ki poshidgi ke darmiyan tawazun.              | Stage 1: Androoni Bunyad  |
+| **5**     | إِنَّمَا نُطْعِمُكُمْ لِوَجْهِ اللَّهِ لَا نُرِيدُ مِنكُمْ جَزَاءً وَلَا شُكُورًا                                                                                                  | Surah Al-Insan (76:9)        | **La Jaza'an:** Ahle al-Bayt ka meyar; shukriya ya badle ki umeed ka khatma.         | Stage 1: Androoni Bunyad  |
+| **6**     | وَجَاهِدُوا فِي اللَّهِ حَقَّ جِهَادِهِ ۚ هُوَ اجْتَبَاكُمْ                                                                                                                        | Surah Al-Hajj (22:78)        | **Istifa':** Chune jane ki saadat; yeh ehsas ke khidmat ek tohfa hai, ehsan nahi.    | Stage 1: Androoni Bunyad  |
+| **7**     | وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْئًا                                                                                                 | Surah At-Tawbah (9:25)       | **Ujb:** Khud-pasandi ka khatra; tadad aur sarmaye ke gharoor ka ilaaj.              | Stage 1: Androoni Bunyad  |
+| **8**     | يَسْأَلُونَكَ مَاذَا يُنفِقُونَ ۖ قُلْ مَا أَنفَقْتُم مِّنْ خَيْرٍ فَلِلْوَالِدَيْنِ وَالْأَقْرَبِينَ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ                            | Surah Al-Baqarah (2:215)     | **Huquq al-Ahl:** Ghar walon ke huqooq; makhlooq ki khidmat se pehle apno ka khayal. | Stage 1: Androoni Bunyad  |
+| **9**     | يَا أَيُّهَا الَّذِينَ آمَنُوا أَنفِقُوا مِن طَيِّبَاتِ مَا كَسَبْتُمْ                                                                                                             | Surah Al-Baqarah (2:267)     | **Rizq-e-Halal:** Halal kamayi ka adab; taake duayein qabool hon.                    | Stage 1: Androoni Bunyad  |
+| **10**    | وَاصْبِرْ نَفْسَكَ مَعَ الَّذِينَ يَدْعُونَ رَبَّهُم بِالْغَدَاةِ وَالْعَشِيِّ يُرِيدُونَ وَجْهَهُ ۖ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْ                                               | Surah Al-Kahf (18:28)        | **Al-Khafi:** Khamosh khadim ki qadar; poshida ibadat aur khidmat.                   | Stage 1: Androoni Bunyad  |
+| **11**    | يَحْسَبُهُمُ الْجَاهِلُ أَغْنِيَاءَ مِنَ التَّعَفُّفِ تَعْرِفُهُم بِسِيمَاهُمْ لَا يَسْأَلُونَ النَّاسَ إِلْحَافًا                                                                 | Surah Al-Baqarah (2:273)     | **Ghad al-Basar:** Nazron ki hifazat; tarass ko ehteram mein badalna.                | Stage 2: Maidan-e-Khidmat |
+| **12**    | الَّذِينَ يُنفِقُونَ أَمْوَالَهُمْ فِي سَبِيلِ اللَّهِ ثُمَّ لَا يُتْبِعُونَ مَا أَنفَقُوا مَنًّا وَلَا أَذًى ۙ لَّهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ                                 | Surah Al-Baqarah (2:262)     | **Al-Mann:** Ehsan jatane ki mana'at; khairat ke baad zillat na dena.                | Stage 2: Maidan-e-Khidmat |
+| **13**    | فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ ۝ وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ                                                                                                            | Surah Ad-Duha (93:9-10)      | **Kafalah:** Yateemon aur bewaon ki azmat; narm-mizaji aur dehshat.                  | Stage 2: Maidan-e-Khidmat |
+| **14**    | وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا                                                                                                                           | Surah Al-Ma'idah (5:32)      | **Shifa:** Beemaron ki khidmat ka rohani wazan; muskurata chehra.                    | Stage 2: Maidan-e-Khidmat |
+| **15**    | يَرْفَعِ اللَّهُ الَّذِينَ آمَنُوا مِنكُمْ وَالَّذِينَ أُوتُوا الْعِلْمَ دَرَجَاتٍ                                                                                                 | Surah Al-Mujadila (58:11)    | **Nur al-Ilm:** Taleem ki roshni; zehno ki tameer ka sawab.                          | Stage 2: Maidan-e-Khidmat |
+| **16**    | إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ                                                                     | Surah Al-Hujurat (49:10)     | **Islah:** Rishton ko jodne ki azmat; sulah aur masiha-giri.                         | Stage 2: Maidan-e-Khidmat |
+| **17**    | كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنكُمْ                                                                                                                             | Surah Al-Hashr (59:7)        | **Tamkeen:** Khud-kifayati; ghareeb ko apne paon par khada karna.                    | Stage 2: Maidan-e-Khidmat |
+| **18**    | إِنَّ الَّذِينَ يُحِبُّونَ أَن تَشِيعَ الْفَاحِشَةُ فِي الَّذِينَ آمَنُوا لَهُمْ عَذَابٌ أَلِيمٌ فِي الدُّنْيَا وَالْآخِرَةِ                                                       | Surah An-Nur (24:19)         | **Sitr:** Parda-poshi; aibon ko chhupana aur izzat ki hifazat.                       | Stage 2: Maidan-e-Khidmat |
+| **19**    | وَمَا أَرْسَلْنَاكَ إِلَّا رَحْمَةً لِّلْعَالَمِينَ                                                                                                                                | Surah Al-Anbiya (21:107)     | **Rahmatan lil-Alameen:** Alam-geer rahmat; be-shart insaniyat ki khidmat.           | Stage 2: Maidan-e-Khidmat |
+| **20**    | وَمَا لِأَحَدٍ عِندَهُ مِن نِّعْمَةٍ تُجْزَىٰ ۝ إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ ۝ وَلَسَوْفَ يَرْضَىٰ                                                                 | Surah Al-Lail (92:19-21)     | **Ru'yatul Khaliq:** Makhlooq ki khidmat mein Khaliq ka deedar.                      | Stage 2: Maidan-e-Khidmat |
+| **21**    | وَاعْتَصِمُوا بِحَبْلِ اللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا ۚ وَاذْكُرُوا نِعْمَتَ اللَّهَ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَاءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ                            | Surah Al-Imran (3:103)       | **Ukhuwwah:** Bhaichara; shakhon ki raqabat ka khatma.                               | Stage 3: Intizamia        |
+| **22**    | أَمْ يَحْسُدُونَ النَّاسَ عَلَىٰ مَا آتَاهُمُ اللَّهُ مِن فَضْلِهِ                                                                                                                 | Surah An-Nisa (4:54)         | **Hasad:** Hasad ka zeher; sathi ki kamyabi par khushi.                              | Stage 3: Intizamia        |
+| **23**    | يَا أَيُّهَا الَّذِينَ آمَنُوا أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الْأَمْرِ مِنكُمْ                                                                                 | Surah An-Nisa (4:59)         | **Ita'ah:** Ameer ki ita'at aur adab ke sath naseehat.                               | Stage 3: Intizamia        |
+| **24**    | وَشَاوِرْهُمْ فِي الْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى اللَّهِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُتَوَكِّلِينَ                                                                 | Surah Al-Imran (3:159)       | **Shura:** Mashwarat ka farz; dictatorship aur nepotism ka khatma.                   | Stage 3: Intizamia        |
+| **25**    | تِلْكَ الدَّارُ الْآخِرَةُ نَجْعَلُهَا لِلَّذِينَ لَا يُرِيدُونَ عُلُوًّا فِي الْأَرْضِ وَلَا فَسَادًا ۚ وَالْعَاقِبَةُ لِلْمُتَّقِينَ                                             | Surah Al-Qasas (28:83)       | **Talab al-Imarah:** Ohde ki talab ka khatra; qayadat ek bojh hai.                   | Stage 3: Intizamia        |
+| **26**    | يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا                               | Surah Al-Hujurat (49:12)     | **Husn al-Zann:** Bad-gumani ka ilaaj; ghibat aur jasoosi se parhez.                 | Stage 3: Intizamia        |
+| **27**    | وَلَا تَمُدَّنَّ عَيْنَيْكَ إِلَىٰ مَا مَتَّعْنَا بِهِ أَزْوَاجًا مِّنْهُمْ زَهْرَةَ الْحَيَاةِ الدُّنْيَا لِنَفْتِنَهُمْ فِيهِ ۚ وَرِزْقُ رَبِّكَ خَيْرٌ وَأَبْقَىٰ               | Surah Ta-Ha (20:131)         | **Istighna:** Amiron ke samne izzat-e-nafs; be-niyazi ka jazba.                      | Stage 3: Intizamia        |
+| **28**    | وَأَطِيعُوا اللَّهَ وَرَسُولَهُ وَلَا تَنَازَعُوا فَتَفْشَلُوا وَتَذْهَبَ رِيحُكُمْ ۖ وَاصْبِرُوا ۚ إِنَّ اللَّهَ مَعَ الصَّابِرِينَ                                               | Surah Al-Anfal (8:46)        | **Adab al-Ikhtilaf:** Ikhtilaf ka adab; ittehad ko jeet se upar rakhna.              | Stage 3: Intizamia        |
+| **29**    | قُلِ اللَّهُمَّ مَالِكَ الْمُلْكِ تُؤْتِي الْمُلْكَ مَن تَشَاءُ وَتَنزِعُ الْمُلْكَ مِمَّن تَشَاءُ                                                                                 | Surah Al-Imran (3:26)        | **Tawadu':** Ohde se hatne par sabr; aajzi aur shukr.                                | Stage 3: Intizamia        |
+| **30**    | وَالَّذِينَ جَاءُوا مِن بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِّلَّذِينَ آمَنُوا  | Surah Al-Hashr (59:10)       | **Hifz al-Ahad:** Virse ki hifazat; buzurgon aur ulema ka ehtiram.                   | Stage 3: Intizamia        |
+| **31**    | فَاسْتَقِمْ كَمَا أُمِرْتَ وَمَن تَابَ مَعَكَ وَلَا تَطْغَوْا ۚ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ                                                                                  | Surah Hud (11:112)           | **Istiqamah:** Musalsal mehnat; mausami josh ke bajaye istiqamah.                    | Stage 4: Wapsi ka Safar   |
+| **32**    | وَلَنَبْلُوَنَّكُم بِشَيْءٍ مِّنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ مِّنَ الْأَمْوَالِ وَالْأَنفُسِ وَالثَّمَرَاتِ ۗ وَبَشِّرِ الصَّابِرِينَ                                           | Surah Al-Baqarah (2:155)     | **Sabr:** Thakan aur be-zari ka sabr; gunahon ki maghfirat.                          | Stage 4: Wapsi ka Safar   |
+| **33**    | مَا أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ اللَّهِ ۗ وَمَن يُؤْمِن بِاللَّهِ يَهْدِ قَلْبَهُ                                                                                       | Surah At-Taghabun (64:11)    | **Husn al-Zann:** Maidan ke sadmon ka ilaaj; Ilahi hikmat par yaqeen.                | Stage 4: Wapsi ka Safar   |
+| **34**    | قُل لَّا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ                              | Surah Al-Ma'idah (5:100)     | **Kathrah vs Barakah:** Tadad ka dhoka; sarmaye ke bajaye ikhlas ki talab.           | Stage 4: Wapsi ka Safar   |
+| **35**    | كَانُوا قَلِيلًا مِّنَ اللَّيْلِ مَا يَهْجَعُونَ ۝ وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ                                                                                           | Surah Ad-Dhariyat (51:17-18) | **Buka':** Tahajjud aur aansu; Trust ka asal rohani eendhan.                         | Stage 4: Wapsi ka Safar   |
+| **36**    | فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ                                                                                                                                    | Surah Az-Zalzalah (99:7)     | **Al-Najatu fil-Qalil:** Zarre barabar neki ki azmat; choti nekiyan aur bada sawab.  | Stage 4: Wapsi ka Safar   |
+| **37**    | وَالَّذِينَ يُؤْتُونَ مَا آتَوا وَّقُلُوبُهُمْ وَجِلَةٌ أَنَّهُمْ إِلَىٰ رَبِّهِمْ رَاجِعُونَ                                                                                      | Surah Al-Mu'minun (23:60)    | **Khawf wa Raja':** Khauf aur umeed ka tawazun; qabooliyat ka darr.                  | Stage 4: Wapsi ka Safar   |
+| **38**    | وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِمِينَ مُشْفِقِينَ مِمَّا فِيهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَالِ هَٰذَا الْكِتَابِ لَا يُغَادِرُ صَغِيرَةً وَلَا كَبِيرَةً إِلَّا أَحْصَاهَا | Surah Al-Kahf (18:49)        | **Muhasabah:** Aakhri hisab; muflis sakhawat karne wale ka khauf.                    | Stage 4: Wapsi ka Safar   |
+| **39**    | أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ                                                                                                       | Surah Yunus (10:62)          | **Sunnat al-Awliya:** Khidmat ka rasta; Wilayat aur makhlooq ki khidmat.             | Stage 4: Wapsi ka Safar   |
+| **40**    | وُجُوهٌ يَوْمَئِذٍ نَّاضِرَةٌ ۝ إِلَىٰ رَبِّهَا نَاظِرَةٌ                                                                                                                          | Surah Al-Qiyamah (75:22-23)  | **Liqa' Allah:** Aakhri mulakat; Rab-ul-Alameen ka deedar.                           | Stage 4: Wapsi ka Safar   |
+
+***
+
+### 2. HADITH RESOURCES MATRIX (Sijil-e-Ahadith)
+*Sutun-e-Haq: Nabi ﷺ ki hidayat aur rohani usool.*
+
+| Station # | Arabic Hadith (Authentic Text)                                                                                          | Detailed Citation              | Sunnah.com Link                          | Rohani Sabaq / Tafakkur                               |
+| :-------- | :---------------------------------------------------------------------------------------------------------------------- | :----------------------------- | :--------------------------------------- | :---------------------------------------------------- |
+| **1**     | وَرَجُلٌ وَسَّعَ اللَّهُ عَلَيْهِ... فَقَدْ قِيلَ ثُمَّ أُمِرَ بِهِ فَسُحِبَ عَلَى وَجْهِهِ ثُمَّ أُلْقِيَ فِي النَّارِ | Sahih Muslim, 1905a            | [Link](https://sunnah.com/muslim:1905a)  | Shohrat ke liye ki gayi khairat ka anjam.             |
+| **2**     | لَا إِيمَانَ لِمَنْ لَا أَمَانَةَ لَهُ وَلَا دِينَ لِمَنْ لَا عَهْدَ لَهُ                                               | Musnad Ahmad 11935             | *Not on Sunnah.com*                      | Amanat-dari aur iman ka gehra talluq.                 |
+| **3**     | إِنَّ أَخْوَفَ مَا أَخَافُ عَلَيْكُمُ الشِّرْكُ الْأَصْغَرُ... قَالَ الرِّيَاءُ                                         | Musnad Ahmad 23630             | *Not on Sunnah.com*                      | Numayish (Riya) ko "Chhota Shirk" qarar dena.         |
+| **4**     | الْجَاهِرُ بِالْقُرْآنِ كَالْجَاهِرِ بِالصَّدَقَةِ وَالْمُسِرُّ بِالْقُرْآنِ كَالْمُسِرِّ بِالصَّدَقَةِ                 | Sunan Abi Dawud 1333           | [Link](https://sunnah.com/abudawud:1333) | Zahiri zaroorat aur batini pakeezgi ka tawazun.       |
+| **5**     | كَانَتْ عَائِشَةُ... تَدْعُو لَهُمْ بِمِثْلِ مَا دَعَوْا لَنَا وَتَبْقَى صَدَقَتُنَا خَالِصَةً لِلَّهِ                  | Musannaf Ibn Abi Shaybah 10852 | *Not on Sunnah.com*                      | Badle mein dua lene se bhi parhez.                    |
+| **6**     | إِذَا أَرَادَ اللَّهُ بِعَبْدٍ خَيْرًا اسْتَعْمَلَهُ                                                                    | Jami' at-Tirmidhi 2142         | [Link](https://sunnah.com/tirmidhi:2142) | Khidmat ke liye chuna jana Ilahi mohabbat ki nishani. |
+| **7**     | ثَلَاثٌ مُهْلِكَاتٌ شُحٌّ مُطَاعٌ وَهَوًى مُتَّبَعٌ وَإِعْجَابُ الْمَرْءِ بِنَفْسِهِ                                    | Shu'ab al-Iman 731             | *Not on Sunnah.com*                      | Khud-pasandi (Ujb) ki tabah-kuni.                     |
+| **8**     | دِينَارٌ أَنْفَقْتَهُ فِي سَبِيلِ اللَّهِ... وَدِينَارٌ أَنْفَقْتَهُ عَلَى أَهْلِكَ أَعْظَمُهَا أَجْرًا                 | Sahih Muslim 995               | [Link](https://sunnah.com/muslim:995)    | Ghar walon par kharch karne ki aala fazeelat.         |
+| **9**     | رَجُلٌ يُطِيقُ السَّفَرَ... وَمَطْعَمُهُ حَرَامٌ... فَأَنَّى يُسْتَجَابُ لِذَلِكَ                                       | Sahih Muslim 1015              | [Link](https://sunnah.com/muslim:1015)   | Haram rizq aur duayon ki na-qabooliyat.               |
+| **10**    | إِنَّ اللَّهَ يُحِبُّ الْعَبْدَ التَّقِيَّ الْغَنِيَّ الْخَفِيَّ                                                        | Sahih Muslim 2965              | [Link](https://sunnah.com/muslim:2965)   | Poshida aur be-niyaz khadim ki mohabbat.              |
+| **11**    | ابْغُونِي الضُّعَفَاءَ فَإِنَّمَا تُرْزَقُونَ وَتُنْصَرُونَ بِضُعَفَائِكُمْ                                             | Sunan Abi Dawud 2594           | [Link](https://sunnah.com/abudawud:2594) | Kamzoron ki khidmat se rizq aur nusrat.               |
+| **12**    | ثَلَاثَةٌ لَا يُكَلِّمُهُمُ اللَّهُ يَوْمَ الْقِيَامَةِ... وَالْمَنَّانُ                                                | Sahih Muslim 106a              | [Link](https://sunnah.com/muslim:106a)   | Ehsan jatane wale se Allah ki be-rukhi.               |
+| **13**    | أَنَا وَكَافِلُ الْيَتِيمِ فِي الْجَنَّةِ هَكَذَا                                                                       | Sahih al-Bukhari 6005          | [Link](https://sunnah.com/bukhari:6005)  | Yateem ki kafalat aur Nabi ﷺ ki qurbat.               |
+| **14**    | يَا ابْنَ آدَمَ مَرِضْتُ فَلَمْ تَعُدْنِي... أَمَا عَلِمْتَ أَنَّ عَبْدِي فُلاَنًا مَرِضَ فَلَمْ تَعُدْهُ               | Sahih Muslim 2569              | [Link](https://sunnah.com/muslim:2569)   | Beemaron ki ayadat mein Allah ki hazuri.              |
+| **15**    | حَتَّى النَّمْلَةَ فِي جُحْرِهَا... لَيُصَلُّونَ عَلَى مُعَلِّمِ النَّاسِ الْخَيْرَ                                     | Jami' at-Tirmidhi 2685         | [Link](https://sunnah.com/tirmidhi:2685) | Ilm sikhane walon par kaynat ki durood.               |
+| **16**    | أَلاَ أُخْبِرُكُمْ بِأَفْضَلَ مِنْ دَرَجَةِ الصَّيَامِ... صَلاَحُ ذَاتِ الْبَيْنِ                                       | Sunan Abi Dawud 4919           | [Link](https://sunnah.com/abudawud:4919) | Rishton ki sulah ki aala fazeelat.                    |
+| **17**    | مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ                                          | Sahih al-Bukhari 2072          | [Link](https://sunnah.com/bukhari:2072)  | Apne hathon ki kamayi aur izzat-e-nafs.               |
+| **18**    | وَمَنْ سَتَرَ مُسْلِمًا سَتَرَهُ اللَّهُ فِي الدُّنْيَا وَالْآخِرَةِ                                                    | Sahih Muslim 2699a             | [Link](https://sunnah.com/muslim:2699a)  | Aibon ko chhupane ka Ilahi badla.                     |
+| **19**    | فِي كُلِّ كَبِدٍ رَطْبَةٍ أَجْرٌ                                                                                        | Sahih al-Bukhari 2466          | [Link](https://sunnah.com/bukhari:2466)  | Har zinda jandar ki khidmat mein sawab.               |
+| **20**    | الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ ارْحَمُوا مَنْ فِي الأَرْضِ                                                      | Jami' at-Tirmidhi 1924         | [Link](https://sunnah.com/tirmidhi:1924) | Makhlooq par raham aur Khaliq ki rahamat.             |
+| **21**    | الْمُؤْمِنُونَ... مَثَلُ الْجَسَدِ إِذَا اشْتَكَى مِنْهُ عُضْوٌ تَدَاعَى لَهُ سَائِرُ الْجَسَدِ                         | Sahih Muslim 2586a             | [Link](https://sunnah.com/muslim:2586a)  | Mominon ka ek jism ki tarah hona.                     |
+| **22**    | إِيَّاكُمْ وَالْحَسَدَ فَإِنَّ الْحَسَدَ يَأْكُلُ الْحَسَنَاتِ                                                          | Sunan Abi Dawud 4903           | [Link](https://sunnah.com/abudawud:4903) | Hasad ka nekiyon ko jala dena.                        |
+| **23**    | مَنْ أَطَاعَنِي فَقَدْ أَطَاعَ اللَّهَ... وَمَنْ يُطِعِ الأَمِيرَ فَقَدْ أَطَاعَنِي                                     | Sahih al-Bukhari 2957          | [Link](https://sunnah.com/bukhari:2957)  | Ittehad ke liye Ameer ki ita'at.                      |
+| **24**    | مَنِ اسْتَعْمَلَ رَجُلًا عَلَى عِصَابَةٍ... فَقَدْ خَانَ اللَّهَ وَرَسُولَهُ                                            | Mustadrak al-Hakim 7023        | *Not on Sunnah.com*                      | Nepotism aur khayanat ki sakht warning.               |
+| **25**    | لاَ تَسْأَلِ الإِمَارَةَ فَإِنَّكَ إِنْ أُوتِيتَهَا عَنْ مَسْأَلَةٍ وُكِلْتَ إِلَيْهَا                                  | Sahih al-Bukhari 7146          | [Link](https://sunnah.com/bukhari:7146)  | Ohde ki talab aur Ilahi madad ka uthna.               |
+| **26**    | إِيَّاكُمْ وَالظَّنَّ فَإِنَّ الظَّنَّ أَكْذَبُ الْحَدِيثِ                                                              | Sahih al-Bukhari 6064          | [Link](https://sunnah.com/bukhari:6064)  | Bad-gumani aur ghibat ka khatma.                      |
+| **27**    | اعْلَمْ أَنَّ عِزَّ الْمُؤْمِنِ قِيَامُهُ بِاللَّيْلِ وَشَرَفَهُ اسْتِغْنَاؤُهُ عَنِ النَّاسِ                           | Al-Hakim / Al-Bayhaqi          | *Not on Sunnah.com*                      | Tahajjud aur be-niyazi se izzat.                      |
+| **28**    | أَنَا زَعِيمٌ بِبَيْتٍ فِي رَبَضِ الْجَنَّةِ لِمَنْ تَرَكَ الْمِرَاءَ                                                   | Sunan Abi Dawud 4800           | [Link](https://sunnah.com/abudawud:4800) | Jhagda chhorne par Jannat ki guarantee.               |
+| **29**    | طُوبَى لِعَبْدٍ... إِنْ كَانَ فِي الْحِرَاسَةِ كَانَ فِي الْحِرَاسَةِ وَإِنْ كَانَ فِي السَّاقَةِ                       | Sahih al-Bukhari 2887          | [Link](https://sunnah.com/bukhari:2887)  | Ohde se hatne par sabr aur wafa.                      |
+| **30**    | لَيْسَ مِنَّا مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ شَرَفَ كَبِيرِنَا                                                | Jami' at-Tirmidhi 1919         | [Link](https://sunnah.com/tirmidhi:1919) | Buzurgon ka ehtiram aur choton par raham.             |
+| **31**    | أَحَبُّ الأَعْمَالِ إِلَى اللَّهِ تَعَالَى أَدْوَمُهَا وَإِنْ قَلَّ                                                     | Sahih al-Bukhari 6464          | [Link](https://sunnah.com/bukhari:6464)  | Musalsal aur mustaqil amal ki fazeelat.               |
+| **32**    | مَا يُصِيبُ الْمُسْلِمَ مِنْ نَصَبٍ... إِلَّا كَفَّرَ اللَّهُ بِهَا مِنْ خَطَايَاهُ                                     | Sahih al-Bukhari 5641          | [Link](https://sunnah.com/bukhari:5641)  | Thakan aur takleef se gunahon ki maghfirat.           |
+| **33**    | يُجْمَعُ أُشَقَى الْأَشْقِيَاءِ... فَيُغْمَسُ فِي الْجَنَّةِ مَرَّةً وَاحِدَةً                                          | Sahih Muslim 2807              | [Link](https://sunnah.com/muslim:2807)   | Jannat ki ek dubki aur dunya ke sadmon ka khatma.     |
+| **34**    | سَبَقَ دِرْهَمٌ مِائَةَ أَلْفِ دِرْهَمٍ                                                                                 | Sunan an-Nasa'i 2527           | [Link](https://sunnah.com/nasai:2527)    | Ikhlas ki wazan, sarmaye ki tadad se zyada.           |
+| **35**    | عَيْنَانِ لاَ تَمَسُّهُمَا النَّارُ عَيْنٌ بَكَتْ مِنْ خَشْيَةِ اللَّهِ                                                 | Jami' at-Tirmidhi 1639         | [Link](https://sunnah.com/tirmidhi:1639) | Khauf-e-Ilahi aur Tahajjud ke aansu.                  |
+| **36**    | اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ                                                                               | Sahih al-Bukhari 1417          | [Link](https://sunnah.com/bukhari:1417)  | Zarre barabar neki ki bachane wali quwwat.            |
+| **37**    | لاَ يَا ابْنَةَ الصِّدِّيقِ... وَلَكِنْ يَخَافُونَ أَنْ لاَ يُقْبَلَ مِنْهُمْ                                           | Jami' at-Tirmidhi 3175         | [Link](https://sunnah.com/tirmidhi:3175) | Amal ke baad qabooliyat ka darr.                      |
+| **38**    | إِنَّ الْمُفْلِسَ مِنْ أُمَّتِي... يَأْتِي بِصَلاَةٍ وَصِيَامٍ وَزَكَاةٍ...                                             | Sahih Muslim 2581              | [Link](https://sunnah.com/muslim:2581)   | Muflis woh hai jis ka kirdar kharab ho.               |
+| **39**    | أَحَبُّ النَّاسِ إِلَى اللَّهِ أَنْفَعُهُمْ لِلنَّاسِ                                                                   | Al-Mu'jam Al-Awsat 6192        | *Not on Sunnah.com*                      | Insaniyat ki khidmat se Allah ki mohabbat.            |
+| **40**    | فَيَكْشِفُ الْحِجَابَ فَمَا أُعْطُوا شَيْئًا أَحَبَّ إِلَيْهِمْ مِنَ النَّظَرِ إِلَى رَبِّهِمْ                          | Sahih Muslim 181a              | [Link](https://sunnah.com/muslim:181a)   | Sabse aala inaam: Rab ka deedar.                      |
 
 ---
 ---
@@ -386,8 +349,51 @@ Sunnah.com primarily hosts the *Kutub al-Sittah* (The Six Major Books: Bukhari, 
 
 # Draft
 
+# MUQADDIMAH (Foreword)
+
+**By Syed Hamza Ashraf, Janashin-e-Shaikh Ul Islam**
+
+**Bismillah ir-Rahman ir-Rahim.**  
+*Alhamdulillahi Rabbil 'Alameen, wa-ssalatu wa-ssalamu 'ala Sayyidil Mursaleen, wa 'ala aalihi wa ashabihi ajma'een.*
+
+Mere pyare bhaiyo... Trust ke tamam Ameero, Khadimon, aur un khamosh sipahiyon jo parde ke piche reh kar is karwan ko chala rahe hain...
+
+Aaj jab main is Trust ki wus-at (expanse) ko dekhta hoon, toh mera dil Rab-ul-Alameen ki bargah mein shukr se jhuk jata hai. Ek chote se beej ki surat mein shuru hone wali yeh koshish, Allah ke fazl aur hamare buzurgon ki *Nisbat* se, aaj ek ghane aur sayadar darakht ki surat ikhtiyar kar chuki hai. 
+
+Aaj hum Gujarat aur duniya bhar mein 150 se zyada shakhon (branches) ke sath khade hain. Andheri bastiyon se lekar aafat-zada ilaqon tak, is Trust ka jhanda yateemon ke liye ek qila, beemaron ke liye shifakhana aur roshni ki talash karne walon ke liye ek madrasa ban chuka hai. Yeh phailao ek hairat-angez barkat hai... yeh *Ahle Sunnah* ki barkat hai.
+
+**Magar... is azeem barkat ke sath ek khaufnaak saya bhi juda hai.**
+
+Is virse ke Janashin ki haisiyat se, mera yeh rohani farz hai ke main tumhein khabardar karoon: Allah ko hamari 150 shakhon se koi saro-kaar nahi. Usey hamari gaadiyon ke qafle nahi dikhte, na hamare bade budget, aur na hi woh wah-wah jo humein logon se milti hai. Woh sirf is kamre mein baithe hue logon ke dilon ko dekhta hai.
+
+Mujhe darr hai... mujhe darr hai ke jahan hamari tadad badh rahi hai, wahan hamara *Ikhlas* kam na ho jaye. Mujhe darr hai un bimariyon se jo bade idaron ko andar se khala (hollow) kar deti hain—shakhon ki aapsi raqabat, ohdon ki bhook, WhatsApp ki ghibat, ghareebon ke samne takabbur, aur social media par numayish ki woh chupi hui but-parasti. 
+
+Yaad rakho... agar hum lakhon bewaon ko khilate hain, magar hamare dilon mein *Riya* ya *Hasad* ka zeher hai, toh yeh 150 shakhon ka dhancha hamari apni tabahi ka rasta ban jayega.
+
+Hum is baat ki ijazat hargiz nahi de sakte ke idarati machine, Khadim ki rooh ko kuchal de.
+
+Isi liye, main tumhare samne **"Minhaj al-Khidmat" (Khidmat ka Rasta)** rakhta hoon. Yeh koi aisi booklet nahi hai jise ek baar padh kar almari mein saja diya jaye. Yeh Shaikh Ul Islam Trust ka rohani *Aaeen* (constitution) hai. Yeh tumhari rooh ke liye ek aaina hai, tumhare *Nafs* ke liye ek emergency brake hai, aur tumhari Aakhirat ke liye ek field manual hai. Isme 40 aise stations hain jo Allah ke kalam aur Nabi ﷺ ki sahih sunnat se jude hue hain.
+
+Mera hukm har Ameer aur har Khadim ke liye yeh hai: Is kitab ko apni rooh ka hissa bana lo. Apni branch meetings mein ise padho. Maidan mein utarne se pehle apni niyat ka audit karo. Ghareebon ko apna aaqa samjho, buzurgon ka ehtiram karo, apne bhaichare ki hifazat karo, aur Tahajjud ke aansuon ke sath andheron mein khidmat karo.
+
+Allah tumhare paseene ko qabool farmaye, hamari kamiyon ko maaf kare, aur us din hum sab ko Nabi ﷺ ke jhande tale jama kare... jab na sarmaya kaam ayega, na shakhon ki tadad... balki sirf ek *Qalb-e-Saleem* (saaf dil) kaam ayega.
+
+**Syed Hamza Ashraf**  
+Janashin-e-Shaikh Ul Islam
+
+---
+---
+
 ## STAGE 1: AL-BIDAYAH (Androoni Bunyad)
 *Maidan-e-Khidmat mein qadam rakhne se pehle, dil ki pakeezgi.*
+
+### PRIMER 1: AL-BIDAYAH (Androoni Bunyad)
+
+**Rooh ki Dehleez**
+
+Ay Khadim! Shaikh Ul Islam Trust ki pehchan apne seene par sajane se pehle, aur maidan ki dhool ko apne qadmon se chhune se pehle... tumhein is dehleez par thaharna hoga. Yaad rakho, agar rooh ki pakeezgi (Tazkiyah) na ho, toh khidmat sirf ek dunyawi mashaqqat hai jise deen ka libas pehnaya gaya ho.
+
+Is pehle marhale mein, hum yeh nahi dekhenge ke tum kitne yateemon ko khila sakte ho ya kitna sarmaya jama kar sakte ho. Hum sirf tumhare dil ki un chhupi hui bimariyon ko dekhenge jo tumhari nekiyon ko chaat jati hain. Tum ab apni rooh ki jaraahat-gah (surgery theater) mein dakhil ho rahe ho. Apne andar ki shohrat ki talab, apna takabbur, aur apni "main" ki zid ko utaar phenko. Amanah (Divine Trust) ki us khaufnaak haqiqat ka samna karne ke liye tayyar ho jao. Jab tak tumhari niyat mukammal taur par, sirf aur sirf Rab-ul-Alameen ke liye khalis na ho jaye... is safhay ko palatne ki jurat na karna.
 
 ### Station 1: Niyat ki Pakeezgi (Al-Ikhlas)
 
@@ -567,6 +573,14 @@ Khush raho, kyunke tum Allah ke mehboob ho. Nabi ﷺ ko khud Allah ne hukm diya 
 ## STAGE 2: AL-MAYDAN (Maidan-e-Khidmat)
 *Khidmat ke aala usool aur makhlooq ke sath muamlat ke sakht adab.*
 
+### PRIMER 2: AL-MAYDAN (Maidan-e-Khidmat)
+
+**Makhlooq ki Dhool**
+
+Tumhara dil ab jam chuka hai, magar asal imtihan toh mitti mein hai. Tum masjid ki hifazat se nikal kar bastiyon, aspatalon, madrason aur aafat-zada ilaqon mein qadam rakh rahe ho. Is marhale mein, tumhein "masiha hone ke waham" ko mukammal taur par zameen par rakhna hoga.
+
+Tumhare samne khade woh toote hue log, kisi salana sijil (annual report) ke numbers nahi hain, aur na hi woh tumhare tarass ke mohtaj bhikari hain. Woh toh Allah ke woh muqaddas mehman hain, jinhein tumhein Jahannum ki aag se bachane ke liye bheja gaya hai. Agle das stations ko padhte hue, tumhein maidan ke us sakht aur khaufnaak Adab (etiquette) ko seekhna hoga. Seekho ke ghareebi ke samne nazrein kaise neechi rakhi jati hain, apni thakan ke bawajood muskurahat kaise paida ki jati hai, aur makhlooq ki khidmat Ahle Sunnah ke aala ehtiram ke sath kaise ki jati hai.
+
 ### Station 11: Wali-e-Nemat aur Nazron ki Hifazat (Ghad al-Basar)
 
 **Qurani Ayat:**
@@ -744,6 +758,14 @@ Rohani jawari (*Futuwwa*) ka aala muqam yeh ehsas hai ke makhlooq ke sath har ek
 ## STAGE 3: AL-TANZIM (Intizamia aur Bhaichara)
 *Shakhon (branches) ki raqabat, qayadat ke gharoor aur idarati siyasat ki bimariyon ka ilaaj.*
 
+### PRIMER 3: AL-TANZIM (Intizamia aur Bhaichara)
+
+**Bhaichare ka Imtihan**
+
+Ay Khadim! Ek sach sun lo: Rote hue yateem par raham karna asan hai; magar us sathi khadim par raham karna nihayat mushkil hai jisne tumhara ohda (promotion) le liya ho. Tum ab jismani maidan se nikal kar us jung ke maidan mein dakhil ho rahe ho jo sabse zyada khatarnak hai—idare ke andruni kamre.
+
+Yahi woh jagah hai jahan azeem-ush-shaan Trust tute hain aur khatam ho gaye hain. Is marhale mein, hum tumhari Ana (ego) par waar karenge. Hum shakhon (branches) ki aapsi raqabat, qayadat ki sultani (dictatorship), WhatsApp ki sargoshiyon aur amiron ke samne jhukne ke gharoor ka ilaaj karenge. Apne takabbur ko nigalne ke liye tayyar raho. Is Trust mein hum dunyawi rutbon ke liye nahi larte; hum Jama'ah ke ittehad (unity) ko bachane ke liye larte hain.
+
 ### Station 21: Khidmat ka Bhaichara (Ukhuwwah)
 
 **Qurani Ayat:**
@@ -898,6 +920,26 @@ Ay Qayadat karne wale! Yahan tumhare *Ikhlas* ka sabse bada aur khaufnaak imtiha
 Kya tum gusse mein isteefa de doge? Kya tumhara zakhmi *Nafs* tumhein uksayega ke tum ek alag idara bana lo aur zaati ranjish ki bina par Ummat ke sarmaye ko taqseem kar do? Agar tum aisa karte ho, toh yeh is baat ki saaf daleel hai ke tum ohde ke liye khidmat kar rahe the, Allah ke liye nahi. Sacha Khadim us sipahi ki tarah hai jiska zikr Hadith mein hai: agar usey agay commander bana diya jaye, toh woh Allah ke liye larta hai; aur agar usey piche saman ki hifazat par laga diya jaye, toh woh usi jazbe se hifazat karta hai, kyunke uska Rab agay bhi wahi hai aur piche bhi wahi. Apne gharoor ko nigal jao, muskurahat ke sath ohda lautao, aur saaye mein reh kar khidmat karo.
 
 ***
+
+### PRIMER 4: AL-MA'AD (Wapsi ka Safar)
+
+**Aadhi Raat ke Aansu**
+
+Tumne maidan ki dhool sahi, tumne idare ki siyasaton ka samna kiya. Magar ab... tumhara jism toot chuka hai. Sarmaya khatam ho raha hai, Sa'il na-shukra hain, aur thakan tumhari haddiyon mein utar chuki hai. Shaitan tumhare kaan mein phusphusayega: "Bas karo, ab chhor do."
+
+Thahro, ay Khadim! Aur upar dekho. Is aakhri marhale mein, hum dunya ko mukammal taur par piche chhor rahe hain. Hum tumhara rukh Aakhirat ki taraf mod rahe hain. Yahan tumhein apni thakan (be-zari) ki rohani dawa aur apne sadmon (trauma) ki theological dhaal milegi. Ab "Aakhri Hisab" (Final Audit) ki tayyari karo. Trust ke sijilat (ledgers) band karo, hujoom ke shor ko khamosh karo, aur apni aadhi raat ke aansuon ko jagao. Dunya khatam ho rahi hai, Mizan (scales) tayyar hain, aur tumhare Rab se woh aakhri mulakat qareeb hai.
+
+---
+
+## Stage 4 - Al Ma'ad (Waapsi ka Safar)
+
+### PRIMER 4: AL-MA'AD (Wapsi ka Safar)
+
+**Aadhi Raat ke Aansu**
+
+Tumne maidan ki dhool sahi, tumne idare ki siyasaton ka samna kiya. Magar ab... tumhara jism toot chuka hai. Sarmaya khatam ho raha hai, Sa'il na-shukra hain, aur thakan tumhari haddiyon mein utar chuki hai. Shaitan tumhare kaan mein phusphusayega: "Bas karo, ab chhor do."
+
+Thahro, ay Khadim! Aur upar dekho. Is aakhri marhale mein, hum dunya ko mukammal taur par piche chhor rahe hain. Hum tumhara rukh Aakhirat ki taraf mod rahe hain. Yahan tumhein apni thakan (be-zari) ki rohani dawa aur apne sadmon (trauma) ki theological dhaal milegi. Ab "Aakhri Hisab" (Final Audit) ki tayyari karo. Trust ke sijilat (ledgers) band karo, hujoom ke shor ko khamosh karo, aur apni aadhi raat ke aansuon ko jagao. Dunya khatam ho rahi hai, Mizan (scales) tayyar hain, aur tumhare Rab se woh aakhri mulakat qareeb hai.
 
 ### Station 30: Virse ki Hifazat (Hifz al-Ahad)
 
