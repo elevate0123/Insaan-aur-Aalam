@@ -3,16 +3,12 @@
 camel-tools==1.6.0
 pandas==2.2.2
 lxml==5.2.2
-numpy>=2.0.0
-# numpy==1.26.4
+numpy==1.26.4
 openpyxl==3.1.2
-
-
 networkx==3.3
 python-louvain==0.16
 scipy==1.13.1
 statsmodels==0.14.2
-
 
 # NOTE: camel-tools pulls in torch/transformers as transitive dependencies
 # (~2-3 GB download). This is normal — CAMeL Tools' newer analyzers use
