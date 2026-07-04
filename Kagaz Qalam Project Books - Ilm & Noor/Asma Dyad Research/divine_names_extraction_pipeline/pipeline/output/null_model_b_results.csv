@@ -1,0 +1,3 @@
+name_1_serial,name_2_serial,meccan_count,medinan_count,meccan_rate_per_1000v,medinan_rate_per_1000v,observed_differential,differential_p_value,significant_p05
+1,63,3,2,3.7453,1.8727,-1.8727,0.4656,False
+1,52,23,26,28.7141,24.3446,-4.3695,0.4815,False

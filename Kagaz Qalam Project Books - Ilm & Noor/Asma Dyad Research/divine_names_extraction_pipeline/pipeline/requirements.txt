@@ -1,0 +1,15 @@
+# Pinned per Dossier v2.1 §9.3 reproducibility requirement — do not loosen
+# these without a commit message explaining why (see README.md "Versioning").
+camel-tools==1.6.0
+pandas==2.2.2
+lxml==5.2.2
+numpy>=2.0.0
+# numpy==1.26.4
+openpyxl==3.1.2
+
+# NOTE: camel-tools pulls in torch/transformers as transitive dependencies
+# (~2-3 GB download). This is normal — CAMeL Tools' newer analyzers use
+# transformer-based disambiguation models. If you only need the classical
+# rule-based Analyzer (what extract_dyads.py uses by default), you do not
+# need a GPU; CPU-only torch is sufficient and this will still run, just
+# slower for the optional MLEDisambiguator path mentioned in morphology.py.
