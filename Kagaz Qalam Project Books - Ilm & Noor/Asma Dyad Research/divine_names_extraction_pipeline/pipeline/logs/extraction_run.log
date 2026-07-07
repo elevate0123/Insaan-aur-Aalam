@@ -140,3 +140,50 @@
 2026-07-04 17:55:47,101  INFO      Review this table before choosing the primary threshold for the final
 2026-07-04 17:55:47,101  INFO      published dataset. Per Dossier §5.7, report this table in Paper 0
 2026-07-04 17:55:47,101  INFO      supplementary materials regardless of which threshold you keep.
+2026-07-06 18:00:54,031  INFO      === Extraction run starting: threshold=10 ===
+2026-07-06 18:00:54,082  INFO      Loading divine names master list...
+2026-07-06 18:00:54,082  INFO      Loaded 108 names, 107 unique normalized lemma keys.
+2026-07-06 18:00:54,082  WARNING   1 normalized-lemma collisions across distinct names (expected — these route to HITL on match):
+2026-07-06 18:00:54,082  WARNING       'رزاق' -> ['Al-Razzāq', 'Al-Rāziq']
+2026-07-06 18:00:54,082  INFO      Loading Qur'an corpus...
+2026-07-06 18:00:54,140  INFO      Loaded 6236 verses.
+2026-07-06 18:00:54,140  INFO      Loading CAMeL Tools morphology DB (args.threshold=10)... this can take ~10-30s.
+2026-07-06 18:00:57,063  INFO        ...processed 500/6236 verses, 470 dyads so far
+2026-07-06 18:00:58,971  INFO        ...processed 1000/6236 verses, 887 dyads so far
+2026-07-06 18:01:00,599  INFO        ...processed 1500/6236 verses, 1273 dyads so far
+2026-07-06 18:01:01,980  INFO        ...processed 2000/6236 verses, 1425 dyads so far
+2026-07-06 18:01:03,230  INFO        ...processed 2500/6236 verses, 1484 dyads so far
+2026-07-06 18:01:04,346  INFO        ...processed 3000/6236 verses, 1718 dyads so far
+2026-07-06 18:01:05,490  INFO        ...processed 3500/6236 verses, 1851 dyads so far
+2026-07-06 18:01:06,523  INFO        ...processed 4000/6236 verses, 2024 dyads so far
+2026-07-06 18:01:07,686  INFO        ...processed 4500/6236 verses, 2208 dyads so far
+2026-07-06 18:01:08,553  INFO        ...processed 5000/6236 verses, 2335 dyads so far
+2026-07-06 18:01:09,648  INFO        ...processed 5500/6236 verses, 2614 dyads so far
+2026-07-06 18:01:10,096  INFO        ...processed 6000/6236 verses, 2627 dyads so far
+2026-07-06 18:01:10,371  INFO      Detected 206 structural refrain patterns (>= 3 occurrences).
+2026-07-06 18:01:10,400  INFO      Wrote 2630 rows -> D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\dyad_dataset_raw.csv
+2026-07-06 18:01:10,410  INFO      Wrote 1531 rows -> D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\hitl_review_queue.csv
+2026-07-06 18:01:10,410  INFO      Wrote 206 rows -> D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\structural_refrains.csv
+2026-07-06 18:01:10,432  INFO      Wrote 5860 rows -> D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\verse_name_occurrences.csv
+2026-07-06 18:01:10,433  INFO      === Done. Summary ===
+2026-07-06 18:01:10,433  INFO        Total dyads extracted:        2630
+2026-07-06 18:01:10,433  INFO        Routed to HITL review queue:  1531
+2026-07-06 18:01:10,433  INFO        Structural refrains detected: 206
+2026-07-06 18:01:10,433  INFO        NEXT STEP: open D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\hitl_review_queue.csv and manually review every row before
+2026-07-06 18:01:10,433  INFO        treating D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\dyad_dataset_raw.csv as final — see README.md 'After running' section.
+2026-07-06 18:01:23,403  INFO      === Sensitivity analysis run ===
+2026-07-06 18:01:24,470  INFO      Tokenizing + analyzing 6236 verses once (reused across all thresholds)...
+2026-07-06 18:01:28,229  INFO        ...1000/6236
+2026-07-06 18:01:31,205  INFO        ...2000/6236
+2026-07-06 18:01:33,534  INFO        ...3000/6236
+2026-07-06 18:01:35,662  INFO        ...4000/6236
+2026-07-06 18:01:37,607  INFO        ...5000/6236
+2026-07-06 18:01:39,024  INFO        ...6000/6236
+2026-07-06 18:01:39,246  INFO        threshold=5: 1828 dyads, 198 unique pairs
+2026-07-06 18:01:39,262  INFO        threshold=7: 2191 dyads, 238 unique pairs
+2026-07-06 18:01:39,293  INFO        threshold=10: 2630 dyads, 262 unique pairs
+2026-07-06 18:01:39,324  INFO        threshold=15: 3159 dyads, 287 unique pairs
+2026-07-06 18:01:39,324  INFO      Wrote sensitivity table -> D:\BA_GIL\Insaan-aur-Aalam\Kagaz Qalam Project Books - Ilm & Noor\Asma Dyad Research\divine_names_extraction_pipeline\pipeline\output\sensitivity_analysis.csv
+2026-07-06 18:01:39,324  INFO      Review this table before choosing the primary threshold for the final
+2026-07-06 18:01:39,324  INFO      published dataset. Per Dossier §5.7, report this table in Paper 0
+2026-07-06 18:01:39,324  INFO      supplementary materials regardless of which threshold you keep.

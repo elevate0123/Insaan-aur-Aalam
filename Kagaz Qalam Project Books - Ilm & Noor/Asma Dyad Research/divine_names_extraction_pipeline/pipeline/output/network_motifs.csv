@@ -1,0 +1,385 @@
+subgraph_size,jjk_composition,shape,observed_count,null_mean,null_std,z_score,p_value,significant
+3,Jalāl + Jalāl + Jalāl,complete,31,11.7069,3.4724,5.5561,0.0,True
+4,Disputed + Jalāl + Jalāl + Jalāl,complete,31,10.8936,3.4839,5.7713,0.0,True
+4,Jalāl + Jalāl + Jalāl + Jamāl,complete,27,6.1287,3.1875,6.5478,0.0,True
+4,Jalāl + Jalāl + Jalāl + Jalāl,complete,19,1.2833,1.3355,13.2664,0.0,True
+3,Disputed + Jalāl + Jalāl,complete,39,29.0698,2.9504,3.3657,0.0006,True
+4,Disputed + Jalāl + Jalāl + Jalāl,4edges,491,360.1564,42.6307,3.0692,0.0009,True
+4,Disputed + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,4edges,36,22.3998,5.7157,2.3795,0.0079,True
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,4edges,17,5.1391,3.8162,3.108,0.0086,True
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic,complete,7,2.2344,1.5933,2.991,0.0109,True
+4,Jalāl + Jamāl + Kamāl-ontological + Kamāl-ontological,complete,15,5.7565,3.3962,2.7217,0.0139,True
+3,Jamāl + Kamāl-epistemic + Kamāl-epistemic,complete,7,2.3611,1.6181,2.8668,0.0139,True
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-ontological,3edges,1077,889.3018,101.338,1.8522,0.0165,True
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,5edges,5,0.9001,1.2963,3.1628,0.0197,True
+4,Disputed + Jalāl + Kamāl-ontological + Kamāl-ontological,4edges,249,198.1791,25.593,1.9857,0.0227,True
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,4,0.516,0.9946,3.5031,0.0232,True
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,4edges,3,0.3048,0.7398,3.6432,0.0263,True
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic,4edges,162,122.5562,20.6037,1.9144,0.0287,True
+3,Disputed + Jalāl + Kamāl-epistemic,2edges,154,137.2847,10.9025,1.5332,0.033,True
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,5edges,24,14.3547,4.7574,2.0274,0.0348,True
+4,Jalāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,5edges,44,27.0068,8.5817,1.9802,0.0359,True
+4,Jamāl + Jamāl + Jamāl + Jamāl,4edges,19,5.9822,5.9241,2.1974,0.0391,True
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic,4edges,149,109.8742,21.4365,1.8252,0.0392,True
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,28,19.1191,4.9155,1.8067,0.0394,True
+4,Disputed + Jamāl + Kamāl-ontological + Kamāl-ontological,complete,9,4.356,2.2441,2.0694,0.0414,True
+4,Jalāl + Jalāl + Kamāl-ontological + Kamāl-ontological,complete,11,4.6178,2.9544,2.1602,0.0428,True
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,4edges,68,44.421,12.9564,1.8199,0.0432,True
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,3,0.518,0.9373,2.6481,0.0451,True
+4,Disputed + Jalāl + Jalāl + Jamāl,complete,34,24.945,5.1444,1.7602,0.048,True
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,5edges,8,2.6371,2.5155,2.1319,0.0501,False
+3,Disputed + Jamāl + Jamāl,complete,15,10.8075,2.2727,1.8447,0.0507,False
+3,Jamāl + Kamāl-ontological + Kamāl-ontological,complete,9,4.5923,2.2665,1.9447,0.0514,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,1,0.0569,0.2555,3.6917,0.0514,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,2edges,24,15.3268,4.7885,1.8113,0.0525,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,complete,1,0.0567,0.248,3.8042,0.0527,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,14,6.2044,4.3229,1.8033,0.0532,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-ontological,5edges,71,48.6359,13.0486,1.7139,0.0544,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,4edges,44,24.939,10.9833,1.7355,0.0554,False
+3,Disputed + Kamāl-epistemic + Kamāl-epistemic,complete,6,3.3188,1.3569,1.976,0.0554,False
+4,Disputed + Jalāl + Kamāl-ontological + Kamāl-ontological,complete,15,9.0317,3.2636,1.8288,0.0568,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,3edges,164,121.08,26.596,1.6138,0.0623,False
+4,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,156,124.1338,22.5094,1.4157,0.0628,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic,3edges,1489,1271.1308,141.4894,1.5398,0.066,False
+3,Jalāl + Kamāl-ontological + Kamāl-ontological,complete,15,9.4653,3.2282,1.7145,0.0696,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,2,0.3095,0.7521,2.2476,0.0705,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic,4edges,134,99.4518,22.8562,1.5115,0.0735,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,3edges,54,34.7553,12.3608,1.5569,0.0754,False
+4,Disputed + Jalāl + Jamāl + Jamāl,complete,19,13.0597,3.7493,1.5844,0.0764,False
+4,Disputed + Jamāl + Jamāl + Jamāl,4edges,233,182.2985,35.2648,1.4377,0.0801,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,4edges,157,122.9086,24.0174,1.4194,0.0824,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,4edges,24,14.0894,6.6999,1.4792,0.0877,False
+4,Disputed + Jamāl + Kamāl-ontological + Kamāl-ontological,4edges,211,175.7611,26.0607,1.3522,0.0921,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,5edges,6,2.4505,2.0404,1.7396,0.0924,False
+3,Jalāl + Jalāl + Jamāl,complete,34,26.6905,5.0791,1.4391,0.0934,False
+4,Jamāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,5edges,7,2.8885,2.5876,1.5889,0.0947,False
+4,Disputed + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,4edges,82,67.7467,10.4052,1.3698,0.0965,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,5edges,30,19.794,7.2269,1.4122,0.0965,False
+3,Disputed + Kamāl-ontological + Kamāl-ontological,complete,8,5.3632,1.6337,1.614,0.0971,False
+4,Jamāl + Jamāl + Kamāl-ontological + Kamāl-ontological,5edges,14,7.3389,4.5303,1.4704,0.0976,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,0.4935,0.7551,1.9951,0.0995,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-ontological,4edges,329,271.2902,44.3043,1.3026,0.1018,False
+4,Jalāl + Jalāl + Jalāl + Jalāl,4edges,167,123.9916,32.9194,1.3065,0.102,False
+3,Disputed + Jalāl + Kamāl-ontological,2edges,191,172.8381,14.3226,1.2681,0.1021,False
+4,Disputed + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,5edges,10,5.48,3.103,1.4566,0.106,False
+4,Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,39,25.0058,10.6016,1.32,0.1063,False
+4,Jalāl + Jamāl + Jamāl + Jamāl,5edges,27,15.9037,8.1526,1.3611,0.1073,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,2edges,6,2.6371,2.1097,1.594,0.1073,False
+4,Jalāl + Jalāl + Jalāl + Jalāl,3edges,728,538.9167,148.5375,1.273,0.1077,False
+3,Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,0.5294,0.7784,1.8892,0.1092,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,6,3.0749,1.9445,1.5043,0.1098,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,4,1.3073,1.6623,1.6199,0.1105,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,4edges,15,10.5675,3.4173,1.2971,0.1134,False
+4,Jalāl + Jalāl + Kamāl-ontological + Kamāl-ontological,4edges,199,163.1711,29.0744,1.2323,0.114,False
+3,Jalāl + Jamāl + Jamāl,complete,19,14.0398,3.7144,1.3354,0.1155,False
+3,Jamāl + Jamāl + Jamāl,complete,3,1.1307,1.1457,1.6316,0.1159,False
+4,Disputed + Jalāl + Jalāl + Kamāl-ontological,5edges,171,149.1587,18.0662,1.209,0.1173,False
+4,Jamāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,5edges,19,11.9056,5.5373,1.2812,0.1187,False
+3,Jamāl + Jamāl + Jamāl,2edges,35,23.4799,9.1528,1.2586,0.1191,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,3edges,24,14.4736,7.5208,1.2667,0.1205,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,4edges,12,6.141,4.5649,1.2835,0.1215,False
+4,Jalāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,5edges,13,7.0734,4.4522,1.3312,0.1222,False
+4,Jalāl + Jalāl + Jalāl + Jamāl,4edges,457,397.1858,50.7908,1.1777,0.1233,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,4edges,63,52.8911,8.4847,1.1914,0.1251,False
+3,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,6,3.2552,1.9332,1.4198,0.1255,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,10,4.791,3.9025,1.3348,0.1279,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,20,12.446,6.1074,1.2369,0.1283,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,140,106.7133,30.5458,1.0897,0.1323,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-ontological,3edges,960,809.9123,133.7664,1.122,0.1351,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic,3edges,2890,2711.9244,180.9247,0.9843,0.1356,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,5edges,14,8.413,4.5945,1.216,0.1362,False
+3,Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,2edges,10,5.9294,3.23,1.2603,0.1362,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,1,0.1992,0.5606,1.4284,0.1384,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,complete,1,0.1936,0.5317,1.5166,0.1414,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,3edges,33,20.9369,11.0316,1.0935,0.1436,False
+4,Disputed + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,5edges,25,18.6757,5.4852,1.153,0.1456,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,25,19.3522,5.5406,1.0194,0.1463,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,9,3.6822,4.1983,1.2667,0.147,False
+4,Jamāl + Jamāl + Jamāl + Jamāl,3edges,68,42.8427,26.7779,0.9395,0.1548,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic,complete,8,4.9923,2.4789,1.2133,0.156,False
+4,Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,4edges,16,9.9232,5.5323,1.0984,0.1564,False
+4,Jamāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,4edges,76,60.0927,15.2933,1.0401,0.1585,False
+4,Jalāl + Jalāl + Kamāl-ontological + Kamāl-ontological,5edges,46,35.1162,10.3747,1.0491,0.1595,False
+4,Jamāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,4edges,25,16.3434,8.2994,1.043,0.1604,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-ontological,complete,20,14.2993,5.3415,1.0673,0.1641,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,1,0.1902,0.4613,1.7554,0.1643,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic,3edges,787,674.6792,120.7562,0.9301,0.1683,False
+4,Disputed + Jalāl + Jalāl + Kamāl-ontological,3edges,1781,1601.1427,178.6674,1.0067,0.1712,False
+4,Disputed + Jamāl + Jamāl + Jamāl,5edges,28,19.8757,8.4045,0.9667,0.1724,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,complete,1,0.1973,0.4589,1.7493,0.1736,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,1,0.2018,0.4734,1.6862,0.1739,False
+4,Jalāl + Jalāl + Jalāl + Jalāl,5edges,25,17.1594,8.0419,0.975,0.1744,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,16,10.6539,5.518,0.9688,0.1772,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,54,41.0267,14.541,0.8922,0.1782,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,62,47.2871,15.5342,0.9471,0.1809,False
+3,Jalāl + Kamāl-epistemic + Kamāl-epistemic,complete,8,5.2508,2.494,1.1023,0.1813,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,complete,5,2.558,2.2297,1.0952,0.1818,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,complete,1,0.2117,0.4765,1.6542,0.1846,False
+4,Disputed + Jalāl + Jalāl + Jalāl,5edges,145,124.6036,22.9385,0.8892,0.1854,False
+4,Kamāl-ontological + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,8,4.5376,3.8935,0.8893,0.188,False
+3,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,26,21.1403,5.3465,0.909,0.1881,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,55,39.2698,16.965,0.9272,0.1882,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,5edges,5,2.6681,2.3844,0.978,0.1922,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,3,1.3549,1.5469,1.0635,0.1926,False
+4,Disputed + Jalāl + Jamāl + Kamāl-ontological,3edges,3602,3410.7207,222.9017,0.8581,0.193,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,complete,5,2.7474,2.2487,1.0017,0.2028,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,91,71.7455,22.546,0.854,0.204,False
+3,Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,2edges,25,19.9743,5.5309,0.9087,0.2047,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-ontological,5edges,79,66.972,14.1448,0.8503,0.205,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,27,17.6271,11.8019,0.7942,0.2106,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,2,0.7839,1.1933,1.0191,0.2168,False
+3,Jalāl + Jalāl + Jalāl,2edges,161,142.6833,23.4723,0.7804,0.218,False
+4,Jalāl + Jamāl + Kamāl-ontological + Kamāl-ontological,5edges,52,43.2249,11.0021,0.7976,0.222,False
+4,Jalāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,complete,6,3.7373,2.7604,0.8197,0.2343,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,0.8677,1.0101,1.1209,0.2366,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,54,44.7612,13.3843,0.6903,0.239,False
+4,Disputed + Jalāl + Jalāl + Kamāl-ontological,complete,25,21.0349,5.0022,0.7927,0.2409,False
+3,Jamāl + Kamāl-epistemic + Kamāl-epistemic,2edges,26,21.4558,6.142,0.7399,0.2448,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-ontological,complete,8,5.5813,3.1123,0.7771,0.245,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-epistemic,3edges,138,114.3309,37.9447,0.6238,0.2486,False
+3,Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,0.9192,1.0314,1.0479,0.2543,False
+4,Disputed + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,3edges,22,17.7829,6.0471,0.6974,0.2594,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-ontological,complete,21,17.6618,4.6555,0.7171,0.2624,False
+4,Jalāl + Jamāl + Jamāl + Jamāl,complete,2,0.9635,1.2517,0.8281,0.2635,False
+3,Jalāl + Jalāl + Kamāl-ontological,2edges,178,166.5221,18.011,0.6373,0.2696,False
+3,Disputed + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,2edges,8,6.7063,1.3161,0.983,0.2706,False
+4,Jalāl + Jalāl + Jalāl + Jamāl,5edges,70,60.8798,14.6563,0.6223,0.2713,False
+3,Disputed + Kamāl-epistemic + Kamāl-ontological,2edges,52,47.3239,5.4652,0.8556,0.2768,False
+4,Disputed + Jamāl + Jamāl + Jamāl,complete,2,1.0358,1.1026,0.8745,0.2772,False
+4,Disputed + Jalāl + Jalāl + Jamāl,4edges,1020,985.441,59.2573,0.5832,0.2841,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,8,5.5093,3.9551,0.6297,0.2873,False
+4,Jalāl + Jalāl + Jamāl + Jamāl,5edges,67,58.6583,14.7084,0.5671,0.2894,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-ontological,complete,12,9.5176,4.3638,0.5689,0.2975,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,9,6.8198,2.7647,0.7886,0.2979,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,13,10.164,5.5918,0.5072,0.3026,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,1.0374,1.369,0.7031,0.3063,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,106,95.4074,21.1141,0.5017,0.308,False
+4,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,16,12.5986,5.811,0.5853,0.3095,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,3,1.8055,1.6221,0.7364,0.3101,False
+3,Jamāl + Kamāl-epistemic + Kamāl-ontological,2edges,73,67.3742,10.8077,0.5205,0.3114,False
+3,Jalāl + Jalāl + Kamāl-ontological,complete,25,22.2435,4.9422,0.5578,0.3121,False
+4,Jalāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,4edges,37,31.5493,11.0001,0.4955,0.3129,False
+3,Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,9,6.7414,3.7387,0.6041,0.3154,False
+3,Jalāl + Kamāl-epistemic + Kamāl-ontological,complete,21,18.4722,4.6039,0.5491,0.3166,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic,4edges,303,283.3897,41.1052,0.4771,0.3186,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,197,180.0356,31.2808,0.5423,0.3203,False
+4,Jalāl + Jamāl + Kamāl-ontological + Kamāl-ontological,4edges,222,207.6052,30.1541,0.4774,0.3207,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,4edges,93,84.8541,16.9709,0.48,0.3245,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,3edges,2,1.4556,1.9496,0.2792,0.3268,False
+4,Disputed + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,complete,4,2.8574,1.8487,0.618,0.3318,False
+4,Jamāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,3edges,170,157.0399,31.0659,0.4172,0.3319,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,54,44.7349,17.9178,0.5171,0.3331,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,complete,3,2.04,1.5473,0.6205,0.3342,False
+4,Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,3,1.9416,2.1073,0.5022,0.3355,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,40,33.5689,15.5353,0.414,0.336,False
+4,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,139,128.2773,23.579,0.4548,0.3361,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,8,6.0308,3.5624,0.5528,0.3379,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-ontological,5edges,117,109.149,18.8241,0.4171,0.3386,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,3,1.9203,1.6608,0.6501,0.3389,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-ontological,3edges,963,915.1928,100.3919,0.4762,0.34,False
+4,Disputed + Jalāl + Jalāl + Kamāl-ontological,4edges,516,496.7249,46.9747,0.4103,0.3437,False
+4,Jalāl + Jalāl + Jamāl + Jamāl,complete,7,5.5281,3.1154,0.4725,0.3438,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic,5edges,129,122.4435,16.1623,0.4057,0.3524,False
+3,Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,complete,4,3.0033,1.8742,0.5318,0.3579,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,3edges,92,84.2135,26.7287,0.2913,0.3606,False
+3,Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,complete,3,2.1452,1.5681,0.5451,0.3612,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,3,2.1175,2.1741,0.4059,0.3647,False
+3,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,21,19.6874,2.6588,0.4937,0.3661,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,43,38.2556,14.0709,0.3372,0.3748,False
+4,Disputed + Jalāl + Kamāl-ontological + Kamāl-ontological,3edges,551,500.9179,87.7505,0.5707,0.3777,False
+3,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,3,2.184,1.1158,0.7313,0.3786,False
+4,Jamāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,complete,2,1.4023,1.4573,0.4101,0.3889,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,11,9.2615,4.902,0.3547,0.3907,False
+4,Jamāl + Jamāl + Kamāl-ontological + Kamāl-ontological,4edges,50,46.0781,15.5064,0.2529,0.3912,False
+4,Kamāl-ontological + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,4edges,2,1.4996,1.8983,0.2636,0.3975,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,11,9.4795,6.5481,0.2322,0.3991,False
+3,Disputed + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,1.3198,0.9168,0.7419,0.3997,False
+3,Jamāl + Jamāl + Kamāl-epistemic,2edges,47,44.6956,10.229,0.2253,0.4087,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,4edges,15,13.6649,6.6004,0.2023,0.4097,False
+4,Disputed + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,3edges,141,129.8182,26.9183,0.4154,0.4114,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-ontological,5edges,64,61.3653,10.7549,0.245,0.4114,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,3edges,271,262.3585,48.3309,0.1788,0.4149,False
+4,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,52,48.6494,15.9812,0.2097,0.4245,False
+4,Disputed + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,4edges,12,10.7072,3.7087,0.3486,0.4285,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,5edges,1,0.7846,1.1858,0.1816,0.4301,False
+4,Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,5edges,2,1.6391,1.8464,0.1955,0.4354,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,18,16.9312,7.6207,0.1403,0.4362,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,5edges,25,23.6631,8.1445,0.1641,0.4369,False
+3,Disputed + Kamāl-epistemic + Kamāl-ontological,complete,11,10.1458,2.267,0.3768,0.4389,False
+4,Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,5edges,2,1.7632,1.9194,0.1234,0.4446,False
+4,Jalāl + Jalāl + Jamāl + Jamāl,4edges,395,388.6868,52.1364,0.1211,0.4527,False
+4,Disputed + Jamāl + Jamāl + Kamāl-ontological,4edges,360,355.1965,44.7018,0.1075,0.4543,False
+4,Disputed + Jalāl + Jamāl + Kamāl-ontological,complete,28,27.0266,5.6158,0.1733,0.4625,False
+3,Disputed + Jalāl + Jalāl,2edges,238,235.0194,20.2518,0.1472,0.4661,False
+3,Disputed + Jamāl + Kamāl-ontological,2edges,176,173.788,13.826,0.16,0.4684,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,2,1.8702,2.1075,0.0616,0.4707,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,101,98.4873,19.4569,0.1291,0.477,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,33,32.4423,9.7406,0.0573,0.48,False
+4,Jalāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,72,71.9589,20.1275,0.002,0.4807,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,8,7.4594,3.4771,0.1555,0.4822,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,26,24.708,6.0601,0.2132,0.4824,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic,5edges,20,19.5553,6.0137,0.0739,0.4832,False
+4,Jalāl + Jamāl + Jamāl + Jamāl,4edges,124,123.4785,31.0441,0.0168,0.4878,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,8,7.585,4.3875,0.0946,0.488,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic,5edges,37,36.8312,11.1124,0.0152,0.494,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-ontological,4edges,310,309.053,39.6628,0.0239,0.4941,False
+4,Jalāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,4edges,111,110.8814,19.4348,0.0061,0.4996,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic,3edges,316,303.8348,49.4015,0.2463,0.5009,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic,4edges,213,214.0521,38.8909,-0.0271,0.5038,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-ontological,4edges,319,319.7539,35.3129,-0.0213,0.5135,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,complete,1,0.9114,1.1533,0.0768,0.514,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-ontological,complete,6,6.0821,3.4229,-0.024,0.5219,False
+4,Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,4,4.1734,3.2805,-0.0529,0.5311,False
+4,Disputed + Jamāl + Kamāl-ontological + Kamāl-ontological,3edges,524,515.3445,88.4665,0.0978,0.5313,False
+3,Disputed + Kamāl-ontological + Kamāl-ontological,2edges,28,26.7132,4.672,0.2754,0.5318,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,14,15.036,8.0932,-0.128,0.5367,False
+3,Jamāl + Kamāl-epistemic + Kamāl-ontological,complete,9,9.0066,3.1934,-0.0021,0.538,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-ontological,4edges,580,585.6013,57.1127,-0.0981,0.5407,False
+3,Jalāl + Jalāl + Kamāl-epistemic,2edges,134,135.4698,16.1522,-0.091,0.5473,False
+3,Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,8,8.0826,3.5444,-0.0233,0.5497,False
+4,Disputed + Jalāl + Jalāl + Jamāl,5edges,261,263.8726,24.4355,-0.1176,0.5499,False
+4,Disputed + Jalāl + Jamāl + Jamāl,4edges,786,792.9404,60.2619,-0.1152,0.5534,False
+4,Disputed + Jalāl + Jalāl + Jalāl,3edges,1380,1425.6239,192.644,-0.2368,0.5535,False
+4,Disputed + Jamāl + Jamāl + Kamāl-ontological,complete,5,5.0582,2.4112,-0.0241,0.5587,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic,complete,2,2.2365,1.9769,-0.1196,0.5621,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,3edges,99,98.9807,19.2568,0.001,0.5632,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,31,31.6323,7.4764,-0.0846,0.5672,False
+3,Jalāl + Jamāl + Kamāl-ontological,complete,28,28.546,5.5008,-0.0993,0.5672,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,complete,11,11.8264,5.0623,-0.1632,0.5727,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,5edges,80,83.1752,15.4075,-0.2061,0.5797,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,1.969,1.6216,0.0191,0.583,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,4edges,83,87.7243,20.7217,-0.228,0.584,False
+3,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,27,27.4968,5.7165,-0.0869,0.5904,False
+4,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,1,1.2246,1.4676,-0.153,0.5932,False
+4,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,1,1.5007,1.6964,-0.2952,0.6004,False
+3,Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,2.0655,1.6352,-0.0401,0.6072,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-ontological,3edges,706,733.514,90.4311,-0.3043,0.6107,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),5edges,12,12.5024,3.8179,-0.1316,0.6121,False
+4,Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,3,3.956,3.1681,-0.3018,0.6126,False
+3,Jamāl + Jamāl + Kamāl-ontological,complete,5,5.4006,2.4491,-0.1636,0.6128,False
+4,Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,3edges,22,25.5019,11.0837,-0.3159,0.6182,False
+4,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,9,9.6841,3.9555,-0.1729,0.6196,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,28,31.8691,13.3167,-0.2905,0.6198,False
+3,Jamāl + Kamāl-ontological + Kamāl-ontological,2edges,34,36.267,8.0061,-0.2832,0.6205,False
+4,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,109,116.1185,24.0049,-0.2965,0.6297,False
+4,Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,10,12.8716,7.9331,-0.362,0.6317,False
+4,Disputed + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,38,42.7569,13.2504,-0.359,0.6368,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic,5edges,36,39.4958,9.815,-0.3562,0.6388,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic,5edges,17,19.5593,7.5385,-0.3395,0.6415,False
+4,Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,5edges,3,4.0635,3.1609,-0.3365,0.6419,False
+3,Disputed + Jamāl + Kamāl-epistemic,2edges,136,138.4367,11.0093,-0.2213,0.6445,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,2.4217,1.7761,-0.2374,0.646,False
+4,Jamāl + Kamāl-ontological + Kamāl-ontological + Kamāl-ontological,3edges,39,46.7715,18.1663,-0.4278,0.6493,False
+4,Disputed + Jalāl + Kamāl-ontological + Kamāl-ontological,5edges,49,51.9982,9.0826,-0.3301,0.6497,False
+4,Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,4edges,14,17.1871,7.8008,-0.4086,0.6508,False
+4,Jalāl + Jalāl + Jalāl + Jamāl,3edges,1593,1683.2735,220.2366,-0.4099,0.6509,False
+4,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,1,1.2108,1.2019,-0.1754,0.6515,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-ontological,5edges,51,56.771,13.4534,-0.429,0.674,False
+3,Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,1,1.2798,1.2236,-0.2287,0.675,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,53,60.7048,17.4846,-0.4407,0.6764,False
+3,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,2,2.5637,1.7966,-0.3138,0.678,False
+4,Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,4edges,6,8.8715,5.7469,-0.4997,0.681,False
+4,Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,34,41.3738,15.5395,-0.4745,0.6819,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,217,228.7407,45.9443,-0.2555,0.6821,False
+3,Disputed + Jamāl + Kamāl-epistemic,complete,13,13.74,2.6328,-0.2811,0.6834,False
+4,Jalāl + Jalāl + Jalāl + Kamāl-epistemic,complete,3,3.971,2.5408,-0.3822,0.6857,False
+3,Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,12,13.3508,3.6837,-0.3667,0.689,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,4edges,372,393.7906,43.6013,-0.4998,0.6897,False
+3,Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,2edges,9,10.551,4.0022,-0.3875,0.691,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,20,24.3753,8.6891,-0.5035,0.6959,False
+4,Jalāl + Jalāl + Kamāl-ontological + Kamāl-ontological,3edges,346,386.6646,69.391,-0.586,0.7095,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,372,385.868,48.2388,-0.2875,0.7096,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),4edges,101,110.7345,22.3942,-0.4347,0.7156,False
+4,Disputed + Jamāl + Jamāl + Kamāl-ontological,3edges,1552,1666.0838,183.597,-0.6214,0.719,False
+4,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,2,2.6628,1.8559,-0.3571,0.7194,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic,3edges,1364,1452.1567,146.6285,-0.6012,0.7291,False
+3,Disputed + Jalāl + Kamāl-ontological,complete,25,26.448,3.2866,-0.4406,0.7299,False
+4,Disputed + Jalāl + Jalāl + Jamāl,3edges,4525,4724.5064,313.1589,-0.6371,0.7307,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-ontological,complete,7,8.5687,3.1726,-0.4945,0.7313,False
+4,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,42,50.9804,15.1548,-0.5926,0.7389,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-ontological,4edges,334,355.9628,34.7891,-0.6313,0.742,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-ontological,4edges,27,37.1274,15.0623,-0.6724,0.7465,False
+3,Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,2,2.7937,1.86,-0.4267,0.7469,False
+4,Disputed + Jamāl + Kamāl-ontological + Kamāl-ontological,5edges,28,32.8002,7.8914,-0.6083,0.7501,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic,5edges,72,82.59,16.2145,-0.6531,0.7504,False
+4,Disputed + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,5edges,2,3.0521,2.0601,-0.5107,0.7585,False
+4,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,49,61.0706,17.272,-0.6989,0.7602,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,5,7.8484,4.3091,-0.661,0.7637,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-ontological,5edges,2,4.2321,3.4286,-0.651,0.7669,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-ontological,5edges,89,98.3467,12.8272,-0.7287,0.7761,False
+3,Disputed + Kamāl-epistemic + Kamāl-epistemic,2edges,15,16.2896,2.6978,-0.478,0.7789,False
+4,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,4edges,46,55.7633,14.052,-0.6948,0.7833,False
+3,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale),complete,3,3.3959,1.2278,-0.3224,0.7869,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic,3edges,277,313.5704,51.4576,-0.7107,0.7878,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,8,10.6996,4.036,-0.6689,0.7879,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,4,5.6689,2.7216,-0.6132,0.7884,False
+3,Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,2edges,2,3.2479,2.0962,-0.5953,0.7885,False
+4,Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,3edges,9,13.8609,6.298,-0.7718,0.8006,False
+4,Jalāl + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,6,10.2574,5.3385,-0.7975,0.802,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic,3edges,1188,1327.1288,152.4568,-0.9126,0.8107,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-ontological,3edges,163,190.0909,30.9111,-0.8764,0.8146,False
+3,Disputed + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,5,5.3444,1.1323,-0.3041,0.8159,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,1,3.2555,2.6718,-0.8442,0.8178,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,5edges,9,14.3687,6.2795,-0.855,0.8207,False
+4,Disputed + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,85,101.9993,20.6762,-0.8222,0.8209,False
+3,Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,2edges,4,5.9998,2.7207,-0.735,0.8254,False
+3,Disputed + Jalāl + Jamāl,2edges,470,487.9679,17.5772,-1.0222,0.8259,False
+4,Jalāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,132,155.6089,26.1922,-0.9014,0.8282,False
+3,Jalāl + Kamāl-ontological + Kamāl-ontological,2edges,49,57.0212,8.8336,-0.908,0.8309,False
+4,Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,4edges,2,5.4079,3.7817,-0.9012,0.8378,False
+4,Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,34,46.941,13.6805,-0.9459,0.8383,False
+3,Disputed + Jamāl + Kamāl-ontological,complete,15,17.3945,2.9477,-0.8123,0.8397,False
+4,Disputed + Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,5edges,12,15.6789,4.3964,-0.8368,0.8469,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic,5edges,140,158.3343,18.3169,-1.0009,0.8482,False
+3,Jalāl + Jalāl + Kamāl-epistemic,complete,13,16.9667,4.3636,-0.909,0.8485,False
+4,Disputed + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,3edges,13,18.6947,5.9597,-0.9555,0.8485,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic,complete,12,16.0284,4.3605,-0.9238,0.8507,False
+4,Jamāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,5edges,1,3.5414,2.9184,-0.8708,0.8549,False
+4,Jalāl + Jalāl + Kamāl-epistemic + Kamāl-epistemic,3edges,200,255.1804,52.5539,-1.05,0.8601,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic + Kamāl-epistemic,3edges,22,34.7131,12.4072,-1.0247,0.8649,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-ontological,4edges,279,331.6932,44.9448,-1.1724,0.8839,False
+3,Jalāl + Jalāl + Jamāl,2edges,281,307.7935,22.7383,-1.1783,0.8882,False
+3,Disputed + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,complete,1,1.6664,0.9756,-0.6831,0.8904,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,99,125.3987,22.7677,-1.1595,0.8918,False
+4,Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological + Kamāl-ontological,3edges,25,38.8221,11.7303,-1.1783,0.9001,False
+3,Jalāl + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,2edges,12,16.8303,4.2128,-1.1466,0.9007,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-ontological,3edges,95,147.9787,44.2084,-1.1984,0.9015,False
+3,Disputed + Jalāl + Jamāl,complete,35,39.7229,3.9408,-1.1985,0.9089,False
+4,Jalāl + Kamāl-epistemic + Kamāl-ontological + Kamāl-ontological,3edges,193,241.1839,37.1803,-1.296,0.9103,False
+4,Disputed + Jalāl + Kamāl-epistemic + Kamāl-epistemic,5edges,24,32.8885,7.0736,-1.2566,0.9104,False
+4,Disputed + Jalāl + Jamāl + Kamāl-ontological,5edges,169,196.3945,20.6415,-1.3272,0.913,False
+3,Jalāl + Kamāl-epistemic + Kamāl-ontological,2edges,90,106.6788,12.3439,-1.3512,0.9196,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-ontological,3edges,1541,1758.7887,159.041,-1.3694,0.9198,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic,3edges,689,849.2162,115.1668,-1.3912,0.9276,False
+4,Disputed + Jalāl + Jalāl + Kamāl-epistemic,4edges,332,394.1703,42.9988,-1.4459,0.9287,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,88,133.0119,31.3684,-1.4349,0.9323,False
+4,Jalāl + Kamāl-epistemic + Kamāl-epistemic (upgraded from Disputed — see rationale) + Kamāl-ontological,3edges,51,72.6999,14.9766,-1.4489,0.9375,False
+4,Disputed + Jamāl + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),3edges,148,189.7347,34.5997,-1.2062,0.941,False
+3,Disputed + Jamāl + Kamāl-epistemic (upgraded from Disputed — see rationale),2edges,18,19.9846,2.8538,-0.6954,0.9506,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-ontological,3edges,827,985.5119,98.2421,-1.6135,0.9536,False
+3,Jalāl + Jamāl + Kamāl-epistemic,2edges,148,178.012,18.0747,-1.6604,0.9543,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic,complete,13,20.4585,4.8151,-1.549,0.9547,False
+4,Disputed + Jalāl + Jamāl + Kamāl-ontological,4edges,794,891.6193,56.1135,-1.7397,0.9562,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic,5edges,24,42.3414,11.4792,-1.5978,0.9577,False
+4,Disputed + Jamāl + Jamāl + Kamāl-ontological,5edges,33,51.0828,11.3532,-1.5927,0.9586,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic,complete,4,10.3372,4.4291,-1.4308,0.9588,False
+4,Jamāl + Jamāl + Jamāl + Kamāl-epistemic,4edges,8,26.9499,12.6661,-1.4961,0.9595,False
+4,Disputed + Jalāl + Jamāl + Jamāl,3edges,4190,4777.6416,356.3179,-1.6492,0.9612,False
+4,Jalāl + Jalāl + Jamāl + Kamāl-epistemic,4edges,368,459.9245,51.1306,-1.7978,0.9616,False
+3,Jamāl + Jamāl + Kamāl-ontological,2edges,39,58.1127,11.6669,-1.6382,0.9623,False
+3,Jalāl + Kamāl-epistemic + Kamāl-epistemic,2edges,24,35.536,6.9285,-1.665,0.9627,False
+4,Disputed + Jalāl + Jamāl + Jamāl,5edges,114,151.3028,21.7595,-1.7143,0.9637,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-epistemic,4edges,187,256.6457,39.5064,-1.7629,0.9643,False
+3,Jalāl + Jamāl + Kamāl-ontological,2edges,185,222.5621,20.8006,-1.8058,0.9669,False
+3,Disputed + Jamāl + Jamāl,2edges,197,231.7721,22.336,-1.5568,0.9687,False
+4,Disputed + Jamāl + Jamāl + Jamāl,3edges,1106,1475.3611,221.8477,-1.6649,0.9706,False
+3,Jalāl + Jamāl + Kamāl-epistemic,complete,13,21.6171,4.7151,-1.8275,0.9783,False
+4,Jamāl + Jamāl + Kamāl-ontological + Kamāl-ontological,3edges,74,141.0994,37.1076,-1.8082,0.9821,False
+3,Disputed + Jalāl + Kamāl-epistemic,complete,15,21.2726,2.9708,-2.1114,0.9863,False
+4,Jalāl + Jamāl + Jamāl + Jamāl,3edges,341,575.5051,124.1084,-1.8895,0.9882,False
+4,Jalāl + Jalāl + Jamāl + Jamāl,3edges,1174,1668.1143,232.196,-2.128,0.989,False
+4,Jalāl + Jamāl + Kamāl-epistemic + Kamāl-epistemic,3edges,218,334.5809,51.3097,-2.2721,0.993,False
+4,Jalāl + Jamāl + Kamāl-ontological + Kamāl-ontological,3edges,362,522.6941,68.7849,-2.3362,0.9947,False
+4,Disputed + Jalāl + Jamāl + Kamāl-epistemic,4edges,561,710.1736,51.5902,-2.8915,0.9951,False
+3,Jalāl + Jamāl + Jamāl,2edges,125,179.4013,22.5672,-2.4106,0.9957,False
+4,Jalāl + Jamāl + Jamāl + Kamāl-ontological,3edges,699,1046.6267,132.3155,-2.6273,0.9985,False

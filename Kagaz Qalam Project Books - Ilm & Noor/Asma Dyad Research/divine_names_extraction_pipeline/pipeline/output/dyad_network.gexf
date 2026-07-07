@@ -1,0 +1,1965 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-07-06">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="2" title="direction_examples" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="tier" type="string" />
+      <attribute id="1" title="jjk_v21" type="string" />
+    </attributes>
+    <nodes>
+      <node id="1" label="Allāh">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Disputed" />
+        </attvalues>
+      </node>
+      <node id="2" label="Al-Raḥmān">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="3" label="Al-Raḥīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="4" label="Al-Malik">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="5" label="Al-Quddūs">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="6" label="Al-Salām">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="7" label="Al-Mu'min">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="8" label="Al-Muhaymin">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="9" label="Al-'Azīz">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="10" label="Al-Jabbār">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="11" label="Al-Mutakabbir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="12" label="Al-Khāliq">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="13" label="Al-Bāri'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="14" label="Al-Muṣawwir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="15" label="Al-Ghaffār">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="16" label="Al-Qahhār">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="17" label="Al-Wahhāb">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="18" label="Al-Razzāq">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="19" label="Al-Fattāḥ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="20" label="Al-'Alīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="21" label="Al-Qābiḍ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="22" label="Al-Bāsiṭ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="23" label="Al-Khāfiḍ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="24" label="Al-Rāfi'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="25" label="Al-Mu'izz">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="26" label="Al-Mudhill">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="27" label="Al-Samī'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="28" label="Al-Baṣīr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="29" label="Al-Ḥakam">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="30" label="Al-'Adl">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="31" label="Al-Laṭīf">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="32" label="Al-Khabīr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="33" label="Al-Ḥalīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="34" label="Al-'Aẓīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="35" label="Al-Ghafūr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="36" label="Al-Shakūr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="37" label="Al-'Alī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="38" label="Al-Kabīr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="39" label="Al-Ḥafīẓ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="40" label="Al-Muqīt">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="41" label="Al-Ḥasīb">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="42" label="Al-Jalīl">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="43" label="Al-Karīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="44" label="Al-Raqīb">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="45" label="Al-Mujīb">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="46" label="Al-Wāsi'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="47" label="Al-Ḥakīm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="48" label="Al-Wadūd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="49" label="Al-Majīd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="50" label="Al-Bā'ith">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="51" label="Al-Shahīd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="52" label="Al-Ḥaqq">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="53" label="Al-Wakīl">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="54" label="Al-Qawī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="55" label="Al-Matīn">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="56" label="Al-Walī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="57" label="Al-Ḥamīd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="58" label="Al-Muḥṣī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="59" label="Al-Mubdi'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="60" label="Al-Mu'īd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="61" label="Al-Muḥyī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="62" label="Al-Mumīt">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="63" label="Al-Ḥayy">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="64" label="Al-Qayyūm">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="65" label="Al-Wājid">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Disputed" />
+        </attvalues>
+      </node>
+      <node id="66" label="Al-Mājid">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="67" label="Al-Wāḥid">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="68" label="Al-Aḥad">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="69" label="Al-Ṣamad">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="70" label="Al-Qādir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="71" label="Al-Muqtadir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="72" label="Al-Muqaddim">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="73" label="Al-Mu'akhkhir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="74" label="Al-Awwal">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="75" label="Al-Ākhir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="76" label="Al-Ẓāhir">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="77" label="Al-Bāṭin">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="78" label="Al-Wālī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="79" label="Al-Muta'āl">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="80" label="Al-Barr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="81" label="Al-Tawwāb">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="82" label="Al-Muntaqim">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="83" label="Al-'Afūw">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="84" label="Al-Ra'ūf">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="85" label="Mālik al-Mulk">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="86" label="Dhū al-Jalāl wa'l-Ikrām">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Disputed" />
+        </attvalues>
+      </node>
+      <node id="87" label="Al-Muqsiṭ">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="88" label="Al-Jāmi'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="89" label="Al-Ghanī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="90" label="Al-Mughnī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="91" label="Al-Māni'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="92" label="Al-Ḍārr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="93" label="Al-Nāfi'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="94" label="Al-Nūr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic (upgraded from Disputed — see rationale)" />
+        </attvalues>
+      </node>
+      <node id="95" label="Al-Hādī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="96" label="Al-Badī'">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="97" label="Al-Bāqī">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="98" label="Al-Wārith">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-ontological" />
+        </attvalues>
+      </node>
+      <node id="99" label="Al-Rashīd">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="100" label="Al-Ṣabūr">
+        <attvalues>
+          <attvalue for="0" value="Tier 1" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="101" label="Al-'Allām">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Kamāl-epistemic" />
+        </attvalues>
+      </node>
+      <node id="102" label="Al-Rāziq">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="103" label="Al-Khallāq">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Jalāl" />
+        </attvalues>
+      </node>
+      <node id="104" label="Al-Kāfī">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="105" label="Al-Shākir">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+      <node id="106" label="Dhū al-Raḥma">
+        <attvalues>
+          <attvalue for="0" value="Tier 2" />
+          <attvalue for="1" value="Jamāl" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="1" target="2" id="0" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Raḥmān;Allāh-&gt;Al-Raḥmān;Allāh-&gt;Al-Raḥmān" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="3" id="1" weight="76">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="37" id="2" weight="641">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-'Alī;Al-'Alī-&gt;Allāh;Allāh-&gt;Al-'Alī;Allāh-&gt;Al-'Alī;Al-'Alī-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="7" id="3" weight="115">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="52" id="4" weight="126">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Allāh;Allāh-&gt;Al-Ḥaqq;Allāh-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Allāh;Al-Ḥaqq-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="63" id="5" weight="14">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥayy;Allāh-&gt;Al-Ḥayy;Allāh-&gt;Al-Ḥayy;Al-Ḥayy-&gt;Allāh;Allāh-&gt;Al-Ḥayy" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="74" id="6" weight="18">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Allāh;Allāh-&gt;Al-Awwal;Al-Awwal-&gt;Allāh;Allāh-&gt;Al-Awwal;Allāh-&gt;Al-Awwal" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="20" id="7" weight="155">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-'Alīm;Allāh-&gt;Al-'Alīm;Allāh-&gt;Al-'Alīm;Allāh-&gt;Al-'Alīm;Allāh-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="28" id="8" weight="38">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Baṣīr;Allāh-&gt;Al-Baṣīr;Allāh-&gt;Al-Baṣīr;Allāh-&gt;Al-Baṣīr;Allāh-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="68" id="9" weight="24">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Allāh;Allāh-&gt;Al-Aḥad;Allāh-&gt;Al-Aḥad;Allāh-&gt;Al-Aḥad;Al-Aḥad-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="34" id="10" weight="35">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-'Aẓīm;Allāh-&gt;Al-'Aẓīm;Allāh-&gt;Al-'Aẓīm;Allāh-&gt;Al-'Aẓīm;Allāh-&gt;Al-'Aẓīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="56" id="11" weight="23">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Walī;Allāh-&gt;Al-Walī;Al-Walī-&gt;Allāh;Allāh-&gt;Al-Walī;Allāh-&gt;Al-Walī" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="27" id="12" weight="39">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Samī';Allāh-&gt;Al-Samī';Allāh-&gt;Al-Samī';Allāh-&gt;Al-Samī';Allāh-&gt;Al-Samī'" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="38" id="13" weight="10">
+        <attvalues>
+          <attvalue for="2" value="Al-Kabīr-&gt;Allāh;Al-Kabīr-&gt;Allāh;Al-Kabīr-&gt;Allāh;Al-Kabīr-&gt;Allāh;Al-Kabīr-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="105" id="14" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Shākir;Allāh-&gt;Al-Shākir;Allāh-&gt;Al-Shākir" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="35" id="15" weight="73">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ghafūr;Allāh-&gt;Al-Ghafūr;Allāh-&gt;Al-Ghafūr;Allāh-&gt;Al-Ghafūr;Allāh-&gt;Al-Ghafūr" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="80" id="16" weight="8">
+        <attvalues>
+          <attvalue for="2" value="Al-Barr-&gt;Allāh;Al-Barr-&gt;Allāh;Al-Barr-&gt;Allāh;Al-Barr-&gt;Allāh;Allāh-&gt;Al-Barr" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="75" id="17" weight="8">
+        <attvalues>
+          <attvalue for="2" value="Al-Ākhir-&gt;Allāh;Allāh-&gt;Al-Ākhir;Al-Ākhir-&gt;Allāh;Allāh-&gt;Al-Ākhir;Allāh-&gt;Al-Ākhir" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="84" id="18" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="9" id="19" weight="71">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="47" id="20" weight="75">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="78" id="21" weight="39">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Wālī;Al-Wālī-&gt;Allāh;Allāh-&gt;Al-Wālī;Allāh-&gt;Al-Wālī;Al-Wālī-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="83" id="22" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-'Afūw-&gt;Allāh;Allāh-&gt;Al-'Afūw;Allāh-&gt;Al-'Afūw;Allāh-&gt;Al-'Afūw" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="33" id="23" weight="13">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥalīm;Allāh-&gt;Al-Ḥalīm;Allāh-&gt;Al-Ḥalīm;Allāh-&gt;Al-Ḥalīm;Allāh-&gt;Al-Ḥalīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="32" id="24" weight="33">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Khabīr;Allāh-&gt;Al-Khabīr;Allāh-&gt;Al-Khabīr;Allāh-&gt;Al-Khabīr;Allāh-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="4" id="25" weight="39">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Allāh;Allāh-&gt;Al-Malik;Allāh-&gt;Al-Malik;Al-Malik-&gt;Allāh;Allāh-&gt;Al-Malik" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="64" id="26" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Qayyūm;Allāh-&gt;Al-Qayyūm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="94" id="27" weight="23">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Nūr;Allāh-&gt;Al-Nūr;Allāh-&gt;Al-Nūr;Allāh-&gt;Al-Nūr;Al-Nūr-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="57" id="28" weight="16">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥamīd;Allāh-&gt;Al-Ḥamīd;Allāh-&gt;Al-Ḥamīd;Allāh-&gt;Al-Ḥamīd;Allāh-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="30" id="29" weight="10">
+        <attvalues>
+          <attvalue for="2" value="Al-'Adl-&gt;Allāh;Al-'Adl-&gt;Allāh;Al-'Adl-&gt;Allāh;Al-'Adl-&gt;Allāh;Allāh-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="51" id="30" weight="14">
+        <attvalues>
+          <attvalue for="2" value="Al-Shahīd-&gt;Allāh;Allāh-&gt;Al-Shahīd;Allāh-&gt;Al-Shahīd;Allāh-&gt;Al-Shahīd;Allāh-&gt;Al-Shahīd" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="88" id="31" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-Jāmi'-&gt;Allāh;Allāh-&gt;Al-Jāmi';Allāh-&gt;Al-Jāmi'" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="24" id="32" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Rāfi'" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="53" id="33" weight="9">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Wakīl;Allāh-&gt;Al-Wakīl;Allāh-&gt;Al-Wakīl;Allāh-&gt;Al-Wakīl;Allāh-&gt;Al-Wakīl" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="29" id="34" weight="13">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥakam;Al-Ḥakam-&gt;Allāh;Al-Ḥakam-&gt;Allāh;Al-Ḥakam-&gt;Allāh;Al-Ḥakam-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="41" id="35" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥasīb" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="89" id="36" weight="19">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Allāh;Al-Ghanī-&gt;Allāh;Allāh-&gt;Al-Ghanī;Allāh-&gt;Al-Ghanī;Allāh-&gt;Al-Ghanī" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="87" id="37" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Muqsiṭ;Allāh-&gt;Al-Muqsiṭ;Allāh-&gt;Al-Muqsiṭ" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="8" id="38" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-Muhaymin-&gt;Allāh;Allāh-&gt;Al-Muhaymin;Al-Muhaymin-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="70" id="39" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Qādir;Allāh-&gt;Al-Qādir" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="95" id="40" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Hādī;Allāh-&gt;Al-Hādī" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="54" id="41" weight="16">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Qawī;Allāh-&gt;Al-Qawī;Allāh-&gt;Al-Qawī;Allāh-&gt;Al-Qawī;Allāh-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="81" id="42" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Tawwāb;Allāh-&gt;Al-Tawwāb;Allāh-&gt;Al-Tawwāb;Allāh-&gt;Al-Tawwāb;Allāh-&gt;Al-Tawwāb" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="49" id="43" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Majīd" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="99" id="44" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Rashīd" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="43" id="45" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Karīm;Allāh-&gt;Al-Karīm;Allāh-&gt;Al-Karīm;Allāh-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="16" id="46" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Qahhār;Allāh-&gt;Al-Qahhār;Allāh-&gt;Al-Qahhār;Allāh-&gt;Al-Qahhār;Allāh-&gt;Al-Qahhār" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="36" id="47" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Shakūr;Allāh-&gt;Al-Shakūr;Allāh-&gt;Al-Shakūr;Allāh-&gt;Al-Shakūr;Allāh-&gt;Al-Shakūr" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="71" id="48" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Muqtadir" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="31" id="49" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Laṭīf;Allāh-&gt;Al-Laṭīf;Allāh-&gt;Al-Laṭīf;Allāh-&gt;Al-Laṭīf;Allāh-&gt;Al-Laṭīf" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="104" id="50" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Kāfī;Al-Kāfī-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="11" id="51" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Mutakabbir;Allāh-&gt;Al-Mutakabbir;Al-Mutakabbir-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="10" id="52" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Jabbār;Al-Jabbār-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="39" id="53" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ḥafīẓ" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="18" id="54" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Razzāq" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="102" id="55" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Rāziq" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="55" id="56" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Matīn" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="91" id="57" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Māni'-&gt;Allāh;Al-Māni'-&gt;Allāh" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="5" id="58" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Quddūs;Al-Quddūs-&gt;Allāh;Allāh-&gt;Al-Quddūs" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="13" id="59" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Bāri'" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="14" id="60" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Muṣawwir" />
+        </attvalues>
+      </edge>
+      <edge source="1" target="69" id="61" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Allāh-&gt;Al-Ṣamad" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="3" id="62" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="37" id="63" weight="9">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Raḥmān;Al-'Alī-&gt;Al-Raḥmān;Al-'Alī-&gt;Al-Raḥmān;Al-Raḥmān-&gt;Al-'Alī;Al-Raḥmān-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="4" id="64" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Raḥmān;Al-Malik-&gt;Al-Raḥmān;Al-Raḥmān-&gt;Al-Malik" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="52" id="65" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Raḥmān;Al-Ḥaqq-&gt;Al-Raḥmān" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="43" id="66" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥmān-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="89" id="67" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥmān-&gt;Al-Ghanī" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="68" id="68" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Raḥmān" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="74" id="69" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥmān-&gt;Al-Awwal" />
+        </attvalues>
+      </edge>
+      <edge source="2" target="28" id="70" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥmān-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="81" id="71" weight="7">
+        <attvalues>
+          <attvalue for="2" value="Al-Tawwāb-&gt;Al-Raḥīm;Al-Tawwāb-&gt;Al-Raḥīm;Al-Tawwāb-&gt;Al-Raḥīm;Al-Tawwāb-&gt;Al-Raḥīm;Al-Tawwāb-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="13" id="72" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Bāri'-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="37" id="73" weight="13">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="35" id="74" weight="50">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="84" id="75" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="9" id="76" weight="14">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="7" id="77" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="48" id="78" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raḥīm-&gt;Al-Wadūd" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="80" id="79" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Barr-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="3" target="94" id="80" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-Raḥīm" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="37" id="81" weight="18">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Malik;Al-Malik-&gt;Al-'Alī;Al-'Alī-&gt;Al-Malik;Al-Malik-&gt;Al-'Alī;Al-'Alī-&gt;Al-Malik" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="68" id="82" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Aḥad" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="52" id="83" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Malik;Al-Malik-&gt;Al-Ḥaqq;Al-Malik-&gt;Al-Ḥaqq;Al-Malik-&gt;Al-Ḥaqq" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="43" id="84" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Karīm;Al-Malik-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="56" id="85" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Walī;Al-Malik-&gt;Al-Walī" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="28" id="86" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="7" id="87" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Malik;Al-Malik-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="74" id="88" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Al-Malik" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="16" id="89" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Qahhār" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="5" id="90" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Quddūs;Al-Malik-&gt;Al-Quddūs" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="8" id="91" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Muhaymin" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="9" id="92" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-'Azīz;Al-Malik-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="10" id="93" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="11" id="94" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="4" target="47" id="95" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Malik-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="7" id="96" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="8" id="97" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-Muhaymin" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="9" id="98" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-'Azīz;Al-Quddūs-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="10" id="99" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="11" id="100" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="5" target="47" id="101" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Quddūs-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="37" id="102" weight="36">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Mu'min;Al-'Alī-&gt;Al-Mu'min;Al-'Alī-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-'Alī;Al-Mu'min-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="56" id="103" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-Mu'min;Al-Walī-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="27" id="104" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Samī';Al-Mu'min-&gt;Al-Samī'" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="20" id="105" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-'Alīm;Al-Mu'min-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="34" id="106" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-'Aẓīm" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="29" id="107" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakam-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="74" id="108" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Al-Mu'min;Al-Awwal-&gt;Al-Mu'min;Al-Awwal-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-Awwal;Al-Awwal-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="43" id="109" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Karīm;Al-Mu'min-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="52" id="110" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="32" id="111" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="9" id="112" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="84" id="113" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Ra'ūf" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="88" id="114" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Jāmi'" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="54" id="115" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="94" id="116" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-Nūr" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="68" id="117" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Aḥad" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="8" id="118" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Muhaymin" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="10" id="119" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="11" id="120" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="75" id="121" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ākhir-&gt;Al-Mu'min" />
+        </attvalues>
+      </edge>
+      <edge source="7" target="28" id="122" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Mu'min-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="52" id="123" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Muhaymin" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="9" id="124" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Muhaymin-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="10" id="125" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Muhaymin-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="8" target="11" id="126" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Muhaymin-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="37" id="127" weight="8">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="47" id="128" weight="43">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="20" id="129" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="84" id="130" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Ra'ūf" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="54" id="131" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="52" id="132" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Azīz;Al-Ḥaqq-&gt;Al-'Azīz;Al-Ḥaqq-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="68" id="133" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Aḥad" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="94" id="134" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="57" id="135" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Ḥamīd;Al-'Azīz-&gt;Al-Ḥamīd;Al-'Azīz-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="35" id="136" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Ghafūr;Al-'Azīz-&gt;Al-Ghafūr" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="17" id="137" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Wahhāb" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="78" id="138" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Wālī-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="31" id="139" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Laṭīf-&gt;Al-'Azīz" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="43" id="140" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="71" id="141" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Muqtadir" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="10" id="142" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="9" target="11" id="143" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Azīz-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="37" id="144" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Jabbār" />
+        </attvalues>
+      </edge>
+      <edge source="10" target="11" id="145" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Mutakabbir-&gt;Al-Jabbār;Al-Jabbār-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="11" target="37" id="146" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Mutakabbir;Al-'Alī-&gt;Al-Mutakabbir" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="37" id="147" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Bāri'-&gt;Al-'Alī;Al-Bāri'-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="81" id="148" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Bāri'-&gt;Al-Tawwāb" />
+        </attvalues>
+      </edge>
+      <edge source="13" target="14" id="149" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Bāri'-&gt;Al-Muṣawwir" />
+        </attvalues>
+      </edge>
+      <edge source="18" target="55" id="150" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Razzāq-&gt;Al-Matīn" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="52" id="151" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Fattāḥ" />
+        </attvalues>
+      </edge>
+      <edge source="19" target="20" id="152" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Fattāḥ-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="47" id="153" weight="27">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alīm-&gt;Al-Ḥakīm;Al-'Alīm-&gt;Al-Ḥakīm;Al-'Alīm-&gt;Al-Ḥakīm;Al-Ḥakīm-&gt;Al-'Alīm;Al-Ḥakīm-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="27" id="154" weight="32">
+        <attvalues>
+          <attvalue for="2" value="Al-Samī'-&gt;Al-'Alīm;Al-Samī'-&gt;Al-'Alīm;Al-Samī'-&gt;Al-'Alīm;Al-Samī'-&gt;Al-'Alīm;Al-Samī'-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="105" id="155" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Shākir-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="37" id="156" weight="17">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="33" id="157" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alīm-&gt;Al-Ḥalīm;Al-'Alīm-&gt;Al-Ḥalīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="63" id="158" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥayy-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="74" id="159" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Al-'Alīm;Al-Awwal-&gt;Al-'Alīm;Al-Awwal-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="52" id="160" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-'Alīm;Al-Ḥaqq-&gt;Al-'Alīm;Al-Ḥaqq-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="39" id="161" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥafīẓ-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="31" id="162" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Laṭīf-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="68" id="163" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="89" id="164" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="32" id="165" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alīm-&gt;Al-Khabīr;Al-'Alīm-&gt;Al-Khabīr;Al-'Alīm-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="77" id="166" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Bāṭin-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="20" target="29" id="167" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakam-&gt;Al-'Alīm" />
+        </attvalues>
+      </edge>
+      <edge source="27" target="37" id="168" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī'" />
+        </attvalues>
+      </edge>
+      <edge source="27" target="63" id="169" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥayy-&gt;Al-Samī'" />
+        </attvalues>
+      </edge>
+      <edge source="27" target="28" id="170" weight="9">
+        <attvalues>
+          <attvalue for="2" value="Al-Baṣīr-&gt;Al-Samī';Al-Samī'-&gt;Al-Baṣīr;Al-Samī'-&gt;Al-Baṣīr;Al-Samī'-&gt;Al-Baṣīr;Al-Samī'-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="27" target="68" id="171" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Samī'" />
+        </attvalues>
+      </edge>
+      <edge source="28" target="37" id="172" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="28" target="94" id="173" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Baṣīr-&gt;Al-Nūr" />
+        </attvalues>
+      </edge>
+      <edge source="28" target="52" id="174" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="28" target="32" id="175" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Khabīr-&gt;Al-Baṣīr" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="30" id="176" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakam-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="87" id="177" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakam-&gt;Al-Muqsiṭ" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="52" id="178" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Ḥakam" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="37" id="179" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥakam;Al-'Alī-&gt;Al-Ḥakam" />
+        </attvalues>
+      </edge>
+      <edge source="29" target="47" id="180" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakam-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="51" id="181" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Adl-&gt;Al-Shahīd" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="68" id="182" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="94" id="183" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="56" id="184" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="52" id="185" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-'Adl;Al-Ḥaqq-&gt;Al-'Adl" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="37" id="186" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Adl-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="30" target="87" id="187" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Adl-&gt;Al-Muqsiṭ" />
+        </attvalues>
+      </edge>
+      <edge source="31" target="32" id="188" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-Laṭīf-&gt;Al-Khabīr;Al-Laṭīf-&gt;Al-Khabīr;Al-Laṭīf-&gt;Al-Khabīr;Al-Laṭīf-&gt;Al-Khabīr;Al-Laṭīf-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="31" target="47" id="189" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Laṭīf-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="31" target="54" id="190" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Laṭīf-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="32" target="37" id="191" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Khabīr;Al-'Alī-&gt;Al-Khabīr;Al-'Alī-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="32" target="47" id="192" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakīm-&gt;Al-Khabīr;Al-Ḥakīm-&gt;Al-Khabīr;Al-Ḥakīm-&gt;Al-Khabīr;Al-Ḥakīm-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="32" target="94" id="193" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-Khabīr" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="35" id="194" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghafūr-&gt;Al-Ḥalīm;Al-Ghafūr-&gt;Al-Ḥalīm;Al-Ghafūr-&gt;Al-Ḥalīm;Al-Ghafūr-&gt;Al-Ḥalīm" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="99" id="195" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥalīm-&gt;Al-Rashīd" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="68" id="196" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Ḥalīm" />
+        </attvalues>
+      </edge>
+      <edge source="33" target="36" id="197" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Shakūr-&gt;Al-Ḥalīm" />
+        </attvalues>
+      </edge>
+      <edge source="34" target="37" id="198" weight="7">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm" />
+        </attvalues>
+      </edge>
+      <edge source="35" target="37" id="199" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr" />
+        </attvalues>
+      </edge>
+      <edge source="35" target="83" id="200" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Afūw-&gt;Al-Ghafūr;Al-'Afūw-&gt;Al-Ghafūr" />
+        </attvalues>
+      </edge>
+      <edge source="35" target="36" id="201" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghafūr-&gt;Al-Shakūr;Al-Ghafūr-&gt;Al-Shakūr" />
+        </attvalues>
+      </edge>
+      <edge source="35" target="48" id="202" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghafūr-&gt;Al-Wadūd" />
+        </attvalues>
+      </edge>
+      <edge source="36" target="37" id="203" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Shakūr" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="38" id="204" weight="9">
+        <attvalues>
+          <attvalue for="2" value="Al-Kabīr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Kabīr;Al-Kabīr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Kabīr;Al-Kabīr-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="81" id="205" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="52" id="206" weight="63">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Alī;Al-'Alī-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Alī;Al-Ḥaqq-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="68" id="207" weight="16">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-Aḥad-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="47" id="208" weight="13">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="56" id="209" weight="9">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-'Alī;Al-'Alī-&gt;Al-Walī;Al-Walī-&gt;Al-'Alī;Al-'Alī-&gt;Al-Walī;Al-'Alī-&gt;Al-Walī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="75" id="210" weight="12">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-Ākhir-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="63" id="211" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥayy-&gt;Al-'Alī;Al-'Alī-&gt;Al-Ḥayy" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="51" id="212" weight="19">
+        <attvalues>
+          <attvalue for="2" value="Al-Shahīd-&gt;Al-'Alī;Al-'Alī-&gt;Al-Shahīd;Al-'Alī-&gt;Al-Shahīd;Al-'Alī-&gt;Al-Shahīd;Al-Shahīd-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="53" id="213" weight="11">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="41" id="214" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥasīb" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="89" id="215" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ghanī;Al-Ghanī-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="80" id="216" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Barr;Al-Barr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Barr;Al-Barr-&gt;Al-'Alī;Al-Barr-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="74" id="217" weight="6">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Awwal;Al-'Alī-&gt;Al-Awwal;Al-Awwal-&gt;Al-'Alī;Al-'Alī-&gt;Al-Awwal;Al-Awwal-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="44" id="218" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Raqīb;Al-Raqīb-&gt;Al-'Alī;Al-Raqīb-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="70" id="219" weight="4">
+        <attvalues>
+          <attvalue for="2" value="Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="94" id="220" weight="8">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Nūr;Al-Nūr-&gt;Al-'Alī;Al-Nūr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Nūr;Al-'Alī-&gt;Al-Nūr" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="84" id="221" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ra'ūf;Al-'Alī-&gt;Al-Ra'ūf;Al-'Alī-&gt;Al-Ra'ūf" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="54" id="222" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="39" id="223" weight="7">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥafīẓ;Al-'Alī-&gt;Al-Ḥafīẓ;Al-'Alī-&gt;Al-Ḥafīẓ;Al-Ḥafīẓ-&gt;Al-'Alī;Al-Ḥafīẓ-&gt;Al-'Alī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="57" id="224" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="49" id="225" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Majīd" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="71" id="226" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Muqtadir;Al-'Alī-&gt;Al-Muqtadir" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="78" id="227" weight="3">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Wālī;Al-'Alī-&gt;Al-Wālī;Al-'Alī-&gt;Al-Wālī" />
+        </attvalues>
+      </edge>
+      <edge source="37" target="88" id="228" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-'Alī-&gt;Al-Jāmi'" />
+        </attvalues>
+      </edge>
+      <edge source="38" target="52" id="229" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Kabīr" />
+        </attvalues>
+      </edge>
+      <edge source="43" target="52" id="230" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="43" target="89" id="231" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Al-Karīm" />
+        </attvalues>
+      </edge>
+      <edge source="44" target="51" id="232" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Raqīb-&gt;Al-Shahīd" />
+        </attvalues>
+      </edge>
+      <edge source="47" target="81" id="233" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Tawwāb-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="47" target="52" id="234" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="47" target="57" id="235" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥakīm-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="47" target="78" id="236" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Wālī-&gt;Al-Ḥakīm" />
+        </attvalues>
+      </edge>
+      <edge source="49" target="57" id="237" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥamīd-&gt;Al-Majīd" />
+        </attvalues>
+      </edge>
+      <edge source="51" target="52" id="238" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Shahīd" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="68" id="239" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-Aḥad" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="56" id="240" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-Ḥaqq" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="54" id="241" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="57" id="242" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="74" id="243" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Awwal" />
+        </attvalues>
+      </edge>
+      <edge source="52" target="78" id="244" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥaqq-&gt;Al-Wālī;Al-Ḥaqq-&gt;Al-Wālī" />
+        </attvalues>
+      </edge>
+      <edge source="53" target="80" id="245" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Barr-&gt;Al-Wakīl" />
+        </attvalues>
+      </edge>
+      <edge source="54" target="68" id="246" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Qawī" />
+        </attvalues>
+      </edge>
+      <edge source="55" target="102" id="247" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Rāziq-&gt;Al-Matīn" />
+        </attvalues>
+      </edge>
+      <edge source="56" target="94" id="248" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-Nūr" />
+        </attvalues>
+      </edge>
+      <edge source="56" target="89" id="249" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Al-Walī" />
+        </attvalues>
+      </edge>
+      <edge source="56" target="75" id="250" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-Ākhir" />
+        </attvalues>
+      </edge>
+      <edge source="56" target="57" id="251" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Walī-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="57" target="94" id="252" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Nūr-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="57" target="89" id="253" weight="5">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Al-Ḥamīd;Al-Ghanī-&gt;Al-Ḥamīd;Al-Ghanī-&gt;Al-Ḥamīd;Al-Ghanī-&gt;Al-Ḥamīd;Al-Ghanī-&gt;Al-Ḥamīd" />
+        </attvalues>
+      </edge>
+      <edge source="63" target="64" id="254" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ḥayy-&gt;Al-Qayyūm;Al-Ḥayy-&gt;Al-Qayyūm" />
+        </attvalues>
+      </edge>
+      <edge source="68" target="78" id="255" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Wālī" />
+        </attvalues>
+      </edge>
+      <edge source="68" target="75" id="256" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Aḥad-&gt;Al-Ākhir" />
+        </attvalues>
+      </edge>
+      <edge source="74" target="89" id="257" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Ghanī-&gt;Al-Awwal" />
+        </attvalues>
+      </edge>
+      <edge source="74" target="78" id="258" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Wālī-&gt;Al-Awwal;Al-Awwal-&gt;Al-Wālī" />
+        </attvalues>
+      </edge>
+      <edge source="74" target="75" id="259" weight="2">
+        <attvalues>
+          <attvalue for="2" value="Al-Ākhir-&gt;Al-Awwal;Al-Awwal-&gt;Al-Ākhir" />
+        </attvalues>
+      </edge>
+      <edge source="74" target="77" id="260" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Al-Bāṭin" />
+        </attvalues>
+      </edge>
+      <edge source="74" target="91" id="261" weight="1">
+        <attvalues>
+          <attvalue for="2" value="Al-Awwal-&gt;Al-Māni'" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
