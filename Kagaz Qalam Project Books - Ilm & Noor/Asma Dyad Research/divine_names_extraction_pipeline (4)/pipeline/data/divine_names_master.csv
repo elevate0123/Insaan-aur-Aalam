@@ -1,0 +1,109 @@
+A1_Serial_Number,A2_Arabic_Name,A3_Transliteration_ALA_LC,A4_English_Meaning,A5_Arabic_Root,A7_Tier,D1_Jalal_Jamal_Kamal,H1_JJK_5Class_v2_1,C4_Homonym_Flag,F1_Include_in_Network
+1,اللَّه,Allāh,Allah (The God),إله,Tier 1,Kamāl,Disputed,No,Yes
+2,الرَّحْمَٰن,Al-Raḥmān,The Most Gracious / The Universally Merciful,رحم,Tier 1,Jamāl,Jamāl,No,Yes
+3,الرَّحِيمِ,Al-Raḥīm,The Most Merciful / The Especially Merciful,رحم,Tier 1,Jamāl,Jamāl,No,Yes
+4,الْمَلِك,Al-Malik,The Sovereign / The King,ملك,Tier 1,Jalāl,Jalāl,No,Yes
+5,الْقُدُّوس,Al-Quddūs,The Most Holy / The Pure,قدس,Tier 1,Jalāl,Jalāl,No,Yes
+6,السَّلَام,Al-Salām,The Source of Peace / The Flawless,سلم,Tier 1,Jamāl,Jamāl,No,Yes
+7,الْمُؤْمِن,Al-Mu'min,The Guardian of Faith / The Granter of Security,أمن,Tier 1,Jamāl,Jamāl,Yes,Yes
+8,الْمُهَيْمِن,Al-Muhaymin,The Overseer / The Watchful Guardian,هيمن,Tier 1,Jalāl,Jalāl,No,Yes
+9,الْعَزِيز,Al-'Azīz,The Almighty / The Invincible,عزز,Tier 1,Jalāl,Jalāl,Yes,Yes
+10,الْجَبَّار,Al-Jabbār,The Compeller / The All-Powerful,جبر,Tier 1,Jalāl,Jalāl,No,Yes
+11,الْمُتَكَبِّر,Al-Mutakabbir,The Supreme / The Majestic,كبر,Tier 1,Jalāl,Jalāl,No,Yes
+12,الْخَالِق,Al-Khāliq,The Creator,خلق,Tier 1,Jalāl,Jalāl,No,Yes
+13,الْبَارِئ,Al-Bāri',The Originator / The Evolver,برأ,Tier 1,Jalāl,Jalāl,No,Yes
+14,الْمُصَوِّر,Al-Muṣawwir,The Fashioner / The Shaper of Forms,صور,Tier 1,Jalāl,Jalāl,No,Yes
+15,الْغَفَّار,Al-Ghaffār,The All-Forgiving / The Repeatedly Forgiving,غفر,Tier 1,Jamāl,Jamāl,No,Yes
+16,الْقَهَّار,Al-Qahhār,The Subduer / The Overwhelming,قهر,Tier 1,Jalāl,Jalāl,No,Yes
+17,الْوَهَّاب,Al-Wahhāb,The Bestower / The Ever-Giving,وهب,Tier 1,Jamāl,Jamāl,No,Yes
+18,الرَّزَّاق,Al-Razzāq,The Provider / The Sustainer,رزق,Tier 1,Jamāl,Jamāl,No,Yes
+19,الْفَتَّاح,Al-Fattāḥ,The Opener / The Granter of Victory,فتح,Tier 1,Jamāl,Jamāl,No,Yes
+20,الْعَلِيم,Al-'Alīm,The All-Knowing,علم,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+21,الْقَابِض,Al-Qābiḍ,The Withholder / The Constrictor,قبض,Tier 1,Jalāl,Jalāl,No,Yes
+22,الْبَاسِط,Al-Bāsiṭ,The Extender / The Expander,بسط,Tier 1,Jamāl,Jamāl,No,Yes
+23,الْخَافِض,Al-Khāfiḍ,The Abaser / The One Who Lowers,خفض,Tier 1,Jalāl,Jalāl,No,Yes
+24,الرَّافِع,Al-Rāfi',The Exalter / The One Who Raises,رفع,Tier 1,Jamāl,Jamāl,No,Yes
+25,الْمُعِز,Al-Mu'izz,The Bestower of Honor,عزز,Tier 1,Jamāl,Jamāl,No,Yes
+26,الْمُذِل,Al-Mudhill,The Humiliator / The Abaser,ذل,Tier 1,Jalāl,Jalāl,No,Yes
+27,السَّمِيع,Al-Samī',The All-Hearing,سمع,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+28,الْبَصِير,Al-Baṣīr,The All-Seeing,بصر,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+29,الْحَكَم,Al-Ḥakam,The Judge / The Arbitrator,حكم,Tier 1,Jalāl,Jalāl,No,Yes
+30,الْعَدْل,Al-'Adl,The Just / Justice Itself,عدل,Tier 1,Jalāl,Jalāl,No,Yes
+31,اللَّطِيف,Al-Laṭīf,The Subtle / The Gentle / The Most Refined,لطف,Tier 1,Jamāl,Jamāl,No,Yes
+32,الْخَبِير,Al-Khabīr,The All-Aware / The Fully Informed,خبر,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+33,الْحَلِيم,Al-Ḥalīm,The Forbearing / The Clement,حلم,Tier 1,Jamāl,Jamāl,No,Yes
+34,الْعَظِيم,Al-'Aẓīm,The Magnificent / The Most Great,عظم,Tier 1,Jalāl,Jalāl,No,Yes
+35,الْغَفُور,Al-Ghafūr,The Oft-Forgiving,غفر,Tier 1,Jamāl,Jamāl,No,Yes
+36,الشَّكُور,Al-Shakūr,The Most Appreciative / The Grateful,شكر,Tier 1,Jamāl,Jamāl,No,Yes
+37,الْعَلِي,Al-'Alī,The Most High / The Exalted,علو,Tier 1,Jalāl,Jalāl,Yes,Yes
+38,الْكَبِير,Al-Kabīr,The Most Great,كبر,Tier 1,Jalāl,Jalāl,No,Yes
+39,الْحَفِيظ,Al-Ḥafīẓ,The Preserver / The Guardian,حفظ,Tier 1,Jamāl,Jamāl,No,Yes
+40,الْمُقِيت,Al-Muqīt,The Sustainer / The Nourisher,قوت,Tier 1,Jamāl,Jamāl,No,Yes
+41,الْحَسِيب,Al-Ḥasīb,The Reckoner / The Sufficient,حسب,Tier 1,Jalāl,Jalāl,No,Yes
+42,الْجَلِيل,Al-Jalīl,The Majestic / The Sublime,جلل,Tier 1,Jalāl,Jalāl,Yes,Yes
+43,الْكَرِيم,Al-Karīm,The Most Generous / The Noble,كرم,Tier 1,Jamāl,Jamāl,No,Yes
+44,الرَّقِيب,Al-Raqīb,The Watchful / The Ever-Vigilant,رقب,Tier 1,Jalāl,Jalāl,No,Yes
+45,الْمُجِيب,Al-Mujīb,The Responsive / The Answerer of Prayers,جوب,Tier 1,Jamāl,Jamāl,No,Yes
+46,الْوَاسِع,Al-Wāsi',The All-Encompassing / The Vast,وسع,Tier 1,Jamāl,Jamāl,No,Yes
+47,الْحَكِيم,Al-Ḥakīm,The All-Wise,حكم,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+48,الْوَدُود,Al-Wadūd,The All-Loving / The Affectionate,ودد,Tier 1,Jamāl,Jamāl,No,Yes
+49,الْمَجِيد,Al-Majīd,The Most Glorious / The Illustrious,مجد,Tier 1,Jalāl,Jalāl,No,Yes
+50,الْبَاعِث,Al-Bā'ith,The Resurrector / The Raiser of the Dead,بعث,Tier 1,Jalāl,Jalāl,No,Yes
+51,الشَّهِيد,Al-Shahīd,The Witness / The All-Present,شهد,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+52,الْحَق,Al-Ḥaqq,The Truth / The Reality,حقق,Tier 1,Kamāl,Kamāl-ontological,Yes,Yes
+53,الْوَكِيل,Al-Wakīl,The Trustee / The Guardian,وكل,Tier 1,Jamāl,Jamāl,No,Yes
+54,الْقَوِي,Al-Qawī,The All-Strong,قوي,Tier 1,Jalāl,Jalāl,No,Yes
+55,الْمَتِين,Al-Matīn,The Firm / The Steadfast,متن,Tier 1,Jalāl,Jalāl,No,Yes
+56,الْوَلِي,Al-Walī,The Protecting Friend / The Patron,ولي,Tier 1,Jamāl,Jamāl,No,Yes
+57,الْحَمِيد,Al-Ḥamīd,The Praiseworthy,حمد,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+58,الْمُحْصِي,Al-Muḥṣī,The Appraiser / The Counter of All Things,حصي,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+59,الْمُبْدِئ,Al-Mubdi',The Originator / The Initiator,بدأ,Tier 1,Jalāl,Jalāl,No,Yes
+60,الْمُعِيد,Al-Mu'īd,The Restorer / The Reinstater,عود,Tier 1,Jamāl,Jamāl,No,Yes
+61,الْمُحْيِي,Al-Muḥyī,The Giver of Life,حيي,Tier 1,Jamāl,Jamāl,No,Yes
+62,الْمُمِيت,Al-Mumīt,The Taker of Life / The Causer of Death,موت,Tier 1,Jalāl,Jalāl,No,Yes
+63,الْحَي,Al-Ḥayy,The Ever-Living,حيي,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+64,الْقَيُّوم,Al-Qayyūm,The Self-Subsisting / The Sustainer of All,قوم,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+65,الْوَاجِد,Al-Wājid,The Finder / The All-Perceiving,وجد,Tier 1,Kamāl,Disputed,No,Yes
+66,الْمَاجِد,Al-Mājid,The Noble / The Glorious,مجد,Tier 1,Jalāl,Jalāl,Yes,Yes
+67,الْوَاحِد,Al-Wāḥid,The One / The Unique,وحد,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+68,الْأَحَد,Al-Aḥad,The Absolutely One,وحد,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+69,الصَّمَد,Al-Ṣamad,The Eternal / The Self-Sufficient / The Impenetrable,صمد,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+70,الْقَادِر,Al-Qādir,The All-Capable / The Omnipotent,قدر,Tier 1,Jalāl,Jalāl,No,Yes
+71,الْمُقْتَدِر,Al-Muqtadir,The All-Determining / The All-Powerful,قدر,Tier 1,Jalāl,Jalāl,No,Yes
+72,الْمُقَدِّم,Al-Muqaddim,The Expediter / The One Who Brings Forward,قدم,Tier 1,Jalāl,Jalāl,No,Yes
+73,الْمُؤَخِّر,Al-Mu'akhkhir,The Delayer / The One Who Holds Back,أخر,Tier 1,Jamāl,Jamāl,No,Yes
+74,الْأَوَّل,Al-Awwal,The First,أول,Tier 1,Kamāl,Kamāl-ontological,Yes,Yes
+75,الْآخِر,Al-Ākhir,The Last,أخر,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+76,الظَّاهِر,Al-Ẓāhir,The Manifest / The Evident,ظهر,Tier 1,Jalāl,Jalāl,No,Yes
+77,الْبَاطِن,Al-Bāṭin,The Hidden / The Inwardly Knowing,بطن,Tier 1,Jamāl,Jamāl,No,Yes
+78,الْوَالِي,Al-Wālī,The Governer / The Patron,ولي,Tier 1,Jalāl,Jalāl,Yes,Yes
+79,الْمُتَعَالِ,Al-Muta'āl,The Most Exalted / The Supremely Sublime,علو,Tier 1,Jalāl,Jalāl,No,Yes
+80,الْبَر,Al-Barr,The Source of Goodness / The Beneficent,برر,Tier 1,Jamāl,Jamāl,No,Yes
+81,التَّوَّاب,Al-Tawwāb,The Ever-Returning in Mercy / The Oft-Relenting,توب,Tier 1,Jamāl,Jamāl,No,Yes
+82,الْمُنْتَقِم,Al-Muntaqim,The Avenger,نقم,Tier 1,Jalāl,Jalāl,No,Yes
+83,الْعَفُو,Al-'Afūw,The Pardoner / The Effacer of Sins,عفو,Tier 1,Jamāl,Jamāl,No,Yes
+84,الرَّءُوف,Al-Ra'ūf,The Most Kind / The Compassionate,رأف,Tier 1,Jamāl,Jamāl,No,Yes
+85,مَالِك الْمُلْك,Mālik al-Mulk,The Owner of All Sovereignty,ملك,Tier 1,Jalāl,Jalāl,No,Yes
+86,ذُو الْجَلَالِ وَالْإِكْرَام,Dhū al-Jalāl wa'l-Ikrām,The Lord of Majesty and Generosity,جلل / كرم,Tier 1,Kamāl,Disputed,No,Yes
+87,الْمُقْسِط,Al-Muqsiṭ,The Equitable / The Just,قسط,Tier 1,Jalāl,Jalāl,No,Yes
+88,الْجَامِع,Al-Jāmi',The Gatherer / The Assembler,جمع,Tier 1,Jalāl,Jalāl,No,Yes
+89,الْغَنِي,Al-Ghanī,The Self-Sufficient / The Free of Need,غني,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+90,الْمُغْنِي,Al-Mughnī,The Enricher / The One Who Frees from Need,غني,Tier 1,Jamāl,Jamāl,No,Yes
+91,الْمَانِع,Al-Māni',The Preventer / The Withholder,منع,Tier 1,Jalāl,Jalāl,No,Yes
+92,الضَّار,Al-Ḍārr,The Distressor / The Afflicter,ضرر,Tier 1,Jalāl,Jalāl,No,Yes
+93,النَّافِع,Al-Nāfi',The Benefiter / The Granter of Benefit,نفع,Tier 1,Jamāl,Jamāl,No,Yes
+94,النُّور,Al-Nūr,The Light,نور,Tier 1,Kamāl,Kamāl-epistemic (upgraded from Disputed — see rationale),No,Yes
+95,الْهَادِي,Al-Hādī,The Guide,هدي,Tier 1,Jamāl,Jamāl,No,Yes
+96,الْبَدِيع,Al-Badī',The Originator / The Incomparable Creator,بدع,Tier 1,Jalāl,Jalāl,No,Yes
+97,الْبَاقِي,Al-Bāqī,The Everlasting / The Eternal Survivor,بقي,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+98,الْوَارِث,Al-Wārith,The Inheritor / The Heir,ورث,Tier 1,Kamāl,Kamāl-ontological,No,Yes
+99,الرَّشِيد,Al-Rashīd,The Guide to the Right Path / The Rightly Directing,رشد,Tier 1,Kamāl,Kamāl-epistemic,No,Yes
+100,الصَّبُور,Al-Ṣabūr,The Patient / The Forbearing,صبر,Tier 1,Jamāl,Jamāl,No,Yes
+101,الْعَلَّام,Al-'Allām,The All-Knowing (intensive),علم,Tier 2,Kamāl,Kamāl-epistemic,No,Yes
+102,الرَّزَّاق,Al-Rāziq,The Provider,رزق,Tier 2,Jamāl,Jamāl,No,Yes
+103,الْخَلَّاق,Al-Khallāq,The Supreme Creator (intensive),خلق,Tier 2,Jalāl,Jalāl,No,Yes
+104,الْكَافِي,Al-Kāfī,The Sufficient / The All-Sufficient,كفي,Tier 2,Jamāl,Jamāl,No,Yes
+105,الشَّاكِر,Al-Shākir,The Appreciative / The Grateful,شكر,Tier 2,Jamāl,Jamāl,No,Yes
+106,ذُو الرَّحْمَة,Dhū al-Raḥma,The Possessor of Mercy,رحم,Tier 2,Jamāl,Jamāl,No,Yes
+107,السِّتِّير,Al-Sittīr,The Veiling One / The Modest Concealer of Faults,ستر,Tier 3,Excluded,Excluded,No,No
+108,الْجَمِيل,Al-Jamīl,The Beautiful,جمل,Tier 3,Excluded,Excluded,No,No

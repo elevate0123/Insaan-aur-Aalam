@@ -1,107 +1,107 @@
 serial,transliteration,jjk_v21,consensus_community_gamma1.0,stability_fraction,node_type,consensus_community_gamma0.5,consensus_community_gamma2.0
-1,Allāh,Disputed,0,0.81,Stable community member,0,0
-2,Al-Raḥmān,Jamāl,1,0.89,Stable community member,36,1
-3,Al-Raḥīm,Jamāl,1,0.89,Stable community member,34,2
-4,Al-Malik,Jalāl,0,0.64,Boundary node,0,1
-5,Al-Quddūs,Jalāl,2,0.65,Boundary node,0,1
-6,Al-Salām,Jamāl,3,0.89,Stable community member,5,4
-7,Al-Mu'min,Jamāl,0,0.81,Stable community member,0,5
-8,Al-Muhaymin,Jalāl,2,0.65,Boundary node,0,1
-9,Al-'Azīz,Jalāl,4,0.5,Boundary node,0,6
-10,Al-Jabbār,Jalāl,2,0.65,Boundary node,10,1
-11,Al-Mutakabbir,Jalāl,2,0.65,Boundary node,10,1
-12,Al-Khāliq,Jalāl,5,0.88,Stable community member,11,7
-13,Al-Bāri',Jalāl,1,0.89,Stable community member,36,2
-14,Al-Muṣawwir,Jalāl,1,0.89,Stable community member,12,2
-15,Al-Ghaffār,Jamāl,6,0.88,Stable community member,14,8
-16,Al-Qahhār,Jalāl,0,0.64,Boundary node,0,0
-17,Al-Wahhāb,Jamāl,4,0.5,Boundary node,8,6
-18,Al-Razzāq,Jamāl,7,0.89,Stable community member,4,9
-19,Al-Fattāḥ,Jamāl,8,0.42,Boundary node,0,10
-20,Al-'Alīm,Kamāl-epistemic,8,0.42,Boundary node,0,11
-21,Al-Qābiḍ,Jalāl,9,0.77,Boundary node,20,12
-22,Al-Bāsiṭ,Jamāl,10,0.77,Boundary node,21,13
-23,Al-Khāfiḍ,Jalāl,11,0.77,Boundary node,22,14
-24,Al-Rāfi',Jamāl,0,0.81,Stable community member,0,0
-25,Al-Mu'izz,Jamāl,12,0.77,Boundary node,24,15
-26,Al-Mudhill,Jalāl,13,0.77,Boundary node,25,16
-27,Al-Samī',Kamāl-epistemic,8,0.42,Boundary node,19,11
-28,Al-Baṣīr,Kamāl-epistemic,8,0.41,Boundary node,0,11
-29,Al-Ḥakam,Jalāl,0,0.81,Stable community member,0,17
-30,Al-'Adl,Jalāl,0,0.81,Stable community member,0,17
-31,Al-Laṭīf,Jamāl,4,0.48,Boundary node,31,18
-32,Al-Khabīr,Kamāl-epistemic,4,0.48,Boundary node,0,18
-33,Al-Ḥalīm,Jamāl,1,0.89,Stable community member,0,2
-34,Al-'Aẓīm,Jalāl,0,0.81,Stable community member,0,0
-35,Al-Ghafūr,Jamāl,1,0.89,Stable community member,34,2
-36,Al-Shakūr,Jamāl,1,0.89,Stable community member,0,2
-37,Al-'Alī,Jalāl,0,0.81,Stable community member,0,36
-38,Al-Kabīr,Jalāl,0,0.81,Stable community member,36,36
-39,Al-Ḥafīẓ,Jamāl,0,0.81,Stable community member,36,36
-40,Al-Muqīt,Jamāl,14,0.47,Boundary node,39,39
-41,Al-Ḥasīb,Jalāl,0,0.81,Stable community member,36,36
-42,Al-Jalīl,Jalāl,15,0.47,Boundary node,41,41
-43,Al-Karīm,Jamāl,17,0.33,Boundary node,0,1
-44,Al-Raqīb,Jalāl,0,0.81,Stable community member,36,36
-45,Al-Mujīb,Jamāl,17,0.35,Boundary node,44,44
-46,Al-Wāsi',Jamāl,18,0.35,Boundary node,45,45
-47,Al-Ḥakīm,Kamāl-epistemic,4,0.5,Boundary node,0,6
-48,Al-Wadūd,Jamāl,1,0.89,Stable community member,34,2
-49,Al-Majīd,Jalāl,17,0.33,Boundary node,0,24
-50,Al-Bā'ith,Jalāl,19,0.38,Boundary node,1,49
-51,Al-Shahīd,Kamāl-epistemic,0,0.81,Stable community member,36,36
-52,Al-Ḥaqq,Kamāl-ontological,0,0.81,Stable community member,0,10
-53,Al-Wakīl,Jamāl,0,0.81,Stable community member,36,36
-54,Al-Qawī,Jalāl,4,0.5,Boundary node,0,6
-55,Al-Matīn,Jalāl,7,0.89,Stable community member,4,9
-56,Al-Walī,Jamāl,0,0.81,Stable community member,0,24
-57,Al-Ḥamīd,Kamāl-ontological,17,0.33,Boundary node,0,24
-58,Al-Muḥṣī,Kamāl-epistemic,20,0.38,Boundary node,6,26
-59,Al-Mubdi',Jalāl,21,0.38,Boundary node,7,27
-60,Al-Mu'īd,Jamāl,22,0.38,Boundary node,7,28
-61,Al-Muḥyī,Jamāl,23,0.38,Boundary node,9,29
-62,Al-Mumīt,Jalāl,24,0.38,Boundary node,13,30
-63,Al-Ḥayy,Kamāl-ontological,0,0.8,Stable community member,0,31
-64,Al-Qayyūm,Kamāl-ontological,0,0.8,Stable community member,0,31
-65,Al-Wājid,Disputed,26,0.35,Boundary node,15,32
-66,Al-Mājid,Jalāl,27,0.35,Boundary node,16,33
-67,Al-Wāḥid,Kamāl-ontological,28,0.35,Boundary node,18,34
-68,Al-Aḥad,Kamāl-ontological,0,0.81,Stable community member,0,17
-69,Al-Ṣamad,Kamāl-ontological,0,0.81,Stable community member,0,0
-70,Al-Qādir,Jalāl,0,0.81,Stable community member,36,36
-71,Al-Muqtadir,Jalāl,4,0.5,Boundary node,36,6
-72,Al-Muqaddim,Jalāl,29,0.35,Boundary node,18,35
-73,Al-Mu'akhkhir,Jamāl,30,0.35,Boundary node,23,36
-74,Al-Awwal,Kamāl-ontological,0,0.81,Stable community member,0,5
-75,Al-Ākhir,Kamāl-ontological,0,0.81,Stable community member,36,36
-76,Al-Ẓāhir,Jalāl,31,0.35,Boundary node,26,37
-77,Al-Bāṭin,Jamāl,8,0.42,Boundary node,0,5
-78,Al-Wālī,Jalāl,0,0.81,Stable community member,0,0
-79,Al-Muta'āl,Jalāl,32,0.35,Boundary node,27,38
-80,Al-Barr,Jamāl,0,0.81,Stable community member,0,39
-81,Al-Tawwāb,Jamāl,1,0.89,Stable community member,2,2
-82,Al-Muntaqim,Jalāl,33,0.35,Boundary node,28,40
-83,Al-'Afūw,Jamāl,1,0.89,Stable community member,0,2
-84,Al-Ra'ūf,Jamāl,1,0.89,Stable community member,0,2
-85,Mālik al-Mulk,Jalāl,34,0.35,Boundary node,29,41
-86,Dhū al-Jalāl wa'l-Ikrām,Disputed,35,0.35,Boundary node,30,42
-87,Al-Muqsiṭ,Jalāl,0,0.81,Stable community member,0,17
-88,Al-Jāmi',Jalāl,0,0.81,Stable community member,0,5
-89,Al-Ghanī,Kamāl-ontological,17,0.33,Boundary node,0,24
-90,Al-Mughnī,Jamāl,36,0.35,Boundary node,33,43
-91,Al-Māni',Jalāl,0,0.81,Stable community member,0,5
-92,Al-Ḍārr,Jalāl,37,0.35,Boundary node,35,44
-93,Al-Nāfi',Jamāl,38,0.35,Boundary node,37,45
-94,Al-Nūr,Kamāl-epistemic (upgraded from Disputed — see rationale),0,0.81,Stable community member,0,24
-95,Al-Hādī,Jamāl,0,0.81,Stable community member,0,0
-96,Al-Badī',Jalāl,39,0.35,Boundary node,38,46
-97,Al-Bāqī,Kamāl-ontological,40,0.35,Boundary node,40,47
-98,Al-Wārith,Kamāl-ontological,41,0.35,Boundary node,42,48
-99,Al-Rashīd,Kamāl-epistemic,1,0.89,Stable community member,32,2
-100,Al-Ṣabūr,Jamāl,42,0.35,Boundary node,43,49
-101,Al-'Allām,Kamāl-epistemic,43,0.31,Boundary node,43,50
-102,Al-Rāziq,Jamāl,7,0.89,Stable community member,4,9
-103,Al-Khallāq,Jalāl,42,0.21,Boundary node,47,51
-104,Al-Kāfī,Jamāl,0,0.81,Stable community member,0,0
-105,Al-Shākir,Jamāl,8,0.42,Boundary node,0,11
-106,Dhū al-Raḥma,Jamāl,14,0.38,Boundary node,48,3
+1,Allāh,Disputed,0,0.88,Stable community member,0,0
+2,Al-Raḥmān,Jamāl,34,0.37,Boundary node,2,1
+3,Al-Raḥīm,Jamāl,34,0.37,Boundary node,34,2
+4,Al-Malik,Jalāl,2,0.39,Boundary node,0,1
+5,Al-Quddūs,Jalāl,2,0.41,Boundary node,0,1
+6,Al-Salām,Jamāl,5,0.57,Boundary node,5,4
+7,Al-Mu'min,Jamāl,6,0.57,Boundary node,6,5
+8,Al-Muhaymin,Jalāl,2,0.41,Boundary node,0,1
+9,Al-'Azīz,Jalāl,8,0.57,Boundary node,8,6
+10,Al-Jabbār,Jalāl,2,0.41,Boundary node,10,1
+11,Al-Mutakabbir,Jalāl,2,0.41,Boundary node,10,1
+12,Al-Khāliq,Jalāl,11,0.57,Boundary node,11,7
+13,Al-Bāri',Jalāl,34,0.37,Boundary node,13,2
+14,Al-Muṣawwir,Jalāl,34,0.37,Boundary node,12,2
+15,Al-Ghaffār,Jamāl,14,0.57,Boundary node,14,9
+16,Al-Qahhār,Jalāl,2,0.39,Boundary node,0,1
+17,Al-Wahhāb,Jamāl,16,0.57,Boundary node,16,10
+18,Al-Razzāq,Jamāl,17,0.57,Boundary node,17,11
+19,Al-Fattāḥ,Jamāl,0,0.88,Stable community member,19,12
+20,Al-'Alīm,Kamāl-epistemic,0,0.88,Stable community member,0,12
+21,Al-Qābiḍ,Jalāl,20,0.57,Boundary node,20,13
+22,Al-Bāsiṭ,Jamāl,21,0.57,Boundary node,21,14
+23,Al-Khāfiḍ,Jalāl,22,0.57,Boundary node,22,15
+24,Al-Rāfi',Jamāl,0,0.88,Stable community member,0,0
+25,Al-Mu'izz,Jamāl,24,0.57,Boundary node,24,16
+26,Al-Mudhill,Jalāl,25,0.57,Boundary node,25,17
+27,Al-Samī',Kamāl-epistemic,0,0.88,Stable community member,19,12
+28,Al-Baṣīr,Kamāl-epistemic,0,0.88,Stable community member,0,18
+29,Al-Ḥakam,Jalāl,0,0.88,Stable community member,0,19
+30,Al-'Adl,Jalāl,0,0.88,Stable community member,0,19
+31,Al-Laṭīf,Jamāl,0,0.88,Stable community member,31,20
+32,Al-Khabīr,Kamāl-epistemic,0,0.88,Stable community member,0,20
+33,Al-Ḥalīm,Jamāl,34,0.37,Boundary node,0,21
+34,Al-'Aẓīm,Jalāl,0,0.88,Stable community member,0,0
+35,Al-Ghafūr,Jamāl,34,0.37,Boundary node,34,2
+36,Al-Shakūr,Jamāl,34,0.37,Boundary node,0,21
+37,Al-'Alī,Jalāl,36,0.57,Boundary node,36,22
+38,Al-Kabīr,Jalāl,0,0.88,Stable community member,0,0
+39,Al-Ḥafīẓ,Jamāl,0,0.88,Stable community member,19,12
+40,Al-Muqīt,Jamāl,39,0.57,Boundary node,39,23
+41,Al-Ḥasīb,Jalāl,0,0.88,Stable community member,0,0
+42,Al-Jalīl,Jalāl,41,0.57,Boundary node,41,24
+43,Al-Karīm,Jamāl,2,0.39,Boundary node,0,1
+44,Al-Raqīb,Jalāl,0,0.88,Stable community member,50,25
+45,Al-Mujīb,Jamāl,44,0.57,Boundary node,44,26
+46,Al-Wāsi',Jamāl,45,0.57,Boundary node,45,27
+47,Al-Ḥakīm,Kamāl-epistemic,0,0.88,Stable community member,0,28
+48,Al-Wadūd,Jamāl,34,0.37,Boundary node,34,2
+49,Al-Majīd,Jalāl,0,0.54,Boundary node,0,28
+50,Al-Bā'ith,Jalāl,49,0.57,Boundary node,49,29
+51,Al-Shahīd,Kamāl-epistemic,0,0.88,Stable community member,0,25
+52,Al-Ḥaqq,Kamāl-ontological,1,0.51,Boundary node,51,30
+53,Al-Wakīl,Jamāl,0,0.88,Stable community member,0,31
+54,Al-Qawī,Jalāl,0,0.88,Stable community member,0,0
+55,Al-Matīn,Jalāl,0,0.88,Stable community member,0,0
+56,Al-Walī,Jamāl,0,0.88,Stable community member,0,28
+57,Al-Ḥamīd,Kamāl-ontological,0,0.54,Boundary node,0,28
+58,Al-Muḥṣī,Kamāl-epistemic,2,0.32,Boundary node,1,33
+59,Al-Mubdi',Jalāl,3,0.33,Boundary node,3,34
+60,Al-Mu'īd,Jamāl,4,0.33,Boundary node,4,35
+61,Al-Muḥyī,Jamāl,7,0.33,Boundary node,7,36
+62,Al-Mumīt,Jalāl,27,0.22,Boundary node,9,37
+63,Al-Ḥayy,Kamāl-ontological,0,0.88,Stable community member,0,38
+64,Al-Qayyūm,Kamāl-ontological,0,0.88,Stable community member,0,38
+65,Al-Wājid,Disputed,12,0.34,Boundary node,15,39
+66,Al-Mājid,Jalāl,13,0.34,Boundary node,15,40
+67,Al-Wāḥid,Kamāl-ontological,15,0.34,Boundary node,18,41
+68,Al-Aḥad,Kamāl-ontological,0,0.88,Stable community member,0,21
+69,Al-Ṣamad,Kamāl-ontological,0,0.88,Stable community member,0,0
+70,Al-Qādir,Jalāl,0,0.88,Stable community member,0,0
+71,Al-Muqtadir,Jalāl,0,0.88,Stable community member,0,0
+72,Al-Muqaddim,Jalāl,18,0.34,Boundary node,23,42
+73,Al-Mu'akhkhir,Jamāl,19,0.27,Boundary node,26,43
+74,Al-Awwal,Kamāl-ontological,23,0.3,Boundary node,27,44
+75,Al-Ākhir,Kamāl-ontological,0,0.88,Stable community member,0,28
+76,Al-Ẓāhir,Jalāl,26,0.3,Boundary node,28,45
+77,Al-Bāṭin,Jamāl,0,0.88,Stable community member,19,12
+78,Al-Wālī,Jalāl,27,0.3,Boundary node,29,46
+79,Al-Muta'āl,Jalāl,28,0.3,Boundary node,30,47
+80,Al-Barr,Jamāl,0,0.88,Stable community member,0,31
+81,Al-Tawwāb,Jamāl,34,0.37,Boundary node,2,2
+82,Al-Muntaqim,Jalāl,29,0.3,Boundary node,33,48
+83,Al-'Afūw,Jamāl,34,0.37,Boundary node,0,2
+84,Al-Ra'ūf,Jamāl,34,0.37,Boundary node,2,2
+85,Mālik al-Mulk,Jalāl,30,0.3,Boundary node,35,49
+86,Dhū al-Jalāl wa'l-Ikrām,Disputed,31,0.3,Boundary node,37,50
+87,Al-Muqsiṭ,Jalāl,0,0.88,Stable community member,0,19
+88,Al-Jāmi',Jalāl,0,0.88,Stable community member,0,0
+89,Al-Ghanī,Kamāl-ontological,0,0.54,Boundary node,0,28
+90,Al-Mughnī,Jamāl,33,0.29,Boundary node,38,51
+91,Al-Māni',Jalāl,0,0.88,Stable community member,0,0
+92,Al-Ḍārr,Jalāl,35,0.27,Boundary node,40,52
+93,Al-Nāfi',Jamāl,35,0.3,Boundary node,42,53
+94,Al-Nūr,Kamāl-epistemic (upgraded from Disputed — see rationale),0,0.88,Stable community member,0,19
+95,Al-Hādī,Jamāl,0,0.88,Stable community member,0,0
+96,Al-Badī',Jalāl,37,0.3,Boundary node,43,54
+97,Al-Bāqī,Kamāl-ontological,38,0.3,Boundary node,46,55
+98,Al-Wārith,Kamāl-ontological,40,0.3,Boundary node,47,56
+99,Al-Rashīd,Kamāl-epistemic,34,0.37,Boundary node,32,21
+100,Al-Ṣabūr,Jamāl,42,0.3,Boundary node,48,57
+101,Al-'Allām,Kamāl-epistemic,43,0.3,Boundary node,52,58
+102,Al-Rāziq,Jamāl,46,0.3,Boundary node,53,59
+103,Al-Khallāq,Jalāl,47,0.3,Boundary node,54,60
+104,Al-Kāfī,Jamāl,0,0.88,Stable community member,0,0
+105,Al-Shākir,Jamāl,0,0.88,Stable community member,0,2
+106,Dhū al-Raḥma,Jamāl,48,0.3,Boundary node,55,7

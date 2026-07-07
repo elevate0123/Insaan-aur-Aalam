@@ -542,25 +542,9 @@
   <data key="d3">76</data>
   <data key="d4">Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm;Allāh-&gt;Al-Raḥīm</data>
 </edge>
-<edge source="1" target="37">
-  <data key="d3">641</data>
-  <data key="d4">Allāh-&gt;Al-'Alī;Al-'Alī-&gt;Allāh;Allāh-&gt;Al-'Alī;Allāh-&gt;Al-'Alī;Al-'Alī-&gt;Allāh</data>
-</edge>
-<edge source="1" target="7">
-  <data key="d3">115</data>
-  <data key="d4">Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min;Allāh-&gt;Al-Mu'min</data>
-</edge>
-<edge source="1" target="52">
-  <data key="d3">126</data>
-  <data key="d4">Al-Ḥaqq-&gt;Allāh;Allāh-&gt;Al-Ḥaqq;Allāh-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Allāh;Al-Ḥaqq-&gt;Allāh</data>
-</edge>
 <edge source="1" target="63">
   <data key="d3">14</data>
   <data key="d4">Allāh-&gt;Al-Ḥayy;Allāh-&gt;Al-Ḥayy;Allāh-&gt;Al-Ḥayy;Al-Ḥayy-&gt;Allāh;Allāh-&gt;Al-Ḥayy</data>
-</edge>
-<edge source="1" target="74">
-  <data key="d3">18</data>
-  <data key="d4">Al-Awwal-&gt;Allāh;Allāh-&gt;Al-Awwal;Al-Awwal-&gt;Allāh;Allāh-&gt;Al-Awwal;Allāh-&gt;Al-Awwal</data>
 </edge>
 <edge source="1" target="20">
   <data key="d3">155</data>
@@ -610,17 +594,9 @@
   <data key="d3">6</data>
   <data key="d4">Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf;Allāh-&gt;Al-Ra'ūf</data>
 </edge>
-<edge source="1" target="9">
-  <data key="d3">71</data>
-  <data key="d4">Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz;Allāh-&gt;Al-'Azīz</data>
-</edge>
 <edge source="1" target="47">
   <data key="d3">75</data>
   <data key="d4">Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm;Allāh-&gt;Al-Ḥakīm</data>
-</edge>
-<edge source="1" target="78">
-  <data key="d3">39</data>
-  <data key="d4">Allāh-&gt;Al-Wālī;Al-Wālī-&gt;Allāh;Allāh-&gt;Al-Wālī;Allāh-&gt;Al-Wālī;Al-Wālī-&gt;Allāh</data>
 </edge>
 <edge source="1" target="83">
   <data key="d3">4</data>
@@ -750,14 +726,6 @@
   <data key="d3">1</data>
   <data key="d4">Allāh-&gt;Al-Ḥafīẓ</data>
 </edge>
-<edge source="1" target="18">
-  <data key="d3">1</data>
-  <data key="d4">Allāh-&gt;Al-Razzāq</data>
-</edge>
-<edge source="1" target="102">
-  <data key="d3">1</data>
-  <data key="d4">Allāh-&gt;Al-Rāziq</data>
-</edge>
 <edge source="1" target="55">
   <data key="d3">1</data>
   <data key="d4">Allāh-&gt;Al-Matīn</data>
@@ -786,17 +754,9 @@
   <data key="d3">6</data>
   <data key="d4">Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm;Al-Raḥmān-&gt;Al-Raḥīm</data>
 </edge>
-<edge source="2" target="37">
-  <data key="d3">9</data>
-  <data key="d4">Al-'Alī-&gt;Al-Raḥmān;Al-'Alī-&gt;Al-Raḥmān;Al-'Alī-&gt;Al-Raḥmān;Al-Raḥmān-&gt;Al-'Alī;Al-Raḥmān-&gt;Al-'Alī</data>
-</edge>
 <edge source="2" target="4">
   <data key="d3">3</data>
   <data key="d4">Al-Malik-&gt;Al-Raḥmān;Al-Malik-&gt;Al-Raḥmān;Al-Raḥmān-&gt;Al-Malik</data>
-</edge>
-<edge source="2" target="52">
-  <data key="d3">2</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Raḥmān;Al-Ḥaqq-&gt;Al-Raḥmān</data>
 </edge>
 <edge source="2" target="43">
   <data key="d3">1</data>
@@ -810,10 +770,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Aḥad-&gt;Al-Raḥmān</data>
 </edge>
-<edge source="2" target="74">
-  <data key="d3">1</data>
-  <data key="d4">Al-Raḥmān-&gt;Al-Awwal</data>
-</edge>
 <edge source="2" target="28">
   <data key="d3">1</data>
   <data key="d4">Al-Raḥmān-&gt;Al-Baṣīr</data>
@@ -826,10 +782,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Bāri'-&gt;Al-Raḥīm</data>
 </edge>
-<edge source="3" target="37">
-  <data key="d3">13</data>
-  <data key="d4">Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm;Al-'Alī-&gt;Al-Raḥīm</data>
-</edge>
 <edge source="3" target="35">
   <data key="d3">50</data>
   <data key="d4">Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm;Al-Ghafūr-&gt;Al-Raḥīm</data>
@@ -837,14 +789,6 @@
 <edge source="3" target="84">
   <data key="d3">4</data>
   <data key="d4">Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm;Al-Ra'ūf-&gt;Al-Raḥīm</data>
-</edge>
-<edge source="3" target="9">
-  <data key="d3">14</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm;Al-'Azīz-&gt;Al-Raḥīm</data>
-</edge>
-<edge source="3" target="7">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Raḥīm</data>
 </edge>
 <edge source="3" target="48">
   <data key="d3">1</data>
@@ -858,17 +802,9 @@
   <data key="d3">1</data>
   <data key="d4">Al-Nūr-&gt;Al-Raḥīm</data>
 </edge>
-<edge source="4" target="37">
-  <data key="d3">18</data>
-  <data key="d4">Al-'Alī-&gt;Al-Malik;Al-Malik-&gt;Al-'Alī;Al-'Alī-&gt;Al-Malik;Al-Malik-&gt;Al-'Alī;Al-'Alī-&gt;Al-Malik</data>
-</edge>
 <edge source="4" target="68">
   <data key="d3">1</data>
   <data key="d4">Al-Malik-&gt;Al-Aḥad</data>
-</edge>
-<edge source="4" target="52">
-  <data key="d3">4</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Malik;Al-Malik-&gt;Al-Ḥaqq;Al-Malik-&gt;Al-Ḥaqq;Al-Malik-&gt;Al-Ḥaqq</data>
 </edge>
 <edge source="4" target="43">
   <data key="d3">2</data>
@@ -882,14 +818,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Malik-&gt;Al-Baṣīr</data>
 </edge>
-<edge source="4" target="7">
-  <data key="d3">2</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Malik;Al-Malik-&gt;Al-Mu'min</data>
-</edge>
-<edge source="4" target="74">
-  <data key="d3">1</data>
-  <data key="d4">Al-Awwal-&gt;Al-Malik</data>
-</edge>
 <edge source="4" target="16">
   <data key="d3">1</data>
   <data key="d4">Al-Malik-&gt;Al-Qahhār</data>
@@ -901,10 +829,6 @@
 <edge source="4" target="8">
   <data key="d3">1</data>
   <data key="d4">Al-Malik-&gt;Al-Muhaymin</data>
-</edge>
-<edge source="4" target="9">
-  <data key="d3">2</data>
-  <data key="d4">Al-Malik-&gt;Al-'Azīz;Al-Malik-&gt;Al-'Azīz</data>
 </edge>
 <edge source="4" target="10">
   <data key="d3">1</data>
@@ -918,17 +842,9 @@
   <data key="d3">1</data>
   <data key="d4">Al-Malik-&gt;Al-Ḥakīm</data>
 </edge>
-<edge source="5" target="7">
-  <data key="d3">1</data>
-  <data key="d4">Al-Quddūs-&gt;Al-Mu'min</data>
-</edge>
 <edge source="5" target="8">
   <data key="d3">1</data>
   <data key="d4">Al-Quddūs-&gt;Al-Muhaymin</data>
-</edge>
-<edge source="5" target="9">
-  <data key="d3">2</data>
-  <data key="d4">Al-Quddūs-&gt;Al-'Azīz;Al-Quddūs-&gt;Al-'Azīz</data>
 </edge>
 <edge source="5" target="10">
   <data key="d3">1</data>
@@ -942,98 +858,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Quddūs-&gt;Al-Ḥakīm</data>
 </edge>
-<edge source="7" target="37">
-  <data key="d3">36</data>
-  <data key="d4">Al-'Alī-&gt;Al-Mu'min;Al-'Alī-&gt;Al-Mu'min;Al-'Alī-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-'Alī;Al-Mu'min-&gt;Al-'Alī</data>
-</edge>
-<edge source="7" target="56">
-  <data key="d3">2</data>
-  <data key="d4">Al-Walī-&gt;Al-Mu'min;Al-Walī-&gt;Al-Mu'min</data>
-</edge>
-<edge source="7" target="27">
-  <data key="d3">2</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Samī';Al-Mu'min-&gt;Al-Samī'</data>
-</edge>
-<edge source="7" target="20">
-  <data key="d3">2</data>
-  <data key="d4">Al-Mu'min-&gt;Al-'Alīm;Al-Mu'min-&gt;Al-'Alīm</data>
-</edge>
-<edge source="7" target="34">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-'Aẓīm</data>
-</edge>
-<edge source="7" target="29">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥakam-&gt;Al-Mu'min</data>
-</edge>
-<edge source="7" target="74">
-  <data key="d3">5</data>
-  <data key="d4">Al-Awwal-&gt;Al-Mu'min;Al-Awwal-&gt;Al-Mu'min;Al-Awwal-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-Awwal;Al-Awwal-&gt;Al-Mu'min</data>
-</edge>
-<edge source="7" target="43">
-  <data key="d3">2</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Karīm;Al-Mu'min-&gt;Al-Karīm</data>
-</edge>
-<edge source="7" target="52">
-  <data key="d3">5</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min;Al-Ḥaqq-&gt;Al-Mu'min</data>
-</edge>
-<edge source="7" target="32">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Khabīr</data>
-</edge>
-<edge source="7" target="9">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-'Azīz</data>
-</edge>
-<edge source="7" target="84">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Ra'ūf</data>
-</edge>
-<edge source="7" target="88">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Jāmi'</data>
-</edge>
-<edge source="7" target="54">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Qawī</data>
-</edge>
-<edge source="7" target="94">
-  <data key="d3">2</data>
-  <data key="d4">Al-Nūr-&gt;Al-Mu'min;Al-Mu'min-&gt;Al-Nūr</data>
-</edge>
-<edge source="7" target="68">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Aḥad</data>
-</edge>
-<edge source="7" target="8">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Muhaymin</data>
-</edge>
-<edge source="7" target="10">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Jabbār</data>
-</edge>
-<edge source="7" target="11">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Mutakabbir</data>
-</edge>
-<edge source="7" target="75">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ākhir-&gt;Al-Mu'min</data>
-</edge>
-<edge source="7" target="28">
-  <data key="d3">1</data>
-  <data key="d4">Al-Mu'min-&gt;Al-Baṣīr</data>
-</edge>
-<edge source="8" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Muhaymin</data>
-</edge>
-<edge source="8" target="9">
-  <data key="d3">1</data>
-  <data key="d4">Al-Muhaymin-&gt;Al-'Azīz</data>
-</edge>
 <edge source="8" target="10">
   <data key="d3">1</data>
   <data key="d4">Al-Muhaymin-&gt;Al-Jabbār</data>
@@ -1042,89 +866,9 @@
   <data key="d3">1</data>
   <data key="d4">Al-Muhaymin-&gt;Al-Mutakabbir</data>
 </edge>
-<edge source="9" target="37">
-  <data key="d3">8</data>
-  <data key="d4">Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz;Al-'Alī-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="47">
-  <data key="d3">43</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm;Al-'Azīz-&gt;Al-Ḥakīm</data>
-</edge>
-<edge source="9" target="20">
-  <data key="d3">6</data>
-  <data key="d4">Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm;Al-'Azīz-&gt;Al-'Alīm</data>
-</edge>
-<edge source="9" target="84">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Ra'ūf</data>
-</edge>
-<edge source="9" target="54">
-  <data key="d3">6</data>
-  <data key="d4">Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz;Al-Qawī-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="52">
-  <data key="d3">4</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Azīz;Al-Ḥaqq-&gt;Al-'Azīz;Al-Ḥaqq-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="68">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Aḥad</data>
-</edge>
-<edge source="9" target="94">
-  <data key="d3">1</data>
-  <data key="d4">Al-Nūr-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="57">
-  <data key="d3">3</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Ḥamīd;Al-'Azīz-&gt;Al-Ḥamīd;Al-'Azīz-&gt;Al-Ḥamīd</data>
-</edge>
-<edge source="9" target="35">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Ghafūr;Al-'Azīz-&gt;Al-Ghafūr</data>
-</edge>
-<edge source="9" target="17">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Wahhāb</data>
-</edge>
-<edge source="9" target="78">
-  <data key="d3">1</data>
-  <data key="d4">Al-Wālī-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="31">
-  <data key="d3">1</data>
-  <data key="d4">Al-Laṭīf-&gt;Al-'Azīz</data>
-</edge>
-<edge source="9" target="43">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Karīm</data>
-</edge>
-<edge source="9" target="71">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Muqtadir</data>
-</edge>
-<edge source="9" target="10">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Jabbār</data>
-</edge>
-<edge source="9" target="11">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Azīz-&gt;Al-Mutakabbir</data>
-</edge>
-<edge source="10" target="37">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Jabbār</data>
-</edge>
 <edge source="10" target="11">
   <data key="d3">2</data>
   <data key="d4">Al-Mutakabbir-&gt;Al-Jabbār;Al-Jabbār-&gt;Al-Mutakabbir</data>
-</edge>
-<edge source="11" target="37">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Alī-&gt;Al-Mutakabbir;Al-'Alī-&gt;Al-Mutakabbir</data>
-</edge>
-<edge source="13" target="37">
-  <data key="d3">2</data>
-  <data key="d4">Al-Bāri'-&gt;Al-'Alī;Al-Bāri'-&gt;Al-'Alī</data>
 </edge>
 <edge source="13" target="81">
   <data key="d3">1</data>
@@ -1133,14 +877,6 @@
 <edge source="13" target="14">
   <data key="d3">1</data>
   <data key="d4">Al-Bāri'-&gt;Al-Muṣawwir</data>
-</edge>
-<edge source="18" target="55">
-  <data key="d3">1</data>
-  <data key="d4">Al-Razzāq-&gt;Al-Matīn</data>
-</edge>
-<edge source="19" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Fattāḥ</data>
 </edge>
 <edge source="19" target="20">
   <data key="d3">1</data>
@@ -1158,10 +894,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Shākir-&gt;Al-'Alīm</data>
 </edge>
-<edge source="20" target="37">
-  <data key="d3">17</data>
-  <data key="d4">Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm;Al-'Alī-&gt;Al-'Alīm</data>
-</edge>
 <edge source="20" target="33">
   <data key="d3">2</data>
   <data key="d4">Al-'Alīm-&gt;Al-Ḥalīm;Al-'Alīm-&gt;Al-Ḥalīm</data>
@@ -1169,14 +901,6 @@
 <edge source="20" target="63">
   <data key="d3">1</data>
   <data key="d4">Al-Ḥayy-&gt;Al-'Alīm</data>
-</edge>
-<edge source="20" target="74">
-  <data key="d3">3</data>
-  <data key="d4">Al-Awwal-&gt;Al-'Alīm;Al-Awwal-&gt;Al-'Alīm;Al-Awwal-&gt;Al-'Alīm</data>
-</edge>
-<edge source="20" target="52">
-  <data key="d3">3</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-'Alīm;Al-Ḥaqq-&gt;Al-'Alīm;Al-Ḥaqq-&gt;Al-'Alīm</data>
 </edge>
 <edge source="20" target="39">
   <data key="d3">1</data>
@@ -1206,10 +930,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Ḥakam-&gt;Al-'Alīm</data>
 </edge>
-<edge source="27" target="37">
-  <data key="d3">6</data>
-  <data key="d4">Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī';Al-'Alī-&gt;Al-Samī'</data>
-</edge>
 <edge source="27" target="63">
   <data key="d3">1</data>
   <data key="d4">Al-Ḥayy-&gt;Al-Samī'</data>
@@ -1222,17 +942,9 @@
   <data key="d3">1</data>
   <data key="d4">Al-Aḥad-&gt;Al-Samī'</data>
 </edge>
-<edge source="28" target="37">
-  <data key="d3">5</data>
-  <data key="d4">Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr;Al-'Alī-&gt;Al-Baṣīr</data>
-</edge>
 <edge source="28" target="94">
   <data key="d3">1</data>
   <data key="d4">Al-Baṣīr-&gt;Al-Nūr</data>
-</edge>
-<edge source="28" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Baṣīr</data>
 </edge>
 <edge source="28" target="32">
   <data key="d3">1</data>
@@ -1245,14 +957,6 @@
 <edge source="29" target="87">
   <data key="d3">1</data>
   <data key="d4">Al-Ḥakam-&gt;Al-Muqsiṭ</data>
-</edge>
-<edge source="29" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Ḥakam</data>
-</edge>
-<edge source="29" target="37">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥakam;Al-'Alī-&gt;Al-Ḥakam</data>
 </edge>
 <edge source="29" target="47">
   <data key="d3">1</data>
@@ -1274,14 +978,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Walī-&gt;Al-'Adl</data>
 </edge>
-<edge source="30" target="52">
-  <data key="d3">2</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-'Adl;Al-Ḥaqq-&gt;Al-'Adl</data>
-</edge>
-<edge source="30" target="37">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Adl-&gt;Al-'Alī</data>
-</edge>
 <edge source="30" target="87">
   <data key="d3">1</data>
   <data key="d4">Al-'Adl-&gt;Al-Muqsiṭ</data>
@@ -1297,10 +993,6 @@
 <edge source="31" target="54">
   <data key="d3">1</data>
   <data key="d4">Al-Laṭīf-&gt;Al-Qawī</data>
-</edge>
-<edge source="32" target="37">
-  <data key="d3">3</data>
-  <data key="d4">Al-'Alī-&gt;Al-Khabīr;Al-'Alī-&gt;Al-Khabīr;Al-'Alī-&gt;Al-Khabīr</data>
 </edge>
 <edge source="32" target="47">
   <data key="d3">4</data>
@@ -1326,14 +1018,6 @@
   <data key="d3">1</data>
   <data key="d4">Al-Shakūr-&gt;Al-Ḥalīm</data>
 </edge>
-<edge source="34" target="37">
-  <data key="d3">7</data>
-  <data key="d4">Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm;Al-'Alī-&gt;Al-'Aẓīm</data>
-</edge>
-<edge source="35" target="37">
-  <data key="d3">4</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr;Al-'Alī-&gt;Al-Ghafūr</data>
-</edge>
 <edge source="35" target="83">
   <data key="d3">2</data>
   <data key="d4">Al-'Afūw-&gt;Al-Ghafūr;Al-'Afūw-&gt;Al-Ghafūr</data>
@@ -1345,118 +1029,6 @@
 <edge source="35" target="48">
   <data key="d3">1</data>
   <data key="d4">Al-Ghafūr-&gt;Al-Wadūd</data>
-</edge>
-<edge source="36" target="37">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Shakūr</data>
-</edge>
-<edge source="37" target="38">
-  <data key="d3">9</data>
-  <data key="d4">Al-Kabīr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Kabīr;Al-Kabīr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Kabīr;Al-Kabīr-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="81">
-  <data key="d3">4</data>
-  <data key="d4">Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb;Al-'Alī-&gt;Al-Tawwāb</data>
-</edge>
-<edge source="37" target="52">
-  <data key="d3">63</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Alī;Al-'Alī-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-'Alī;Al-Ḥaqq-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="68">
-  <data key="d3">16</data>
-  <data key="d4">Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-'Alī-&gt;Al-Aḥad;Al-Aḥad-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="47">
-  <data key="d3">13</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm;Al-'Alī-&gt;Al-Ḥakīm</data>
-</edge>
-<edge source="37" target="56">
-  <data key="d3">9</data>
-  <data key="d4">Al-Walī-&gt;Al-'Alī;Al-'Alī-&gt;Al-Walī;Al-Walī-&gt;Al-'Alī;Al-'Alī-&gt;Al-Walī;Al-'Alī-&gt;Al-Walī</data>
-</edge>
-<edge source="37" target="75">
-  <data key="d3">12</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-'Alī-&gt;Al-Ākhir;Al-Ākhir-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="63">
-  <data key="d3">2</data>
-  <data key="d4">Al-Ḥayy-&gt;Al-'Alī;Al-'Alī-&gt;Al-Ḥayy</data>
-</edge>
-<edge source="37" target="51">
-  <data key="d3">19</data>
-  <data key="d4">Al-Shahīd-&gt;Al-'Alī;Al-'Alī-&gt;Al-Shahīd;Al-'Alī-&gt;Al-Shahīd;Al-'Alī-&gt;Al-Shahīd;Al-Shahīd-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="53">
-  <data key="d3">11</data>
-  <data key="d4">Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl;Al-'Alī-&gt;Al-Wakīl</data>
-</edge>
-<edge source="37" target="41">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥasīb</data>
-</edge>
-<edge source="37" target="89">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ghanī;Al-Ghanī-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="80">
-  <data key="d3">5</data>
-  <data key="d4">Al-'Alī-&gt;Al-Barr;Al-Barr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Barr;Al-Barr-&gt;Al-'Alī;Al-Barr-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="74">
-  <data key="d3">6</data>
-  <data key="d4">Al-'Alī-&gt;Al-Awwal;Al-'Alī-&gt;Al-Awwal;Al-Awwal-&gt;Al-'Alī;Al-'Alī-&gt;Al-Awwal;Al-Awwal-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="44">
-  <data key="d3">3</data>
-  <data key="d4">Al-'Alī-&gt;Al-Raqīb;Al-Raqīb-&gt;Al-'Alī;Al-Raqīb-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="70">
-  <data key="d3">4</data>
-  <data key="d4">Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī;Al-Qādir-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="94">
-  <data key="d3">8</data>
-  <data key="d4">Al-'Alī-&gt;Al-Nūr;Al-Nūr-&gt;Al-'Alī;Al-Nūr-&gt;Al-'Alī;Al-'Alī-&gt;Al-Nūr;Al-'Alī-&gt;Al-Nūr</data>
-</edge>
-<edge source="37" target="84">
-  <data key="d3">3</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ra'ūf;Al-'Alī-&gt;Al-Ra'ūf;Al-'Alī-&gt;Al-Ra'ūf</data>
-</edge>
-<edge source="37" target="54">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Qawī</data>
-</edge>
-<edge source="37" target="39">
-  <data key="d3">7</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥafīẓ;Al-'Alī-&gt;Al-Ḥafīẓ;Al-'Alī-&gt;Al-Ḥafīẓ;Al-Ḥafīẓ-&gt;Al-'Alī;Al-Ḥafīẓ-&gt;Al-'Alī</data>
-</edge>
-<edge source="37" target="57">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Ḥamīd</data>
-</edge>
-<edge source="37" target="49">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Majīd</data>
-</edge>
-<edge source="37" target="71">
-  <data key="d3">2</data>
-  <data key="d4">Al-'Alī-&gt;Al-Muqtadir;Al-'Alī-&gt;Al-Muqtadir</data>
-</edge>
-<edge source="37" target="78">
-  <data key="d3">3</data>
-  <data key="d4">Al-'Alī-&gt;Al-Wālī;Al-'Alī-&gt;Al-Wālī;Al-'Alī-&gt;Al-Wālī</data>
-</edge>
-<edge source="37" target="88">
-  <data key="d3">1</data>
-  <data key="d4">Al-'Alī-&gt;Al-Jāmi'</data>
-</edge>
-<edge source="38" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Kabīr</data>
-</edge>
-<edge source="43" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Karīm</data>
 </edge>
 <edge source="43" target="89">
   <data key="d3">1</data>
@@ -1470,49 +1042,13 @@
   <data key="d3">1</data>
   <data key="d4">Al-Tawwāb-&gt;Al-Ḥakīm</data>
 </edge>
-<edge source="47" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Ḥakīm</data>
-</edge>
 <edge source="47" target="57">
   <data key="d3">1</data>
   <data key="d4">Al-Ḥakīm-&gt;Al-Ḥamīd</data>
 </edge>
-<edge source="47" target="78">
-  <data key="d3">1</data>
-  <data key="d4">Al-Wālī-&gt;Al-Ḥakīm</data>
-</edge>
 <edge source="49" target="57">
   <data key="d3">1</data>
   <data key="d4">Al-Ḥamīd-&gt;Al-Majīd</data>
-</edge>
-<edge source="51" target="52">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Shahīd</data>
-</edge>
-<edge source="52" target="68">
-  <data key="d3">2</data>
-  <data key="d4">Al-Aḥad-&gt;Al-Ḥaqq;Al-Ḥaqq-&gt;Al-Aḥad</data>
-</edge>
-<edge source="52" target="56">
-  <data key="d3">1</data>
-  <data key="d4">Al-Walī-&gt;Al-Ḥaqq</data>
-</edge>
-<edge source="52" target="54">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Qawī</data>
-</edge>
-<edge source="52" target="57">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Ḥamīd</data>
-</edge>
-<edge source="52" target="74">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Awwal</data>
-</edge>
-<edge source="52" target="78">
-  <data key="d3">2</data>
-  <data key="d4">Al-Ḥaqq-&gt;Al-Wālī;Al-Ḥaqq-&gt;Al-Wālī</data>
 </edge>
 <edge source="53" target="80">
   <data key="d3">1</data>
@@ -1521,10 +1057,6 @@
 <edge source="54" target="68">
   <data key="d3">1</data>
   <data key="d4">Al-Aḥad-&gt;Al-Qawī</data>
-</edge>
-<edge source="55" target="102">
-  <data key="d3">1</data>
-  <data key="d4">Al-Rāziq-&gt;Al-Matīn</data>
 </edge>
 <edge source="56" target="94">
   <data key="d3">1</data>
@@ -1554,32 +1086,8 @@
   <data key="d3">2</data>
   <data key="d4">Al-Ḥayy-&gt;Al-Qayyūm;Al-Ḥayy-&gt;Al-Qayyūm</data>
 </edge>
-<edge source="68" target="78">
-  <data key="d3">1</data>
-  <data key="d4">Al-Aḥad-&gt;Al-Wālī</data>
-</edge>
 <edge source="68" target="75">
   <data key="d3">1</data>
   <data key="d4">Al-Aḥad-&gt;Al-Ākhir</data>
-</edge>
-<edge source="74" target="89">
-  <data key="d3">1</data>
-  <data key="d4">Al-Ghanī-&gt;Al-Awwal</data>
-</edge>
-<edge source="74" target="78">
-  <data key="d3">2</data>
-  <data key="d4">Al-Wālī-&gt;Al-Awwal;Al-Awwal-&gt;Al-Wālī</data>
-</edge>
-<edge source="74" target="75">
-  <data key="d3">2</data>
-  <data key="d4">Al-Ākhir-&gt;Al-Awwal;Al-Awwal-&gt;Al-Ākhir</data>
-</edge>
-<edge source="74" target="77">
-  <data key="d3">1</data>
-  <data key="d4">Al-Awwal-&gt;Al-Bāṭin</data>
-</edge>
-<edge source="74" target="91">
-  <data key="d3">1</data>
-  <data key="d4">Al-Awwal-&gt;Al-Māni'</data>
 </edge>
 </graph></graphml>
