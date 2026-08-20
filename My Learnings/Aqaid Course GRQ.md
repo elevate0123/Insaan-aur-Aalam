@@ -47,7 +47,7 @@ mindmap
   root((Primacy of Aqeedah))
     (Etymology & Meaning)
       ::icon(fa fa-link)
-      `Aqd (عقد)`
+      `Aqd عقد`
       The Firm Knot
     (Theological Precedence)
       ::icon(fa fa-balance-scale)
@@ -138,6 +138,36 @@ digraph Fiqh_al_Akbar_v2 {
     // Layout control
     {rank=same; Aqeedah; Corrupt_Aqeedah;}
 }
+```
+
+```mermaid
+flowchart TB
+
+    A{"Sound Aqeedah<br/>(Fiqh al-Akbar)"}
+    C{"Corrupt Aqeedah<br/>(Fractured Foundation)"}
+
+    subgraph F["Acts of Worship (Fiqh al-Asghar)"]
+        direction TB
+        S["Salah (Prayer)"]
+        Z["Zakat (Alms)"]
+        FST["Sawm (Fasting)"]
+    end
+
+    A -->|Validates| S
+    A -->|Validates| Z
+    A -->|Validates| FST
+
+    C -.->|Nullifies| S
+    C -.->|Renders Void| Z
+    C -.->|"Severs Connection<br/>to Divine Acceptance"| FST
+
+    style A fill:#cce5ff,stroke:#0066cc,stroke-width:2px
+    style C fill:#ffcccc,stroke:#cc0000,stroke-width:2px
+    style F fill:#f0f8ff,stroke:#7aa6d8
+
+    linkStyle 0,1,2 stroke:#008000,stroke-width:2px
+    linkStyle 3,4,5 stroke:#cc0000,stroke-width:2px,stroke-dasharray:5 5
+
 ```
 
 ##### A Science of Many Names: The Historical Lexicon of Creed
@@ -253,7 +283,7 @@ Modern atheism often presents itself as the only logical choice for intelligent 
 
 ```mermaid
 mindmap
-  root((The Atheist Challenge (`Ilhad`)))
+  root((The Atheist Challenge `Ilhad`))
     (Core Arguments & Rebuttals)
       ::icon(fa fa-atom)
       Science vs. Religion
@@ -785,7 +815,7 @@ mindmap
     (Foundational Proofs)
       ::icon(fa fa-book-quran)
       The Qur'an
-        - Surah al-Ahzab (33:40): "Seal of the Prophets"
+        - Surah al-Ahzab 33:40: "Seal of the Prophets"
       ::icon(fa fa-scroll)
       The Sunnah
         - Over 250 Hadiths
