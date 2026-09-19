@@ -6,7 +6,7 @@
 
 Based on a meticulous and exhaustive analysis of the provided 269-page PDF, here is a detailed breakdown of the book. 
 
-### **I. General Overview & Bibliographic Information**
+### I. General Overview & Bibliographic Information
 *   **Title:** نصاب توقیت (حصہ اول) - *Nisab-e-Tauqeet (Part 1)* [Curriculum of Timekeeping].
 *   **Subtitle:** "An easy, primary book comprising the terminology of the science of timekeeping, the extraction of prayer times, and the direction of the Qibla using modern mobile phones."
 *   **Author:** Ustad-ul-Tauqeet Waseem Ahmad Attari.
@@ -17,7 +17,7 @@ Based on a meticulous and exhaustive analysis of the provided 269-page PDF, here
 
 ---
 
-### **II. Pedagogical Structure**
+### II. Pedagogical Structure
 The book is designed as a formal textbook. Its teaching methodology is highly structured:
 1.  **Theological Basis:** Begins with Quranic verses or Hadith establishing the religious requirement for a specific time or direction.
 2.  **Scientific Definition:** Explains the astronomical phenomenon (e.g., what causes the sun to appear at a certain angle).
@@ -28,13 +28,13 @@ The book is designed as a formal textbook. Its teaching methodology is highly st
 
 ---
 
-### **III. Detailed Chapter-by-Chapter Breakdown**
+### III. Detailed Chapter-by-Chapter Breakdown
 
-#### **Front Matter (Pages 1-26)**
+#### Front Matter (Pages 1-26)
 *   **Intentions:** Lists 19 spiritual intentions for reading the book, a standard practice in Dawat-e-Islami literature.
 *   **Introduction:** Explains the critical importance of *Ilm-e-Tauqeet*. It notes that without this science, Muslims risk praying at forbidden times or facing the wrong direction. It pays homage to Imam Ahmed Raza Khan Barelvi, a master of this science, and explains that this book simplifies his complex manual methods using modern technology.
 
-#### **Chapter 1: Terminology & Fundamentals (Pages 27-44)**
+#### Chapter 1: Terminology & Fundamentals (Pages 27-44)
 This chapter acts as a glossary of geographical and astronomical terms, providing both Urdu and English names alongside diagrams.
 *   **Earth's Grid:** Equator (*Khat-e-Istawa*), Latitude (*Arz-e-Balad*), Longitude (*Tool-e-Balad*), Prime Meridian (Greenwich).
 *   **Time Concepts:** AM/PM, International Date Line, Standard Time vs. Local Time, GMT, and Daylight Saving Time (DST).
@@ -43,55 +43,55 @@ This chapter acts as a glossary of geographical and astronomical terms, providin
 *   **Solar Movements:** Altitude of Sun, Depression of Sun, Sun Declination (*Mail-e-Shams*), Equation of Time (*Tadeel-e-Ayyam*).
 *   Includes beautifully rendered 3D globes showing the Tropic of Cancer/Capricorn and polar regions.
 
-#### **Chapter 2: Nisf-un-Nahar (Midday / Zawal) (Pages 45-71)**
+#### Chapter 2: Nisf-un-Nahar (Midday / Zawal) (Pages 45-71)
 *   Defines the exact astronomical midday (when the sun reaches its highest peak) versus the Islamic timeframe.
 *   Explains the concept of *Tadeel-e-Murawwaj* (the difference between Local Time and Standard Time based on longitude).
 *   Provides the formula to calculate exact Zawal time using Sunrise and Sunset data.
 *   Introduces the Degree/Minute/Second (DMS) button on scientific calculators for time arithmetic.
 
-#### **Chapter 3: Sunrise & Sunset (Tulu o Ghuroob) (Pages 72-92)**
+#### Chapter 3: Sunrise & Sunset (Tulu o Ghuroob) (Pages 72-92)
 *   Differentiates between *Urfi* (astronomical center of the sun) and *Shari'i* (upper limb of the sun) sunrise/sunset.
 *   Discusses **Refraction** (how the atmosphere bends light) and **Semi-Diameter** of the sun.
 *   **Height Correction:** A crucial section explaining how being on a mountain, a tall building, or an airplane delays sunset and hastens sunrise. This has direct implications for breaking the fast (Iftar).
 *   Formulas utilizing `Cos^-1` and `Sin` to calculate exact sunrise/sunset times based on latitude and solar declination.
 
-#### **Chapter 4: Fajr and Isha (Subh o Isha) (Pages 93-115)**
+#### Chapter 4: Fajr and Isha (Subh o Isha) (Pages 93-115)
 *   Explains the difference between *Subh-e-Kazib* (False Dawn - Zodiacal light) and *Subh-e-Sadiq* (True Dawn - Astronomical Twilight).
 *   Establishes the standard of **18 degrees** of solar depression for Fajr and Isha calculations.
 *   Discusses high-latitude anomalies (like in Europe) where the sun does not set far enough below the horizon in summer for the twilight to disappear, meaning true Isha time does not technically occur.
 
-#### **Chapter 5: Dahwa Kubra (Pages 116-122)**
+#### Chapter 5: Dahwa Kubra (Pages 116-122)
 *   Defines *Dahwa Kubra* (the exact midpoint between Subh-e-Sadiq and Sunset). This is the absolute deadline for making the intention (Niyyah) for a fast.
 *   Outlines the *Makrooh* (forbidden) times for prayer (exactly at sunrise, absolute zenith/zawal, and exactly at sunset).
 
-#### **Chapter 6: Asr Time (Pages 123-131)**
+#### Chapter 6: Asr Time (Pages 123-131)
 *   Explains shadow mechanics. 
 *   Defines *Misl-e-Awal* (when an object's shadow equals its length plus the noon shadow) and *Misl-e-Sani* (when the shadow is twice its length plus the noon shadow).
 *   Focuses heavily on the Hanafi school of thought, which generally dictates that Asr begins at *Misl-e-Sani*.
 *   Provides complex `Tan^-1` formulas to calculate the exact time these shadow lengths are achieved.
 
-#### **Chapter 7: Direction of Qibla (Simt-e-Qibla) (Pages 132-152)**
+#### Chapter 7: Direction of Qibla (Simt-e-Qibla) (Pages 132-152)
 *   Provides the exact coordinates of the Kaaba in Makkah (21°25'N, 39°50'E).
 *   Teaches how to calculate the precise angle of the Qibla from any city in the world using spherical trigonometry.
 *   Explains how to use the sun to find the Qibla (calculating the exact time the sun aligns with the Qibla direction for a specific city).
 *   Explains magnetic declination and how to correct compass readings.
 
-#### **Chapter 8: Miscellaneous (Mutafarriqat) (Pages 153-179)**
+#### Chapter 8: Miscellaneous (Mutafarriqat) (Pages 153-179)
 *   Discusses recommended (*Mustahab*) times for various prayers across different seasons.
 *   Explains the mechanics of Leap Years in both Gregorian and Hijri (Lunar) calendars.
 *   **Modern Technology:** Guides the user on how to extract accurate coordinates and elevations using Google Earth, Google Maps, and smartphone GPS.
 *   Includes a practical case study calculating the delayed sunset for the top of the **Bahria Icon Tower** in Karachi due to its extreme height.
 
-#### **Chapter 9: Interesting Questions & Answers (Pages 180-187)**
+#### Chapter 9: Interesting Questions & Answers (Pages 180-187)
 *   Answers common geographical questions: Why do days and nights vary in length? Why do seasons change? 
 *   Explains the phenomenon of 6-month days and 6-month nights at the North and South Poles.
 
-#### **Chapter 10: Scientific Calculator Usage (Pages 188-193)**
+#### Chapter 10: Scientific Calculator Usage (Pages 188-193)
 *   A visual, step-by-step manual on how to input the complex trigonometric formulas (`Cos^-1`, `Sin`, `Tan`) into a standard Scientific Calculator to get accurate times and angles without manual mathematical errors.
 
 ---
 
-### **IV. Back Matter & Appendices**
+### IV. Back Matter & Appendices
 
 *   **Reference Tables (Jidawal) (Pages 194-205):** Contains data tables for the Sun's Declination (*Mail-e-Shams*) and the Equation of Time for every day of the year (using 2020 as a base year).
 *   **Coordinates Directory (Pages 206-214):** A highly useful index providing the exact Latitude, Longitude, and GMT offset for dozens of major cities in Pakistan and prominent cities worldwide.
@@ -99,7 +99,7 @@ This chapter acts as a glossary of geographical and astronomical terms, providin
 *   **Endorsements (Taqareez) (Pages 225-247):** Letters of validation from prominent scholars, Muftis, and professors of astronomy. They praise the author for taking an incredibly difficult, dying science and making it accessible to madrasa students using modern calculators rather than outdated astrolabes.
 *   **Author's Note (Pages 248-266):** Ustad Waseem Ahmad Attari narrates his personal journey. He describes how difficult it was to learn this science in the 1990s, the lack of modern textbooks, and his subsequent effort to establish the "Prayer Timings Department" within Dawat-e-Islami, culminating in the creation of mobile apps and this specific textbook.
 
-### **Conclusion of Analysis**
+### Conclusion of Analysis
 "Nisab-e-Tauqeet" is a highly specialized, practical, and mathematically rigorous textbook. It successfully translates medieval Islamic astronomical principles into modern mathematical formulas. By integrating the use of Scientific Calculators, Google Earth, and smartphone apps, the book ensures that the modern Islamic scholar or Imam can calculate prayer times, fasting deadlines, and Qibla directions with absolute pinpoint accuracy, regardless of their location on Earth or their altitude.
 
 
@@ -195,7 +195,7 @@ This updated architecture treats *Ilm-e-Tauqeet* as a sequential, algorithmic wo
 
 ---
 
-### **PRELUDE: The Epistemology of Timekeeping**
+### PRELUDE: The Epistemology of Timekeeping
 
 Before executing a single calculation, the student must understand the philosophical and jurisprudential framework of *Ilm-e-Tauqeet* (The Science of Timekeeping). This is not merely an exercise in applied mathematics; it is the sacred mechanism by which the boundaries of worship (*Ibadah*) are established.
 
@@ -217,11 +217,11 @@ A critical paradigm shift is required when transitioning from secular timekeepin
 
 ---
 
-### **MODULE 1: The Spatial & Temporal Canvas (Foundations)**
+### MODULE 1: The Spatial & Temporal Canvas (Foundations)
 
 *Objective: To master the coordinate grid of the Earth and the celestial sphere, and to understand the mathematical conversion of spatial distance into clock time.*
 
-#### **1.1 The Terrestrial Grid (Earth's Coordinates)**
+#### 1.1 The Terrestrial Grid (Earth's Coordinates)
 To calculate the angle of the sun relative to an observer, we must first pinpoint the observer's exact location on the Earth's surface. 
 
 *   **Khat-e-Istawa (The Equator):** The primary great circle of the Earth, resting at 0°. It divides the Earth into the Northern and Southern hemispheres.
@@ -231,7 +231,7 @@ To calculate the angle of the sun relative to an observer, we must first pinpoin
     *   *Critical Syntax Rule:* Eastern longitudes are entered as **Positive (+)** values, and Western longitudes are entered as **Negative (-)** values.
 *   **Khat-e-Nisf-un-Nahar (Prime Meridian):** The 0° longitude line passing through Greenwich, London. It is the global baseline for both space and time.
 
-#### **1.2 The Celestial Sphere (The Sky's Coordinates)**
+#### 1.2 The Celestial Sphere (The Sky's Coordinates)
 When an observer looks up, they are standing at the center of an imagined dome called the Celestial Sphere.
 
 *   **Samt-ur-Raas (Zenith):** The point in the sky directly, 90 degrees vertically above the observer's head.
@@ -242,7 +242,7 @@ When an observer looks up, they are standing at the center of an imagined dome c
     *   *Note:* The higher an observer's elevation, the further the *Ufuq-e-Hissi* dips below the *Ufuq-e-Haqiqi*. This distinction is the bedrock of "Height Correction" (*Tafawut-e-Irtefa*) calculated in later modules.
 
   
-**1.3 The Mechanics of Time (Space-to-Time Conversion)**  
+#### 1.3 The Mechanics of Time (Space-to-Time Conversion)
 Time, astronomically speaking, is a measurement of the Earth's rotation relative to the Sun. Because the Earth is a 360° sphere and rotates once every 24 hours, space and time are directly proportional:
 
 - **360° = 24 Hours**
@@ -261,7 +261,7 @@ Because mechanical clocks cannot speed up or slow down to match the sun, astrono
 A political and administrative construct. To prevent neighboring towns from having clocks that are 3 minutes apart, governments group vast longitudinal regions into a single time zone, anchored to a specific reference longitude (e.g., GMT +5, GMT -4).
 
 
-**1.4 CORE CALCULATION 1: Tadeel-e-Murawwaj (The Standard Time Modifier)**  
+#### 1.4 CORE CALCULATION 1: Tadeel-e-Murawwaj (The Standard Time Modifier)
 Our trigonometric formulas will yield results in Baldi Waqt (Local Mean Time). We must mathematically convert those results into Meyari Waqt (Standard Time) so they match the clocks on our walls and smartphones.
 
 The difference between Standard Time and Local Mean Time is called **Tadeel-e-Murawwaj**.
@@ -303,53 +303,9 @@ You must use the **Degree/Minute/Second [° ' "]** button on your scientific 
 - **Result:** -0° 7' 16" (Which translates to **-0 Hours, 7 Minutes, 16 Seconds**).
 - Application: Whatever local time our formulas output for Jakarta, we will **subtract** 7m 16s from it to get Indonesia Standard Time.
 
-
-#### ~~**1.3 The Mechanics of Time (Space-to-Time Conversion)**~~
-~~Time, astronomically speaking, is simply a measurement of the Earth's rotation relative to the Sun. Because the Earth is a 360° sphere and rotates once every 24 hours, space and time are directly proportional:~~
-*   ~~**360° = 24 Hours**~~
-*   ~~**15° = 1 Hour**~~
-*   ~~**1° = 4 Minutes**~~
-
-~~This relationship forces us to navigate two distinct time systems:~~
-
-~~**A. Baldi Waqt (Local Mean Time - LMT)**~~
-~~This is the true astronomical time of your specific *Tool-e-Balad* (Longitude). If you walk 15 miles East, your *Baldi Waqt* changes. In this system, 12:00 PM occurs exactly when the sun crosses your specific meridian.~~
-
-~~**B. Meyari Waqt (Standard Time)**~~
-~~A political and administrative construct. To prevent every town from having a different clock, governments group vast longitudinal regions into a single time zone, anchored to a specific reference longitude (e.g., GMT +5, GMT -4).~~ 
-
-#### ~~**1.4 CORE CALCULATION 1: Tadeel-e-Murawwaj (The Standard Time Modifier)**~~
-~~Because our astronomical formulas will yield results in *Baldi Waqt* (Local Time), we must mathematically convert those results into *Meyari Waqt* (Standard Time) so they match the clocks on our walls.~~ 
-
-~~The difference between Standard Time and Local Time is called **Tadeel-e-Murawwaj**.~~ 
-
-> ~~**The Master Formula:**~~
-> ~~`Tadeel-e-Murawwaj = Standard Time Offset - (Tool-e-Balad ÷ 15)`~~
-
-*   ~~**Standard Time Offset:** Your time zone relative to Greenwich (e.g., Pakistan is `5`, New York is `-5`).~~
-*   ~~**Tool-e-Balad:** Your exact longitude. (Remember the syntax: East is positive, West is negative).~~
-
-~~**Calculator Syntax Protocol:**~~
-~~To execute this, you must use the **Degree/Minute/Second `[° ' "]`** button on your scientific calculator. This button allows the calculator to process base-60 mathematics (sexagesimal), which is required for both angular degrees and time (hours/minutes/seconds).~~
-
-~~**Example 1: Eastern Hemisphere (Karachi, Pakistan)**~~
-*   ~~Longitude (*Tool-e-Balad*): 67° 04' E (Positive)~~
-*   ~~Standard Time Offset: +5~~
-*   ~~Formula: `5 - (67°04' ÷ 15)`~~
-*   ~~Calculator Keystrokes: `5` `-` `(` `67` `[° ' "]` `4` `[° ' "]` `÷` `15` `)` `=`~~
-*   ~~**Result:** `0° 31' 44"` (Which translates to +0 Hours, 31 Minutes, 44 Seconds).~~
-*   ~~*Meaning:* Karachi's standard clock is artificially set 31 minutes and 44 seconds *ahead* of its true astronomical local time.~~
-
-~~**Example 2: Western Hemisphere (Washington D.C., USA)**~~
-*   ~~Longitude (*Tool-e-Balad*): 77° 02' W (Negative)~~
-*   ~~Standard Time Offset: -5~~
-*   ~~Formula: `-5 - (-77°02' ÷ 15)`~~
-*   ~~Calculator Keystrokes: `-5` `-` `(` `-77` `[° ' "]` `2` `[° ' "]` `÷` `15` `)` `=`~~
-*   ~~**Result:** `0° 8' 8"` (Which translates to +0 Hours, 8 Minutes, 8 Seconds).~~
-
 ***
 
-#### **System Architecture: The Time Conversion Flow**
+#### System Architecture: The Time Conversion Flow
 
 ```mermaid
 graph TD
@@ -381,13 +337,13 @@ graph TD
 ---
 ***
 
-### **MODULE 2: The Solar Engine (Dynamic Variables)**
+### MODULE 2: The Solar Engine (Dynamic Variables)
 
 *Objective: To master the two daily solar variables—Solar Declination and the Equation of Time—and understand how to extract them from astronomical ephemeris tables (Jidawal).*
 
-To calculate prayer times for any specific day, we must account for the ~~Earth's orbit around the sun~~. Because the Earth is tilted on its axis and ~~its orbit~~ is elliptical, the sun's apparent position and speed in our sky change daily. This creates two dynamic variables that are the "engine" of all *Ilm-e-Tauqeet* calculations.
+To calculate prayer times for any specific day, we must account for the ~~Earth's orbit around the sun~~. Because the Earth is tilted on its axis and ~~its orbit is elliptical~~, the sun's apparent position and speed in our sky change daily. This creates two dynamic variables that are the "engine" of all *Ilm-e-Tauqeet* calculations.
 
-#### **2.1 Mail-e-Shams (Solar Declination)**
+#### 2.1 Mail-e-Shams (Solar Declination)
 **Definition:** *Mail-e-Shams* is the angular distance of the sun directly North or South of the Celestial Equator (*Khat-e-Istawa*). 
 
 **The Physics & Geography:**
@@ -402,7 +358,7 @@ Because the Earth's axis is tilted at approximately 23.5 degrees, the sun appear
 *Critical Syntax Rule:* When extracting *Mail-e-Shams* for calculations, Northern declination is always entered as **Positive (+)** and Southern declination is always entered as **Negative (-)**.
 
 
-**2.2 Tadeel-e-Ayyam (Equation of Time) & Baldi Zawal**  
+#### 2.2 Tadeel-e-Ayyam (Equation of Time) & Baldi Zawal  
 **Definition:** Tadeel-e-Ayyam is the difference between Apparent Solar Time (the true sun in the sky) and Mean Solar Time (the artificial 24-hour clock).
 
 **Unpacking the Black Box (The Astrophysics):**  
@@ -421,7 +377,7 @@ To minimize calculation errors, Nisab-e-Tauqeet pre-calculates this. In the ta
 - The Greenwich Baseline: As noted on page 193 of the text, these tables are calculated for the Prime Meridian (Greenwich, London). Because the Equation of Time shifts by mere fractions of a second over a 24-hour period, timekeepers universally use this Greenwich Baldi Zawal as the baseline Local Mean Time (LMT) for any longitude on Earth for that specific date.
 - Example: On January 1st, the table provides a Baldi Zawal of 12:11:09. This means the sun crosses the meridian 11 minutes and 9 seconds after 12:00 PM Local Mean Time, regardless of whether you are in New York, London, or Tokyo.
 
-**2.3 Data Extraction: Using the Jidawal (Ephemeris Tables)**  
+#### 2.3 Data Extraction: Using the Jidawal (Ephemeris Tables)  
 Before executing any formula in the upcoming modules, you must extract the two daily variables for your target date from the tables.
 
 **Example Data Extraction (From Page 194 of the text):**  
@@ -437,38 +393,9 @@ The tables provided in the book are anchored to the year 2020 (a leap year). Bec
 - Is this a problem? For daily Fiqhi applications (prayers and fasting), the variation across the 4-year cycle is measured in mere seconds and does not invalidate the Fiqhi timings.
 - The Modern Solution: While traditional scholars manually interpolated these fractions (as discussed on pages 159-161 of the text), modern professionals requiring absolute sub-second precision can extract live daily data from digital Ephemeris tools (like NOAA or the Google Earth Engine). However, for standardized calculations and mastering the science, the 2020 tables are highly sufficient and structurally sound.
 
-#### ~~**2.2 Tadeel-e-Ayyam (Equation of Time) & Baldi Zawal**~~
-~~**Definition:** *Tadeel-e-Ayyam* is the difference between Apparent Solar Time (the true sun in the sky) and Mean Solar Time (the artificial 24-hour clock).~~
-
-~~**Unpacking the Black Box (The Astrophysics):**~~
-~~Why isn't the sun exactly at its highest point (Zenith/Meridian) at exactly 12:00:00 PM Local Time every day? Two reasons:~~
-1.  ~~**Kepler's Second Law:** Earth's orbit is an ellipse, not a perfect circle. Earth moves faster when it is closer to the sun (Perihelion in January) and slower when it is farther away (Aphelion in July).~~
-2.  ~~**Obliquity of the Ecliptic:** The Earth's 23.5° tilt means the sun's apparent daily motion along the equator varies.~~
-
-~~These two factors combine to create the **Equation of Time (EoT)**. The true sun can be up to ~16 minutes "fast" (crossing the meridian before 12:00 PM) or ~14 minutes "slow" (crossing after 12:00 PM).~~
-
-~~**The Textbook's Optimization (Baldi Zawal):**~~
-~~In standard astronomy, to find the exact Local Mean Time (LMT) of solar noon, you would use the formula: `12:00:00 - Equation of Time`.~~ 
-
-~~However, to minimize calculation errors for students, *Nisab-e-Tauqeet* pre-calculates this. In the tables (*Jidawal*) at the back of the book (Pages 194-205), the author does not provide the raw *Tadeel-e-Ayyam*. Instead, he provides a column titled **Baldi Zawal** (Local Noon).~~ 
-*   ~~*Baldi Zawal* is simply 12:00:00 adjusted for the Equation of Time for that specific day.~~ 
-*   ~~*Example:* On January 1st, the true sun is "slow." The table provides a *Baldi Zawal* of `12:11:09`. This means the sun crosses the meridian 11 minutes and 9 seconds *after* 12:00 PM Local Mean Time.~~
-
-#### ~~**2.3 Data Extraction: Using the Jidawal (Ephemeris Tables)**~~
-~~Before executing any formula in the upcoming modules, you must look up the two daily variables for your target date.~~
-
-~~**Example Data Extraction (From Page 194 of the text):**~~
-~~Let's extract the variables for **January 1st**.~~
-1.  ~~Go to the January Table.~~
-2.  ~~Find Row 1.~~
-3.  ~~**Mail-e-Shams (Declination):** `-23° 01'` (The sun is deep in the Southern Hemisphere, hence the negative sign).~~
-4.  ~~**Baldi Zawal (Local Noon):** `12:03:19` (The sun crosses the meridian at 12:03 PM Local Time).~~
-
-~~*Note on Leap Years (Kasrat):* The tables provided in the book are anchored to a specific year (e.g., 2020, a leap year). Because the true solar year is 365.24 days, *Mail-e-Shams* and *Baldi Zawal* shift slightly every year in a 4-year cycle. For extreme precision (to the exact second), modern timekeepers use algorithms or live data (like NOAA or Google Earth engines, as mentioned on page 76). However, for standardized Fiqhi calculations and examinations, the provided tables are highly sufficient.~~
-
 ***
 
-#### **System Architecture: The Solar Mechanics**
+#### System Architecture: The Solar Mechanics
 
 ```mermaid
 graph TD
@@ -497,13 +424,13 @@ graph TD
 ***
 ***
 
-### **MODULE 3: The Meridian Axis (Zawal & Nisf-un-Nahar)**
+### MODULE 3: The Meridian Axis (Zawal & Nisf-un-Nahar)
 
 *Objective: To calculate the exact clock time of astronomical noon, understand its jurisprudential (Fiqhi) implications, and establish the baseline shadow length used for later prayers.*
 
 The meridian is the invisible line of longitude that runs directly over your head from the North Pole to the South Pole. The moment the sun crosses this line is the absolute anchor point of the Islamic day. Everything is symmetrical around this axis.
 
-**3.1 The Fiqh & Physics of the Meridian**  
+#### 3.1 The Fiqh & Physics of the Meridian  
 To a STEM-educated mind, precision in terminology is non-negotiable. In classical Fiqh, there is a profound distinction between the sun reaching its peak and the sun beginning its descent, though laymen often conflate the two.
 
 - **Nisf-un-Nahar Haqiqi (True Astronomical Noon):** The exact microsecond the sun's center crosses your local meridian. At this moment, the sun's **Hour Angle (Zawia-e-Zamani) is exactly 0°**, its altitude is at its daily maximum, and shadows are at their absolute shortest.
@@ -512,16 +439,7 @@ To a STEM-educated mind, precision in terminology is non-negotiable. In classica
     - Fiqhi Implication: The moment of Zawal marks the end of the prohibited buffer and the immediate beginning of the **Zuhr** prayer window.
 - **Saya-e-Asli (The Base Shadow):** The length of an object's shadow at the exact moment of Nisf-un-Nahar Haqiqi. Because the Earth's axis is tilted, the sun is rarely perfectly 90° overhead. Therefore, a small shadow almost always remains at noon. This Saya-e-Asli is the mathematical baseline required later in Module 6 to calculate Asr.
 
-#### ~~**3.1 The Fiqh & Physics of the Meridian**~~
-~~To a STEM-educated mind, precision in terminology is non-negotiable. In classical Fiqh, there is a profound distinction between the sun reaching its peak and the sun beginning its descent, though laymen often conflate the two.~~
-
-*   ~~**Nisf-un-Nahar Haqiqi (True Astronomical Noon):** The exact, micro-second the sun's center crosses your local meridian. At this moment, the sun is at its highest daily altitude, and shadows are at their absolute shortest.~~ 
-    *   ~~*Fiqhi Implication:* This is a **Makrooh (Prohibited)** time for any Salah (prayer) or Sajdah (prostration).~~ 
-*   ~~**Zawal (The Decline):** Linguistically, *Zawal* means "to decline" or "to slip." Astronomically and jurisprudentially, Zawal occurs the moment the sun crosses the meridian and visibly begins its descent toward the West.~~ 
-    *   ~~*Fiqhi Implication:* The exact moment of *Zawal* marks the end of the prohibited time and the immediate beginning of the **Zuhr** prayer window.~~
-*   ~~**Saya-e-Asli (The Base Shadow):** The length of an object's shadow at the exact moment of *Nisf-un-Nahar Haqiqi*. Because the Earth is tilted (except exactly on the equator during an equinox), the sun is rarely perfectly 90° overhead. Therefore, a small shadow almost always remains at noon. This *Saya-e-Asli* is the mathematical baseline required later in Module 6 to calculate Asr.~~
-
-#### **3.2 CORE CALCULATION 2: The Master Zawal Formula**
+#### 3.2 CORE CALCULATION 2: The Master Zawal Formula
 To find the exact clock time of *Nisf-un-Nahar Haqiqi* (which we will refer to as Standard Zawal Time), we simply take the Local Noon (*Baldi Zawal*) from the Ephemeris tables and apply our Standard Time Modifier (*Tadeel-e-Murawwaj*).
 
 > **The Master Formula:**
@@ -550,13 +468,13 @@ We will continue using the **Degree/Minute/Second `[° ' "]`** button to add the
 *   *Conclusion:* On January 1st in Washington D.C., True Astronomical Noon occurs at **12:19:17 PM Eastern Standard Time**.
 
 
-**3.3 The Symmetry of the Cosmos (The Alternative Method)**  
+#### 3.3 The Symmetry of the Cosmos (The Alternative Method)
 For the mathematically inclined, Nisab-e-Tauqeet (Page 50) offers a beautiful proof of the Earth's rotational symmetry. Because the Earth rotates at a constant speed, the time from Sunrise to Zawal is exactly equal to the time from Zawal to Sunset (excluding minor atmospheric variances).
 
 Therefore, if you already know the exact times of Sunrise (Tulu) and Sunset (Ghuroob), you do not need the Baldi Zawal or Tadeel-e-Murawwaj to find noon. You simply find the mathematical average of the two times.
 
 > **The Symmetry Formula:**  
-> Standard Zawal = (Sunrise + Sunset) ÷ 2
+> `Standard Zawal = (Sunrise + Sunset) ÷ 2
 
 Critical Syntax Warning: You **must** use the 24-hour clock format for Sunset. If you input a 12-hour PM time (e.g., 5:50 instead of 17:50), the mathematical average will collapse and yield a completely incorrect morning time.
 
@@ -566,23 +484,9 @@ Critical Syntax Warning: You **must** use the 24-hour clock format for Sunset
 
 *STEM Optimization Note*: This alternative method is an excellent "checksum" algorithm. When programming a prayer time spreadsheet or Python script, you can use this formula to verify that your complex trigonometric calculations for Sunrise and Sunset are perfectly balanced around your calculated Zawal time. If they do not average out to Zawal, there is a syntax or logic error in your code.
 
-#### ~~**3.3 The Symmetry of the Cosmos (The Alternative Method)**~~
-~~For the mathematically inclined, *Nisab-e-Tauqeet* (Page 50) offers a beautiful proof of the Earth's rotational symmetry. Because the Earth rotates at a constant speed, the time from Sunrise to Zawal is exactly equal to the time from Zawal to Sunset (excluding minor atmospheric variances).~~
-
-~~Therefore, if you already know the exact times of Sunrise (*Tulu*) and Sunset (*Ghuroob*), you do not need the *Baldi Zawal* or *Tadeel-e-Murawwaj* to find noon. You simply find the mathematical average of the two times.~~
-
-> ~~**The Symmetry Formula (Using 24-Hour Time):**~~
-> ~~`Standard Zawal = (Sunrise + Sunset) ÷ 2`~~
-
-*   ~~*Example:* If Sunrise is at `06:20:00` and Sunset is at `17:50:00` (5:50 PM).~~
-*   ~~Calculator Keystrokes: `(` `6` `[° ' "]` `20` `[° ' "]` `0` `[° ' "]` `+` `17` `[° ' "]` `50` `[° ' "]` `0` `[° ' "]` `)` `÷` `2` `=`~~
-*   ~~**Result:** `12° 05' 00"` (12:05:00 PM).~~
-
-~~*STEM Optimization Note:* This alternative method is an excellent "checksum" algorithm. When programming a prayer time spreadsheet or Python script, you can use this formula to verify that your complex trigonometric calculations for Sunrise and Sunset are perfectly balanced around your calculated Zawal time. If they do not average out to Zawal, there is a syntax error in your code.~~
-
 ***
 
-#### **System Architecture: The Meridian Transit**
+#### System Architecture: The Meridian Transit
 
 ```mermaid
 graph TD
@@ -608,11 +512,11 @@ graph TD
 ---
 ***
 
-### **MODULE 4: The Horizon Mechanics (Sunrise, Sunset & Elevation)**
+### MODULE 4: The Horizon Mechanics (Sunrise, Sunset & Elevation)
 
 *Objective: To calculate exact Tulu (Sunrise) and Ghuroob (Sunset) times by mastering the Hour Angle formula, atmospheric refraction, and the Fiqhi implications of height correction.*
 
-#### **4.1 The Physics of the Horizon (Unpacking the Black Box)**
+#### 4.1 The Physics of the Horizon (Unpacking the Black Box)
 If the Earth had no atmosphere and the sun was a tiny laser pointer, calculating sunrise would be simple: the moment the sun hits exactly 90° from your Zenith (the *Ufuq-e-Haqiqi* or Rational Horizon). 
 
 However, Fiqh and astrophysics require us to account for two physical realities that alter the visible horizon (*Ufuq-e-Hissi*):
@@ -625,7 +529,7 @@ To calculate a valid Islamic Sunrise (*Tulu*) or Sunset (*Ghuroob*), we must com
 *   The sun is not considered "set" until its geometric center is **50 arcminutes (0°50')** below the Rational Horizon.
 *   **Zenith Distance (*Boad-e-Samti*):** Because our formulas measure from the Zenith (directly overhead) down to the sun, the baseline angle for Sunrise and Sunset is not 90°, but rather **90° 50'**.
 
-#### **4.2 CORE CALCULATION 3: The Hour Angle (*Zawia-e-Zamani*)**
+#### 4.2 CORE CALCULATION 3: The Hour Angle (*Zawia-e-Zamani*)
 In Module 3, we established that at exact Zawal, the sun's Hour Angle is 0°. To find Sunrise or Sunset, we must calculate the exact angular distance the sun travels from the meridian to reach that 90°50' Zenith Distance. 
 
 This requires the **Spherical Law of Cosines**, which the textbook has optimized into the following Master Formula:
@@ -639,8 +543,7 @@ This requires the **Spherical Law of Cosines**, which the textbook has optimized
 
 *STEM Optimization Note:* The result of this formula will be an angular degree (e.g., 94.5°). Because the Earth rotates 15° every hour, we must **divide the entire result by 15** to convert this spatial angle into a temporal duration (Hours/Minutes/Seconds).
 
-
-**4.3 Executing Tulu and Ghuroob**  
+#### 4.3 Executing Tulu and Ghuroob  
 Once you have calculated the Hour Angle (converted into time), you apply it to your Standard Zawal Time (calculated in Module 3) using the symmetry of the cosmos:
 
 - **Tulu (Sunrise) =** Standard Zawal - Hour Angle Time
@@ -670,7 +573,7 @@ The times calculated above are mathematically absolute for a perfectly flat hori
 - **For Sunset (Maghrib/Iftar):** Add 2 to 3 minutes to the raw time to ensure the sun has absolutely set before breaking the fast. (This explains why your calculated raw time may be 18:48, but your local mosque timetable says 18:51).
 
 
-**4.4 The Elevation Factor (Tafawut-e-Irtefa)**  
+#### 4.4 The Elevation Factor (Tafawut-e-Irtefa)  
 A critical intersection of physics and Fiqh occurs when an observer is elevated above sea level.
 
 If you are standing on the ground, your line of sight to the horizon is flat. If you are on the 50th floor of a building, or flying in an airplane, you are looking down at the horizon. Because of the Earth's curvature, the horizon "dips" away from you.
@@ -681,7 +584,7 @@ If you are standing on the ground, your line of sight to the horizon is flat. If
 To adjust our master formula for height, we must calculate the "Dip of the Horizon" and add it to our baseline Zenith Distance of 90°50'.
 
 > **The Dip Formula:**  
-> Dip = 0° 0' 58.2" × √Height (in feet)  
+> `Dip = 0° 0' 58.2" × √Height (in feet)  
 > (STEM Note: The constant 58.2" is strictly calibrated for Imperial feet. If your building's height is in meters, you must convert it to feet first [Meters × 3.28084] before applying this formula).
 
 Example: The Bahria Icon Tower, Karachi (Height: 900 ft)
@@ -690,47 +593,7 @@ Example: The Bahria Icon Tower, Karachi (Height: 900 ft)
 2. New Zenith Distance: 90° 50' 00" + 0° 29' 06" = 91° 19' 06"
 3. Application: You would replace 90°50' in the Master Hour Angle formula with 91°19'06". This will output a larger Hour Angle, mathematically proving that sunset occurs later at this altitude.
 
-
-#### ~~**4.3 Executing Tulu and Ghuroob**~~
-~~Once you have calculated the Hour Angle (converted into time), you simply apply it to your Standard Zawal Time (calculated in Module 3) using the symmetry of the cosmos:~~
-
-*   ~~**Tulu (Sunrise) =** `Standard Zawal - Hour Angle Time`~~
-*   ~~**Ghuroob (Sunset) =** `Standard Zawal + Hour Angle Time`~~
-
-~~**Calculator Syntax Protocol (Example: Karachi on April 1st):**~~
-*   ~~Latitude (*Arz*): `24° 54' N` (Positive)~~
-*   ~~Declination (*Mail*): `4° 50' N` (Positive, extracted from April table)~~
-*   ~~Standard Zawal: `12:35:29` (Calculated previously)~~
-
-~~**Step 1: Calculate the Hour Angle Time**~~
-*   ~~Formula: `[ Cos^-1 ((Cos 90°50' - Sin 24°54' * Sin 4°50') ÷ (Cos 24°54' * Cos 4°50')) ] ÷ 15`~~
-*   ~~Keystrokes: `Shift` `Cos` `(` `(` `Cos` `90` `[° ' "]` `50` `[° ' "]` `-` `Sin` `24` `[° ' "]` `54` `[° ' "]` `×` `Sin` `4` `[° ' "]` `50` `[° ' "]` `)` `÷` `(` `Cos` `24` `[° ' "]` `54` `[° ' "]` `×` `Cos` `4` `[° ' "]` `50` `[° ' "]` `)` `)` `÷` `15` `=`~~
-*   ~~**Result:** `6° 13' 18"` (This means the sun takes 6 hours, 13 minutes, and 18 seconds to travel from Zawal to the horizon).~~
-
-~~**Step 2: Apply to Zawal**~~
-*   ~~**Sunrise:** `12:35:29 - 6:13:18 = 06:22:11 AM`~~
-*   ~~**Sunset:** `12:35:29 + 6:13:18 = 18:48:47 (6:48 PM)`~~
-
-#### ~~**4.4 The Elevation Factor (*Tafawut-e-Irtefa*)**~~
-~~A critical intersection of physics and Fiqh occurs when an observer is elevated above sea level.~~ 
-
-~~If you are standing on the ground, your line of sight to the horizon is flat. If you are on the 50th floor of a building, or flying in an airplane, you are looking *down* at the horizon. Because of the Earth's curvature, the horizon "dips" away from you.~~ 
-*   ~~*Fiqhi Implication:* An elevated observer will see the sun rise *earlier* and set *later* than someone on the ground. A person on the ground floor of a skyscraper may break their fast (Iftar), while a person in the penthouse must wait several minutes until the sun actually sets for their specific line of sight.~~
-
-~~**CORE CALCULATION 4: The Dip Formula**~~
-~~To adjust our master formula for height, we must calculate the "Dip of the Horizon" and add it to our baseline Zenith Distance of 90°50'.~~
-
-> ~~**The Dip Formula:**~~
-> ~~`Dip = 0° 0' 58.2" × √Height (in feet)`~~
-
-~~*Example: The Bahria Icon Tower, Karachi (Height: 900 ft)*~~
-1.  ~~Calculate Dip: `0° 0' 58.2" × √900` = `0° 29' 06"`~~
-2.  ~~New Zenith Distance: `90° 50' 00" + 0° 29' 06" = 91° 19' 06"`~~
-3.  ~~*Application:* You would replace `90°50'` in the Master Hour Angle formula with `91°19'06"`. This will output a larger Hour Angle, mathematically proving that sunset occurs later at this altitude.~~
-
-***
-
-#### **System Architecture: The Physics of the Horizon**
+#### System Architecture: The Physics of the Horizon
 
 ```mermaid
 graph TD
@@ -767,11 +630,11 @@ graph TD
 ---
 ***
 
-### **MODULE 5: The Twilights (Fajr, Isha & Dahwa Kubra)**
+### MODULE 5: The Twilights (Fajr, Isha & Dahwa Kubra)
 
 *Objective: To calculate the times for Subh-e-Sadiq (Fajr) and Isha using the 18° solar depression standard, understand the "Math Error" anomaly in high latitudes, and calculate Dahwa Kubra (the deadline for fasting intention).*
 
-**5.1 The Physics & Fiqh of Twilights**  
+#### 5.1 The Physics & Fiqh of Twilights  
 After the sun sets below the horizon, the sky does not instantly turn pitch black. The Earth's atmosphere scatters the sun's residual light. The same phenomenon occurs in reverse before sunrise. Fiqh categorizes these twilight phases with profound precision:
 
 **The Morning Twilights:**
@@ -787,22 +650,7 @@ After the sun sets below the horizon, the sky does not instantly turn pitch blac
 
 Conclusion: Therefore, in Nisab-e-Tauqeet, our baseline parameter for both Fajr and Isha is the 18-degree depression. Since our formulas measure from the Zenith (90° overhead) down to the sun, the baseline angle for Fajr and Isha is 90° + 18° = 108°.
 
-#### ~~**5.1 The Physics & Fiqh of Twilights**~~
-~~After the sun sets below the horizon, the sky does not instantly turn pitch black. The Earth's atmosphere scatters the sun's residual light. The same phenomenon occurs in reverse before sunrise. Fiqh categorizes these twilight phases with profound precision:~~
-
-~~**The Morning Twilights:**~~
-1.  ~~**Subh-e-Kazib (False Dawn):** A faint, vertical column of light (known in astrophysics as Zodiacal Light) that appears and then fades. *Fiqhi Implication:* No legal rulings are attached to this. Night continues.~~
-2.  ~~**Subh-e-Sadiq (True Dawn):** A horizontal spread of white light across the eastern horizon (Astronomical Twilight). *Fiqhi Implication:* This marks the absolute end of night, the beginning of the Fajr prayer window, and the commencement of the fast (*Sawm*).~~
-
-~~**The Evening Twilights:**~~
-1.  ~~**Shafaq-e-Ahmar (Red Twilight):** The reddish glow remaining after sunset.~~ 
-2.  ~~**Shafaq-e-Abyaz (White Twilight):** The white glow that persists after the redness fades, before total darkness sets in. *Fiqhi Implication:* In the primary Hanafi position, **Isha** begins when this white twilight completely disappears.~~ 
-
-~~**The 18-Degree Standard:**~~
-~~Extensive historical observation by Muslim astronomers (from Al-Biruni to modern observatories) confirms that *Subh-e-Sadiq* begins, and *Shafaq-e-Abyaz* ends, when the center of the sun is exactly **18 degrees** below the rational horizon.~~ 
-*   ~~**Zenith Distance (*Boad-e-Samti*):** Since our formulas measure from the Zenith (90° overhead) down to the sun, the baseline angle for Fajr and Isha is `90° + 18° = 108°`.~~
-
-#### **5.2 CORE CALCULATION 5: The 18° Depression Formula**
+#### 5.2 CORE CALCULATION 5: The 18° Depression Formula
 The mathematical architecture is identical to the Sunrise/Sunset formula from Module 4. We simply replace the horizon parameter (90°50') with the twilight parameter (**108°**).
 
 > **The Twilight Hour Angle Formula:**
@@ -826,7 +674,7 @@ The mathematical architecture is identical to the Sunrise/Sunset formula from Mo
 
 *(Fiqhi Note: As always, apply the 2-3 minute safety buffer [Tamkeen] to these raw times for practical mosque timetables).*
 
-#### **5.3 The High-Latitude Crisis (The "Math Error" Anomaly)**
+#### 5.3 The High-Latitude Crisis (The "Math Error" Anomaly)
 If a student attempts to calculate Fajr for London, UK (Latitude 51°30'N) in the middle of June, the scientific calculator will output a **`Math Error`**. 
 
 **Unpacking the Black Box:** 
@@ -834,7 +682,7 @@ Why does the math break? The domain of the `Cos^-1` (ArcCosine) function is stri
 *   *Astronomical Reality:* True night never occurs. Astronomical twilight lasts all night.
 *   *Fiqhi Solution:* Fiqh dictates that worship must continue. Scholars utilize alternative estimation models for these "Abnormal Zones," such as *Aqrab al-Ayyam* (using the times of the last "normal" day before the anomaly began), or *Nisf al-Lail* (splitting the night in half). 
 
-**5.4 CORE CALCULATION 6: Dahwa Kubra**  
+#### 5.4 CORE CALCULATION 6: Dahwa Kubra  
 **Definition:** Dahwa Kubra is the exact midpoint of the Islamic fasting day.
 
 - The Fiqhi Imperative: For obligatory fasts (like Ramadan), the intention (Niyyah) must be made before this exact moment. If Dahwa Kubra passes and a person has not made the intention, a fast cannot be initiated for that day.
@@ -855,26 +703,7 @@ Critical Fiqhi/Math Rule: You **must** use the raw, unadjusted astronomical t
 - **Result:** 11° 57' 19"
 - Conclusion: The absolute deadline to make the intention to fast on this day is **11:57:19 AM**.
 
-#### ~~**5.4 CORE CALCULATION 6: Dahwa Kubra**~~
-~~**Definition:** *Dahwa Kubra* is the exact midpoint of the Islamic fasting day.~~ 
-*   ~~*The Fiqhi Imperative:* For obligatory fasts (like Ramadan), the intention (*Niyyah*) must be made before this exact moment. If *Dahwa Kubra* passes and a person has not made the intention, a fast cannot be initiated for that day.~~
-
-~~**The Conceptual Trap:**~~ 
-~~A common layman error is assuming the day is the midpoint between Sunrise and Sunset. In Islamic Fiqh, the fasting day (*Shar'i* Day) begins at **Subh-e-Sadiq (Fajr)**, not Sunrise.~~ 
-
-> ~~**The Dahwa Kubra Formula:**~~
-> ~~`Dahwa Kubra = (Fajr Time + Sunset Time) ÷ 2`~~
-
-~~**Calculator Syntax Protocol (Using our Karachi April 1st data):**~~
-*   ~~Fajr Time: `05:05:52`~~
-*   ~~Sunset Time: `18:48:47` *(Must use 24-hour clock!)*~~
-*   ~~Keystrokes: `(` `5` `[° ' "]` `5` `[° ' "]` `52` `[° ' "]` `+` `18` `[° ' "]` `48` `[° ' "]` `47` `[° ' "]` `)` `÷` `2` `=`~~
-*   ~~**Result:** `11° 57' 19"`~~
-*   ~~*Conclusion:* The absolute deadline to make the intention to fast on this day is **11:57:19 AM**.~~
-
-***
-
-#### **System Architecture: The Solar Depression Zones**
+#### System Architecture: The Solar Depression Zones
 
 ```mermaid
 graph TD
