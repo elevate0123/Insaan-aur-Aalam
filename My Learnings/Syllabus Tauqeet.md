@@ -733,11 +733,11 @@ graph TD
 ---
 ***
 
-### **MODULE 6: The Shadow Mechanics (Asr)**
+### MODULE 6: The Shadow Mechanics (Asr)
 
 *Objective: To calculate the exact time of Asr by converting Fiqhi shadow ratios (Misl-e-Awal and Misl-e-Sani) into Zenith Distances using Inverse Tangent, and feeding them into the Master Hour Angle formula.*
 
-#### **6.1 The Fiqh of Shadows**
+#### 6.1 The Fiqh of Shadows
 To determine the start of Asr, Fiqh requires us to observe the shadow of a vertical object (a gnomon or *Miqyas*). 
 
 As established in Module 3, the sun is rarely perfectly overhead at noon, meaning a small shadow almost always exists at *Zawal*. This is the **Saya-e-Asli** (Base Noon Shadow). The time of Asr is calculated by adding the height of the object to this base shadow. 
@@ -748,7 +748,7 @@ There are two distinct jurisprudential standards for this:
 2.  **Misl-e-Sani (Second Shadow):** Asr begins when the shadow reaches **2x** the height of the object + *Saya-e-Asli*.
     *   *Context:* This is the primary, fatwa-acted-upon position of Imam Abu Hanifa, and the absolute standard for the Hanafi school (predominant in South Asia, Turkey, and Hanafi mosques globally). *Nisab-e-Tauqeet* primarily utilizes this standard.
 
-#### **6.2 Unpacking the Black Box (The Trigonometry of Shadows)**  
+#### 6.2 Unpacking the Black Box (The Trigonometry of Shadows)  
 How do we turn a shadow on the ground into a time on a clock? We use basic Right-Angle Trigonometry: Tangent = Opposite / Adjacent.
 
 1. Imagine a vertical stick of height 1 (The Opposite).
@@ -773,7 +773,7 @@ To find the sun's angle at Asr, we add 1 (for Misl-e-Awal) or 2 (for Misl-e-
 > (Where M = 1 for Misl-e-Awal, and M = 2 for Misl-e-Sani)
 
 
-#### **6.3 CORE CALCULATION 7: The Asr Formula**  
+#### 6.3 CORE CALCULATION 7: The Asr Formula  
 Once we have the Asr Zenith Distance, the hard work is done. We simply plug this new angle into the **Master Hour Angle Formula** we learned in Module 4, replacing the 90°50' horizon parameter.
 
 > **The Master Asr Formula:**  
@@ -803,55 +803,6 @@ Once we have the Asr Zenith Distance, the hard work is done. We simply plug this
 - **Asr Time:** 12:35:29 + 4:27:47 = 17:03:16 (5:03 PM)
 
 (Fiqhi Note: No Tamkeen/safety buffer is traditionally added to the start of Asr, as the shadow lengthening is a continuous, observable process rather than a sudden disappearance of light).
-
-#### ~~**6.2 Unpacking the Black Box (The Trigonometry of Shadows)**~~
-~~How do we turn a shadow on the ground into a time on a clock? We use basic Right-Angle Trigonometry: `Tangent = Opposite / Adjacent`.~~
-
-1.  ~~Imagine a vertical stick of height `1` (The Opposite).~~
-2.  ~~The shadow on the ground is the length (The Adjacent).~~
-3.  ~~The angle of the sun from the Zenith (*Boad-e-Samti*) relates directly to the shadow length via the Tangent function.~~ 
-    *   ~~`Shadow Length = Tan(Zenith Distance)`~~
-    *   ~~Therefore, to find the angle from the shadow, we reverse it: `Zenith Distance = Tan^-1(Shadow Length)`.~~
-
-~~**Step A: Finding the Noon Shadow (*Saya-e-Asli*)**~~
-~~At exact noon, the sun's distance from the Zenith is simply the difference between your Latitude (*Arz*) and the Sun's Declination (*Mail*).~~
-*   ~~*Rule of Signs:* If your Latitude and the Sun's Declination are in the same hemisphere (both North or both South), you **subtract** them. If they are in opposite hemispheres, you **add** them. We express this algebraically as the absolute difference: `|Arz - Mail|`.~~
-*   ~~Therefore, `Saya-e-Asli = Tan(|Arz - Mail|)`~~
-
-~~**Step B: Finding the Asr Zenith Distance**~~
-~~To find the sun's angle at Asr, we add `1` (for Misl-e-Awal) or `2` (for Misl-e-Sani) to the *Saya-e-Asli*, and use Inverse Tangent (`Tan^-1` or `arctan`) to convert that total shadow length back into an angle.~~
-
-> ~~**The Asr Zenith Distance Formula:**~~
-> ~~`Asr Zenith Distance = Tan^-1 ( Tan(|Arz - Mail|) + M )`~~
-> ~~*(Where M = 1 for Misl-e-Awal, and M = 2 for Misl-e-Sani)*~~
-
-#### ~~**6.3 CORE CALCULATION 7: The Asr Formula**~~
-~~Once we have the Asr Zenith Distance, the hard work is done. We simply plug this new angle into the **Master Hour Angle Formula** we learned in Module 4, replacing the `90°50'` horizon parameter.~~
-
-> ~~**The Master Asr Formula:**~~
-> ~~`Hour Angle = Cos^-1 ( (Cos(Asr Zenith Distance) - Sin Arz * Sin Mail) ÷ (Cos Arz * Cos Mail) )`~~
-> ~~`Asr Time = Standard Zawal + Hour Angle Time`~~
-
-~~**Calculator Syntax Protocol (Example: Karachi on April 1st - Hanafi Misl-e-Sani):**~~
-*   ~~Latitude (*Arz*): `24° 54' N`~~ 
-*   ~~Declination (*Mail*): `4° 50' N`~~ 
-*   ~~Standard Zawal: `12:35:29`~~ 
-
-~~**Phase 1: Calculate Asr Zenith Distance (Misl-e-Sani)**~~
-*   ~~*Math:* Both are North, so we subtract: `24°54' - 4°50' = 20°04'`.~~
-*   ~~Keystrokes: `Shift` `Tan` `(` `Tan` `20` `[° ' "]` `4` `[° ' "]` `+` `2` `)` `=` **`[° ' "]`**~~
-*   ~~**Result:** `67° 04' 56"` (This is the target angle the sun must reach for Asr to begin).~~
-
-~~**Phase 2: Calculate the Hour Angle**~~
-*   ~~Keystrokes: `Shift` `Cos` `(` `(` `Cos` `67` `[° ' "]` `4` `[° ' "]` `56` `[° ' "]` `-` `Sin` `24` `[° ' "]` `54` `[° ' "]` `×` `Sin` `4` `[° ' "]` `50` `[° ' "]` `)` `÷` `(` `Cos` `24` `[° ' "]` `54` `[° ' "]` `×` `Cos` `4` `[° ' "]` `50` `[° ' "]` `)` `)` `÷` `15` `=` **`[° ' "]`**~~
-*   ~~**Result:** `4° 27' 47"` (The sun takes 4 hours, 27 minutes, and 47 seconds to drop from Zawal to the Asr angle).~~
-
-~~**Phase 3: Apply to Zawal**~~
-*   ~~**Asr Time:** `12:35:29 + 4:27:47 = 17:03:16 (5:03 PM)`~~
-
-~~*(Fiqhi Note: No Tamkeen/safety buffer is traditionally added to the start of Asr, as the shadow lengthening is a continuous, observable process rather than a sudden disappearance of light).*~~
-
-***
 
 #### **System Architecture: The Trigonometry of Asr**
 
@@ -886,11 +837,11 @@ graph TD
 ---
 ***
 
-### **MODULE 7: The Sacred Vector (Simt-e-Qibla)**
+### MODULE 7: The Sacred Vector (Simt-e-Qibla)
 
 *Objective: To calculate the exact Great Circle direction of the Qibla using the textbook's specific Deviation Formula, and to understand how to translate this true mathematical vector into a physical compass bearing.*
 
-#### **7.1 The Fiqh & Physics of the Sacred Vector**
+#### 7.1 The Fiqh & Physics of the Sacred Vector
 Islamic Jurisprudence (*Fiqh*) mandates *Istiqbal-e-Qibla* (facing the Kaaba) as an absolute prerequisite for the validity of Salah. 
 *   **Ayn vs. Jiha:** If you can see the Kaaba, you must face its exact physical structure (*Ayn*). If you are far away, you face its general direction (*Jiha*). However, for scholars and architects establishing a new mosque, calculating the exact mathematical vector is a communal obligation (*Fard Kifayah*).
 
@@ -899,7 +850,7 @@ A common trap for laymen is looking at a standard flat map (the Mercator project
 
 This is astronomically false. The Earth is a sphere. The shortest distance between two points on a sphere is not a straight line on a flat map (a Rhumb line), but a **Great Circle** route. Because of the Earth's curvature, the Great Circle route from North America to Makkah actually arcs North-East over the Atlantic and Europe. *Ilm-e-Tauqeet* relies strictly on Great Circle spherical trigonometry.
 
-**7.2 The Qibla Deviation Formula & Edge Cases**  
+#### 7.2 The Qibla Deviation Formula & Edge Cases  
 To calculate the Qibla, we need the exact coordinates of the Kaaba:
 
 - **Arz-e-Kaaba (Latitude):** 21° 25' N
@@ -923,7 +874,7 @@ Instead of calculating a standard 360° azimuth from North, Nisab-e-Tauqeet us
 
 STEM Edge Case (Division by Zero): If your city shares the exact longitude of the Kaaba (39°50'E), Fasl_Tool is 0. Sin(0) is 0. The formula will crash. In this rare case, bypass the formula entirely: If you are North of Makkah, your Qibla is exactly Due South (180°). If South, exactly Due North (0°).
 
-#### **7.3 CORE CALCULATION 8: Executing the Qibla Vector**
+#### 7.3 CORE CALCULATION 8: Executing the Qibla Vector
 
 **Calculator Syntax Protocol (Example: Karachi, Pakistan):**
 
